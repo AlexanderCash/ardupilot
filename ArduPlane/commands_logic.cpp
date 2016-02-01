@@ -38,6 +38,8 @@ bool Plane::start_command(const AP_Mission::Mission_Command& cmd)
 
     switch(cmd.id) {
 
+    //Include MAV_CMD_ALIGN_PATH command here?
+
     case MAV_CMD_NAV_TAKEOFF:
         do_takeoff(cmd);
         break;
