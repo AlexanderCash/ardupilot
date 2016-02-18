@@ -92,6 +92,10 @@ start_command(const AP_Mission::Mission_Command& cmd)
         do_continue_and_change_alt(cmd);
         break;
 
+    case MAV_CMD_NAV_ALIGN_PATH:    // Align with the imaging path, new command
+        do_align_path(cmd);
+        break;
+
     // Conditional commands
 
     case MAV_CMD_CONDITION_DELAY:
@@ -244,6 +248,9 @@ static bool verify_command(const AP_Mission::Mission_Command& cmd)        // Ret
     case MAV_CMD_NAV_CONTINUE_AND_CHANGE_ALT:
         return verify_continue_and_change_alt();
 
+    case MAV_CMD_NAV_ALIGN_PATH:
+        return verify_align_path(cmd);      // Verify that aligned with path
+
     // Conditional commands
 
     case MAV_CMD_CONDITION_DELAY:
@@ -380,6 +387,11 @@ static void do_continue_and_change_alt(const AP_Mission::Mission_Command& cmd)
 {
     next_WP_loc.alt = cmd.content.location.alt + home.alt;
     reset_offset_altitude();
+}
+
+static void do_align_path(const AP_Mission::Mission_Command& cmd)
+{
+    //TODO Align with path
 }
 
 static void do_loiter_to_alt(const AP_Mission::Mission_Command& cmd) 
@@ -646,6 +658,13 @@ static bool verify_continue_and_change_alt()
     //keep flying the same course
     nav_controller->update_waypoint(prev_WP_loc, next_WP_loc);
 
+    return false;
+}
+
+static bool verify_align_path ()
+{
+
+    //TODO Complete verification
     return false;
 }
 
