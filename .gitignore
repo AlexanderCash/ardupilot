@@ -82,3 +82,4 @@ tags
 test.ArduCopter/*
 Thumbs.db
 Modules/*
+*.gitmodules
