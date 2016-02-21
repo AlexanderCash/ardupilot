@@ -20,6 +20,8 @@ static void do_digicam_configure(const AP_Mission::Mission_Command& cmd);
 static void do_digicam_control(const AP_Mission::Mission_Command& cmd);
 #endif
 
+//static bool verify_align_path ();
+static void do_align_path(const AP_Mission::Mission_Command& cmd);
 
 /********************************************************************************/
 // Command Event Handlers
@@ -249,7 +251,7 @@ static bool verify_command(const AP_Mission::Mission_Command& cmd)        // Ret
         return verify_continue_and_change_alt();
 
     case MAV_CMD_NAV_ALIGN_PATH:
-        return verify_align_path(cmd);      // Verify that aligned with path
+        return verify_align_path();      // Verify that aligned with path
 
     // Conditional commands
 
