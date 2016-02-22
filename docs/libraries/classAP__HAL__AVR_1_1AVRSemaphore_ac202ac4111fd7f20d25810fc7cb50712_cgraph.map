@@ -1,0 +1,4 @@
+<map id="AP_HAL_AVR::AVRSemaphore::_take_from_mainloop" name="AP_HAL_AVR::AVRSemaphore::_take_from_mainloop">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#a8a14cdcd8e368769f3cae54b4d987e37" title="AP_HAL_AVR::AVRSemaphore\l::_take_nonblocking" alt="" coords="264,5,475,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="296,70,443,111"/>
+</map>

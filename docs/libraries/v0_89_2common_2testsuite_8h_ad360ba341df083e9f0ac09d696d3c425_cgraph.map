@@ -1,0 +1,15 @@
+<map id="mavlink_test_waypoint_set_current" name="mavlink_test_waypoint_set_current">
+<area shape="rect" id="node2" href="$mavlink__msg__waypoint__set__current_8h.html#acafcf488bb03fa7547cc61562124083a" title="Encode a waypoint_set_current struct into a message. " alt="" coords="211,9,370,50"/>
+<area shape="rect" id="node3" href="$mavlink__msg__waypoint__set__current_8h.html#a816115f851f77949a8b4e204a9b769ce" title="Pack a waypoint_set_current message. " alt="" coords="447,5,606,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__waypoint__set__current_8h.html#a8e34ace44a9e5b77bdea128222aadf0c" title="Decode a waypoint_set_current message into a struct. " alt="" coords="211,151,370,193"/>
+<area shape="rect" id="node9" href="$mavlink__msg__waypoint__set__current_8h.html#af8deef3059064225ddb2530689828d99" title="Pack a waypoint_set_current message on a channel. " alt="" coords="209,217,373,258"/>
+<area shape="rect" id="node11" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="215,282,367,323"/>
+<area shape="rect" id="node12" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="211,347,370,389"/>
+<area shape="rect" id="node13" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="233,413,348,440"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="681,12,855,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__waypoint__set__current_8h.html#a217be2f1832881c57af1895d62fbea84" title="Send a waypoint_set_current message. " alt="" coords="447,69,606,125"/>
+<area shape="rect" id="node7" href="$mavlink__msg__waypoint__set__current_8h.html#aafc223c6578e6b2c7f91262c5c28d754" title="Get field target_component from waypoint_set_current message. " alt="" coords="447,149,606,205"/>
+<area shape="rect" id="node8" href="$mavlink__msg__waypoint__set__current_8h.html#aef006f9deabfcbb6268eef19614a84d6" title="Get field seq from waypoint_set_current message. " alt="" coords="447,229,606,270"/>
+<area shape="rect" id="node10" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="421,295,632,321"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="455,413,599,440"/>
+</map>

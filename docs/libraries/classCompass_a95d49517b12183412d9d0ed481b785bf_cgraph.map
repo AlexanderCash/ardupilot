@@ -1,0 +1,7 @@
+<map id="Compass::set_initial_location" name="Compass::set_initial_location">
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="232,5,296,32"/>
+<area shape="rect" id="node3" href="$classAP__Declination.html#a8819112a0ea684422948a1ae8bc4f0de" title="AP_Declination::get\l_declination" alt="" coords="195,57,333,98"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="397,35,504,61"/>
+<area shape="rect" id="node5" href="$classAP__Declination.html#a2bc02f8a82151885159200a518d45ef0" title="AP_Declination::get\l_lookup_value" alt="" coords="381,86,520,127"/>
+<area shape="rect" id="node6" href="$AP__Progmem__AVR_8h.html#a5e8949635d4f06eb49bd5ca15ee79b48" title="memcpy_P" alt="" coords="568,93,656,120"/>
+</map>

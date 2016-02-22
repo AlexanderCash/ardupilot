@@ -1,0 +1,5 @@
+<map id="AP_HAL_AVR::AVRI2CDriver::_stop" name="AP_HAL_AVR::AVRI2CDriver::_stop">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a705587f45673c106f5a02c8d742c6e3d" title="AP_HAL_AVR::AVRI2CDriver\l::_waitStop" alt="" coords="253,38,453,79"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="528,5,675,46"/>
+<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#ab61b4fd56d391eb9ad827400baf9fa97" title="AP_HAL_AVR::AVRI2CDriver\l::_handleLockup" alt="" coords="501,70,701,111"/>
+</map>

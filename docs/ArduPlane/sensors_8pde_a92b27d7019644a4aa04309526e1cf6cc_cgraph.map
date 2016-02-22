@@ -1,0 +1,5 @@
+<map id="read_receiver_rssi" name="read_receiver_rssi">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1AnalogSource.html#add563a28e58fdd4af48ed983bbbecec8" title="AP_HAL::AnalogSource\l::set_pin" alt="" coords="181,5,344,46"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1AnalogSource.html#a97f02eb815fd2f568df7b927d6f6b559" title="AP_HAL::AnalogSource\l::voltage_average" alt="" coords="181,70,344,111"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="207,136,318,163"/>
+</map>

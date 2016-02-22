@@ -1,0 +1,11 @@
+<map id="AP_Airspeed" name="AP_Airspeed">
+<area shape="rect" id="node2" href="$classAP__Airspeed__Analog.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="449,32,594,59"/>
+<area shape="rect" id="node3" href="$classAP__Airspeed__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="187,69,343,96"/>
+<area shape="rect" id="node6" href="$classAP__Airspeed__PX4.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="456,83,587,109"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1AnalogSource.html" title="AP_HAL::AnalogSource" alt="" coords="184,5,347,32"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="446,172,597,199"/>
+<area shape="rect" id="node7" href="$classAirspeed__Calibration.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="450,223,593,249"/>
+<area shape="rect" id="node8" href="$classMatrix3.html" title="Matrix3\&lt; float \&gt;" alt="" coords="208,223,323,249"/>
+<area shape="rect" id="node9" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="6,192,122,219"/>
+<area shape="rect" id="node10" href="$structAP__Vehicle_1_1FixedWing.html" title="AP_Vehicle::FixedWing" alt="" coords="185,273,345,300"/>
+</map>

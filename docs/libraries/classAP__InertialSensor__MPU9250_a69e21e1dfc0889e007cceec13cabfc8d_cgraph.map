@@ -1,0 +1,9 @@
+<map id="AP_InertialSensor_MPU9250::_poll_data" name="AP_InertialSensor_MPU9250::_poll_data">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="264,5,419,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__MPU9250.html#a17b7583c273492075814bb12c4d498e3" title="AP_InertialSensor_MPU9250\l::_read_data_transaction" alt="" coords="245,70,437,111"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="252,136,431,163"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="485,37,664,78"/>
+<area shape="rect" id="node5" href="$classLowPassFilter2pVector3f.html#aacd220c14267ceb451d02cad92799f6b" title="LowPassFilter2pVector3f\l::apply" alt="" coords="491,102,659,143"/>
+<area shape="rect" id="node6" href="$classDigitalBiquadFilter.html#abcce28ce01f1fe8a084a16f163848f69" title="DigitalBiquadFilter\l::apply" alt="" coords="712,102,840,143"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="888,109,952,136"/>
+</map>

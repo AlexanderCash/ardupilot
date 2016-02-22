@@ -1,0 +1,13 @@
+<map id="DataFlash_Class::Log_Write_IMU" name="DataFlash_Class::Log_Write_IMU">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="229,5,376,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a6df2d8ad956d4f375bdee541102f16af" title="AP_InertialSensor::\lget_gyro" alt="" coords="235,70,370,111"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#a0f63a4a0e6fc84d6ab9519bc4b254055" title="AP_InertialSensor::\lget_accel" alt="" coords="235,135,370,177"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#a0208b9ee617055ef5fccf3547fa79400" title="AP_InertialSensor::\lget_gyro_error_count" alt="" coords="231,201,375,242"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#a51a3b3e542f07bbbaea85df6f7c653bf" title="AP_InertialSensor::\lget_accel_error_count" alt="" coords="227,266,378,307"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#a837904ff9797073addb51f20cfefef19" title="AP_InertialSensor::\lget_temperature" alt="" coords="235,331,370,373"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor.html#abc8c1aea2c3bc58a05d8d9832a9d1194" title="AP_InertialSensor::\lget_gyro_health" alt="" coords="235,397,370,438"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor.html#a2044e7b3804c73b4c393d3988351a96e" title="AP_InertialSensor::\lget_accel_health" alt="" coords="235,462,370,503"/>
+<area shape="rect" id="node10" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="205,528,400,555"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor.html#aef7fac4fe6ae817ed325f9e35735e94d" title="AP_InertialSensor::\lget_gyro_count" alt="" coords="235,579,370,621"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor.html#ac57331a5046d45016ef900726e1be2fb" title="AP_InertialSensor::\lget_accel_count" alt="" coords="235,645,370,686"/>
+</map>

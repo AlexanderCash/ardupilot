@@ -1,0 +1,8 @@
+<map id="AP_InertialSensor_Flymaple::_set_filter_frequency" name="AP_InertialSensor_Flymaple::_set_filter_frequency">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Flymaple.html#ab88dfea90e4a971be10615f68d4e89bf" title="AP_InertialSensor_Flymaple\l::_init_sensor" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Flymaple.html#a980c93918fa051ba687babfd0ed617f8" title="AP_InertialSensor_Flymaple\l::update" alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Flymaple.html#ae3e691d7e30d800ca000f31c7cbb4b6b" title="AP_InertialSensor_Flymaple\l::detect" alt="" coords="475,5,661,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="710,5,845,46"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="893,12,1045,39"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1094,12,1149,39"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="handle_auto_mode" name="handle_auto_mode">
+<area shape="rect" id="node2" href="$ArduPlane_8pde.html#a4ca9908869f03c8499bb30e8cae3ccc0" title="mission" alt="" coords="233,5,300,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#a4bc7e12deaf6a4c8ea5c327efb32ed49" title="AP_Mission::state" alt="" coords="202,56,331,83"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#ae6d739c048b1f5abb99bd4839243ac7a" title="AP_Mission::get_current\l_nav_cmd" alt="" coords="184,107,349,149"/>
+<area shape="rect" id="node5" href="$takeoff_8pde.html#a7cb17de63e596049a607d769db6b033d" title="takeoff_calc_roll" alt="" coords="208,224,325,251"/>
+<area shape="rect" id="node6" href="$Attitude_8pde.html#a1656865f030526901196f0d9f5f11f94" title="calc_nav_roll" alt="" coords="443,173,541,200"/>
+<area shape="rect" id="node12" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#af85c1f082ddabb5487c6f524d8b538ce" title="constrain_int32" alt="" coords="843,275,954,301"/>
+<area shape="rect" id="node15" href="$takeoff_8pde.html#a2281d515b71a026e9995feac89aaa9c4" title="takeoff_calc_pitch" alt="" coords="203,384,331,411"/>
+<area shape="rect" id="node17" href="$Attitude_8pde.html#a432b90be495c4f3a40a28fbd20c8cbde" title="calc_nav_pitch" alt="" coords="437,493,547,520"/>
+<area shape="rect" id="node20" href="$Attitude_8pde.html#a5225e5842ebaec48545141f4077351c4" title="calc_throttle" alt="" coords="220,535,313,561"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#ade346983ecbfffb6db491dfe8a306b5a" title="AP_Navigation::nav\l_roll_cd" alt="" coords="645,57,784,98"/>
+<area shape="rect" id="node8" href="$Attitude_8pde.html#aab3e2dfad45667f6846d8224f27a33ad" title="update_load_factor" alt="" coords="649,123,781,149"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="861,21,937,48"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="867,72,931,99"/>
+<area shape="rect" id="node11" href="$control__modes_8pde.html#a41df80f4bdf3c12ede2766ec47fa59ae" title="fly_inverted" alt="" coords="854,123,943,149"/>
+<area shape="rect" id="node13" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="865,173,933,200"/>
+<area shape="rect" id="node14" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="879,224,918,251"/>
+<area shape="rect" id="node16" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a8691156c332da099e3f5952e72ae2a58" title="AP_AHRS::airspeed_sensor\l_enabled" alt="" coords="398,377,586,418"/>
+<area shape="rect" id="node19" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="410,443,574,469"/>
+<area shape="rect" id="node18" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#a0ccc7a540e0a66e4294b0200c53099d3" title="AP_SpdHgtControl::get\l_pitch_demand" alt="" coords="635,486,794,527"/>
+<area shape="rect" id="node21" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#a0123922a1df578e69d7ed313f603f7f3" title="AP_SpdHgtControl::get\l_throttle_demand" alt="" coords="413,545,571,586"/>
+</map>

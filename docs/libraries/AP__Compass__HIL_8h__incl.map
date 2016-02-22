@@ -1,0 +1,41 @@
+<map id="libraries/AP_Compass/AP_Compass_HIL.h" name="libraries/AP_Compass/AP_Compass_HIL.h">
+<area shape="rect" id="node2" href="$Compass_8h.html" title="Compass.h" alt="" coords="1259,96,1348,123"/>
+<area shape="rect" id="node4" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries. " alt="" coords="2443,320,2553,347"/>
+<area shape="rect" id="node8" href="$AP__Param_8h.html" title="A system for managing and storing variables that are of general interest to the system. " alt="" coords="1627,320,1723,347"/>
+<area shape="rect" id="node9" href="$AP__HAL_8h.html" title="AP_HAL.h" alt="" coords="1017,485,1100,512"/>
+<area shape="rect" id="node37" href="$AP__Math_8h.html" title="AP_Math.h" alt="" coords="1947,245,2033,272"/>
+<area shape="rect" id="node45" href="$AP__Declination_8h.html" title="AP_Declination.h" alt="" coords="1299,171,1421,197"/>
+<area shape="rect" id="node46" href="$AP__Compass__Backend_8h.html" title="AP_Compass_Backend.h" alt="" coords="1054,245,1225,272"/>
+<area shape="rect" id="node47" href="$AP__Compass__HMC5843_8h.html" title="AP_Compass_HMC5843.h" alt="" coords="1637,171,1816,197"/>
+<area shape="rect" id="node48" href="$AP__Compass__AK8963_8h.html" title="AP_Compass_AK8963.h" alt="" coords="1446,171,1612,197"/>
+<area shape="rect" id="node49" href="$AP__Compass__PX4_8h.html" title="AP_Compass_PX4.h" alt="" coords="1053,171,1200,197"/>
+<area shape="rect" id="node20" href="$AP__Progmem_8h.html" title="AP_Progmem.h" alt="" coords="1519,784,1633,811"/>
+<area shape="rect" id="node36" href="$StorageManager_8h.html" title="../StorageManager/Storage\lManager.h" alt="" coords="1496,395,1675,437"/>
+<area shape="rect" id="node10" href="$AP__HAL__Namespace_8h.html" title="AP_HAL_Namespace.h" alt="" coords="618,933,779,960"/>
+<area shape="rect" id="node13" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="1274,859,1405,885"/>
+<area shape="rect" id="node14" href="$AP__HAL__Macros_8h.html" title="AP_HAL_Macros.h" alt="" coords="1339,560,1473,587"/>
+<area shape="rect" id="node15" href="$UARTDriver_8h.html" title="UARTDriver.h" alt="" coords="694,635,799,661"/>
+<area shape="rect" id="node16" href="$BetterStream_8h.html" title="utility/BetterStream.h" alt="" coords="807,709,952,736"/>
+<area shape="rect" id="node18" href="$Stream_8h.html" title="Stream.h" alt="" coords="604,784,677,811"/>
+<area shape="rect" id="node19" href="$Print_8h.html" title="Print.h" alt="" coords="669,859,728,885"/>
+<area shape="rect" id="node22" href="$I2CDriver_8h.html" title="I2CDriver.h" alt="" coords="1058,859,1147,885"/>
+<area shape="rect" id="node23" href="$SPIDriver_8h.html" title="SPIDriver.h" alt="" coords="93,635,184,661"/>
+<area shape="rect" id="node24" href="$AnalogIn_8h.html" title="AnalogIn.h" alt="" coords="209,635,292,661"/>
+<area shape="rect" id="node25" href="$Storage_8h.html" title="Storage.h" alt="" coords="951,784,1029,811"/>
+<area shape="rect" id="node26" href="$GPIO_8h.html" title="GPIO.h" alt="" coords="977,709,1044,736"/>
+<area shape="rect" id="node27" href="$RCInput_8h.html" title="RCInput.h" alt="" coords="317,635,399,661"/>
+<area shape="rect" id="node28" href="$RCOutput_8h.html" title="RCOutput.h" alt="" coords="526,635,617,661"/>
+<area shape="rect" id="node29" href="$Scheduler_8h.html" title="Scheduler.h" alt="" coords="1292,709,1383,736"/>
+<area shape="rect" id="node30" href="$Semaphores_8h.html" title="Semaphores.h" alt="" coords="1005,560,1112,587"/>
+<area shape="rect" id="node31" href="$Util_8h.html" title="Util.h" alt="" coords="1517,709,1571,736"/>
+<area shape="rect" id="node32" href="$HAL_8h.html" title="HAL.h" alt="" coords="459,560,516,587"/>
+<area shape="rect" id="node12" href="$FastDelegate_8h.html" title="utility/FastDelegate.h" alt="" coords="625,1008,772,1035"/>
+<area shape="rect" id="node21" href="$AP__Progmem__Identity_8h.html" title="AP_Progmem_Identity.h" alt="" coords="1583,859,1747,885"/>
+<area shape="rect" id="node38" href="$rotations_8h.html" title="rotations.h" alt="" coords="2155,320,2236,347"/>
+<area shape="rect" id="node39" href="$vector2_8h.html" title="vector2.h" alt="" coords="2323,403,2399,429"/>
+<area shape="rect" id="node40" href="$vector3_8h.html" title="vector3.h" alt="" coords="1953,403,2028,429"/>
+<area shape="rect" id="node41" href="$matrix3_8h.html" title="matrix3.h" alt="" coords="1953,320,2028,347"/>
+<area shape="rect" id="node42" href="$quaternion_8h.html" title="quaternion.h" alt="" coords="2155,403,2248,429"/>
+<area shape="rect" id="node43" href="$polygon_8h.html" title="polygon.h" alt="" coords="1798,320,1876,347"/>
+<area shape="rect" id="node44" href="$edc_8h.html" title="edc.h" alt="" coords="1801,709,1855,736"/>
+</map>

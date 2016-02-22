@@ -1,0 +1,12 @@
+<map id="mavlink_msg_raw_imu_decode" name="mavlink_msg_raw_imu_decode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#a4b89ce76f0c4b55073c598d5cc0ee931" title="Send a raw_imu message. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#adcfc55c9451cb02d3f2b23ebc64e8b57" title="Get field xacc from raw_imu message. " alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#a342b7df4c3d069cbbb5747455627179f" title="Get field yacc from raw_imu message. " alt="" coords="208,135,363,177"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#a2d19f320df1aba446b14da13522f1736" title="Get field zacc from raw_imu message. " alt="" coords="208,201,363,242"/>
+<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#a408229549caf5fc7afa6b4200d5420cb" title="Get field xgyro from raw_imu message. " alt="" coords="208,266,363,307"/>
+<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#ac3dbfbd86a907fd2d05dfa7c74fed3ff" title="Get field ygyro from raw_imu message. " alt="" coords="208,331,363,373"/>
+<area shape="rect" id="node8" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#ae57bf12b8959dead8fb6da4544518299" title="Get field zgyro from raw_imu message. " alt="" coords="208,397,363,438"/>
+<area shape="rect" id="node9" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#aba579de30fd479ad73653ce838472bdf" title="Get field xmag from raw_imu message. " alt="" coords="208,462,363,503"/>
+<area shape="rect" id="node10" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#aa4507d821654b43bb321e9968503c10a" title="Get field ymag from raw_imu message. " alt="" coords="208,527,363,569"/>
+<area shape="rect" id="node11" href="$v1_80_2common_2mavlink__msg__raw__imu_8h.html#a8a57361766ae69c26487d1f01e1efd18" title="Get field zmag from raw_imu message. " alt="" coords="208,593,363,634"/>
+</map>

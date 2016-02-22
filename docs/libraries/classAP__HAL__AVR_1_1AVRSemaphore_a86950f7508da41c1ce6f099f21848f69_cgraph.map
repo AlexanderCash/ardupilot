@@ -1,0 +1,7 @@
+<map id="AP_HAL_AVR::AVRSemaphore::take" name="AP_HAL_AVR::AVRSemaphore::take">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a5eb9be7ed92b52a7eadcfd82072f3bc6" title="AP_HAL::Scheduler::\lin_timerprocess" alt="" coords="296,5,443,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="296,70,443,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#ac202ac4111fd7f20d25810fc7cb50712" title="AP_HAL_AVR::AVRSemaphore\l::_take_from_mainloop" alt="" coords="264,135,475,177"/>
+<area shape="rect" id="node5" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#a8a14cdcd8e368769f3cae54b4d987e37" title="AP_HAL_AVR::AVRSemaphore\l::_take_nonblocking" alt="" coords="523,102,733,143"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="555,167,701,209"/>
+</map>

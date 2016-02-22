@@ -1,0 +1,8 @@
+<map id="AP_AHRS::update_trig" name="AP_AHRS::update_trig">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a208790b5f85df72d0f5a1d94b7225beb" title="AP_AHRS::get_dcm_matrix" alt="" coords="211,5,397,32"/>
+<area shape="rect" id="node3" href="$structVector2.html#ace2a626eaa79412e2946216e9c3e63c6" title="Vector2::normalize" alt="" coords="239,56,369,83"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="251,107,357,133"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="266,157,342,184"/>
+<area shape="rect" id="node6" href="$structVector2.html#aa5e9fddaa1ce691bc6f3e9746e70acee" title="Vector2::is_inf" alt="" coords="251,208,357,235"/>
+<area shape="rect" id="node7" href="$structVector2.html#a7be163e235660e630dd10600143b0374" title="Vector2::is_nan" alt="" coords="247,259,361,285"/>
+</map>

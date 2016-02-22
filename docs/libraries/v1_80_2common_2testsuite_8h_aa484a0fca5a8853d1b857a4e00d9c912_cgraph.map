@@ -1,0 +1,22 @@
+<map id="mavlink_test_scaled_imu3" name="mavlink_test_scaled_imu3">
+<area shape="rect" id="node2" href="$mavlink__msg__scaled__imu3_8h.html#a2c6c083866eccfc5fabb897f6924b274" title="Encode a scaled_imu3 struct. " alt="" coords="237,42,381,83"/>
+<area shape="rect" id="node3" href="$mavlink__msg__scaled__imu3_8h.html#abed4e301c5f1c98e8c05691a59a9dd74" title="Pack a scaled_imu3 message. " alt="" coords="471,5,615,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__scaled__imu3_8h.html#a7c7b29cd33f3bbee6cce668727dabbb0" title="Decode a scaled_imu3 message into a struct. " alt="" coords="237,365,381,406"/>
+<area shape="rect" id="node16" href="$mavlink__msg__scaled__imu3_8h.html#a332e8f8400c74db75a899b5474a8f693" title="Pack a scaled_imu3 message on a channel. " alt="" coords="237,430,381,471"/>
+<area shape="rect" id="node18" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="233,495,385,537"/>
+<area shape="rect" id="node19" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="230,561,389,602"/>
+<area shape="rect" id="node20" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="252,684,367,711"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="697,12,871,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__scaled__imu3_8h.html#ae929e8aab2046eab8a5da77dd6b68764" title="Send a scaled_imu3 message. " alt="" coords="457,70,628,111"/>
+<area shape="rect" id="node7" href="$mavlink__msg__scaled__imu3_8h.html#a1e9474bed75d53152759ff554e8e390a" title="Get field xacc from scaled_imu3 message. " alt="" coords="471,135,615,177"/>
+<area shape="rect" id="node8" href="$mavlink__msg__scaled__imu3_8h.html#ac6c9615cd503fc4fa35e0635307bf501" title="Get field yacc from scaled_imu3 message. " alt="" coords="471,201,615,242"/>
+<area shape="rect" id="node9" href="$mavlink__msg__scaled__imu3_8h.html#aba7dd9705837bed56c424e586afb419d" title="Get field zacc from scaled_imu3 message. " alt="" coords="471,266,615,307"/>
+<area shape="rect" id="node10" href="$mavlink__msg__scaled__imu3_8h.html#a960116b68298ed7e9870d175f8f4443c" title="Get field xgyro from scaled_imu3 message. " alt="" coords="471,331,615,373"/>
+<area shape="rect" id="node11" href="$mavlink__msg__scaled__imu3_8h.html#a94b824660d96c445439f10cb9111255b" title="Get field ygyro from scaled_imu3 message. " alt="" coords="471,397,615,438"/>
+<area shape="rect" id="node12" href="$mavlink__msg__scaled__imu3_8h.html#a241caba03dd03438027f9d0e8a00232b" title="Get field zgyro from scaled_imu3 message. " alt="" coords="471,462,615,503"/>
+<area shape="rect" id="node13" href="$mavlink__msg__scaled__imu3_8h.html#a0416ab90a8135632bf25b711fac1cc84" title="Get field xmag from scaled_imu3 message. " alt="" coords="471,527,615,569"/>
+<area shape="rect" id="node14" href="$mavlink__msg__scaled__imu3_8h.html#a2b478ec6637b45ed3518129d5785c619" title="Get field ymag from scaled_imu3 message. " alt="" coords="471,593,615,634"/>
+<area shape="rect" id="node15" href="$mavlink__msg__scaled__imu3_8h.html#a2ca311a2fc60b1c42da98ab424960dc0" title="Get field zmag from scaled_imu3 message. " alt="" coords="471,658,615,699"/>
+<area shape="rect" id="node17" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="437,724,648,751"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="471,775,615,801"/>
+</map>

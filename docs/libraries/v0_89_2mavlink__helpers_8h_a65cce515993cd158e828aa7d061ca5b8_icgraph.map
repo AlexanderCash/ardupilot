@@ -1,0 +1,8 @@
+<map id="mavlink_get_channel_buffer" name="mavlink_get_channel_buffer">
+<area shape="rect" id="node2" href="$v1_80_2mavlink__helpers_8h.html#ab9ea03db8cd45ce94b64b508b087ebe6" title="mavlink_frame_char" alt="" coords="197,5,336,32"/>
+<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#ad91e8323cefc65965574c09e72365d7d" title="mavlink_parse_char" alt="" coords="197,56,336,83"/>
+<area shape="rect" id="node3" href="$v1_80_2mavlink__helpers_8h.html#ad91e8323cefc65965574c09e72365d7d" title="mavlink_parse_char" alt="" coords="397,5,536,32"/>
+<area shape="rect" id="node5" href="$simplegcs_8h.html#a0e026fc9b23210373846b25cc141486d" title="simplegcs_update" alt="" coords="403,56,530,83"/>
+<area shape="rect" id="node7" href="$classGCS__MAVLINK.html#a7d8788ed53976a200971612229fe2533" title="GCS_MAVLINK::update" alt="" coords="385,107,549,133"/>
+<area shape="rect" id="node6" href="$GCS__Console_2examples_2Console_2Console_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="598,56,645,83"/>
+</map>

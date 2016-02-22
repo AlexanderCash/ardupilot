@@ -1,0 +1,7 @@
+<map id="AP_HAL_AVR::AVRSPI2DeviceDriver" name="AP_HAL_AVR::AVRSPI2DeviceDriver">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="5,83,184,109"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRDigitalSource.html" title="AP_HAL_AVR::AVRDigitalSource" alt="" coords="209,83,431,109"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1DigitalSource.html" title="AP_HAL::DigitalSource" alt="" coords="241,5,399,32"/>
+<area shape="rect" id="node5" href="$classAP__HAL__AVR_1_1AVRSemaphore.html" title="AP_HAL_AVR::AVRSemaphore" alt="" coords="455,83,664,109"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="487,5,633,32"/>
+</map>

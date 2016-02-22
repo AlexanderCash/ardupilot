@@ -1,0 +1,22 @@
+<map id="mavlink_test_digicam_control" name="mavlink_test_digicam_control">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#aaca1fe4f7ab3526edb2e78f9e86b0166" title="Encode a digicam_control struct into a message. " alt="" coords="207,49,358,90"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#aa70ca3ef205bfd4995333498afe6d00d" title="Pack a digicam_control message. " alt="" coords="441,5,591,46"/>
+<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a555bdf370d83bb7e910c6bdf7e37ecbc" title="Decode a digicam_control message into a struct. " alt="" coords="207,393,358,434"/>
+<area shape="rect" id="node16" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#aa209d5b0dc3100a1e3181c125f04937e" title="Pack a digicam_control message on a channel. " alt="" coords="207,458,358,499"/>
+<area shape="rect" id="node18" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="207,523,359,565"/>
+<area shape="rect" id="node19" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="203,589,362,630"/>
+<area shape="rect" id="node20" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="225,712,340,739"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="670,12,845,39"/>
+<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a762c35a778a3d455c1e8081ffa8929fe" title="Send a digicam_control message. " alt="" coords="441,69,591,125"/>
+<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a3345b464816b38a9ea2232b2ec93e8a2" title="Get field target_component from digicam_control message. " alt="" coords="441,149,591,205"/>
+<area shape="rect" id="node8" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a495c458ad6593a44ba06b30d6acf541d" title="Get field session from digicam_control message. " alt="" coords="441,229,591,270"/>
+<area shape="rect" id="node9" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a6f5ffee7a46ef779f9441c977b8d89a4" title="Get field zoom_pos from digicam_control message. " alt="" coords="436,294,596,335"/>
+<area shape="rect" id="node10" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a738c69e2916a495c9bebc3d56dab21e9" title="Get field zoom_step from digicam_control message. " alt="" coords="434,359,598,401"/>
+<area shape="rect" id="node11" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a754518424f2a9da39a8d920cdf21dd9a" title="Get field focus_lock from digicam_control message. " alt="" coords="435,425,597,466"/>
+<area shape="rect" id="node12" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a1dc5c7b683eecc6c22d34088f881543b" title="Get field shot from digicam_control message. " alt="" coords="441,490,591,531"/>
+<area shape="rect" id="node13" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a0e4ed9a009348173f5f6b8d99d995fcc" title="Get field command_id from digicam_control message. " alt="" coords="429,555,603,597"/>
+<area shape="rect" id="node14" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#ab19d5c759739873d068e6da605aca430" title="Get field extra_param from digicam_control message. " alt="" coords="430,621,602,662"/>
+<area shape="rect" id="node15" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__control_8h.html#a789f973c64a3744a71bc419881ca8da2" title="Get field extra_value from digicam_control message. " alt="" coords="433,686,599,727"/>
+<area shape="rect" id="node17" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="411,752,621,779"/>
+<area shape="rect" id="node21" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="444,803,588,829"/>
+</map>

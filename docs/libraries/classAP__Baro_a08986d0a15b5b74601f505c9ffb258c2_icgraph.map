@@ -1,0 +1,7 @@
+<map id="AP_Baro::get_temperature" name="AP_Baro::get_temperature">
+<area shape="rect" id="node2" href="$classAP__Baro.html#ac362a60180eae7eea6837c9b89d1ce06" title="AP_Baro::get_calibration\l_temperature" alt="" coords="246,5,413,46"/>
+<area shape="rect" id="node3" href="$classDataFlash__Class.html#a2f676bab8be41d66e21fd820454d73c1" title="DataFlash_Class::Log\l_Write_Baro" alt="" coords="253,70,405,111"/>
+<area shape="rect" id="node4" href="$BARO__generic_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="306,136,353,163"/>
+<area shape="rect" id="node5" href="$classGCS__MAVLINK.html#a3804af6dbb30a886e02e2a3a86f199de" title="GCS_MAVLINK::send_scaled\l_pressure" alt="" coords="230,187,429,229"/>
+<area shape="rect" id="node6" href="$classGCS__MAVLINK.html#a9be36dca60e21921c38bda4abf54e98a" title="GCS_MAVLINK::send_sensor\l_offsets" alt="" coords="230,253,429,294"/>
+</map>

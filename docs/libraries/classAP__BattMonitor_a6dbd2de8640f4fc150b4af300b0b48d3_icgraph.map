@@ -1,0 +1,3 @@
+<map id="AP_BattMonitor::has_current" name="AP_BattMonitor::has_current">
+<area shape="rect" id="node2" href="$classAP__BattMonitor.html#af4f82f91854e1a8b04745ab05f932c0f" title="exhausted &#45; returns true if the battery&#39;s voltage remains below the low_voltage for 10 seconds or rem..." alt="" coords="198,36,381,63"/>
+</map>

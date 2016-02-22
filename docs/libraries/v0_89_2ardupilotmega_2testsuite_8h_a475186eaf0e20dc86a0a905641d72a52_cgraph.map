@@ -1,0 +1,20 @@
+<map id="mavlink_test_radio" name="mavlink_test_radio">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#aea0364ed0990b48dcc7854e4683a88fe" title="Encode a radio struct into a message. " alt="" coords="195,32,378,59"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#a3004a5ab4a6f1fde13bd759d7a8aae83" title="Pack a radio message. " alt="" coords="458,5,627,32"/>
+<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#ac383b3c9490d8d32fede7e018b7474cc" title="Decode a radio message into a struct. " alt="" coords="195,285,378,312"/>
+<area shape="rect" id="node14" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#affe6fe66153ea5b65647dab166f18c58" title="Pack a radio message on a channel. " alt="" coords="185,351,389,377"/>
+<area shape="rect" id="node16" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="211,402,363,443"/>
+<area shape="rect" id="node17" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="207,467,366,509"/>
+<area shape="rect" id="node18" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="229,561,344,588"/>
+<area shape="rect" id="node4" href="$Derivative_8pde.html#a430ab649ea04b609ea794c746bfee4ba" title="noise" alt="" coords="757,277,811,304"/>
+<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="697,5,871,32"/>
+<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#a7fbb5177f5ced9e3ae03d3a856482086" title="Send a radio message. " alt="" coords="449,56,636,83"/>
+<area shape="rect" id="node8" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#a3b9c39d46bfa02a5e62228dde508b220" title="Get field remrssi from radio message. " alt="" coords="463,107,622,149"/>
+<area shape="rect" id="node9" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#a0871875dff91c74f9c5c592543dcecaf" title="Get field txbuf from radio message. " alt="" coords="463,173,622,214"/>
+<area shape="rect" id="node10" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#a83b1d27cef3bce6d5166ec63e3967748" title="Get field noise from radio message. " alt="" coords="463,238,622,279"/>
+<area shape="rect" id="node11" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#a04af49cc6796ce3e2a3c3d6688c91cfb" title="Get field remnoise from radio message. " alt="" coords="463,303,622,345"/>
+<area shape="rect" id="node12" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#ab3a4f1be755230d0178e995e09aac70a" title="Get field rxerrors from radio message. " alt="" coords="463,369,622,410"/>
+<area shape="rect" id="node13" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#a2a23b4e78bc52ab0062f5ba7f18ede49" title="Get field fixed from radio message. " alt="" coords="463,434,622,475"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="437,551,648,577"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="471,601,615,628"/>
+</map>

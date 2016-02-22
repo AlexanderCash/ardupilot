@@ -1,0 +1,28 @@
+digraph "NavEKF::FuseOptFlow"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="NavEKF::FuseOptFlow",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="constrain_float",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="sq",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Vector3::length",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="pythagorous3",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#ac09c78b18c2ad21b9a04081f119f11c0"];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Quaternion::normalize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classQuaternion.html#a48e6bafb249c895ed25f29dc9170e11e"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Quaternion::length",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classQuaternion.html#a6f5e82dd828c59392a3133d6d5877f39"];
+  Node7 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="NavEKF::ForceSymmetry",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a3d1ab5eacbcc3b4e98187dff6a4f32bb"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="NavEKF::ConstrainVariances",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#abfa9617589db799ff0a405e34550f0dd"];
+  Node9 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

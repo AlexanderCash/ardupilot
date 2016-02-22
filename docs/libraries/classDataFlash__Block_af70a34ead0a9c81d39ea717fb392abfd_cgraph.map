@@ -1,0 +1,17 @@
+<map id="DataFlash_Block::get_log_info" name="DataFlash_Block::get_log_info">
+<area shape="rect" id="node2" href="$classDataFlash__Block.html#a3367c846e32366ff58ddebbf025e42d7" title="DataFlash_Block::get\l_log_boundaries" alt="" coords="203,265,351,306"/>
+<area shape="rect" id="node3" href="$classDataFlash__Block.html#a909390782b6c80eccb7119d4c6b6d848" title="DataFlash_Block::get\l_num_logs" alt="" coords="425,94,573,135"/>
+<area shape="rect" id="node4" href="$classDataFlash__Block.html#a78f15fabdc088a5011a475bb258cc2cf" title="DataFlash_Block::find\l_last_page" alt="" coords="675,150,826,191"/>
+<area shape="rect" id="node5" href="$classDataFlash__Block.html#a7e3413fd597032d4f4692129d2c5d076" title="DataFlash_Block::StartRead" alt="" coords="911,187,1100,213"/>
+<area shape="rect" id="node9" href="$classDataFlash__Block.html#a48f708866996c334cff053400f452c7b" title="DataFlash_Block::GetFile\lNumber" alt="" coords="919,322,1091,363"/>
+<area shape="rect" id="node11" href="$classDataFlash__Block.html#a0deafc6a97e637557305a77d2123d42c" title="DataFlash_Block::FinishWrite" alt="" coords="401,536,597,563"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="425,587,572,629"/>
+<area shape="rect" id="node14" href="$classDataFlash__Block.html#a54e12b20e0812804451acb7d4d9643bb" title="DataFlash_Block::find\l_last_page_of_log" alt="" coords="423,229,574,270"/>
+<area shape="rect" id="node16" href="$classDataFlash__Block.html#ae6a5a7283d23359b18c7ee97c888f4b0" title="DataFlash_Block::find\l_last_log" alt="" coords="423,301,574,342"/>
+<area shape="rect" id="node10" href="$classDataFlash__Block.html#a16fa3b75588895152474c93c6f0be088" title="DataFlash_Block::GetFilePage" alt="" coords="904,77,1107,104"/>
+<area shape="rect" id="node6" href="$classDataFlash__Block.html#a5adc35354a63752dc3c855b18e83c175" title="DataFlash_Block::WaitReady" alt="" coords="1163,136,1357,163"/>
+<area shape="rect" id="node7" href="$classDataFlash__Block.html#a0bc13dd2c8ec2d928e3409c431fb1430" title="DataFlash_Block::PageToBuffer" alt="" coords="1155,187,1365,213"/>
+<area shape="rect" id="node8" href="$classDataFlash__Block.html#a4ba0e8bf9f8028d04422e8688efff2c2" title="DataFlash_Block::BlockRead" alt="" coords="1163,237,1357,264"/>
+<area shape="rect" id="node12" href="$classDataFlash__Block.html#ae12775fef1d395f4a9d19757b9187cff" title="DataFlash_Block::BufferToPage" alt="" coords="645,536,856,563"/>
+<area shape="rect" id="node15" href="$classDataFlash__Block.html#a0cf0fff3604f4e1e50b2b805cb3410f4" title="DataFlash_Block::check\l_wrapped" alt="" coords="668,267,833,309"/>
+</map>

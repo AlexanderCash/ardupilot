@@ -1,0 +1,7 @@
+<map id="takeoff_calc_pitch" name="takeoff_calc_pitch">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a8691156c332da099e3f5952e72ae2a58" title="AP_AHRS::airspeed_sensor\l_enabled" alt="" coords="182,5,370,46"/>
+<area shape="rect" id="node3" href="$Attitude_8pde.html#a432b90be495c4f3a40a28fbd20c8cbde" title="calc_nav_pitch" alt="" coords="221,71,331,97"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#af85c1f082ddabb5487c6f524d8b538ce" title="constrain_int32" alt="" coords="443,121,554,148"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="194,172,358,199"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#a0ccc7a540e0a66e4294b0200c53099d3" title="AP_SpdHgtControl::get\l_pitch_demand" alt="" coords="419,55,578,97"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AP_Motors::AP_Motors" name="AP_Motors::AP_Motors">
+<area shape="rect" id="node2" href="$classAP__Param.html#a5f6dcfce1c0a79cf5bd81283e22f3201" title="AP_Param::setup_object\l_defaults" alt="" coords="214,27,381,69"/>
+<area shape="rect" id="node5" href="$classLowPassFilter.html#a5c3c8a444566f57ef2bb95775fe7be5e" title="LowPassFilter::set\l_cutoff_frequency" alt="" coords="232,93,363,134"/>
+<area shape="rect" id="node6" href="$classLowPassFilterFloat.html#a0f1280ed7b46ee6d4f48d960ff65ff0f" title="LowPassFilterFloat\l::reset" alt="" coords="230,158,365,199"/>
+<area shape="rect" id="node3" href="$classAP__Param.html#acd4b14f793c37f162e298761d2155ca6" title="AP_Param::set_value" alt="" coords="433,5,583,32"/>
+<area shape="rect" id="node4" href="$classAP__Param.html#a1f6efebd94bc8bfd16db8d73ad3018c6" title="AP_Param::get_default\l_value" alt="" coords="429,57,587,98"/>
+<area shape="rect" id="node7" href="$classDigitalLPF.html#a3b7217283a52a01a86e7ab0c68a3ca96" title="DigitalLPF::reset" alt="" coords="448,165,568,192"/>
+</map>

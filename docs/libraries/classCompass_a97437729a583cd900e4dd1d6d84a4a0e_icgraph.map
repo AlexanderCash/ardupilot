@@ -1,0 +1,27 @@
+<map id="Compass::use_for_yaw" name="Compass::use_for_yaw">
+<area shape="rect" id="node2" href="$classAP__Arming.html#a24332b3f5e2e233914bce12e69ae9564" title="AP_Arming::compass\l_checks" alt="" coords="245,5,395,46"/>
+<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1319,96,1366,123"/>
+<area shape="rect" id="node6" href="$classSmallEKF.html#af8f6daa5f7c00cf13e28978c019feac3" title="SmallEKF::readMagData" alt="" coords="237,121,403,148"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__DCM.html#aa257c8f0d20ec0bd05d68c684c5b5f8a" title="AP_AHRS_DCM::use_compass" alt="" coords="214,172,426,199"/>
+<area shape="rect" id="node12" href="$classNavEKF.html#a85b6d179a631d25f34f2560e660aee10" title="NavEKF::use_compass" alt="" coords="239,365,401,392"/>
+<area shape="rect" id="node26" href="$classAP__AHRS.html#a1895e17c22721dd1ff357438bbb7f692" title="AP_AHRS::use_compass" alt="" coords="233,416,407,443"/>
+<area shape="rect" id="node3" href="$classAP__Arming.html#a73c03baf7f22b7124a2ac9e9286a850a" title="AP_Arming::pre_arm\l_checks" alt="" coords="518,5,661,46"/>
+<area shape="rect" id="node4" href="$classAP__Arming.html#a47b859d9929a736df2f08a1cad03efcb" title="AP_Arming::arm" alt="" coords="785,12,903,39"/>
+<area shape="rect" id="node7" href="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9" title="SmallEKF::RunEKF" alt="" coords="520,121,659,148"/>
+<area shape="rect" id="node9" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="767,165,921,206"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__DCM.html#a101f2aaddcc7e97e690924d4e9d7a191" title="AP_AHRS_DCM::drift\l_correction_yaw" alt="" coords="513,223,666,265"/>
+<area shape="rect" id="node10" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="1004,121,1175,148"/>
+<area shape="rect" id="node13" href="$classNavEKF.html#abb693a00d56f98f4cd8d654605163d14" title="NavEKF::SelectMagFusion" alt="" coords="753,543,935,569"/>
+<area shape="rect" id="node15" href="$classNavEKF.html#a8525e5774e083f7187a7c4ed8609fa38" title="NavEKF::SelectBetaFusion" alt="" coords="1251,660,1434,687"/>
+<area shape="rect" id="node16" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="1245,493,1440,534"/>
+<area shape="rect" id="node18" href="$classNavEKF.html#adf06c6a73b9ca994ca16892ed0740283" title="NavEKF::readMagData" alt="" coords="510,391,669,417"/>
+<area shape="rect" id="node19" href="$classNavEKF.html#afd23b087248e7c8bb5b65f834ba9544e" title="NavEKF::calcQuatAndField\lStates" alt="" coords="753,325,935,366"/>
+<area shape="rect" id="node23" href="$classNavEKF.html#a22aad7c0baf696cae27135ecaa4f2f58" title="NavEKF::alignMagStateDeclination" alt="" coords="475,289,703,316"/>
+<area shape="rect" id="node14" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="1494,559,1645,585"/>
+<area shape="rect" id="node17" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="1491,358,1648,399"/>
+<area shape="rect" id="node20" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="1011,274,1168,315"/>
+<area shape="rect" id="node21" href="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117" title="NavEKF::alignYawGPS" alt="" coords="1009,441,1170,468"/>
+<area shape="rect" id="node22" href="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b" title="NavEKF::performArmingChecks" alt="" coords="984,551,1195,577"/>
+<area shape="rect" id="node24" href="$classNavEKF.html#a4c44a7b25f5b5584b755142c6198fd1e" title="NavEKF::readGpsData" alt="" coords="765,252,923,279"/>
+<area shape="rect" id="node25" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="1243,441,1442,468"/>
+</map>

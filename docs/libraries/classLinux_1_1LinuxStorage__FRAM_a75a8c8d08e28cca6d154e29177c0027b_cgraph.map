@@ -1,0 +1,9 @@
+<map id="Linux::LinuxStorage_FRAM::write" name="Linux::LinuxStorage_FRAM::write">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxStorage__FRAM.html#a4c38ed83df91957981d65f3cdb83a8ff" title="Linux::LinuxStorage\l_FRAM::_register_write" alt="" coords="192,93,352,134"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxStorage__FRAM.html#aee9b258c651b30347870ba988ed8fa84" title="Linux::LinuxStorage\l_FRAM::_write_enable" alt="" coords="400,63,555,105"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxStorage__FRAM.html#a051df265457f5a9f4bbfcd18f7d220b6" title="Linux::LinuxStorage\l_FRAM::transaction" alt="" coords="603,93,741,134"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1SPIDeviceDriver.html#a1c518b753148caee4d708c2311a9e548" title="AP_HAL::SPIDeviceDriver\l::get_semaphore" alt="" coords="791,5,969,46"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="790,71,970,97"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="791,122,969,163"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="791,188,969,215"/>
+</map>

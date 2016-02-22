@@ -1,0 +1,56 @@
+digraph "Quaternion::length"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Quaternion::length",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Quaternion::normalize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classQuaternion.html#a48e6bafb249c895ed25f29dc9170e11e"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="test_frame_transforms",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#a97831e3cea863b581f8e989164514a25"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="setup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="NavEKF::UpdateStrapdownEquationsNED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a6718baa569eff65fb4e317ecf5426598"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="NavEKF::UpdateFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c"];
+  Node2 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="NavEKF::FuseVelPosNED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a74882eb98d3c69065b640829154a500c"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="NavEKF::SelectVelPosFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342"];
+  Node8 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="NavEKF::FuseMagnetometer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#af2a003bbd6abea81eae93d2c2faf8bfa"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="NavEKF::SelectMagFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#abb693a00d56f98f4cd8d654605163d14"];
+  Node10 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="NavEKF::FuseOptFlow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ab0b5685a752b604d338b625da5e457d4"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="NavEKF::SelectFlowFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a0302b7bbb74998406a938c227367797e"];
+  Node12 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="NavEKF::FuseAirspeed",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#af4f4d6647b1e7882dc009af5b475761b"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="NavEKF::SelectTasFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a49295ac247658724f852cbec8be83398"];
+  Node14 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="NavEKF::FuseSideslip",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a55bead411e1fd0ed64342bd38e6a83bf"];
+  Node15 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="NavEKF::SelectBetaFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a8525e5774e083f7187a7c4ed8609fa38"];
+  Node16 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="SmallEKF::predictStates",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#ae356bfb153c3c9a735fbb5f072440f3a"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="SmallEKF::RunEKF",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9"];
+  Node2 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="SmallEKF::fuseVelocity",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a874dcc56946ec2da09aa12b73e8bd970"];
+  Node19 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="SmallEKF::fuseCompass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a7149793dd06bfb4eec2c0619b2aa2ff0"];
+  Node20 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="SmallEKF::alignHeading",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a795189f59fa31ed5b397a15f91408f70"];
+  Node21 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

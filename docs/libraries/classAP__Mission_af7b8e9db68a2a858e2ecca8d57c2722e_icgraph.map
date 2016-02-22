@@ -1,0 +1,5 @@
+<map id="AP_Mission::resume" name="AP_Mission::resume">
+<area shape="rect" id="node2" href="$AP__Mission__test_8pde.html#a13b076b46de100742c7bab1a8f5c0661" title="run_resume_test" alt="" coords="210,5,329,32"/>
+<area shape="rect" id="node3" href="$AP__Mission__test_8pde.html#a940853f9fdd2bd926e8521828b2ee749" title="run_set_current_cmd\l_while_stopped_test" alt="" coords="197,57,341,98"/>
+<area shape="rect" id="node4" href="$classAP__Mission.html#a90117c1ac074049b9f4247cebdf370a5" title="start_or_resume &#45; if MIS_AUTORESTART=0 this will call resume(), otherwise it will call start() ..." alt="" coords="197,122,341,163"/>
+</map>

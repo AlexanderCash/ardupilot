@@ -1,0 +1,4 @@
+<map id="Aircraft::set_speedup" name="Aircraft::set_speedup">
+<area shape="rect" id="node2" href="$classAircraft.html#ab85a736e17e250991abe1a1c9d77a645" title="Aircraft::setup_frame_time" alt="" coords="200,12,376,39"/>
+<area shape="rect" id="node3" href="$classAircraft.html#a54eb1a4b4dfdfbfd3e73cba819f55815" title="Aircraft::get_wall\l_time_us" alt="" coords="424,5,544,46"/>
+</map>

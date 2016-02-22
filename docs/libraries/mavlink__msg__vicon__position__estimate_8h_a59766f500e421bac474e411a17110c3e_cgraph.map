@@ -1,0 +1,9 @@
+<map id="mavlink_msg_vicon_position_estimate_decode" name="mavlink_msg_vicon_position_estimate_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__vicon__position__estimate_8h.html#aa3f43209714d36c2d907faf2cdedffab" title="Send a vicon_position_estimate message. " alt="" coords="243,5,432,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__vicon__position__estimate_8h.html#af45e99b22068552e22c6568734ada78e" title="Get field x from vicon_position_estimate message. " alt="" coords="243,70,432,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__vicon__position__estimate_8h.html#ae50a5e189660153a97f0672232c33c1d" title="Get field y from vicon_position_estimate message. " alt="" coords="243,135,432,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__vicon__position__estimate_8h.html#a4c24a3f8673c6c167c634b369123468c" title="Get field z from vicon_position_estimate message. " alt="" coords="243,201,432,242"/>
+<area shape="rect" id="node6" href="$mavlink__msg__vicon__position__estimate_8h.html#ab64ad6769346d66bdb2bc2332b1750fc" title="Get field roll from vicon_position_estimate message. " alt="" coords="243,266,432,307"/>
+<area shape="rect" id="node7" href="$mavlink__msg__vicon__position__estimate_8h.html#a55147dca3d1f5d4aa19d9057ef7e6969" title="Get field pitch from vicon_position_estimate message. " alt="" coords="243,331,432,373"/>
+<area shape="rect" id="node8" href="$mavlink__msg__vicon__position__estimate_8h.html#ae9279dccc78915f35a7de498095a7627" title="Get field yaw from vicon_position_estimate message. " alt="" coords="243,397,432,438"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Linux::LinuxSPIUARTDriver::_timer_tick" name="Linux::LinuxSPIUARTDriver::_timer_tick">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxUARTDriver.html#a896f2b66a62f705e5e953e025cc24636" title="Linux::LinuxUARTDriver\l::_timer_tick" alt="" coords="241,37,405,78"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="249,102,396,143"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxUARTDriver.html#a0473e135769e0e46a828f89d21e14f6e" title="Linux::LinuxUARTDriver\l::_write_fd" alt="" coords="454,5,618,46"/>
+<area shape="rect" id="node6" href="$classLinux_1_1LinuxUARTDriver.html#aa1980b215d66416b2110e26ec7e5fd2e" title="Linux::LinuxUARTDriver\l::_read_fd" alt="" coords="454,70,618,111"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxUARTDriver.html#a4a235180a7626eec1cdf53b850a89242" title="Linux::LinuxUARTDriver\l::write" alt="" coords="667,5,831,46"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="880,5,1027,46"/>
+<area shape="rect" id="node7" href="$classLinux_1_1LinuxUARTDriver.html#a0047c2c25a1c64e0a80f15d6a3fa00da" title="Linux::LinuxUARTDriver\l::read" alt="" coords="667,70,831,111"/>
+</map>

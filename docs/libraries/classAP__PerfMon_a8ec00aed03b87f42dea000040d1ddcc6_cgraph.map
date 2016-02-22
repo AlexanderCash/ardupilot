@@ -1,0 +1,6 @@
+<map id="AP_PerfMon::DisplayResults" name="AP_PerfMon::DisplayResults">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="451,18,597,59"/>
+<area shape="rect" id="node3" href="$classAP__PerfMon.html#a96002a72a44a8e668eab2168b1e6c6ee" title="AP_PerfMon::stop" alt="" coords="261,25,390,52"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html#acc37de01cc945aa1b798937d41fb65db" title="AP_HAL::UARTDriver\l::set_blocking_writes" alt="" coords="249,76,402,118"/>
+<area shape="rect" id="node5" href="$classAP__PerfMon.html#a9d97e1982346161614d1b24bfc139f68" title="AP_PerfMon::start" alt="" coords="260,142,391,169"/>
+</map>

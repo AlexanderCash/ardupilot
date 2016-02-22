@@ -1,0 +1,19 @@
+<map id="Vector3::is_nan" name="Vector3::is_nan">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#aa445a0a0669422f3c3d7ae999f0136ce" title="AP_InertialSensor::\l_calibrate_accel" alt="" coords="182,59,317,101"/>
+<area shape="rect" id="node6" href="$classNavEKF.html#ab71619ef68ba5d8b11f68ef4f31a65c2" title="NavEKF::getFilterFaults" alt="" coords="168,155,331,181"/>
+<area shape="rect" id="node17" href="$classCompass.html#aebf060fcb30f98e8d2c158750efa3b10" title="Compass::learn_offsets" alt="" coords="169,205,330,232"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a9a2e96ead5ec6958cc5428807318ee6b" title="AP_InertialSensor::\lcalibrate_accel" alt="" coords="379,45,514,86"/>
+<area shape="rect" id="node4" href="$INS__generic_8pde.html#a5f96ea11224723731b4efa6cf4f1237b" title="run_calibration" alt="" coords="603,23,709,49"/>
+<area shape="rect" id="node5" href="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="859,5,906,32"/>
+<area shape="rect" id="node7" href="$classNavEKF.html#ad418b75ceae3dde42f8c588b7e88abb4" title="NavEKF::healthy" alt="" coords="385,155,508,181"/>
+<area shape="rect" id="node8" href="$classSmallEKF.html#a991c54283e43ee0867269119746731f5" title="SmallEKF::calcMagHeading\lInnov" alt="" coords="563,95,749,137"/>
+<area shape="rect" id="node12" href="$classNavEKF.html#a84cacea011683356ae5fcd2eb2e30fcc" title="NavEKF::getFilterStatus" alt="" coords="573,161,739,188"/>
+<area shape="rect" id="node16" href="$classNavEKF.html#a7bcc5a68b0195a062de10b1fe028e2a4" title="NavEKF::getHAGL" alt="" coords="589,212,723,239"/>
+<area shape="rect" id="node9" href="$classSmallEKF.html#a795189f59fa31ed5b397a15f91408f70" title="SmallEKF::alignHeading" alt="" coords="801,56,965,83"/>
+<area shape="rect" id="node11" href="$classSmallEKF.html#a7149793dd06bfb4eec2c0619b2aa2ff0" title="SmallEKF::fuseCompass" alt="" coords="797,107,968,133"/>
+<area shape="rect" id="node10" href="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9" title="SmallEKF::RunEKF" alt="" coords="1016,81,1155,108"/>
+<area shape="rect" id="node13" href="$classNavEKF.html#adc74369bdb7425b717f68eec54aa123f" title="NavEKF::getLLH" alt="" coords="821,157,944,184"/>
+<area shape="rect" id="node14" href="$classNavEKF.html#a90a1fa4f67a09d5af0a6d2a11580269f" title="NavEKF::getPosNED" alt="" coords="807,208,958,235"/>
+<area shape="rect" id="node15" href="$classNavEKF.html#aa397dc742e68d43d9b10bc1e036d4674" title="NavEKF::send_status\l_report" alt="" coords="807,259,958,301"/>
+<area shape="rect" id="node18" href="$AP__Compass__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="423,205,470,232"/>
+</map>

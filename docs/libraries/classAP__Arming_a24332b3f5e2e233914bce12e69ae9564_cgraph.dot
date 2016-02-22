@@ -1,0 +1,33 @@
+digraph "AP_Arming::compass_checks"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_Arming::compass\l_checks",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Compass::use_for_yaw",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a97437729a583cd900e4dd1d6d84a4a0e",tooltip="return true if the compass should be used for yaw calculations "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Compass::learn_offsets\l_enabled",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a532f8a5a087bed8fa8f7c23057028785"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Compass::configured",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a59622e8195dc29485f24d7c27a9cf7f0"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Compass::get_count",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a7bc9b45433e47cbd2632578388882135"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="is_zero",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Compass::get_offsets",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a46431b5638dd088dd4a09026109544f2"];
+  Node7 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Compass::get_primary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a0120c84cc915d5a34aafedc1ce3f5186"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Compass::get_offsets",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a6ef45f63ac177793bf38270cef8228cb"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Vector3::length",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="pythagorous3",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#ac09c78b18c2ad21b9a04081f119f11c0"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="sq",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017"];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="Compass::get_field",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#aa1f44c7920bbd147fa2e58bfedd3c4bb",tooltip="Return the current field as a Vector3f. "];
+}

@@ -1,0 +1,5 @@
+<map id="AP_InertialSensor_PX4::_get_sample" name="AP_InertialSensor_PX4::_get_sample">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__PX4.html#a097901ff249f09bdac3af4438e9c2531" title="AP_InertialSensor_PX4\l::accel_sample_available" alt="" coords="213,5,381,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__PX4.html#aff050ebd7dcbe0396ce3f1b983760cda" title="AP_InertialSensor_PX4\l::gyro_sample_available" alt="" coords="216,70,379,111"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__PX4.html#a56c271f4293b88db34537b7a11e63157" title="AP_InertialSensor_PX4\l::update" alt="" coords="218,135,377,177"/>
+</map>

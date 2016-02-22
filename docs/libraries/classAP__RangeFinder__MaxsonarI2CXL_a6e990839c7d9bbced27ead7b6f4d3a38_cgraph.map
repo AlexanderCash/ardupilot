@@ -1,0 +1,11 @@
+<map id="AP_RangeFinder_MaxsonarI2CXL::update" name="AP_RangeFinder_MaxsonarI2CXL::update">
+<area shape="rect" id="node2" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a43b8ffc54c0ed66221d0bb61c3e181e9" title="AP_RangeFinder_MaxsonarI2\lCXL::get_reading" alt="" coords="251,114,447,155"/>
+<area shape="rect" id="node9" href="$classAP__RangeFinder__Backend.html#a9e858f638e4c2d1138aa3f56d217a394" title="AP_RangeFinder_Backend\l::update_status" alt="" coords="260,205,439,246"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__Backend.html#ac5b3771c47b58dfba89ebcf2a24541cd" title="AP_RangeFinder_Backend\l::set_status" alt="" coords="505,263,684,305"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="759,205,905,246"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="742,5,922,32"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDriver.html#a223decf0fed4d81b10e740411026e2f3" title="AP_HAL::I2CDriver::read" alt="" coords="509,95,680,121"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="743,67,921,93"/>
+<area shape="rect" id="node7" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a51188886a94d87fc3ebb795c0b40f0e4" title="AP_RangeFinder_MaxsonarI2\lCXL::start_reading" alt="" coords="497,146,693,187"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1I2CDriver.html#a31721a0154b78760595785506d92f38e" title="AP_HAL::I2CDriver::\lwrite" alt="" coords="759,139,905,181"/>
+</map>

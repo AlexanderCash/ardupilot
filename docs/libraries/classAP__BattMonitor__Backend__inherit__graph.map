@@ -1,0 +1,6 @@
+<map id="AP_BattMonitor_Backend" name="AP_BattMonitor_Backend">
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Analog.html" title="AP_BattMonitor_Analog" alt="" coords="5,80,165,107"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__SMBus.html" title="AP_BattMonitor_SMBus" alt="" coords="190,80,353,107"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor__SMBus__I2C.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="67,155,259,181"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor__SMBus__PX4.html" title="AP_BattMonitor_SMBus_PX4" alt="" coords="283,155,479,181"/>
+</map>

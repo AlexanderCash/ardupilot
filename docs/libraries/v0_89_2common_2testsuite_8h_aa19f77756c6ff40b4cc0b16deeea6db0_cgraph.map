@@ -1,0 +1,18 @@
+<map id="mavlink_test_vfr_hud" name="mavlink_test_vfr_hud">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#a30c14ae471890adca7fc9647ec2b7592" title="Encode a vfr_hud struct into a message. " alt="" coords="205,19,355,61"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#ace41e7d50d0244e55f8d9fd4781dabbc" title="Pack a vfr_hud message. " alt="" coords="421,5,605,32"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#a199444e86597c08ce75b1173b3191510" title="Decode a vfr_hud message into a struct. " alt="" coords="205,201,355,242"/>
+<area shape="rect" id="node12" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#a343d83ef1501d561472e3874a53b62e5" title="Pack a vfr_hud message on a channel. " alt="" coords="205,266,355,307"/>
+<area shape="rect" id="node14" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="204,331,356,373"/>
+<area shape="rect" id="node15" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="201,397,359,438"/>
+<area shape="rect" id="node16" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="223,475,337,501"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="667,5,842,32"/>
+<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#adc6275c072ec7bb03829f34b8ab45533" title="Send a vfr_hud message. " alt="" coords="439,57,588,98"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#a24ef9215c3430b5d676b015e18efa5cf" title="Get field groundspeed from vfr_hud message. " alt="" coords="439,122,588,163"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#a64ac78683b755c2499526335290d51d0" title="Get field heading from vfr_hud message. " alt="" coords="439,187,588,229"/>
+<area shape="rect" id="node9" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#a50891d80616e40209972a7a5f51e6440" title="Get field throttle from vfr_hud message. " alt="" coords="439,253,588,294"/>
+<area shape="rect" id="node10" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#a93ed18afeb83998ed6a3c2255e12bd6d" title="Get field alt from vfr_hud message. " alt="" coords="439,318,588,359"/>
+<area shape="rect" id="node11" href="$v0_89_2common_2mavlink__msg__vfr__hud_8h.html#ad7cb7b4488bd085c1af3240105ff82db" title="Get field climb from vfr_hud message. " alt="" coords="439,383,588,425"/>
+<area shape="rect" id="node13" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="408,449,619,476"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="441,500,585,527"/>
+</map>

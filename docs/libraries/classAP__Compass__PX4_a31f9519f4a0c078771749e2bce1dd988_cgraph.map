@@ -1,0 +1,20 @@
+<map id="AP_Compass_PX4::detect" name="AP_Compass_PX4::detect">
+<area shape="rect" id="node2" href="$classAP__Compass__PX4.html#a6e1966fc3672675172d79407973d91f6" title="AP_Compass_PX4::AP\l_Compass_PX4" alt="" coords="233,142,394,183"/>
+<area shape="rect" id="node3" href="$classAP__Compass__PX4.html#a107c003aea3eff458ade1c3f263d0600" title="AP_Compass_PX4::init" alt="" coords="233,208,393,235"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="471,5,625,46"/>
+<area shape="rect" id="node5" href="$classAP__Compass__Backend.html#aee0aed3dcceb809b122d2a0784f44593" title="AP_Compass_Backend\l::register_compass" alt="" coords="467,70,629,111"/>
+<area shape="rect" id="node8" href="$classAP__Compass__Backend.html#a81a8f162131d1cd7a54d9fe52448d31f" title="AP_Compass_Backend\l::set_dev_id" alt="" coords="467,135,629,177"/>
+<area shape="rect" id="node9" href="$classAP__Compass__Backend.html#a4c240d26d00dd5888fef16c22f1252c8" title="AP_Compass_Backend\l::set_external" alt="" coords="467,201,629,242"/>
+<area shape="rect" id="node10" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="1361,317,1461,344"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="475,318,621,359"/>
+<area shape="rect" id="node12" href="$classAP__Compass__PX4.html#a8373d2a862e3a8cc6b5caf93564c94f9" title="AP_Compass_PX4::accumulate" alt="" coords="443,384,653,411"/>
+<area shape="rect" id="node6" href="$classCompass.html#af1b5ea3ff42b02e04526d4be361a1ca1" title="Compass::register_compass" alt="" coords="701,77,891,104"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="947,70,1093,111"/>
+<area shape="rect" id="node13" href="$classAP__Compass__PX4.html#a4e20dea88905e71e94524c33a95ff76c" title="AP_Compass_PX4::read" alt="" coords="712,384,880,411"/>
+<area shape="rect" id="node14" href="$classAP__Compass__Backend.html#ad14147ac2825d3c09106ccfd1328b3f0" title="AP_Compass_Backend\l::publish_field" alt="" coords="939,419,1101,461"/>
+<area shape="rect" id="node15" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title="Vector3::rotate" alt="" coords="1177,368,1285,395"/>
+<area shape="rect" id="node16" href="$classAP__Compass__Backend.html#a2c550915f5cf24723480581d863c7b8c" title="AP_Compass_Backend\l::apply_corrections" alt="" coords="1150,419,1311,461"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="1157,485,1304,526"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="1157,550,1304,591"/>
+<area shape="rect" id="node17" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="1379,427,1443,453"/>
+</map>

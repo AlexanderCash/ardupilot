@@ -1,0 +1,6 @@
+<map id="RGBLed::update" name="RGBLed::update">
+<area shape="rect" id="node2" href="$classRGBLed.html#af10a43a5611b3646d0414456e9addcae" title="RGBLed::update_colours" alt="" coords="173,5,341,32"/>
+<area shape="rect" id="node4" href="$classRGBLed.html#ac226b0a197dc8535b9a12fa43ac3eb57" title="RGBLed::set_rgb" alt="" coords="196,56,319,83"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#ab0ea67003249493b7efc0528410b9be6" title="AP_HAL::GPIO::usb_connected" alt="" coords="389,5,600,32"/>
+<area shape="rect" id="node5" href="$classRGBLed.html#af048bc2b0da82e9599945910aac07aa6" title="RGBLed::hw_set_rgb" alt="" coords="421,56,568,83"/>
+</map>

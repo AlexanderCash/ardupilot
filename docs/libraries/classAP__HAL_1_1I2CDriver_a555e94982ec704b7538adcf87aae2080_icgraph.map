@@ -1,0 +1,5 @@
+<map id="AP_HAL::I2CDriver::setTimeout" name="AP_HAL::I2CDriver::setTimeout">
+<area shape="rect" id="node2" href="$classHAL__AVR__APM1.html#a240163745580c3161b1690fc6f643b67" title="HAL_AVR_APM1::init" alt="" coords="201,5,351,32"/>
+<area shape="rect" id="node3" href="$classHAL__AVR__APM2.html#ac32e2a2c80ae57587bfc9a96a04287fc" title="HAL_AVR_APM2::init" alt="" coords="201,56,351,83"/>
+<area shape="rect" id="node4" href="$classHAL__FLYMAPLE.html#a2f1f5a4eb60873257c8e809e742576a6" title="HAL_FLYMAPLE::init" alt="" coords="201,107,351,133"/>
+</map>

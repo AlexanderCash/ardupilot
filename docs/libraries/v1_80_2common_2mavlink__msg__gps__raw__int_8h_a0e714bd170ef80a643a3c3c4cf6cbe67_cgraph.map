@@ -1,0 +1,12 @@
+<map id="mavlink_msg_gps_raw_int_decode" name="mavlink_msg_gps_raw_int_decode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#af41c5ef197d9ed9762f7bf3ea5801039" title="Send a gps_raw_int message. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#aaf9f40b96dbfd4fd71c98526053b5bf7" title="Get field lat from gps_raw_int message. " alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#a069d46d7e30e62f0c420f298a8319164" title="Get field lon from gps_raw_int message. " alt="" coords="208,135,363,177"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#a48580b2c938c8b8f2b6e068439f7ada2" title="Get field alt from gps_raw_int message. " alt="" coords="208,201,363,242"/>
+<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#a9c69521c3dd4722ef47280218d7860f0" title="Get field eph from gps_raw_int message. " alt="" coords="208,266,363,307"/>
+<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#acdf92c6de10b1718c5f05e6488e71b77" title="Get field epv from gps_raw_int message. " alt="" coords="208,331,363,373"/>
+<area shape="rect" id="node8" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#a877c029450a2c4bcc3b7b264ed62fdc9" title="Get field vel from gps_raw_int message. " alt="" coords="208,397,363,438"/>
+<area shape="rect" id="node9" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#a5134de130a370c5ce6b7dc2624e6c3fa" title="Get field cog from gps_raw_int message. " alt="" coords="208,462,363,503"/>
+<area shape="rect" id="node10" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#aefcdc06bacd3017fa82df9ab80a76d1a" title="Get field fix_type from gps_raw_int message. " alt="" coords="208,527,363,569"/>
+<area shape="rect" id="node11" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html#a5499195ba784b541cfb3cc32031aa586" title="Get field satellites_visible from gps_raw_int message. " alt="" coords="208,592,363,648"/>
+</map>

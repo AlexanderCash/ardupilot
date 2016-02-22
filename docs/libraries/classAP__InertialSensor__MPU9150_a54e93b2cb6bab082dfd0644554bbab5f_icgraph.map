@@ -1,0 +1,5 @@
+<map id="AP_InertialSensor_MPU9150::set_int_enable" name="AP_InertialSensor_MPU9150::set_int_enable">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__MPU9150.html#adcb93c24e742a509d7a3a83b49a12f94" title="Select which sensors are pushed to FIFO. sensors can contain a combination of the following flags: &#160;&#160;..." alt="" coords="245,5,437,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__MPU9150.html#a5d916ede262de822fd6ab45c93e036ae" title="AP_InertialSensor_MPU9150\l::_init_sensor" alt="" coords="485,5,677,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__MPU9150.html#a5ccaed9383c0dd4ba0450d690f2284b7" title="AP_InertialSensor_MPU9150\l::detect" alt="" coords="725,5,917,46"/>
+</map>

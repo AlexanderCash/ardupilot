@@ -1,0 +1,6 @@
+<map id="AP_InertialSensor::get_gyro" name="AP_InertialSensor::get_gyro">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a8744303832541bef0025d9698468938c" title="AP_InertialSensor::\l_init_gyro" alt="" coords="190,29,325,70"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="373,7,525,33"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#a424609d1eb3dc8473040c9e6f87771ad" title="AP_InertialSensor::\linit_gyro" alt="" coords="382,58,517,99"/>
+<area shape="rect" id="node4" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="574,7,629,33"/>
+</map>

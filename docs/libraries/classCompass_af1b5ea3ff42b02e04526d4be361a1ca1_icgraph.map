@@ -1,0 +1,15 @@
+<map id="Compass::register_compass" name="Compass::register_compass">
+<area shape="rect" id="node2" href="$classAP__Compass__Backend.html#aee0aed3dcceb809b122d2a0784f44593" title="AP_Compass_Backend\l::register_compass" alt="" coords="243,78,405,119"/>
+<area shape="rect" id="node3" href="$classAP__Compass__PX4.html#a107c003aea3eff458ade1c3f263d0600" title="AP_Compass_PX4::init" alt="" coords="464,5,624,32"/>
+<area shape="rect" id="node8" href="$classAP__Compass__HIL.html#af040b7e9ed9c04a61be51d2a0831d192" title="AP_Compass_HIL::init" alt="" coords="715,56,871,83"/>
+<area shape="rect" id="node10" href="$classAP__Compass__HMC5843.html#ae8fe5f87eb75452d7cfd4293a9bbfc7e" title="AP_Compass_HMC5843\l::init" alt="" coords="459,107,629,149"/>
+<area shape="rect" id="node12" href="$classAP__Compass__AK8963.html#acdbf7f9d95111c8c6cf571da0b066bdd" title="AP_Compass_AK8963::init" alt="" coords="453,176,635,203"/>
+<area shape="rect" id="node4" href="$classAP__Compass__PX4.html#a31f9519f4a0c078771749e2bce1dd988" title="AP_Compass_PX4::detect" alt="" coords="973,7,1152,33"/>
+<area shape="rect" id="node5" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="1221,87,1413,113"/>
+<area shape="rect" id="node6" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="1462,87,1565,113"/>
+<area shape="rect" id="node7" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1614,87,1669,113"/>
+<area shape="rect" id="node9" href="$classAP__Compass__HIL.html#ae4ae94f11b8c05de50076d85fbcef0f1" title="AP_Compass_HIL::detect" alt="" coords="975,59,1150,85"/>
+<area shape="rect" id="node11" href="$classAP__Compass__HMC5843.html#a24c7d88a8f69532e40f96c5a0db25364" title="AP_Compass_HMC5843\l::detect" alt="" coords="709,107,878,149"/>
+<area shape="rect" id="node13" href="$classAP__Compass__AK8963__MPU9250.html#a8f1c4437b09e2fcb6e3b863a9a3c119d" title="AP_Compass_AK8963_MPU9250\l::init" alt="" coords="683,173,904,214"/>
+<area shape="rect" id="node14" href="$classAP__Compass__AK8963__MPU9250.html#a6276a40d516ecd31513c02ecf84a666f" title="AP_Compass_AK8963_MPU9250\l::detect" alt="" coords="952,167,1173,209"/>
+</map>

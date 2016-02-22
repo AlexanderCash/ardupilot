@@ -1,0 +1,6 @@
+<map id="mavlink_msg_safety_allowed_area_get_p1x" name="mavlink_msg_safety_allowed_area_get_p1x">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#a7298e6a3baeb029e3a99b499a3702a5d" title="Decode a safety_allowed_area message into a struct. " alt="" coords="213,5,368,46"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#a74353fc06130900f879bdd2b734e9727" title="mavlink_test_safety\l_allowed_area" alt="" coords="416,5,555,46"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="603,12,757,39"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="806,12,922,39"/>
+</map>

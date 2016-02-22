@@ -1,0 +1,4 @@
+<map id="AP_SerialBus_I2C::init" name="AP_SerialBus_I2C::init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="211,5,357,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="211,70,357,111"/>
+</map>

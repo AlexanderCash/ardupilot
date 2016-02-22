@@ -1,0 +1,3 @@
+<map id="AC_PosControl::set_desired_velocity" name="AC_PosControl::set_desired_velocity">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#ac150947d527995a72dff6ad0921a1891" title="freeze_ff_xy &#45; used to stop the feed forward being calculated during a known discontinuity ..." alt="" coords="192,5,349,46"/>
+</map>

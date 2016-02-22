@@ -1,0 +1,25 @@
+<map id="mavlink_test_camera_feedback" name="mavlink_test_camera_feedback">
+<area shape="rect" id="node2" href="$mavlink__msg__camera__feedback_8h.html#a0a34a74ee98421139df782adebfee8da" title="Encode a camera_feedback struct. " alt="" coords="205,90,355,131"/>
+<area shape="rect" id="node3" href="$mavlink__msg__camera__feedback_8h.html#ae9ab594945cdff23f9b850fb18b2a6bd" title="Pack a camera_feedback message. " alt="" coords="439,5,588,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__camera__feedback_8h.html#a6cbd0224030fa70105288eacc77dba43" title="Decode a camera_feedback message into a struct. " alt="" coords="205,462,355,503"/>
+<area shape="rect" id="node19" href="$mavlink__msg__camera__feedback_8h.html#ad1a08b75edf02540d8f18836b1222e61" title="Pack a camera_feedback message on a channel. " alt="" coords="204,527,356,569"/>
+<area shape="rect" id="node21" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="204,593,356,634"/>
+<area shape="rect" id="node22" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="201,658,359,699"/>
+<area shape="rect" id="node23" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="223,853,337,880"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="667,12,842,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__camera__feedback_8h.html#a037af7af143a2c1d3b284dcebd1073fc" title="Send a camera_feedback message. " alt="" coords="426,70,601,111"/>
+<area shape="rect" id="node7" href="$mavlink__msg__camera__feedback_8h.html#aaf66ae454c048ce306518940b1a068eb" title="Get field lat from camera_feedback message. " alt="" coords="439,135,588,177"/>
+<area shape="rect" id="node8" href="$mavlink__msg__camera__feedback_8h.html#a95e7da7caea73a5abf8d5e5fdcd20d33" title="Get field lng from camera_feedback message. " alt="" coords="439,201,588,242"/>
+<area shape="rect" id="node9" href="$mavlink__msg__camera__feedback_8h.html#aa9ca4a7d50e29d3782f8dbd7157737e8" title="Get field alt_msl from camera_feedback message. " alt="" coords="435,266,591,307"/>
+<area shape="rect" id="node10" href="$mavlink__msg__camera__feedback_8h.html#a7b886acf6f7ed6b82eac1174c74a039f" title="Get field alt_rel from camera_feedback message. " alt="" coords="439,331,588,373"/>
+<area shape="rect" id="node11" href="$mavlink__msg__camera__feedback_8h.html#a04ab5a820fe575df23084beb8f374c68" title="Get field roll from camera_feedback message. " alt="" coords="439,397,588,438"/>
+<area shape="rect" id="node12" href="$mavlink__msg__camera__feedback_8h.html#a2f901d81527c17081f9001877c0714f5" title="Get field pitch from camera_feedback message. " alt="" coords="439,462,588,503"/>
+<area shape="rect" id="node13" href="$mavlink__msg__camera__feedback_8h.html#a68bdec98c4113e195be742bd8f5865a8" title="Get field yaw from camera_feedback message. " alt="" coords="439,527,588,569"/>
+<area shape="rect" id="node14" href="$mavlink__msg__camera__feedback_8h.html#ae2b53b9c830aabb616b18abbbffd6482" title="Get field foc_len from camera_feedback message. " alt="" coords="435,593,591,634"/>
+<area shape="rect" id="node15" href="$mavlink__msg__camera__feedback_8h.html#a93220094dbbdf2071f464981112942cc" title="Get field img_idx from camera_feedback message. " alt="" coords="434,658,593,699"/>
+<area shape="rect" id="node16" href="$mavlink__msg__camera__feedback_8h.html#a49c2ed506f28a18ddfab46f2897b5b74" title="Get field target_system from camera_feedback message. " alt="" coords="439,723,588,779"/>
+<area shape="rect" id="node17" href="$mavlink__msg__camera__feedback_8h.html#a3d818621191fd4da12be3c595dc71b43" title="Get field cam_idx from camera_feedback message. " alt="" coords="432,802,595,843"/>
+<area shape="rect" id="node18" href="$mavlink__msg__camera__feedback_8h.html#a2156ac1e44215c995a66ac899a55eab5" title="Get field flags from camera_feedback message. " alt="" coords="439,867,588,909"/>
+<area shape="rect" id="node20" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="408,933,619,960"/>
+<area shape="rect" id="node24" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="441,984,585,1011"/>
+</map>

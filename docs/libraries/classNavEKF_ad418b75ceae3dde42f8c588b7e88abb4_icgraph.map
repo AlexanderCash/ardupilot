@@ -1,0 +1,11 @@
+<map id="NavEKF::healthy" name="NavEKF::healthy">
+<area shape="rect" id="node2" href="$classSmallEKF.html#a991c54283e43ee0867269119746731f5" title="SmallEKF::calcMagHeading\lInnov" alt="" coords="176,49,363,90"/>
+<area shape="rect" id="node6" href="$classNavEKF.html#a84cacea011683356ae5fcd2eb2e30fcc" title="NavEKF::getFilterStatus" alt="" coords="187,136,352,163"/>
+<area shape="rect" id="node10" href="$classNavEKF.html#a7bcc5a68b0195a062de10b1fe028e2a4" title="NavEKF::getHAGL" alt="" coords="202,187,337,213"/>
+<area shape="rect" id="node3" href="$classSmallEKF.html#a7149793dd06bfb4eec2c0619b2aa2ff0" title="SmallEKF::fuseCompass" alt="" coords="411,5,581,32"/>
+<area shape="rect" id="node5" href="$classSmallEKF.html#a795189f59fa31ed5b397a15f91408f70" title="SmallEKF::alignHeading" alt="" coords="414,56,578,83"/>
+<area shape="rect" id="node4" href="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9" title="SmallEKF::RunEKF" alt="" coords="629,31,768,57"/>
+<area shape="rect" id="node7" href="$classNavEKF.html#adc74369bdb7425b717f68eec54aa123f" title="NavEKF::getLLH" alt="" coords="435,107,557,133"/>
+<area shape="rect" id="node8" href="$classNavEKF.html#a90a1fa4f67a09d5af0a6d2a11580269f" title="NavEKF::getPosNED" alt="" coords="421,157,571,184"/>
+<area shape="rect" id="node9" href="$classNavEKF.html#aa397dc742e68d43d9b10bc1e036d4674" title="NavEKF::send_status\l_report" alt="" coords="421,209,571,250"/>
+</map>

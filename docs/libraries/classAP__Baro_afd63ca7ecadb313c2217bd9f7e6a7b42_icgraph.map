@@ -1,0 +1,4 @@
+<map id="AP_Baro::get_climb_rate" name="AP_Baro::get_climb_rate">
+<area shape="rect" id="node2" href="$classDataFlash__Class.html#a2f676bab8be41d66e21fd820454d73c1" title="DataFlash_Class::Log\l_Write_Baro" alt="" coords="221,5,373,46"/>
+<area shape="rect" id="node3" href="$BARO__generic_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="274,71,321,97"/>
+</map>

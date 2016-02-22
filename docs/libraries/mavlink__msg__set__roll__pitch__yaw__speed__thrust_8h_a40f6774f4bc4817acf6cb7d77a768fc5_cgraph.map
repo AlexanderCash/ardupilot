@@ -1,0 +1,8 @@
+<map id="mavlink_msg_set_roll_pitch_yaw_speed_thrust_decode" name="mavlink_msg_set_roll_pitch_yaw_speed_thrust_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__set__roll__pitch__yaw__speed__thrust_8h.html#aa09203539e3cb04685835248b12f9676" title="Send a set_roll_pitch_yaw_speed_thrust message. " alt="" coords="224,5,395,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__set__roll__pitch__yaw__speed__thrust_8h.html#a6f82bc24dd06dbce627e7b8d6e5fbade" title="Get field target_component from set_roll_pitch_yaw_speed_thrust message. " alt="" coords="224,85,395,141"/>
+<area shape="rect" id="node4" href="$mavlink__msg__set__roll__pitch__yaw__speed__thrust_8h.html#ad996acded7a9798748d4d058d955fddd" title="Get field roll_speed from set_roll_pitch_yaw_speed_thrust message. " alt="" coords="224,165,395,221"/>
+<area shape="rect" id="node5" href="$mavlink__msg__set__roll__pitch__yaw__speed__thrust_8h.html#a48faaff7adbbf2759143252369e468b2" title="Get field pitch_speed from set_roll_pitch_yaw_speed_thrust message. " alt="" coords="224,245,395,301"/>
+<area shape="rect" id="node6" href="$mavlink__msg__set__roll__pitch__yaw__speed__thrust_8h.html#a719501ee43dc65c19c63de38e8bd6526" title="Get field yaw_speed from set_roll_pitch_yaw_speed_thrust message. " alt="" coords="224,325,395,381"/>
+<area shape="rect" id="node7" href="$mavlink__msg__set__roll__pitch__yaw__speed__thrust_8h.html#a250dbb11436a542ef1f277139952f11f" title="Get field thrust from set_roll_pitch_yaw_speed_thrust message. " alt="" coords="224,405,395,461"/>
+</map>

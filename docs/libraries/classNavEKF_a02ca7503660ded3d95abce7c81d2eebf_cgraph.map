@@ -1,0 +1,45 @@
+<map id="NavEKF::SetFlightAndFusionModes" name="NavEKF::SetFlightAndFusionModes">
+<area shape="rect" id="node2" href="$classNavEKF.html#aede9e0e542bbf09e7815a71cd3ed3437" title="NavEKF::assume_zero\l_sideslip" alt="" coords="265,57,423,98"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="1306,867,1345,893"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a8691156c332da099e3f5952e72ae2a58" title="AP_AHRS::airspeed_sensor\l_enabled" alt="" coords="489,122,677,163"/>
+<area shape="rect" id="node9" href="$classAP__AHRS.html#a2e82ec5ae0f44ff0e9e944e354b17eb3" title="AP_AHRS::get_airspeed" alt="" coords="261,289,427,316"/>
+<area shape="rect" id="node10" href="$classAP__Airspeed.html#a1027b15b91e0af1dbfe8b999a88c8a25" title="AP_Airspeed::get_airspeed" alt="" coords="254,340,434,367"/>
+<area shape="rect" id="node11" href="$classAP__Airspeed.html#a9bb14f83815ed35b067dd2f4a7c1851f" title="AP_Airspeed::get_EAS2TAS" alt="" coords="249,391,439,417"/>
+<area shape="rect" id="node12" href="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117" title="NavEKF::alignYawGPS" alt="" coords="263,441,425,468"/>
+<area shape="rect" id="node29" href="$classNavEKF.html#a85b6d179a631d25f34f2560e660aee10" title="NavEKF::use_compass" alt="" coords="1017,673,1178,700"/>
+<area shape="rect" id="node43" href="$classNavEKF.html#a0b17a3410a3c45b35d8bf993098e8f75" title="NavEKF::useAirspeed" alt="" coords="268,224,420,251"/>
+<area shape="rect" id="node44" href="$classNavEKF.html#a6d64ec17dcec8b8c486857bd4fb3b54c" title="NavEKF::setWindVelStates" alt="" coords="251,816,437,843"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a6120b45de751ab784fdfdd04f437b44e" title="AP_AHRS::get_fly_forward" alt="" coords="491,5,674,32"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a91a73986f61cc338a22047e34230cbb2" title="AP_AHRS::get_vehicle\l_class" alt="" coords="503,57,662,98"/>
+<area shape="rect" id="node7" href="$classAP__Airspeed.html#a6162295b433e3a863c0d4b9086b19014" title="AP_Airspeed::use" alt="" coords="777,83,903,109"/>
+<area shape="rect" id="node8" href="$classAP__Airspeed.html#acddaade777fa87d5b8c904c79be01204" title="AP_Airspeed::healthy" alt="" coords="766,133,914,160"/>
+<area shape="rect" id="node13" href="$classQuaternion.html#ab3049efa36b211699ca03ea53970f0fd" title="Quaternion::to_euler" alt="" coords="771,289,909,316"/>
+<area shape="rect" id="node18" href="$AP__Math_8h.html#ada62278a4b460237f914e1c6a5355e55" title="wrap_PI" alt="" coords="547,239,618,265"/>
+<area shape="rect" id="node19" href="$classQuaternion.html#aff2d2d3d1c5937523df8357deae4eeab" title="Quaternion::from_euler" alt="" coords="763,344,917,371"/>
+<area shape="rect" id="node20" href="$classNavEKF.html#affa6086752a2e15969daf07961f9e051" title="NavEKF::ResetPosition" alt="" coords="501,340,664,367"/>
+<area shape="rect" id="node21" href="$classNavEKF.html#acb20ad8ad982539dcb608533b0fe77d0" title="NavEKF::ResetVelocity" alt="" coords="501,188,664,215"/>
+<area shape="rect" id="node23" href="$classNavEKF.html#aaef60d20b82acb3930c5866abe3977b4" title="NavEKF::zeroRows" alt="" coords="513,715,652,741"/>
+<area shape="rect" id="node24" href="$classNavEKF.html#a755c7075fb0ee5f86cef734ecf83e53a" title="NavEKF::zeroCols" alt="" coords="517,816,649,843"/>
+<area shape="rect" id="node25" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="551,441,615,468"/>
+<area shape="rect" id="node26" href="$classNavEKF.html#af00a144845ea0078be28516c5d584c78" title="NavEKF::getEulerAngles" alt="" coords="499,289,667,316"/>
+<area shape="rect" id="node28" href="$classNavEKF.html#afd23b087248e7c8bb5b65f834ba9544e" title="NavEKF::calcQuatAndField\lStates" alt="" coords="491,543,674,585"/>
+<area shape="rect" id="node14" href="$classQuaternion.html#a9ae6c42349ddc744022a4a1cf7868eb0" title="Quaternion::get_euler_roll" alt="" coords="1012,49,1183,76"/>
+<area shape="rect" id="node15" href="$classQuaternion.html#a0bfe50c332309932cd833b83f6524e5f" title="Quaternion::get_euler\l_pitch" alt="" coords="1024,101,1171,142"/>
+<area shape="rect" id="node17" href="$classQuaternion.html#a35c2a1030832728574363ed8655da625" title="Quaternion::get_euler_yaw" alt="" coords="1009,167,1186,193"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#a2706fd969ad73bc8ef977d964c04f4a3" title="safe_asin" alt="" coords="1286,108,1365,135"/>
+<area shape="rect" id="node22" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="790,188,890,215"/>
+<area shape="rect" id="node27" href="$classAP__AHRS.html#a93a3774320e331583fc6c6ac2418be21" title="AP_AHRS::get_trim" alt="" coords="770,239,910,265"/>
+<area shape="rect" id="node30" href="$classAP__AHRS.html#adf808841de62499bc8c388fc798d47f1" title="AP_AHRS::get_compass" alt="" coords="1240,572,1411,599"/>
+<area shape="rect" id="node32" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="773,445,907,472"/>
+<area shape="rect" id="node33" href="$classNavEKF.html#adf06c6a73b9ca994ca16892ed0740283" title="NavEKF::readMagData" alt="" coords="761,395,919,421"/>
+<area shape="rect" id="node39" href="$classCompass.html#a5051de1d15ee203600422235ab93c88c" title="Compass::get_declination" alt="" coords="1011,572,1184,599"/>
+<area shape="rect" id="node40" href="$classQuaternion.html#afb7132c9c69a984a40be950a17effeaa" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="772,649,908,690"/>
+<area shape="rect" id="node41" href="$classNavEKF.html#a22aad7c0baf696cae27135ecaa4f2f58" title="NavEKF::alignMagStateDeclination" alt="" coords="726,597,954,624"/>
+<area shape="rect" id="node31" href="$classCompass.html#a97437729a583cd900e4dd1d6d84a4a0e" title="return true if the compass should be used for yaw calculations " alt="" coords="1245,673,1405,700"/>
+<area shape="rect" id="node34" href="$classCompass.html#a9600516e0dbde9186d3b14b3457af013" title="Compass::last_update_usec" alt="" coords="1003,217,1191,244"/>
+<area shape="rect" id="node35" href="$classCompass.html#aa1f44c7920bbd147fa2e58bfedd3c4bb" title="Return the current field as a Vector3f. " alt="" coords="1030,268,1165,295"/>
+<area shape="rect" id="node36" href="$classNavEKF.html#a46acab5de021fea9824f4b5bed04e3e9" title="NavEKF::RecallStates" alt="" coords="1020,319,1175,345"/>
+<area shape="rect" id="node37" href="$classCompass.html#a6ef45f63ac177793bf38270cef8228cb" title="Compass::get_offsets" alt="" coords="1022,369,1173,396"/>
+<area shape="rect" id="node38" href="$AP__Math_8h.html#acedd05d9f5ab6f2878991cc684e17c18" title="is_equal" alt="" coords="1062,420,1133,447"/>
+<area shape="rect" id="node42" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="1047,867,1147,893"/>
+</map>

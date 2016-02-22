@@ -1,0 +1,7 @@
+<map id="AC_Circle::calc_velocities" name="AC_Circle::calc_velocities">
+<area shape="rect" id="node2" href="$AP__Math_8h.html#ada62278a4b460237f914e1c6a5355e55" title="wrap_PI" alt="" coords="263,5,334,32"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#aa29e7079a2637d1820276bd35a76c084" title="AC_PosControl::get\l_speed_xy" alt="" coords="229,57,368,98"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="261,123,337,149"/>
+<area shape="rect" id="node5" href="$classAC__PosControl.html#a00403fdcd2f83a4218f58dd59db4863c" title="AC_PosControl::get\l_accel_xy" alt="" coords="229,174,368,215"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="245,240,352,267"/>
+</map>

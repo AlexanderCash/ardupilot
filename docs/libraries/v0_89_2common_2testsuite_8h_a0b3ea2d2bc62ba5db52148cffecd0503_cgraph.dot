@@ -1,0 +1,37 @@
+digraph "mavlink_test_local_position_setpoint"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="mavlink_test_local\l_position_setpoint",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="mavlink_msg_local_position\l_setpoint_encode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#ab2f8b956db3331a4f509c7d48aed3464",tooltip="Encode a local_position_setpoint struct into a message. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="mavlink_msg_local_position\l_setpoint_pack",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#ab9c904c9f2ca05917fdcf29d7adc0038",tooltip="Pack a local_position_setpoint message. "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="mavlink_finalize_message",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0",tooltip="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="mavlink_msg_local_position\l_setpoint_decode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#a7bba253670ab6e1862a02fb572ad0c4b",tooltip="Decode a local_position_setpoint message into a struct. "];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="mavlink_msg_local_position\l_setpoint_get_x",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#aa89b1586e519a7e29388bdc3bc7a6af8",tooltip="Send a local_position_setpoint message. "];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="mavlink_msg_local_position\l_setpoint_get_y",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#aea65dad10e5f25c8ea513ae10a48267a",tooltip="Get field y from local_position_setpoint message. "];
+  Node5 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="mavlink_msg_local_position\l_setpoint_get_z",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#a8a886d40c118ee4b77b164a2e7cc5b25",tooltip="Get field z from local_position_setpoint message. "];
+  Node5 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="mavlink_msg_local_position\l_setpoint_get_yaw",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#aead56f361b8fe98af387995e73e2ed0a",tooltip="Get field yaw from local_position_setpoint message. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="mavlink_msg_local_position\l_setpoint_pack_chan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__local__position__setpoint_8h.html#a8439d103aaf5eb25811dc78c8e5d1284",tooltip="Pack a local_position_setpoint message on a channel. "];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="mavlink_finalize_message_chan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422",tooltip="Finalize a MAVLink message with channel assignment. "];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="mavlink_msg_to_send\l_buffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e",tooltip="Pack a message to send it over a serial byte stream. "];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="mavlink_msg_get_send\l_buffer_length",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8",tooltip="Get the required buffer size for this message. "];
+  Node1 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="comm_send_ch",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8"];
+  Node14 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="AP_HAL::Print::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501"];
+}

@@ -1,0 +1,11 @@
+<map id="update_loiter" name="update_loiter">
+<area shape="rect" id="node2" href="$ArduPlane_8pde.html#a281c9fecc7781fe8c291fbbca573fa5a" title="update_navigation" alt="" coords="150,5,277,32"/>
+<area shape="rect" id="node4" href="$commands__logic_8pde.html#a83cb9e88122b8baf51da51e69714c981" title="verify_loiter_time" alt="" coords="153,56,274,83"/>
+<area shape="rect" id="node7" href="$commands__logic_8pde.html#aecd8d67a3f22d39bd67f5a7fd95bb7a0" title="verify_loiter_to_alt" alt="" coords="149,107,277,133"/>
+<area shape="rect" id="node8" href="$commands__logic_8pde.html#a687fac1b7a832b6e7f05c0e92e3727bf" title="verify_loiter_turns" alt="" coords="151,157,276,184"/>
+<area shape="rect" id="node9" href="$commands__logic_8pde.html#a65316caeb7f350ecd7ee1a8576c4381a" title="verify_loiter_unlim" alt="" coords="150,208,277,235"/>
+<area shape="rect" id="node10" href="$commands__logic_8pde.html#aa57b6798c85ca51a65eac794db5bf999" title="verify_RTL" alt="" coords="170,259,257,285"/>
+<area shape="rect" id="node3" href="$navigation_8pde.html#a5573c39eb2cddb37f77c17128c88eb54" title="navigate" alt="" coords="350,5,421,32"/>
+<area shape="rect" id="node5" href="$commands__logic_8pde.html#a42358652e4033ff08d1056cc4d5bbab8" title="verify_command" alt="" coords="326,157,445,184"/>
+<area shape="rect" id="node6" href="$commands__logic_8pde.html#a072ff1b2f62a15fe354c2405089fd078" title="verify_command_callback" alt="" coords="493,157,667,184"/>
+</map>

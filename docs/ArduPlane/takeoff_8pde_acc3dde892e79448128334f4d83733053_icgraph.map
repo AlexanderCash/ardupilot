@@ -1,0 +1,5 @@
+<map id="takeoff_tail_hold" name="takeoff_tail_hold">
+<area shape="rect" id="node2" href="$Attitude_8pde.html#ae7c6ea4cf1f5f30a0b1d8b63a0fbfae7" title="stabilize_pitch" alt="" coords="171,5,277,32"/>
+<area shape="rect" id="node3" href="$Attitude_8pde.html#a5915bf02c3bd19b57c717c8234369fdd" title="stabilize" alt="" coords="494,5,565,32"/>
+<area shape="rect" id="node4" href="$Attitude_8pde.html#aede80974c348fcf7fd493d948cd080df" title="stabilize_training" alt="" coords="326,31,445,57"/>
+</map>

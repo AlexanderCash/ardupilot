@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gimbal_request_axis_calibration_status_encode" name="mavlink_msg_gimbal_request_axis_calibration_status_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__request__axis__calibration__status_8h.html#ac1482929b426329942cb72e1fa02162e" title="Pack a gimbal_request_axis_calibration_status message. " alt="" coords="225,4,394,60"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="443,19,618,45"/>
+</map>

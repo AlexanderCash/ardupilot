@@ -1,0 +1,6 @@
+<map id="mavlink_msg_rally_point_get_flags" name="mavlink_msg_rally_point_get_flags">
+<area shape="rect" id="node2" href="$mavlink__msg__rally__point_8h.html#a98500bba8e08464a3a80617ecdcaee4c" title="Decode a rally_point message into a struct. " alt="" coords="219,5,384,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab8b2e24941b65200063b3d5872e4e41a" title="mavlink_test_rally\l_point" alt="" coords="433,5,559,46"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="608,12,792,39"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="841,12,957,39"/>
+</map>

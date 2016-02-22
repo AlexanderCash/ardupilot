@@ -1,0 +1,20 @@
+digraph "libraries/AP_InertialSensor/LSM9DS0" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_f8d151dc119ef4d37afa003c944b490a {
+    graph [ bgcolor="#ddddee", pencolor="black", label="AP_InertialSensor" fontname="Helvetica", fontsize="10", URL="dir_f8d151dc119ef4d37afa003c944b490a.html"]
+  dir_6afd3b2ede715165c7c2a04a849c3c48 [shape=box, label="LSM9DS0", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_6afd3b2ede715165c7c2a04a849c3c48.html"];
+  }
+  dir_1cbc10423b2512b31103883361e0123b [shape=box label="AP_HAL" fillcolor="white" style="filled" color="red" URL="dir_1cbc10423b2512b31103883361e0123b.html"];
+  dir_93fb9127672489656ce87df72f6e986d [shape=box label="AP_Math" fillcolor="white" style="filled" color="red" URL="dir_93fb9127672489656ce87df72f6e986d.html"];
+  dir_76c3a7c075633ea7df6dd8cefcefbb8f [shape=box label="AP_Progmem" URL="dir_76c3a7c075633ea7df6dd8cefcefbb8f.html"];
+  dir_1cbc10423b2512b31103883361e0123b->dir_93fb9127672489656ce87df72f6e986d [headlabel="7", labeldistance=1.5 headhref="dir_000044_000111.html"];
+  dir_1cbc10423b2512b31103883361e0123b->dir_76c3a7c075633ea7df6dd8cefcefbb8f [headlabel="10", labeldistance=1.5 headhref="dir_000044_000148.html"];
+  dir_6afd3b2ede715165c7c2a04a849c3c48->dir_1cbc10423b2512b31103883361e0123b [headlabel="2", labeldistance=1.5 headhref="dir_000107_000044.html"];
+  dir_6afd3b2ede715165c7c2a04a849c3c48->dir_93fb9127672489656ce87df72f6e986d [headlabel="1", labeldistance=1.5 headhref="dir_000107_000111.html"];
+  dir_6afd3b2ede715165c7c2a04a849c3c48->dir_76c3a7c075633ea7df6dd8cefcefbb8f [headlabel="1", labeldistance=1.5 headhref="dir_000107_000148.html"];
+  dir_93fb9127672489656ce87df72f6e986d->dir_1cbc10423b2512b31103883361e0123b [headlabel="5", labeldistance=1.5 headhref="dir_000111_000044.html"];
+  dir_93fb9127672489656ce87df72f6e986d->dir_76c3a7c075633ea7df6dd8cefcefbb8f [headlabel="5", labeldistance=1.5 headhref="dir_000111_000148.html"];
+  dir_76c3a7c075633ea7df6dd8cefcefbb8f->dir_1cbc10423b2512b31103883361e0123b [headlabel="1", labeldistance=1.5 headhref="dir_000148_000044.html"];
+}

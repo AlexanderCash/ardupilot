@@ -1,0 +1,4 @@
+<map id="AP_HAL_FLYMAPLE_NS::FLYMAPLEAnalogIn::board_voltage" name="AP_HAL_FLYMAPLE_NS::FLYMAPLEAnalogIn::board_voltage">
+<area shape="rect" id="node2" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogSource.html#aee448690c1b7f5d5ff8bc9a3b2f6c365" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogSource\l::voltage_latest" alt="" coords="230,4,410,60"/>
+<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogSource.html#af3076de1483893329f24e5b7cacf65bf" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogSource\l::read_latest" alt="" coords="459,4,639,60"/>
+</map>

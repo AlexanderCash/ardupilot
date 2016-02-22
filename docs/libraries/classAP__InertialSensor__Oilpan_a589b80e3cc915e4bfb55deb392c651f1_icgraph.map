@@ -1,0 +1,4 @@
+<map id="AP_InertialSensor_Oilpan::_sample_available" name="AP_InertialSensor_Oilpan::_sample_available">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Oilpan.html#aa3d8a48032ad89f7f7f6581bae79e16d" title="AP_InertialSensor_Oilpan\l::accel_sample_available" alt="" coords="224,5,395,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Oilpan.html#a29a342b618fab941712fe1f366e0a1f6" title="AP_InertialSensor_Oilpan\l::gyro_sample_available" alt="" coords="224,70,395,111"/>
+</map>

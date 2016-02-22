@@ -1,0 +1,5 @@
+<map id="DataFlash_Class::find_last_log" name="DataFlash_Class::find_last_log">
+<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a9685f685665e932079522a281086b581" title="GCS_MAVLINK::handle\l_log_request_data" alt="" coords="205,5,368,46"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#a1c015f2ab464807939761ac7d7889bd4" title="GCS_MAVLINK::handle\l_log_request_list" alt="" coords="205,70,368,111"/>
+<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#add8326241719712dc068a07845bf476c" title="GCS_MAVLINK::handle\l_log_message" alt="" coords="416,38,579,79"/>
+</map>

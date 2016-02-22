@@ -1,0 +1,10 @@
+<map id="NavEKF::getFilterStatus" name="NavEKF::getFilterStatus">
+<area shape="rect" id="node2" href="$classNavEKF.html#aede9e0e542bbf09e7815a71cd3ed3437" title="NavEKF::assume_zero\l_sideslip" alt="" coords="219,57,378,98"/>
+<area shape="rect" id="node5" href="$classNavEKF.html#ad418b75ceae3dde42f8c588b7e88abb4" title="NavEKF::healthy" alt="" coords="237,148,360,175"/>
+<area shape="rect" id="node7" href="$classQuaternion.html#aa3036ce97bb5a7394a2d65edecd8f1ab" title="Quaternion::is_nan" alt="" coords="659,199,789,225"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a6120b45de751ab784fdfdd04f437b44e" title="AP_AHRS::get_fly_forward" alt="" coords="427,5,610,32"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a91a73986f61cc338a22047e34230cbb2" title="AP_AHRS::get_vehicle\l_class" alt="" coords="439,57,598,98"/>
+<area shape="rect" id="node6" href="$classNavEKF.html#ab71619ef68ba5d8b11f68ef4f31a65c2" title="NavEKF::getFilterFaults" alt="" coords="437,123,600,149"/>
+<area shape="rect" id="node9" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="499,173,538,200"/>
+<area shape="rect" id="node8" href="$classVector3.html#a076ee3d40e645623b54650cca5ae6df7" title="Vector3::is_nan" alt="" coords="667,123,781,149"/>
+</map>

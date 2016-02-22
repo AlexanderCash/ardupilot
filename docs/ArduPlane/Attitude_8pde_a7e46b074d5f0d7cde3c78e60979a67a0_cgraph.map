@@ -1,0 +1,5 @@
+<map id="adjust_nav_pitch_throttle" name="adjust_nav_pitch_throttle">
+<area shape="rect" id="node2" href="$system_8pde.html#aace1398ffda9439d94207326348ef40b" title="throttle_percentage" alt="" coords="221,31,355,57"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="437,5,547,32"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#acbef0e8e40f867ca4d8d6c19598dcff5" title="RC_Channel::norm_output" alt="" coords="403,56,581,83"/>
+</map>

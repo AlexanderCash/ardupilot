@@ -1,0 +1,14 @@
+<map id="mavlink_test_timesync" name="mavlink_test_timesync">
+<area shape="rect" id="node2" href="$mavlink__msg__timesync_8h.html#a391b79df7ec56c362655ddc0236faa65" title="Encode a timesync struct. " alt="" coords="211,5,370,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__timesync_8h.html#a56023ce3ccbdfeb5ee871a2e67a8f7ec" title="Pack a timesync message. " alt="" coords="427,12,621,39"/>
+<area shape="rect" id="node5" href="$mavlink__msg__timesync_8h.html#a493dc8658de53d66ee9287f5dda606ad" title="Decode a timesync message into a struct. " alt="" coords="211,122,370,163"/>
+<area shape="rect" id="node8" href="$mavlink__msg__timesync_8h.html#a9ca2ba817400a263d498cc0a9d31dfa8" title="Pack a timesync message on a channel. " alt="" coords="211,187,370,229"/>
+<area shape="rect" id="node10" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="215,253,367,294"/>
+<area shape="rect" id="node11" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="211,318,370,359"/>
+<area shape="rect" id="node12" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="233,384,348,411"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="678,12,853,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__timesync_8h.html#a27f849bbfbe681d2b41da1cf6e491cb0" title="Send a timesync message. " alt="" coords="445,63,603,105"/>
+<area shape="rect" id="node7" href="$mavlink__msg__timesync_8h.html#a50d8de54b93f2d45b4bd8bff01a7d7d0" title="Get field ts1 from timesync message. " alt="" coords="445,129,603,170"/>
+<area shape="rect" id="node9" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="419,195,629,221"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="452,384,596,411"/>
+</map>

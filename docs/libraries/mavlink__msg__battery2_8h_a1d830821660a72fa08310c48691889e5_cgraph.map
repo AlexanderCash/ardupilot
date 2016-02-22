@@ -1,0 +1,4 @@
+<map id="mavlink_msg_battery2_encode" name="mavlink_msg_battery2_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__battery2_8h.html#ad1e4706d64d4d9733ef923847e50cc95" title="Pack a battery2 message. " alt="" coords="209,12,397,39"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="446,12,621,39"/>
+</map>

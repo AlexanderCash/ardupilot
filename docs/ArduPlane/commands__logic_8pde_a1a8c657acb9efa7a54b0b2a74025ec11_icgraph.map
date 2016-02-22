@@ -1,0 +1,4 @@
+<map id="start_command" name="start_command">
+<area shape="rect" id="node2" href="$commands__logic_8pde.html#a8cc2b5f231ed49f1dd33e7500f0351c0" title="exit_mission_callback" alt="" coords="174,5,325,32"/>
+<area shape="rect" id="node3" href="$commands__logic_8pde.html#a0430a022cdb46cf93cef509c17cd6b1f" title="start_command_callback" alt="" coords="166,56,333,83"/>
+</map>

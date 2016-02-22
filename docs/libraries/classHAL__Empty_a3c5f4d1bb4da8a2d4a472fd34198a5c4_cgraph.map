@@ -1,0 +1,5 @@
+<map id="HAL_Empty::init" name="HAL_Empty::init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a73404760256b0274f21958e334bb3f41" title="AP_HAL::Scheduler::init" alt="" coords="189,5,353,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title="AP_HAL::UARTDriver\l::begin" alt="" coords="194,57,347,98"/>
+<area shape="rect" id="node4" href="$classEmpty_1_1EmptyPrivateMember.html#a137b1866ad28bf2f18519d55f04cabbd" title="Empty::EmptyPrivateMember\l::init" alt="" coords="173,122,368,163"/>
+</map>

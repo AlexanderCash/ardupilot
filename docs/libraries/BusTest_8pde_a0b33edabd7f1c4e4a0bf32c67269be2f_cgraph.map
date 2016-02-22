@@ -1,0 +1,10 @@
+<map id="loop" name="loop">
+<area shape="rect" id="node2" href="$AP__HAL__FLYMAPLE_2SPIDriver_8cpp.html#a9f75011a7029af8bd0aa995e780c7aa3" title="spi" alt="" coords="179,5,218,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="122,57,275,98"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceManager.html#ab26a3e8f8b43e59376ce98aafd288452" title="AP_HAL::SPIDeviceManager\l::device" alt="" coords="101,122,296,163"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1SPIDeviceDriver.html#a1c518b753148caee4d708c2311a9e548" title="AP_HAL::SPIDeviceDriver\l::get_semaphore" alt="" coords="109,187,288,229"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="109,253,289,280"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="109,305,288,346"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="109,371,288,397"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="125,422,272,463"/>
+</map>

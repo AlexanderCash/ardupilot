@@ -1,0 +1,4 @@
+<map id="calc_nav_yaw_coordinated" name="calc_nav_yaw_coordinated">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__YawController.html#a0cff30a9e52de0ba04dd26661a1f4506" title="AP_YawController::get\l_servo_out" alt="" coords="232,5,387,46"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="254,71,365,97"/>
+</map>

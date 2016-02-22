@@ -1,0 +1,36 @@
+<map id="libraries/AP_BattMonitor/AP_BattMonitor_Backend.h" name="libraries/AP_BattMonitor/AP_BattMonitor_Backend.h">
+<area shape="rect" id="node2" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries. " alt="" coords="903,245,1013,272"/>
+<area shape="rect" id="node6" href="$AP__HAL_8h.html" title="AP_HAL.h" alt="" coords="1471,411,1554,437"/>
+<area shape="rect" id="node31" href="$AP__BattMonitor_8h.html" title="AP_BattMonitor.h" alt="" coords="781,96,906,123"/>
+<area shape="rect" id="node7" href="$AP__HAL__Namespace_8h.html" title="AP_HAL_Namespace.h" alt="" coords="1649,859,1810,885"/>
+<area shape="rect" id="node10" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="989,784,1121,811"/>
+<area shape="rect" id="node11" href="$AP__HAL__Macros_8h.html" title="AP_HAL_Macros.h" alt="" coords="996,485,1130,512"/>
+<area shape="rect" id="node12" href="$UARTDriver_8h.html" title="UARTDriver.h" alt="" coords="1460,560,1565,587"/>
+<area shape="rect" id="node13" href="$BetterStream_8h.html" title="utility/BetterStream.h" alt="" coords="1196,635,1341,661"/>
+<area shape="rect" id="node15" href="$Stream_8h.html" title="Stream.h" alt="" coords="1314,709,1387,736"/>
+<area shape="rect" id="node16" href="$Print_8h.html" title="Print.h" alt="" coords="563,784,622,811"/>
+<area shape="rect" id="node20" href="$I2CDriver_8h.html" title="I2CDriver.h" alt="" coords="1349,784,1438,811"/>
+<area shape="rect" id="node21" href="$SPIDriver_8h.html" title="SPIDriver.h" alt="" coords="1843,560,1934,587"/>
+<area shape="rect" id="node22" href="$AnalogIn_8h.html" title="AnalogIn.h" alt="" coords="2009,560,2093,587"/>
+<area shape="rect" id="node23" href="$Storage_8h.html" title="Storage.h" alt="" coords="1776,709,1854,736"/>
+<area shape="rect" id="node24" href="$GPIO_8h.html" title="GPIO.h" alt="" coords="1691,635,1758,661"/>
+<area shape="rect" id="node25" href="$RCInput_8h.html" title="RCInput.h" alt="" coords="2118,560,2199,587"/>
+<area shape="rect" id="node26" href="$RCOutput_8h.html" title="RCOutput.h" alt="" coords="2225,560,2317,587"/>
+<area shape="rect" id="node27" href="$Scheduler_8h.html" title="Scheduler.h" alt="" coords="902,635,993,661"/>
+<area shape="rect" id="node28" href="$Semaphores_8h.html" title="Semaphores.h" alt="" coords="2246,485,2353,512"/>
+<area shape="rect" id="node29" href="$Util_8h.html" title="Util.h" alt="" coords="1118,635,1171,661"/>
+<area shape="rect" id="node30" href="$HAL_8h.html" title="HAL.h" alt="" coords="1859,485,1917,512"/>
+<area shape="rect" id="node9" href="$FastDelegate_8h.html" title="utility/FastDelegate.h" alt="" coords="1657,933,1803,960"/>
+<area shape="rect" id="node18" href="$AP__Progmem_8h.html" title="AP_Progmem.h" alt="" coords="829,709,943,736"/>
+<area shape="rect" id="node19" href="$AP__Progmem__Identity_8h.html" title="AP_Progmem_Identity.h" alt="" coords="749,784,913,811"/>
+<area shape="rect" id="node32" href="$AP__Param_8h.html" title="A system for managing and storing variables that are of general interest to the system. " alt="" coords="722,245,818,272"/>
+<area shape="rect" id="node37" href="$AP__Math_8h.html" title="AP_Math.h" alt="" coords="408,171,494,197"/>
+<area shape="rect" id="node36" href="$StorageManager_8h.html" title="../StorageManager/Storage\lManager.h" alt="" coords="995,321,1174,362"/>
+<area shape="rect" id="node38" href="$rotations_8h.html" title="rotations.h" alt="" coords="227,245,309,272"/>
+<area shape="rect" id="node39" href="$vector2_8h.html" title="vector2.h" alt="" coords="228,328,303,355"/>
+<area shape="rect" id="node40" href="$vector3_8h.html" title="vector3.h" alt="" coords="25,328,101,355"/>
+<area shape="rect" id="node41" href="$matrix3_8h.html" title="matrix3.h" alt="" coords="25,245,101,272"/>
+<area shape="rect" id="node42" href="$quaternion_8h.html" title="quaternion.h" alt="" coords="379,328,473,355"/>
+<area shape="rect" id="node43" href="$polygon_8h.html" title="polygon.h" alt="" coords="335,245,413,272"/>
+<area shape="rect" id="node44" href="$edc_8h.html" title="edc.h" alt="" coords="649,635,703,661"/>
+</map>

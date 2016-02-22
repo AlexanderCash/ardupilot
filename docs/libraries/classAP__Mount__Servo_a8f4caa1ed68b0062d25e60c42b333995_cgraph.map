@@ -1,0 +1,35 @@
+<map id="AP_Mount_Servo::update" name="AP_Mount_Servo::update">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="255,5,401,46"/>
+<area shape="rect" id="node3" href="$classAP__Mount__Servo.html#a1c7e6d1912f043458b6a323f150b4ad7" title="AP_Mount_Servo::check\l_servo_map" alt="" coords="245,70,411,111"/>
+<area shape="rect" id="node5" href="$classAP__Mount__Backend.html#a5b180d2237a8e70d512762f651291f49" title="AP_Mount_Backend::get_mode" alt="" coords="225,201,431,228"/>
+<area shape="rect" id="node7" href="$classAP__Mount__Servo.html#af3b79839d37536f6bb7ab56104d77e2f" title="AP_Mount_Servo::stabilize" alt="" coords="238,328,418,355"/>
+<area shape="rect" id="node14" href="$classAP__Mount__Backend.html#ab4be0d28626c019ba59dc179f728c9c9" title="AP_Mount_Backend::update\l_targets_from_rc" alt="" coords="234,523,422,565"/>
+<area shape="rect" id="node20" href="$classAP__Mount__Backend.html#ab0207ef4fbcb40f1592a85cc75ddad37" title="AP_Mount_Backend::calc\l_angle_to_location" alt="" coords="241,691,415,733"/>
+<area shape="rect" id="node25" href="$classAP__Mount__Servo.html#aa03d61822081680668287a8519d658fd" title="move_servo &#45; moves servo with the given id to the specified angle. all angles are in degrees * 10 ..." alt="" coords="246,135,410,177"/>
+<area shape="rect" id="node4" href="$classRC__Channel__aux.html#a423accc4de40960cf7ef2c4755e8a9d1" title="RC_Channel_aux::function\l_assigned" alt="" coords="711,11,889,53"/>
+<area shape="rect" id="node6" href="$classAP__Mount.html#a26ea3e1c86204271b6b90f1fb4f3ee92" title="AP_Mount::get_mode" alt="" coords="497,201,645,228"/>
+<area shape="rect" id="node8" href="$classMatrix3.html#aa8a6a2bce923d8931c017508cb00e24d" title="Matrix3::transpose" alt="" coords="505,252,636,279"/>
+<area shape="rect" id="node9" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="503,303,638,329"/>
+<area shape="rect" id="node10" href="$classMatrix3.html#a893c6a712d52e47dbb7ed2d7a548046e" title="Matrix3::to_euler" alt="" coords="511,353,630,380"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="537,404,605,431"/>
+<area shape="rect" id="node13" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="539,455,603,481"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a2706fd969ad73bc8ef977d964c04f4a3" title="safe_asin" alt="" coords="761,353,839,380"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="517,505,624,532"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="768,556,832,583"/>
+<area shape="rect" id="node17" href="$classAP__Mount__Backend.html#a7cbf9f6695f80998e1cc39b9a3a5a0ae" title="AP_Mount_Backend::angle\l_input_rad" alt="" coords="481,607,661,649"/>
+<area shape="rect" id="node18" href="$classAP__Mount__Backend.html#aca1f2d5e9e859d8458772006a5e9a178" title="AP_Mount_Backend::angle\l_input" alt="" coords="710,607,890,649"/>
+<area shape="rect" id="node19" href="$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="948,615,1121,641"/>
+<area shape="rect" id="node21" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="521,673,621,700"/>
+<area shape="rect" id="node23" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="521,724,621,751"/>
+<area shape="rect" id="node24" href="$AP__Math_8h.html#ada62278a4b460237f914e1c6a5355e55" title="wrap_PI" alt="" coords="535,775,606,801"/>
+<area shape="rect" id="node22" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="781,673,819,700"/>
+<area shape="rect" id="node26" href="$classAP__Mount__Servo.html#a69c8a55b1f8ab06883040c6c569e71dd" title="AP_Mount_Servo::closest\l_limit" alt="" coords="483,135,658,177"/>
+<area shape="rect" id="node27" href="$classRC__Channel__aux.html#a39d6000a07de2819dd8888980f5b6773" title="RC_Channel_aux::move\l_servo" alt="" coords="488,70,653,111"/>
+<area shape="rect" id="node28" href="$classRC__Channel.html#ad51e68c85b76d1209e7cb6db224e63ba" title="RC_Channel::set_range" alt="" coords="719,77,881,104"/>
+<area shape="rect" id="node29" href="$classRC__Channel.html#a5876259d8fb8c1c475322a236bae7819" title="RC_Channel::calc_pwm" alt="" coords="718,128,882,155"/>
+<area shape="rect" id="node33" href="$classRC__Channel.html#aabaff8233192d5f2a20e2207914ca3e3" title="RC_Channel::output" alt="" coords="729,204,871,231"/>
+<area shape="rect" id="node30" href="$classRC__Channel.html#ac50875b55ac524f9d0b2ee50174bd300" title="RC_Channel::range_to_pwm" alt="" coords="939,65,1130,92"/>
+<area shape="rect" id="node31" href="$classRC__Channel.html#abcf4a69f7323c85306e8a25b34e929b3" title="RC_Channel::angle_to_pwm" alt="" coords="940,116,1129,143"/>
+<area shape="rect" id="node32" href="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="979,167,1090,193"/>
+<area shape="rect" id="node34" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="947,217,1123,244"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AK8963_MPU9250_SPI_Backend::sem_take_nonblocking" name="AK8963_MPU9250_SPI_Backend::sem_take_nonblocking">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="275,5,429,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#aff08efd498147eefe68ee91cbc03e744" title="AP_HAL::Scheduler::\lsystem_initializing" alt="" coords="279,70,425,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="279,135,425,177"/>
+</map>

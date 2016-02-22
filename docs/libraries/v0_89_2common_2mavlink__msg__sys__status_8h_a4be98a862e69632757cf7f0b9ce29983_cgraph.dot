@@ -1,0 +1,22 @@
+digraph "mavlink_msg_sys_status_decode"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="mavlink_msg_sys_status\l_decode",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="mavlink_msg_sys_status\l_get_mode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a4288007ff745753adda49a6434e2e699",tooltip="Send a sys_status message. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="mavlink_msg_sys_status\l_get_nav_mode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a677d34da6536d48c057763247f0da851",tooltip="Get field nav_mode from sys_status message. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="mavlink_msg_sys_status\l_get_status",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a729c0b2626be57e02414d3e90513998f",tooltip="Get field status from sys_status message. "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="mavlink_msg_sys_status\l_get_load",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2common_2mavlink__msg__sys__status_8h.html#aae7c31ca678091587ef13c0e269b4a95",tooltip="Get field load from sys_status message. "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="mavlink_msg_sys_status\l_get_vbat",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2common_2mavlink__msg__sys__status_8h.html#ac566a9cc325a6f13f7aed1bd6cce90f0",tooltip="Get field vbat from sys_status message. "];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="mavlink_msg_sys_status\l_get_battery_remaining",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a7f15d40daa20c449354079cf73ecb85a",tooltip="Get field battery_remaining from sys_status message. "];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="mavlink_msg_sys_status\l_get_packet_drop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a6ec534b1f734595d50bdc7cb3edfa50a",tooltip="Get field packet_drop from sys_status message. "];
+}

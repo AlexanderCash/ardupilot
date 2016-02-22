@@ -1,0 +1,10 @@
+<map id="AP_Motors::apply_thrust_curve_and_volt_scaling" name="AP_Motors::apply_thrust_curve_and_volt_scaling">
+<area shape="rect" id="node2" href="$classAP__MotorsTri.html#a5fb3552662e9242267eedd461d64fe4c" title="AP_MotorsTri::output\l_armed_not_stabilizing" alt="" coords="228,5,383,46"/>
+<area shape="rect" id="node3" href="$classAP__MotorsCoax.html#af0309d34188f4f427fd1197ea768f2ea" title="AP_MotorsCoax::output\l_armed_not_stabilizing" alt="" coords="224,70,387,111"/>
+<area shape="rect" id="node4" href="$classAP__MotorsSingle.html#a407007cbe551ef339131c7b66a0e5955" title="AP_MotorsSingle::output\l_armed_not_stabilizing" alt="" coords="222,135,389,177"/>
+<area shape="rect" id="node5" href="$classAP__MotorsMatrix.html#a54ae23df7be61c1fdc80ffe831383f4b" title="AP_MotorsMatrix::output\l_armed_not_stabilizing" alt="" coords="222,201,389,242"/>
+<area shape="rect" id="node6" href="$classAP__MotorsTri.html#adb1243ee8f1454434568fc5113fcfa83" title="AP_MotorsTri::output\l_armed_stabilizing" alt="" coords="232,266,379,307"/>
+<area shape="rect" id="node7" href="$classAP__MotorsCoax.html#a11539f6cae3db5ab262c2918c2ee6657" title="AP_MotorsCoax::output\l_armed_stabilizing" alt="" coords="224,331,387,373"/>
+<area shape="rect" id="node8" href="$classAP__MotorsSingle.html#aa687f46ca430b67757cb2a76220cf0d5" title="AP_MotorsSingle::output\l_armed_stabilizing" alt="" coords="222,397,389,438"/>
+<area shape="rect" id="node9" href="$classAP__MotorsMatrix.html#a32cad7f12087bf7106fe70a8d40f7419" title="AP_MotorsMatrix::output\l_armed_stabilizing" alt="" coords="222,462,389,503"/>
+</map>

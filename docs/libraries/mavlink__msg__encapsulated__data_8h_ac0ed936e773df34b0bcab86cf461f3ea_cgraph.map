@@ -1,0 +1,6 @@
+<map id="mavlink_msg_encapsulated_data_encode_chan" name="mavlink_msg_encapsulated_data_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__encapsulated__data_8h.html#a4743f90be95b40a1d8687994688e7ab3" title="Pack a encapsulated_data message on a channel. " alt="" coords="238,49,421,90"/>
+<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a78cf8b010c1768f8be4b9caa34aba0dc" title="_mav_put_uint8_t_array" alt="" coords="494,5,655,32"/>
+<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="729,31,869,57"/>
+<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="469,107,680,133"/>
+</map>

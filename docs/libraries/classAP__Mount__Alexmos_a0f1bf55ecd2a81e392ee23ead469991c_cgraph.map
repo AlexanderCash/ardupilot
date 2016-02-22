@@ -1,0 +1,5 @@
+<map id="AP_Mount_Alexmos::get_angles" name="AP_Mount_Alexmos::get_angles">
+<area shape="rect" id="node2" href="$classAP__Mount__Alexmos.html#aad80a69937fd3356ed8f2e338bde3605" title="AP_Mount_Alexmos::send\l_command" alt="" coords="222,23,399,65"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="449,5,626,32"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="465,56,609,83"/>
+</map>

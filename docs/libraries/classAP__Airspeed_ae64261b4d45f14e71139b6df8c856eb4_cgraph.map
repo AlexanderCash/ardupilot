@@ -1,0 +1,8 @@
+<map id="AP_Airspeed::update_calibration" name="AP_Airspeed::update_calibration">
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="457,5,564,32"/>
+<area shape="rect" id="node3" href="$classAP__Airspeed.html#a4aa4fe1b6d9a60710cfe170dfcab47c1" title="AP_Airspeed::get_differential\l_pressure" alt="" coords="201,51,391,93"/>
+<area shape="rect" id="node4" href="$classAirspeed__Calibration.html#ad4b651353cbd518c1771740e5376f853" title="Airspeed_Calibration\l::update" alt="" coords="225,117,367,158"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="630,117,669,144"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#ac09c78b18c2ad21b9a04081f119f11c0" title="pythagorous3" alt="" coords="461,67,561,93"/>
+<area shape="rect" id="node7" href="$classVector3.html#a8f5129ceffea6ebb57ab7adda9f1a960" title="Vector3::mul_rowcol" alt="" coords="440,168,581,195"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mavlink_msg_statustext_decode" name="mavlink_msg_statustext_decode">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#a965c672802dc7e09ed8d4a10242e8d22" title="Send a statustext message. " alt="" coords="219,5,383,46"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#af906e0a9c9a9822470edc85ef1474c2d" title="Get field text from statustext message. " alt="" coords="219,70,383,111"/>
+<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a376f7eb3a7e5c20aac470d3571efdf00" title="_MAV_RETURN_int8_t\l_array" alt="" coords="433,70,594,111"/>
+</map>

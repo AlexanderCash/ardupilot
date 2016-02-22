@@ -1,0 +1,56 @@
+<map id="mission" name="mission">
+<area shape="rect" id="node2" href="$altitude_8pde.html#a230a2b6b692dbf6886b1ce524376f88f" title="adjust_altitude_target" alt="" coords="125,5,272,32"/>
+<area shape="rect" id="node3" href="$system_8pde.html#a685b5c02e09ee2ded2177289d3a90c19" title="disarm_motors" alt="" coords="145,107,253,133"/>
+<area shape="rect" id="node8" href="$system_8pde.html#a07cf9733f0f3f5f51eb6090a22fdd0d5" title="exit_mode" alt="" coords="368,1067,451,1093"/>
+<area shape="rect" id="node9" href="$system_8pde.html#afe59c30399d04a968780503b2fc09ff7" title="set_mode" alt="" coords="567,1067,646,1093"/>
+<area shape="rect" id="node13" href="$control__modes_8pde.html#a795c2818aac0b7d2f673b178d181116d" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="740,1285,879,1312"/>
+<area shape="rect" id="node27" href="$landing_8pde.html#a53286296e984291837fff41ec8c10038" title="jump_to_landing_sequence" alt="" coords="720,1387,899,1413"/>
+<area shape="rect" id="node30" href="$system_8pde.html#ae45d741f1c48b956c06322f8c4db6c70" title="startup_ground" alt="" coords="755,1336,863,1363"/>
+<area shape="rect" id="node32" href="$ArduPlane_8pde.html#ab3877ebcfdd6fb99ff7500ad24f2ebd1" title="handle_auto_mode" alt="" coords="133,1320,264,1347"/>
+<area shape="rect" id="node34" href="$commands_8pde.html#a07a49241acb138ddd2b8662db98aed2a" title="init_home" alt="" coords="370,360,449,387"/>
+<area shape="rect" id="node36" href="$Log_8pde.html#ac66fbc49dffb5480658885c0061e0fd5" title="Log_Write_Cmd" alt="" coords="141,309,257,336"/>
+<area shape="rect" id="node37" href="$Log_8pde.html#a8bd8fdd9e6c10b76486d7c7633728e27" title="Log_Write_EntireMission" alt="" coords="326,259,493,285"/>
+<area shape="rect" id="node38" href="$Log_8pde.html#a42ab5e50bb21c48100e849ea9dea929d" title="Log_Write_Startup" alt="" coords="541,205,672,232"/>
+<area shape="rect" id="node39" href="$GCS__Mavlink_8pde.html#af3f71a9cf3da80c6c99c1cd692e5ad28" title="send_current_waypoint" alt="" coords="121,1371,277,1397"/>
+<area shape="rect" id="node40" href="$navigation_8pde.html#a6409561aa9dd027ac95e7110aa5a3e15" title="setup_turn_angle" alt="" coords="138,864,259,891"/>
+<area shape="rect" id="node51" href="$test_8pde.html#a4dc80fcc27bafc5f3fe286fca31d101c" title="test_wp" alt="" coords="165,1421,233,1448"/>
+<area shape="rect" id="node52" href="$commands__process_8pde.html#a81064a195409eb7b55b5fdb16e9a58bb" title="update_commands" alt="" coords="133,1269,265,1296"/>
+<area shape="rect" id="node53" href="$ArduPlane_8pde.html#aa93cec6a7662f3d2e08aaa245f0ea19c" title="update_flight_stage" alt="" coords="131,915,266,941"/>
+<area shape="rect" id="node54" href="$commands__logic_8pde.html#aecd8d67a3f22d39bd67f5a7fd95bb7a0" title="verify_loiter_to_alt" alt="" coords="345,157,473,184"/>
+<area shape="rect" id="node55" href="$commands__logic_8pde.html#af1ecf9f638890547df36a3a6fc5acb49" title="verify_nav_wp" alt="" coords="356,40,463,67"/>
+<area shape="rect" id="node4" href="$landing_8pde.html#a1df24c8c6568cbc8c72b7406283bf068" title="disarm_if_autoland\l_complete" alt="" coords="344,91,475,133"/>
+<area shape="rect" id="node5" href="$landing_8pde.html#a76d7ac00bf1a68b5db464de185d44847" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="564,99,649,125"/>
+<area shape="rect" id="node6" href="$commands__logic_8pde.html#a42358652e4033ff08d1056cc4d5bbab8" title="verify_command" alt="" coords="750,99,869,125"/>
+<area shape="rect" id="node7" href="$commands__logic_8pde.html#a072ff1b2f62a15fe354c2405089fd078" title="verify_command_callback" alt="" coords="947,99,1120,125"/>
+<area shape="rect" id="node10" href="$commands__logic_8pde.html#a1a8c657acb9efa7a54b0b2a74025ec11" title="start_command" alt="" coords="753,560,865,587"/>
+<area shape="rect" id="node15" href="$system_8pde.html#adf8053623ae608c96db339992ed2528c" title="init_ardupilot" alt="" coords="1169,1260,1263,1287"/>
+<area shape="rect" id="node17" href="$events_8pde.html#a6cc4db2101a0b686b4594a14ac4de049" title="failsafe_short_on_event" alt="" coords="729,1032,889,1059"/>
+<area shape="rect" id="node19" href="$events_8pde.html#a3f3b6c96711997a5a63eaa4436ea097c" title="failsafe_long_on_event" alt="" coords="732,1133,887,1160"/>
+<area shape="rect" id="node21" href="$events_8pde.html#afd1ed491d5988a9aafccf86d9c95c0ce" title="failsafe_short_off\l_event" alt="" coords="748,966,871,1007"/>
+<area shape="rect" id="node22" href="$events_8pde.html#a8c50f18e2cc2e6ec43f90c1a0b880e99" title="low_battery_event" alt="" coords="745,1184,873,1211"/>
+<area shape="rect" id="node24" href="$geofence_8pde.html#a131efdc9e7e9c64e4909789780279a66" title="geofence_check" alt="" coords="751,864,868,891"/>
+<area shape="rect" id="node31" href="$system_8pde.html#af51c9dc9104bacb7e0e05b366b43f66c" title="mavlink_set_mode" alt="" coords="744,1083,875,1109"/>
+<area shape="rect" id="node11" href="$commands__logic_8pde.html#a0430a022cdb46cf93cef509c17cd6b1f" title="start_command_callback" alt="" coords="950,560,1117,587"/>
+<area shape="rect" id="node12" href="$commands__logic_8pde.html#a8cc2b5f231ed49f1dd33e7500f0351c0" title="exit_mission_callback" alt="" coords="958,763,1109,789"/>
+<area shape="rect" id="node14" href="$control__modes_8pde.html#a1a85d98dee38cd7a939181118d483622" title="reset_control_switch" alt="" coords="962,1285,1105,1312"/>
+<area shape="rect" id="node16" href="$ArduPlane_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1313,1260,1367,1287"/>
+<area shape="rect" id="node18" href="$system_8pde.html#a298557d3029fc5e0db868e570ddd065c" title="check_short_failsafe" alt="" coords="962,1003,1105,1029"/>
+<area shape="rect" id="node20" href="$system_8pde.html#ac712a358c5e71bb976fd5c39f844190f" title="check_long_failsafe" alt="" coords="965,1133,1102,1160"/>
+<area shape="rect" id="node23" href="$sensors_8pde.html#af836fb7da62a6fb918d166aa9835ad91" title="read_battery" alt="" coords="986,1184,1081,1211"/>
+<area shape="rect" id="node25" href="$ArduPlane_8pde.html#a952c65073f8556020619eca374f08067" title="update_GPS_10Hz" alt="" coords="966,383,1101,409"/>
+<area shape="rect" id="node26" href="$ArduPlane_8pde.html#a6fba8fd13515c54a77e9434c4784c3c9" title="update_alt" alt="" coords="992,889,1075,916"/>
+<area shape="rect" id="node28" href="$ArduPlane_8pde.html#a281c9fecc7781fe8c291fbbca573fa5a" title="update_navigation" alt="" coords="970,1412,1097,1439"/>
+<area shape="rect" id="node29" href="$navigation_8pde.html#a5573c39eb2cddb37f77c17128c88eb54" title="navigate" alt="" coords="1181,1412,1251,1439"/>
+<area shape="rect" id="node33" href="$ArduPlane_8pde.html#a1353a77e19a7028fda60ee8706f0879d" title="update_flight_mode" alt="" coords="342,1488,477,1515"/>
+<area shape="rect" id="node35" href="$commands__logic_8pde.html#a515158a573985361cf6cb9cf0701db52" title="do_set_home" alt="" coords="557,357,657,384"/>
+<area shape="rect" id="node41" href="$commands_8pde.html#a947d60d598982f6012289660b3fe8606" title="set_next_WP" alt="" coords="359,585,460,612"/>
+<area shape="rect" id="node49" href="$commands_8pde.html#a0514b3dcb890c7baa1c2a08bd4da693e" title="set_guided_WP" alt="" coords="352,864,467,891"/>
+<area shape="rect" id="node50" href="$commands__logic_8pde.html#a764b8431dbf1d572bff1ee7413bed3e2" title="do_RTL" alt="" coords="375,965,443,992"/>
+<area shape="rect" id="node42" href="$commands__logic_8pde.html#a24feb5c7fbe5fee3a8fe5be37cbe85a5" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="565,661,648,688"/>
+<area shape="rect" id="node43" href="$commands__logic_8pde.html#a8f41aec400c2b3b0f4dc53aa8ea6ab21" title="do_nav_wp" alt="" coords="563,712,651,739"/>
+<area shape="rect" id="node44" href="$commands__logic_8pde.html#a468c585c2fbc8a5651021abb81e21418" title="do_land" alt="" coords="573,408,640,435"/>
+<area shape="rect" id="node45" href="$commands__logic_8pde.html#a3751b06085ca9bc386a931cd9425a626" title="do_loiter_unlimited" alt="" coords="541,459,672,485"/>
+<area shape="rect" id="node46" href="$commands__logic_8pde.html#aa0fea363439d7ec45bbf48ac18160e70" title="do_loiter_turns" alt="" coords="553,509,660,536"/>
+<area shape="rect" id="node47" href="$commands__logic_8pde.html#a1769fe2481ba28461900e5954063eb18" title="do_loiter_time" alt="" coords="555,560,658,587"/>
+<area shape="rect" id="node48" href="$commands__logic_8pde.html#a2e24f379f14dd5bfb86ae893263ce6bf" title="do_loiter_to_alt" alt="" coords="551,611,662,637"/>
+</map>

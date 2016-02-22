@@ -1,0 +1,13 @@
+<map id="handle_message" name="handle_message">
+<area shape="rect" id="node2" href="$GCS__Console_8cpp.html#a3a5227d5bb6602cf76f5bb4f2689724e" title="gcs_console_handle\l_data16" alt="" coords="174,119,314,161"/>
+<area shape="rect" id="node8" href="$GCS__Console_8cpp.html#a435926f6c3cc44d4b92bc7c021d6b94d" title="gcs_console_handle\l_data32" alt="" coords="174,217,314,258"/>
+<area shape="rect" id="node3" href="$mavlink__msg__data16_8h.html#a959ffbaae72e58055efeacf684fd6605" title="Decode a data16 message into a struct. " alt="" coords="363,103,509,145"/>
+<area shape="rect" id="node4" href="$mavlink__msg__data16_8h.html#aa1f47c3f0244e9feaed0bc9df065057f" title="Send a data16 message. " alt="" coords="558,5,703,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__data16_8h.html#a053e7dfeecb2454ac50b3771284339de" title="Get field len from data16 message. " alt="" coords="558,70,703,111"/>
+<area shape="rect" id="node6" href="$mavlink__msg__data16_8h.html#a8edf3995092ef99f907bc322c5812f5a" title="Get field data from data16 message. " alt="" coords="558,135,703,177"/>
+<area shape="rect" id="node7" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="752,234,920,275"/>
+<area shape="rect" id="node9" href="$mavlink__msg__data32_8h.html#a823bdc8c2d3f7b67fc5aad141d565680" title="Decode a data32 message into a struct. " alt="" coords="363,258,509,299"/>
+<area shape="rect" id="node10" href="$mavlink__msg__data32_8h.html#a7b53104f75efbf1544af5e269a3dd547" title="Send a data32 message. " alt="" coords="558,201,703,242"/>
+<area shape="rect" id="node11" href="$mavlink__msg__data32_8h.html#a38fea47cfa9a383a7b15379e504decd1" title="Get field len from data32 message. " alt="" coords="558,266,703,307"/>
+<area shape="rect" id="node12" href="$mavlink__msg__data32_8h.html#a5e5c5cd756d0594be37cd9b12bec60a8" title="Get field data from data32 message. " alt="" coords="558,331,703,373"/>
+</map>

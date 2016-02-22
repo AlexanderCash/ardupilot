@@ -1,0 +1,6 @@
+<map id="mavlink_msg_mission_write_partial_list_decode" name="mavlink_msg_mission_write_partial_list_decode">
+<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#add72083180081323352d4f701ae0d7d2" title="GCS_MAVLINK::handle\l_mission_write_partial_list" alt="" coords="206,5,381,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#aa3cac0f9eaa9ed2acfcf616d7a9a7b0c" title="mavlink_test_mission\l_write_partial_list" alt="" coords="219,70,367,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="430,77,583,104"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="633,77,749,104"/>
+</map>

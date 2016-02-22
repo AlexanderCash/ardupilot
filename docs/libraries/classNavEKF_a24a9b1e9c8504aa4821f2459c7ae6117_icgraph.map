@@ -1,0 +1,5 @@
+<map id="NavEKF::alignYawGPS" name="NavEKF::alignYawGPS">
+<area shape="rect" id="node2" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="216,34,411,75"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="459,5,616,46"/>
+<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="462,71,613,97"/>
+</map>

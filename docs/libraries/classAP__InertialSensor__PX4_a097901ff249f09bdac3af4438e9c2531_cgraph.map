@@ -1,0 +1,20 @@
+<map id="AP_InertialSensor_PX4::accel_sample_available" name="AP_InertialSensor_PX4::accel_sample_available">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__PX4.html#a86f463cc20f89a9eb4618ed494b3adf9" title="AP_InertialSensor_PX4\l::_get_sample" alt="" coords="222,221,381,262"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__PX4.html#aae5898e5e990e07c17e354788fe0942e" title="AP_InertialSensor_PX4\l::_get_gyro_sample" alt="" coords="430,93,589,134"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__PX4.html#aba0601ed771e5b5ecdf305c4bc7ea1d4" title="AP_InertialSensor_PX4\l::_get_accel_sample" alt="" coords="430,27,589,69"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__PX4.html#a257fdff6435bb9addd12e3ba161c4c12" title="AP_InertialSensor_PX4\l::_new_gyro_sample" alt="" coords="430,221,589,262"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor__PX4.html#ab860aacad51c8894d6d05d1291d8a650" title="AP_InertialSensor_PX4\l::_new_accel_sample" alt="" coords="430,318,589,359"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Scheduler.html#acfe178fdca7f8d9b22a939b3aac1a84f" title="AP_HAL::Scheduler::\lmicros64" alt="" coords="436,383,583,425"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__Backend.html#a2cdef50b6bc6bb491aecd4642cb5e483" title="AP_InertialSensor_Backend\l::get_dataflash" alt="" coords="642,57,827,98"/>
+<area shape="rect" id="node5" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="637,5,832,32"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Backend.html#a6b5d3fdd263b6737d8116257d2ea05c4" title="AP_InertialSensor_Backend\l::_rotate_and_correct_gyro" alt="" coords="642,187,827,229"/>
+<area shape="rect" id="node10" href="$classLowPassFilter2pVector3f.html#aacd220c14267ceb451d02cad92799f6b" title="LowPassFilter2pVector3f\l::apply" alt="" coords="651,253,819,294"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor__Backend.html#a29cd77379d89bac3390c131795df2e55" title="AP_InertialSensor_Backend\l::_set_gyro_error_count" alt="" coords="642,122,827,163"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="661,318,808,359"/>
+<area shape="rect" id="node9" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title="Vector3::rotate" alt="" coords="890,355,998,381"/>
+<area shape="rect" id="node11" href="$classDigitalBiquadFilter.html#abcce28ce01f1fe8a084a16f163848f69" title="DigitalBiquadFilter\l::apply" alt="" coords="880,253,1008,294"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="1056,260,1120,287"/>
+<area shape="rect" id="node16" href="$classAP__InertialSensor__Backend.html#a12e2c1d206fcd62c683165312c836a50" title="AP_InertialSensor_Backend\l::_rotate_and_correct_accel" alt="" coords="642,383,827,425"/>
+<area shape="rect" id="node17" href="$classAP__InertialSensor__Backend.html#ad5745a56ce3925c75ef7e615713a1eaa" title="AP_InertialSensor_Backend\l::_set_accel_error_count" alt="" coords="642,514,827,555"/>
+<area shape="rect" id="node18" href="$classAP__InertialSensor__Backend.html#a3bbac820413cf7a473a47c6acc4d79c8" title="AP_InertialSensor_Backend\l::_publish_temperature" alt="" coords="642,449,827,490"/>
+</map>

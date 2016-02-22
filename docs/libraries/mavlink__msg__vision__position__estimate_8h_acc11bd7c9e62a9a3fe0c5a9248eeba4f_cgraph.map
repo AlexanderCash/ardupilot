@@ -1,0 +1,9 @@
+<map id="mavlink_msg_vision_position_estimate_decode" name="mavlink_msg_vision_position_estimate_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__vision__position__estimate_8h.html#ac9c3c269124f8fb7476c2db55983d172" title="Send a vision_position_estimate message. " alt="" coords="235,5,426,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__vision__position__estimate_8h.html#a68a355c74ebf24bb6547ae334e634481" title="Get field x from vision_position_estimate message. " alt="" coords="245,70,416,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__vision__position__estimate_8h.html#aa035ad2c72b4a69b7de5a6f1018877dc" title="Get field y from vision_position_estimate message. " alt="" coords="245,135,416,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__vision__position__estimate_8h.html#aca30e0b3dbf71f06396479b90f70e924" title="Get field z from vision_position_estimate message. " alt="" coords="245,201,416,242"/>
+<area shape="rect" id="node6" href="$mavlink__msg__vision__position__estimate_8h.html#a7c3d6cc08177d0def96464974aab4185" title="Get field roll from vision_position_estimate message. " alt="" coords="241,266,421,307"/>
+<area shape="rect" id="node7" href="$mavlink__msg__vision__position__estimate_8h.html#a121bde66b03ccc66b2e06585bd429981" title="Get field pitch from vision_position_estimate message. " alt="" coords="235,331,426,373"/>
+<area shape="rect" id="node8" href="$mavlink__msg__vision__position__estimate_8h.html#a5070efeb5f1559c1dc0700f6e637ad51" title="Get field yaw from vision_position_estimate message. " alt="" coords="237,397,424,438"/>
+</map>

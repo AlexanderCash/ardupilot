@@ -1,0 +1,8 @@
+<map id="mavlink_msg_mount_configure_decode" name="mavlink_msg_mount_configure_decode">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#a21cd003519d1dd9a3dbe4a2e362b106b" title="Send a mount_configure message. " alt="" coords="256,5,459,46"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#a9f1bd139aabda4af4f8beeea55df73f7" title="Get field target_component from mount_configure message. " alt="" coords="256,70,459,111"/>
+<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#a5b57e3c110bb02b4f95d69fa4db36301" title="Get field mount_mode from mount_configure message. " alt="" coords="256,135,459,177"/>
+<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#ad10551f6d7dd045c8a929a90a415c7bd" title="Get field stab_roll from mount_configure message. " alt="" coords="256,201,459,242"/>
+<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#a3bc39bf85d6f4de9be72af88d8e4afd5" title="Get field stab_pitch from mount_configure message. " alt="" coords="256,266,459,307"/>
+<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#a6a0a686aacf17137cb7a5d2a69722f30" title="Get field stab_yaw from mount_configure message. " alt="" coords="256,331,459,373"/>
+</map>

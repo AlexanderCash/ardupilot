@@ -1,0 +1,13 @@
+<map id="AP_MotorsHeli::rsc_control" name="AP_MotorsHeli::rsc_control">
+<area shape="rect" id="node2" href="$classAP__Motors.html#abb781661db2b685644795dfe8f5a655f" title="AP_Motors::armed" alt="" coords="441,18,572,45"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#a2e997a592f2ce30ab89a12a282ea3b23" title="AP_MotorsHeli::write_aux" alt="" coords="419,157,594,184"/>
+<area shape="rect" id="node9" href="$classAP__MotorsHeli.html#af457d2dbc01ff81e1d8b5a2ffdb5c38c" title="AP_MotorsHeli::write_rsc" alt="" coords="421,106,592,133"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli.html#a9c2207f78e61cb24cd34150cada0970f" title="AP_MotorsHeli::tail_ramp" alt="" coords="195,258,365,285"/>
+<area shape="rect" id="node11" href="$classAP__MotorsHeli.html#ae3ff8de278d224f018e8e671d5276c2c" title="AP_MotorsHeli::tail\l_rotor_runup_complete" alt="" coords="203,40,357,82"/>
+<area shape="rect" id="node12" href="$classAP__MotorsHeli.html#a9304ace27b941e28e8427d3c21bfb2eb" title="AP_MotorsHeli::rotor_ramp" alt="" coords="190,208,370,234"/>
+<area shape="rect" id="node4" href="$classRC__Channel.html#a5876259d8fb8c1c475322a236bae7819" title="RC_Channel::calc_pwm" alt="" coords="649,106,813,133"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="643,157,819,184"/>
+<area shape="rect" id="node5" href="$classRC__Channel.html#ac50875b55ac524f9d0b2ee50174bd300" title="RC_Channel::range_to_pwm" alt="" coords="867,132,1058,158"/>
+<area shape="rect" id="node6" href="$classRC__Channel.html#abcf4a69f7323c85306e8a25b34e929b3" title="RC_Channel::angle_to_pwm" alt="" coords="868,81,1057,108"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="907,208,1018,234"/>
+</map>

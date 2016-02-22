@@ -1,0 +1,6 @@
+<map id="AP_HAL_AVR::AVRSemaphore::take_nonblocking" name="AP_HAL_AVR::AVRSemaphore::take_nonblocking">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a5eb9be7ed92b52a7eadcfd82072f3bc6" title="AP_HAL::Scheduler::\lin_timerprocess" alt="" coords="296,5,443,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#a8a14cdcd8e368769f3cae54b4d987e37" title="AP_HAL_AVR::AVRSemaphore\l::_take_nonblocking" alt="" coords="523,63,733,105"/>
+<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#ac202ac4111fd7f20d25810fc7cb50712" title="AP_HAL_AVR::AVRSemaphore\l::_take_from_mainloop" alt="" coords="264,122,475,163"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="555,129,701,170"/>
+</map>

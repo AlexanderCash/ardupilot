@@ -1,0 +1,9 @@
+<map id="GCS_MAVLINK::handle_gps_inject" name="GCS_MAVLINK::handle_gps_inject">
+<area shape="rect" id="node2" href="$mavlink__msg__gps__inject__data_8h.html#a1bb94f8a164eb5f3676ffc5824e9566a" title="Decode a gps_inject_data message into a struct. " alt="" coords="216,103,381,145"/>
+<area shape="rect" id="node8" href="$classAP__GPS.html#a55e6933a759c01c398bb9f5a74ad50e2" title="AP_GPS::inject_data" alt="" coords="225,169,372,196"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gps__inject__data_8h.html#a3dac4d64b6a01f8253d66327cd3a41cc" title="Send a gps_inject_data message. " alt="" coords="441,5,610,46"/>
+<area shape="rect" id="node4" href="$mavlink__msg__gps__inject__data_8h.html#a7541f1d1f27327011d611ca9b731bef6" title="Get field target_component from gps_inject_data message. " alt="" coords="430,70,621,111"/>
+<area shape="rect" id="node5" href="$mavlink__msg__gps__inject__data_8h.html#a66c959bd296f6a50ed09b3ca375dc2d0" title="Get field len from gps_inject_data message. " alt="" coords="443,135,608,177"/>
+<area shape="rect" id="node6" href="$mavlink__msg__gps__inject__data_8h.html#a2db553e9401b5e311b1b2f0c36655086" title="Get field data from gps_inject_data message. " alt="" coords="443,201,608,242"/>
+<area shape="rect" id="node7" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="669,201,837,242"/>
+</map>

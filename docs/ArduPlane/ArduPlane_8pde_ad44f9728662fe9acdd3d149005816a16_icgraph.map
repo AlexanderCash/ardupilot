@@ -1,0 +1,6 @@
+<map id="setup_failsafe_mixing" name="setup_failsafe_mixing">
+<area shape="rect" id="node2" href="$system_8pde.html#adf8053623ae608c96db339992ed2528c" title="init_ardupilot" alt="" coords="582,5,677,32"/>
+<area shape="rect" id="node4" href="$control__modes_8pde.html#a795c2818aac0b7d2f673b178d181116d" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="203,31,341,57"/>
+<area shape="rect" id="node3" href="$ArduPlane_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="726,5,781,32"/>
+<area shape="rect" id="node5" href="$control__modes_8pde.html#a1a85d98dee38cd7a939181118d483622" title="reset_control_switch" alt="" coords="390,31,533,57"/>
+</map>

@@ -1,0 +1,40 @@
+digraph "Quaternion::from_euler"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Quaternion::from_euler",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="NavEKF::alignYawGPS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="NavEKF::SetFlightAndFusion\lModes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="NavEKF::InitialiseFilter\lBootstrap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="NavEKF::UpdateFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="NavEKF::calcQuatAndField\lStates",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#afd23b087248e7c8bb5b65f834ba9544e"];
+  Node6 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="NavEKF::InitialiseFilter\lDynamic",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="NavEKF::performArmingChecks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b"];
+  Node8 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="test_conversion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#ada3aa00f3fc83688f3bb0c2c847b7e50"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="setup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f"];
+  Node9 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="test_conversions",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#ac5851b63c32809e725e1fadbec137224"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="test_frame_transforms",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#a97831e3cea863b581f8e989164514a25"];
+  Node12 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="test_quaternion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#a288b88e3267221134f72a170d9895cef"];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="test_quaternion_eulers",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$eulers_8pde.html#a1e4ca41feae51e8f6dc923cde8d1ad39"];
+  Node14 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

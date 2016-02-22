@@ -1,0 +1,4 @@
+<map id="AP_MotorsMatrix::set_update_rate" name="AP_MotorsMatrix::set_update_rate">
+<area shape="rect" id="node2" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="245,5,355,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1RCOutput.html#ae7903398aa18e2472dd34081e626dcb7" title="AP_HAL::RCOutput::set_freq" alt="" coords="203,56,397,83"/>
+</map>

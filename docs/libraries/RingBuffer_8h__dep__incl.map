@@ -1,0 +1,6 @@
+<map id="libraries/AP_HAL/utility/RingBuffer.h" name="libraries/AP_HAL/utility/RingBuffer.h">
+<area shape="rect" id="node2" href="$SPIUARTDriver_8cpp.html" title="libraries/AP_HAL_Linux\l/SPIUARTDriver.cpp" alt="" coords="5,97,164,138"/>
+<area shape="rect" id="node3" href="$Linux_2UARTDriver_8cpp.html" title="libraries/AP_HAL_Linux\l/UARTDriver.cpp" alt="" coords="189,97,348,138"/>
+<area shape="rect" id="node4" href="$PX4_2UARTDriver_8cpp.html" title="libraries/AP_HAL_PX4\l/UARTDriver.cpp" alt="" coords="373,97,527,138"/>
+<area shape="rect" id="node5" href="$VRBRAIN_2UARTDriver_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/UARTDriver.cpp" alt="" coords="553,97,743,138"/>
+</map>

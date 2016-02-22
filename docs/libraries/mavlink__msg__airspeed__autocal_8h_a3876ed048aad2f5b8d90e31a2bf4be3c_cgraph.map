@@ -1,0 +1,4 @@
+<map id="mavlink_msg_airspeed_autocal_encode_chan" name="mavlink_msg_airspeed_autocal_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__airspeed__autocal_8h.html#a6be15ed5ec8b24b8f43ae1cb382535c3" title="Pack a airspeed_autocal message on a channel. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="411,12,621,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mavlink_msg_fence_status_encode_chan" name="mavlink_msg_fence_status_encode_chan">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__status_8h.html#a99447f94efea540db056d30952ba1aaf" title="Pack a fence_status message on a channel. " alt="" coords="235,5,416,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="464,12,675,39"/>
+</map>

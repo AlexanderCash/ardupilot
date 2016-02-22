@@ -1,0 +1,10 @@
+<map id="AP_InertialSensor_Backend" name="AP_InertialSensor_Backend">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Flymaple.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="245,5,432,32"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__HIL.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="261,56,416,83"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__L3G4200D.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="241,107,437,133"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__MPU6000.html" title="AP_InertialSensor_MPU6000" alt="" coords="243,157,435,184"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__MPU9150.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="243,208,435,235"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__MPU9250.html" title="AP_InertialSensor_MPU9250" alt="" coords="243,259,435,285"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Oilpan.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="253,309,424,336"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__PX4.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="259,360,418,387"/>
+</map>

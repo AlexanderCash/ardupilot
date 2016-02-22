@@ -1,0 +1,15 @@
+<map id="print_hit_enter" name="print_hit_enter">
+<area shape="rect" id="node2" href="$test_8pde.html#af61d20946dbca8804663333532249dfa" title="test_adc" alt="" coords="183,5,255,32"/>
+<area shape="rect" id="node3" href="$test_8pde.html#a3887e341c3dbf8293230668896ae258b" title="test_airspeed" alt="" coords="169,56,269,83"/>
+<area shape="rect" id="node4" href="$test_8pde.html#a011d05349b066cd399c3546bed2f87b1" title="test_failsafe" alt="" coords="172,107,265,133"/>
+<area shape="rect" id="node5" href="$test_8pde.html#a333dceb22af2ab6d119c680abd2f95c4" title="test_gps" alt="" coords="183,157,255,184"/>
+<area shape="rect" id="node6" href="$test_8pde.html#a6e0a8b9abdc432bec164485ae507cbbd" title="test_ins" alt="" coords="185,208,253,235"/>
+<area shape="rect" id="node7" href="$test_8pde.html#a5df620ce026d35d76972a50904d129ac" title="test_mag" alt="" coords="181,259,257,285"/>
+<area shape="rect" id="node8" href="$test_8pde.html#a6b161877cfa2d04e7b96fcf0dcd2c2c3" title="test_modeswitch" alt="" coords="158,309,279,336"/>
+<area shape="rect" id="node9" href="$test_8pde.html#a4eb65106f1b0d9ce1d302b4db08f074f" title="test_passthru" alt="" coords="168,360,269,387"/>
+<area shape="rect" id="node10" href="$test_8pde.html#a06a0a3ce8e887b47943229022a55720e" title="test_pressure" alt="" coords="168,411,269,437"/>
+<area shape="rect" id="node11" href="$test_8pde.html#a9fe59881a31f28f697c765b92d8de572" title="test_radio" alt="" coords="179,461,258,488"/>
+<area shape="rect" id="node12" href="$test_8pde.html#ac0705d434871474bef058b2ce853f18a" title="test_radio_pwm" alt="" coords="161,512,276,539"/>
+<area shape="rect" id="node13" href="$test_8pde.html#ae4348b8701f90b7f0f4d3ec487b7c0fd" title="test_relay" alt="" coords="179,563,258,589"/>
+<area shape="rect" id="node14" href="$test_8pde.html#af576bb60c6c2c42cd6e0252d9433827c" title="test_xbee" alt="" coords="179,613,258,640"/>
+</map>

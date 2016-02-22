@@ -1,0 +1,9 @@
+<map id="AP_RangeFinder_PX4_PWM::update" name="AP_RangeFinder_PX4_PWM::update">
+<area shape="rect" id="node2" href="$classAP__RangeFinder__Backend.html#ac5b3771c47b58dfba89ebcf2a24541cd" title="AP_RangeFinder_Backend\l::set_status" alt="" coords="435,162,613,203"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="224,42,371,83"/>
+<area shape="rect" id="node4" href="$classAP__RangeFinder__Backend.html#a42e9722f46dc4b23ec095be2e154b0da" title="AP_RangeFinder_Backend\l::out_of_range" alt="" coords="208,107,387,149"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="212,173,383,200"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="222,224,373,251"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#acfe178fdca7f8d9b22a939b3aac1a84f" title="AP_HAL::Scheduler::\lmicros64" alt="" coords="224,275,371,317"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__Backend.html#a9e858f638e4c2d1138aa3f56d217a394" title="AP_RangeFinder_Backend\l::update_status" alt="" coords="208,341,387,382"/>
+</map>

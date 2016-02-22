@@ -1,0 +1,15 @@
+<map id="mavlink_msg_sys_status_decode" name="mavlink_msg_sys_status_decode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#aa90ebbb429bf4742d258936867564283" title="Send a sys_status message. " alt="" coords="225,5,423,61"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#a93646389244e0cb6ba323ec5c2a65363" title="Get field onboard_control_sensors_enabled from sys_status message. " alt="" coords="225,85,423,141"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#a12ea6b18fa6fb63aefc75123b12a183f" title="Get field onboard_control_sensors_health from sys_status message. " alt="" coords="225,165,423,221"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#aae7c31ca678091587ef13c0e269b4a95" title="Get field load from sys_status message. " alt="" coords="239,245,409,286"/>
+<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#a0eb946aa517618abc9851bf6c1e9ca1e" title="Get field voltage_battery from sys_status message. " alt="" coords="239,310,409,351"/>
+<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#ab4f73e556a0b49076d619d6cfdd91777" title="Get field current_battery from sys_status message. " alt="" coords="239,375,409,417"/>
+<area shape="rect" id="node8" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#afaaf496bfeec7c458c5075503789a0f6" title="Get field drop_rate_comm from sys_status message. " alt="" coords="239,441,409,482"/>
+<area shape="rect" id="node9" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#a82115ef66666616e99dae843a7dab458" title="Get field errors_comm from sys_status message. " alt="" coords="239,506,409,547"/>
+<area shape="rect" id="node10" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#ac900b2c05df5cfad5681cc6b7522d89e" title="Get field errors_count1 from sys_status message. " alt="" coords="239,571,409,613"/>
+<area shape="rect" id="node11" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#af5793e33bb4bdbfde825c1de3d7ca85d" title="Get field errors_count2 from sys_status message. " alt="" coords="239,637,409,678"/>
+<area shape="rect" id="node12" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#a1505255fe1a78eb88d91f38fb5744874" title="Get field errors_count3 from sys_status message. " alt="" coords="239,702,409,743"/>
+<area shape="rect" id="node13" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#a40aa5e7c5e4a4bf010e74116ea92504f" title="Get field errors_count4 from sys_status message. " alt="" coords="239,767,409,809"/>
+<area shape="rect" id="node14" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html#a60963519b62bc5476bd0555ab88acb7a" title="Get field battery_remaining from sys_status message. " alt="" coords="239,833,409,874"/>
+</map>

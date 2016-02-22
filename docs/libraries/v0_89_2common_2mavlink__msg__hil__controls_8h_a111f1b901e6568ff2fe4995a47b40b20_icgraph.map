@@ -1,0 +1,6 @@
+<map id="mavlink_msg_hil_controls_pack" name="mavlink_msg_hil_controls_pack">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#aaeed0852bd26eb9d24d489145d11c9c1" title="Encode a hil_controls struct into a message. " alt="" coords="262,5,434,46"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#a11097f94573271fae75f258aeb060842" title="mavlink_test_hil_controls" alt="" coords="483,41,653,68"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="702,41,855,68"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="905,41,1021,68"/>
+</map>

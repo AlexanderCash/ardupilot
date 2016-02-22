@@ -1,0 +1,7 @@
+<map id="AP_RangeFinder_PulsedLightLRF::get_reading" name="AP_RangeFinder_PulsedLightLRF::get_reading">
+<area shape="rect" id="node2" href="$classAP__RangeFinder__PulsedLightLRF.html#a12f05561023eacee38730a22aeaef09c" title="AP_RangeFinder_PulsedLight\lLRF::detect" alt="" coords="251,5,447,46"/>
+<area shape="rect" id="node6" href="$classAP__RangeFinder__PulsedLightLRF.html#ac465541eac74267f6dc1fa06d0301aa4" title="AP_RangeFinder_PulsedLight\lLRF::update" alt="" coords="251,70,447,111"/>
+<area shape="rect" id="node3" href="$classRangeFinder.html#a7f7f9dce880eb37d53df67cba39bdda9" title="RangeFinder::detect\l_instance" alt="" coords="497,5,637,46"/>
+<area shape="rect" id="node4" href="$classRangeFinder.html#a1c2d6a488e35a856814b5d48ca3d5d9e" title="RangeFinder::init" alt="" coords="686,12,807,39"/>
+<area shape="rect" id="node5" href="$RFIND__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="857,12,911,39"/>
+</map>

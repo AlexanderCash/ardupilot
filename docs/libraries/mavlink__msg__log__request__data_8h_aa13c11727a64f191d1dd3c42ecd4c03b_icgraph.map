@@ -1,0 +1,8 @@
+<map id="mavlink_msg_log_request_data_get_ofs" name="mavlink_msg_log_request_data_get_ofs">
+<area shape="rect" id="node2" href="$mavlink__msg__log__request__data_8h.html#aa77236e323926ff3f421322ec81922f4" title="Decode a log_request_data message into a struct. " alt="" coords="227,34,400,75"/>
+<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a9685f685665e932079522a281086b581" title="GCS_MAVLINK::handle\l_log_request_data" alt="" coords="468,5,631,46"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a8fb73ceb034de03cfb257b301cd9f157" title="mavlink_test_log_request_data" alt="" coords="448,71,651,97"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#add8326241719712dc068a07845bf476c" title="GCS_MAVLINK::handle\l_log_message" alt="" coords="699,5,861,46"/>
+<area shape="rect" id="node6" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="703,71,857,97"/>
+<area shape="rect" id="node7" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="910,71,1026,97"/>
+</map>

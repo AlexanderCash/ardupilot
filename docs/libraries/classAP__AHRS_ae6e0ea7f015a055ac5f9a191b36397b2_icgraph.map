@@ -1,0 +1,17 @@
+<map id="AP_AHRS::sin_roll" name="AP_AHRS::sin_roll">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#aaf361db790682e5ab8d1077cddfaebf0" title="AC_AttitudeControl\l::frame_conversion_bf_to_ef" alt="" coords="189,85,376,126"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl.html#a77b57ff5b579c859e590e3fcd04466b5" title="AC_AttitudeControl\l::frame_conversion_ef_to_bf" alt="" coords="189,237,376,278"/>
+<area shape="rect" id="node10" href="$classAC__PosControl.html#a146634dd74332c97600e933213a75d5a" title="AC_PosControl::lean\l_angles_to_accel" alt="" coords="210,439,355,481"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#adcf61fba6788547660fa2237e46a459e" title="AC_AttitudeControl\l_Heli::passthrough_bf\l_roll_pitch_rate_yaw" alt="" coords="435,5,584,61"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl.html#a716b26f41dfc5cf956b360affd045946" title="AC_AttitudeControl\l::rate_bf_roll_pitch_yaw" alt="" coords="429,85,589,126"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl.html#a7f3ea9078e44d94c66da20f5e1f12612" title="AC_AttitudeControl\l::angle_ef_roll_pitch\l_rate_ef_yaw" alt="" coords="440,149,579,205"/>
+<area shape="rect" id="node7" href="$classAC__AttitudeControl.html#afbe614d708bc9de386fda48ee3c65069" title="AC_AttitudeControl\l::angle_ef_roll_pitch\l_rate_ef_yaw_smooth" alt="" coords="434,229,585,285"/>
+<area shape="rect" id="node8" href="$classAC__AttitudeControl.html#a436fd54f740d502a04b86f5b8a25bb42" title="AC_AttitudeControl\l::angle_ef_roll_pitch_yaw" alt="" coords="425,309,594,350"/>
+<area shape="rect" id="node9" href="$classAC__AttitudeControl.html#a2f434d94c7265c3e09c0c7555ec92efb" title="AC_AttitudeControl\l::rate_ef_roll_pitch_yaw" alt="" coords="429,374,589,415"/>
+<area shape="rect" id="node11" href="$classAC__PosControl.html#ae2897de0075f8f8aaa94eb7e8cad100b" title="xyz velocity controller " alt="" coords="440,439,579,481"/>
+<area shape="rect" id="node12" href="$classAC__PosControl.html#ae1676c283b03793693b7c94cecdcd0b2" title="AC_PosControl::init\l_xy_controller" alt="" coords="440,505,579,546"/>
+<area shape="rect" id="node13" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title="AC_Circle::init" alt="" coords="696,420,803,447"/>
+<area shape="rect" id="node14" href="$classAC__WPNav.html#a2ed86e41fc51c2ea822711ea95d055f0" title="init_brake_target &#45; initializes stop position from current position and velocity " alt="" coords="670,471,829,513"/>
+<area shape="rect" id="node15" href="$classAC__WPNav.html#a3bd3abac616805d338d31255d76e978e" title="init_loiter_target in cm from home " alt="" coords="672,537,827,578"/>
+<area shape="rect" id="node16" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title="AC_WPNav::wp_and_spline_init" alt="" coords="643,603,855,629"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mavlink_msg_scaled_pressure_decode" name="mavlink_msg_scaled_pressure_decode">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__scaled__pressure_8h.html#a9b48ec818996c90f0f62db17e4376d80" title="Send a scaled_pressure message. " alt="" coords="216,5,360,46"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__scaled__pressure_8h.html#a12be813d0f5438c64d51ff5696449be1" title="Get field press_abs from scaled_pressure message. " alt="" coords="203,70,373,111"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__scaled__pressure_8h.html#ae7d33d6a795f2a5182f33323f426a291" title="Get field press_diff from scaled_pressure message. " alt="" coords="204,135,372,177"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__scaled__pressure_8h.html#adadd9d5ebc80ec33d9b865d3bd1e785c" title="Get field temperature from scaled_pressure message. " alt="" coords="198,201,378,242"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AP_Baro::register_sensor" name="AP_Baro::register_sensor">
+<area shape="rect" id="node2" href="$classAP__Baro__BMP085.html#a2391b8ea8db43eed0d79e419798e747f" title="AP_Baro_BMP085::AP\l_Baro_BMP085" alt="" coords="245,5,403,46"/>
+<area shape="rect" id="node3" href="$classAP__Baro__HIL.html#ae9b3ecd0168c19809a0ecad300828d1e" title="AP_Baro_HIL::AP_Baro_HIL" alt="" coords="229,71,419,97"/>
+<area shape="rect" id="node4" href="$classAP__Baro__MS5611.html#a5e36586ae33638288843d7bc9ba5c607" title="AP_Baro_MS5611::AP\l_Baro_MS5611" alt="" coords="247,122,401,163"/>
+<area shape="rect" id="node5" href="$classAP__Baro__PX4.html#a07279f516e2a6c57d7d8d3f20e7a28b5" title="AP_Baro_PX4::AP_Baro_PX4" alt="" coords="225,188,423,215"/>
+</map>

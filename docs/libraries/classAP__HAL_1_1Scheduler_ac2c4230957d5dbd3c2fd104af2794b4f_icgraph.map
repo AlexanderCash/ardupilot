@@ -1,0 +1,30 @@
+<map id="AP_HAL::Scheduler::register_timer_process" name="AP_HAL::Scheduler::register_timer_process">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__MPU9150.html#a5d916ede262de822fd6ab45c93e036ae" title="AP_InertialSensor_MPU9150\l::_init_sensor" alt="" coords="209,5,401,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__MPU9250.html#a1ffc4c3ef07f19632864c3f5de6702ba" title="AP_InertialSensor_MPU9250\l::_init_sensor" alt="" coords="209,70,401,111"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__L3G4200D.html#ab760fee272b11822568d94d55734d2f2" title="AP_InertialSensor_L3G4200\lD::_init_sensor" alt="" coords="212,135,399,177"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__MPU6000.html#a50be758eef3a4d1538323bab21349d2c" title="AP_InertialSensor_MPU6000\l::_init_sensor" alt="" coords="465,223,657,265"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor__LSM9DS0.html#a1047cd97a910ee344c829084b700e10b" title="AP_InertialSensor_LSM9DS0\l::_init_sensor" alt="" coords="208,253,403,294"/>
+<area shape="rect" id="node13" href="$classAP__Baro__MS5611.html#a5e36586ae33638288843d7bc9ba5c607" title="AP_Baro_MS5611::AP\l_Baro_MS5611" alt="" coords="228,318,383,359"/>
+<area shape="rect" id="node14" href="$classAP__ADC__ADS7844.html#a15f6735b9bbe6c15a097bbb45bb024ad" title="AP_ADC_ADS7844::Init" alt="" coords="223,384,388,411"/>
+<area shape="rect" id="node18" href="$classAP__ADC__ADS1115.html#ab9dda3a5715a514b78effc0164e6a1c9" title="AP_ADC_ADS1115::init" alt="" coords="223,435,387,461"/>
+<area shape="rect" id="node19" href="$classNavioAnalogIn.html#a86419e9f2486bef44753fb15f5bb3ae9" title="NavioAnalogIn::init" alt="" coords="495,460,627,487"/>
+<area shape="rect" id="node20" href="$classAP__Airspeed__I2C.html#a4b23d137404cccf692266d066dd126dc" title="AP_Airspeed_I2C::init" alt="" coords="230,536,381,563"/>
+<area shape="rect" id="node21" href="$classAP__ADC__HIL.html#ad8daf76e8e59008219d7d1ff03d4b8f1" title="AP_ADC_HIL::Init" alt="" coords="240,587,371,613"/>
+<area shape="rect" id="node22" href="$classAP__Compass__AK8963.html#acdbf7f9d95111c8c6cf571da0b066bdd" title="AP_Compass_AK8963::init" alt="" coords="215,637,396,664"/>
+<area shape="rect" id="node27" href="$classAP__HAL__AVR_1_1AVRAnalogIn.html#ad4424206d121b73373bf294c8595327e" title="AP_HAL_AVR::AVRAnalogIn\l::init" alt="" coords="208,689,403,730"/>
+<area shape="rect" id="node28" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogIn.html#ae423a39ebccf9024db5e7097a6c0a7ca" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogIn::init" alt="" coords="218,754,393,795"/>
+<area shape="rect" id="node29" href="$AP__HAL__AVR_2examples_2Scheduler_2Scheduler_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="278,820,333,847"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__MPU9150.html#a5ccaed9383c0dd4ba0450d690f2284b7" title="AP_InertialSensor_MPU9150\l::detect" alt="" coords="465,5,657,46"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__MPU9250.html#a5870cbd48fb92ada02747afcae3eaa6c" title="AP_InertialSensor_MPU9250\l::detect" alt="" coords="735,138,927,179"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="1018,258,1153,299"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="1229,281,1381,308"/>
+<area shape="rect" id="node8" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1430,315,1485,341"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor__MPU6000.html#a2bbaf4bcb81f081d2f9e29b5c25ec31b" title="AP_InertialSensor_MPU6000\l::detect" alt="" coords="735,225,927,266"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor__Oilpan.html#ace5a0d60949fbdfd793fcfcd2af9232e" title="AP_InertialSensor_Oilpan\l::_init_sensor" alt="" coords="476,291,647,333"/>
+<area shape="rect" id="node17" href="$AP__ADC__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="534,384,589,411"/>
+<area shape="rect" id="node16" href="$classAP__InertialSensor__Oilpan.html#a5584e4f2ba880d16e773e83b6836fae7" title="AP_InertialSensor_Oilpan\l::detect" alt="" coords="745,291,916,333"/>
+<area shape="rect" id="node23" href="$classAP__Compass__AK8963__MPU9250.html#a8f1c4437b09e2fcb6e3b863a9a3c119d" title="AP_Compass_AK8963_MPU9250\l::init" alt="" coords="451,570,672,611"/>
+<area shape="rect" id="node24" href="$classAP__Compass__AK8963__MPU9250.html#a6276a40d516ecd31513c02ecf84a666f" title="AP_Compass_AK8963_MPU9250\l::detect" alt="" coords="720,463,941,505"/>
+<area shape="rect" id="node25" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="989,380,1181,407"/>
+<area shape="rect" id="node26" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="1254,348,1357,375"/>
+</map>

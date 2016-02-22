@@ -1,0 +1,6 @@
+<map id="rudder_arm_check" name="rudder_arm_check">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title="AP_Arming::is_armed" alt="" coords="199,5,348,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#adc1f265c14d4faf6981643ccd1ef88b8" title="AP_Arming::rudder_arming\l_enabled" alt="" coords="184,57,363,98"/>
+<area shape="rect" id="node4" href="$compat_8pde.html#a5229e8911d1f7eed10eb978ff088e551" title="millis" alt="" coords="247,123,299,149"/>
+<area shape="rect" id="node5" href="$ArduPlane_8pde.html#a907e60860c7242b1b074557071267ca7" title="arm_motors" alt="" coords="228,173,319,200"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mavlink_msg_wind_pack" name="mavlink_msg_wind_pack">
+<area shape="rect" id="node2" href="$mavlink__msg__wind_8h.html#af1d149c389444fbeb15f0c114f651947" title="Encode a wind struct. " alt="" coords="222,5,405,32"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a32301ea0684d0435a7832a9e09cb9185" title="mavlink_test_wind" alt="" coords="453,31,584,57"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="632,31,816,57"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="865,31,981,57"/>
+</map>

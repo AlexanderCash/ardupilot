@@ -1,0 +1,8 @@
+<map id="NavioAnalogIn" name="NavioAnalogIn">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogIn.html" title="AP_HAL::AnalogIn" alt="" coords="5,96,136,123"/>
+<area shape="rect" id="node3" href="$classAP__ADC__ADS1115.html" title="AP_ADC_ADS1115" alt="" coords="161,96,300,123"/>
+<area shape="rect" id="node4" href="$structadc__report__s.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="35,5,132,32"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="157,5,304,32"/>
+<area shape="rect" id="node6" href="$classNavioAnalogSource.html" title="NavioAnalogSource" alt="" coords="333,96,469,123"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1AnalogSource.html" title="AP_HAL::AnalogSource" alt="" coords="328,5,491,32"/>
+</map>

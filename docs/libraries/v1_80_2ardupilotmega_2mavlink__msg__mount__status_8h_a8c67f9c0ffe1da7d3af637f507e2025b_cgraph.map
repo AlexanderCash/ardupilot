@@ -1,0 +1,7 @@
+<map id="mavlink_msg_mount_status_decode" name="mavlink_msg_mount_status_decode">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__status_8h.html#aa1d073bafe82b35ffafeaaa7ea87c9b0" title="Get field pointing_a from mount_status message. " alt="" coords="241,5,426,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__status_8h.html#a6fa6858929b789bb91fea9b6958a66e6" title="Get field pointing_b from mount_status message. " alt="" coords="241,70,426,111"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__status_8h.html#a0afe888e5e921588342eb7e19816ce67" title="Get field pointing_c from mount_status message. " alt="" coords="241,135,426,177"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__status_8h.html#a85282abbaba15b47dbf903cd1d7ed44f" title="Send a mount_status message. " alt="" coords="241,201,426,242"/>
+<area shape="rect" id="node6" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__status_8h.html#ac7f9afc7a1e27509403454bb0ec7b826" title="Get field target_component from mount_status message. " alt="" coords="241,266,426,307"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="print_enabled" name="print_enabled">
+<area shape="rect" id="node2" href="$setup_8pde.html#afa7955d7bdbfeebe4e27bc388a2281b8" title="report_compass" alt="" coords="152,5,267,32"/>
+<area shape="rect" id="node4" href="$test_8pde.html#a5df620ce026d35d76972a50904d129ac" title="test_mag" alt="" coords="334,56,410,83"/>
+<area shape="rect" id="node5" href="$test_8pde.html#a3887e341c3dbf8293230668896ae258b" title="test_airspeed" alt="" coords="159,107,259,133"/>
+<area shape="rect" id="node3" href="$setup_8pde.html#a7afcc5db23b9bda4f2b5f16190435e9a" title="setup_compass" alt="" coords="315,5,429,32"/>
+</map>

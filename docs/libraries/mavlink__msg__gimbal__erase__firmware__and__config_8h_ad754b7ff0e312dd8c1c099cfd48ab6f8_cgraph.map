@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gimbal_erase_firmware_and_config_encode" name="mavlink_msg_gimbal_erase_firmware_and_config_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__erase__firmware__and__config_8h.html#afe497f908ec8dc86f79d1191f9e93eac" title="Pack a gimbal_erase_firmware_and_config message. " alt="" coords="200,4,347,60"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="395,19,570,45"/>
+</map>

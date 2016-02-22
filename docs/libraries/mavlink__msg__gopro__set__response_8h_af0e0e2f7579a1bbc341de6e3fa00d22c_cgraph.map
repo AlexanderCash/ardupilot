@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gopro_set_response_encode_chan" name="mavlink_msg_gopro_set_response_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__gopro__set__response_8h.html#a0fd0209b1dacf0eedfafb4f8a1bc8890" title="Pack a gopro_set_response message on a channel. " alt="" coords="221,5,384,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="432,12,643,39"/>
+</map>

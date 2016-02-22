@@ -1,0 +1,7 @@
+<map id="AP_HAL_FLYMAPLE_NS::FLYMAPLESPIDeviceManager" name="AP_HAL_FLYMAPLE_NS::FLYMAPLESPIDeviceManager">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDeviceManager.html" title="AP_HAL::SPIDeviceManager" alt="" coords="5,197,200,224"/>
+<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLESPIDeviceDriver.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLESPIDeviceDriver" alt="" coords="224,190,421,231"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="172,91,351,117"/>
+<area shape="rect" id="node5" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLESemaphore.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLESemaphore" alt="" coords="375,83,549,125"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="389,5,536,32"/>
+</map>

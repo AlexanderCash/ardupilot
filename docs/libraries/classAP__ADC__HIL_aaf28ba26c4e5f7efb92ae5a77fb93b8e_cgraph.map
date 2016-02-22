@@ -1,0 +1,6 @@
+<map id="AP_ADC_HIL::AP_ADC_HIL" name="AP_ADC_HIL::AP_ADC_HIL">
+<area shape="rect" id="node2" href="$classAP__ADC__HIL.html#a862fcec014c297899815a0d697548732" title="AP_ADC_HIL::setGyro" alt="" coords="265,5,423,32"/>
+<area shape="rect" id="node3" href="$classAP__ADC__HIL.html#a072927ba6901643d619848460745f9db" title="AP_ADC_HIL::setAccel" alt="" coords="263,56,425,83"/>
+<area shape="rect" id="node4" href="$classAP__ADC__HIL.html#aaf6a0810b30f17a347b0011c8dd8426e" title="AP_ADC_HIL::setGyroTemp" alt="" coords="249,107,439,133"/>
+<area shape="rect" id="node5" href="$classAP__ADC__HIL.html#aa648597a2bddc613bbf849fc4452d4c8" title="AP_ADC_HIL::setPressure" alt="" coords="253,157,435,184"/>
+</map>

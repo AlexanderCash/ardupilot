@@ -1,0 +1,6 @@
+<map id="control_failsafe" name="control_failsafe">
+<area shape="rect" id="node2" href="$radio_8pde.html#ab2ecdfa6c35c9ccb656acc5a4db48044" title="rc_failsafe_active" alt="" coords="170,5,294,32"/>
+<area shape="rect" id="node4" href="$ArduPlane_8pde.html#a7df79fd15233ca04f776c27b69d2e184" title="gcs_send_text_fmt" alt="" coords="165,56,299,83"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="367,5,540,32"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a4902306dab46ff02b2296f99eb1f1c9c" title="GCS_MAVLINK::send_message" alt="" coords="347,56,560,83"/>
+</map>

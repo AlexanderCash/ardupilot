@@ -1,0 +1,6 @@
+<map id="mavlink_msg_simstate_get_roll" name="mavlink_msg_simstate_get_roll">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__simstate_8h.html#a212197249d3d2000912a0b26d04654e6" title="Decode a simstate message into a struct. " alt="" coords="211,5,367,46"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a72c094ee0abffd7de05c284888aa8c84" title="mavlink_test_simstate" alt="" coords="417,12,570,39"/>
+<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="619,12,803,39"/>
+<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="851,12,967,39"/>
+</map>

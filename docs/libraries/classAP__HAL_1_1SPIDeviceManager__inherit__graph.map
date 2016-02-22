@@ -1,0 +1,7 @@
+<map id="AP_HAL::SPIDeviceManager" name="AP_HAL::SPIDeviceManager">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1APM1SPIDeviceManager.html" title="AP_HAL_AVR::APM1SPIDevice\lManager" alt="" coords="250,5,465,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1APM2SPIDeviceManager.html" title="AP_HAL_AVR::APM2SPIDevice\lManager" alt="" coords="250,70,465,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLESPIDeviceManager.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLESPIDeviceManager" alt="" coords="251,135,463,177"/>
+<area shape="rect" id="node5" href="$classEmpty_1_1EmptySPIDeviceManager.html" title="Empty::EmptySPIDeviceManager" alt="" coords="248,201,467,228"/>
+<area shape="rect" id="node6" href="$classLinux_1_1LinuxSPIDeviceManager.html" title="Linux::LinuxSPIDeviceManager" alt="" coords="255,252,460,279"/>
+</map>

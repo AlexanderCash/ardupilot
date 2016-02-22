@@ -1,0 +1,10 @@
+<map id="is_flying" name="is_flying">
+<area shape="rect" id="node2" href="$ArduPlane_8pde.html#a874de7efe4aa59c702010153beb1eff2" title="determine_is_flying" alt="" coords="126,5,261,32"/>
+<area shape="rect" id="node4" href="$landing_8pde.html#a1df24c8c6568cbc8c72b7406283bf068" title="disarm_if_autoland\l_complete" alt="" coords="128,107,259,149"/>
+<area shape="rect" id="node5" href="$landing_8pde.html#a76d7ac00bf1a68b5db464de185d44847" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="328,144,413,171"/>
+<area shape="rect" id="node8" href="$Log_8pde.html#a8071f9d3525e08ee1d49aa01c818c73c" title="Log_Write_Status" alt="" coords="130,56,257,83"/>
+<area shape="rect" id="node9" href="$GCS__Mavlink_8pde.html#a8b9ad786ffd07c3ecd8883463d6f9c25" title="send_heartbeat" alt="" coords="138,224,249,251"/>
+<area shape="rect" id="node3" href="$ArduPlane_8pde.html#ac16b45819e1d5f525ae8f82da40782fe" title="one_second_loop" alt="" coords="309,31,432,57"/>
+<area shape="rect" id="node6" href="$commands__logic_8pde.html#a42358652e4033ff08d1056cc4d5bbab8" title="verify_command" alt="" coords="481,144,599,171"/>
+<area shape="rect" id="node7" href="$commands__logic_8pde.html#a072ff1b2f62a15fe354c2405089fd078" title="verify_command_callback" alt="" coords="648,144,821,171"/>
+</map>

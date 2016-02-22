@@ -1,0 +1,6 @@
+<map id="mavlink_msg_sensor_offsets_pack" name="mavlink_msg_sensor_offsets_pack">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__sensor__offsets_8h.html#aeba7b661d9b423965ed63ff74f68b426" title="Encode a sensor_offsets struct into a message. " alt="" coords="201,5,346,46"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#aec0030f751f98c533a825404902c5508" title="mavlink_test_sensor\l_offsets" alt="" coords="395,34,538,75"/>
+<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="587,41,771,68"/>
+<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="819,41,935,68"/>
+</map>

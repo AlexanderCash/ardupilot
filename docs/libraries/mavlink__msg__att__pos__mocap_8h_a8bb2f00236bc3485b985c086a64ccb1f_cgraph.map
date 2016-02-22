@@ -1,0 +1,7 @@
+<map id="mavlink_msg_att_pos_mocap_decode" name="mavlink_msg_att_pos_mocap_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__att__pos__mocap_8h.html#aa1840531d46fd52135ab05771fd58d16" title="Send a att_pos_mocap message. " alt="" coords="203,5,363,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__att__pos__mocap_8h.html#a12e80a64e9da2bcb666b7d8be3ab63cb" title="Get field q from att_pos_mocap message. " alt="" coords="208,70,357,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__att__pos__mocap_8h.html#a609a4a6ab4818758902c02c68958af37" title="Get field x from att_pos_mocap message. " alt="" coords="208,135,357,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__att__pos__mocap_8h.html#ac878e897b7c4ae6dbf452f675cb50fd2" title="Get field y from att_pos_mocap message. " alt="" coords="208,201,357,242"/>
+<area shape="rect" id="node6" href="$mavlink__msg__att__pos__mocap_8h.html#a5f961d5ab536c6dcb151e9e4c92986f7" title="Get field z from att_pos_mocap message. " alt="" coords="208,266,357,307"/>
+</map>

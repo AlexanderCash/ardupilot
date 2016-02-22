@@ -1,0 +1,8 @@
+<map id="AP_MotorsMatrix" name="AP_MotorsMatrix">
+<area shape="rect" id="node3" href="$classAP__MotorsHexa.html" title="AP_MotorsHexa" alt="" coords="5,155,123,181"/>
+<area shape="rect" id="node4" href="$classAP__MotorsOcta.html" title="AP_MotorsOcta" alt="" coords="148,155,263,181"/>
+<area shape="rect" id="node5" href="$classAP__MotorsOctaQuad.html" title="AP_MotorsOctaQuad" alt="" coords="287,155,433,181"/>
+<area shape="rect" id="node6" href="$classAP__MotorsQuad.html" title="AP_MotorsQuad" alt="" coords="458,155,576,181"/>
+<area shape="rect" id="node7" href="$classAP__MotorsY6.html" title="AP_MotorsY6" alt="" coords="601,155,703,181"/>
+<area shape="rect" id="node2" href="$classAP__Motors.html" title="AP_Motors" alt="" coords="317,5,403,32"/>
+</map>

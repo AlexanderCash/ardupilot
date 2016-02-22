@@ -1,0 +1,9 @@
+<map id="DataFlash_Class::AddLogFormats" name="DataFlash_Class::AddLogFormats">
+<area shape="rect" id="node2" href="$classAP__GPS__SBP.html#ad7b0b15f5b06d35e0537da4c29447e7c" title="AP_GPS_SBP::logging\l_write_headers" alt="" coords="278,38,437,79"/>
+<area shape="rect" id="node3" href="$classAP__GPS__SBP.html#af5d2846c5c8368ab5d6d9456f78cb04d" title="AP_GPS_SBP::logging\l_log_full_update" alt="" coords="486,5,645,46"/>
+<area shape="rect" id="node6" href="$classAP__GPS__SBP.html#a03c2f3629f94e7b6df5989cc33d9d59a" title="AP_GPS_SBP::logging\l_log_raw_sbp" alt="" coords="486,70,645,111"/>
+<area shape="rect" id="node4" href="$classAP__GPS__SBP.html#af9e1e7cae1c58891c9a47a6ae6425491" title="AP_GPS_SBP::_attempt\l_state_update" alt="" coords="957,7,1125,49"/>
+<area shape="rect" id="node5" href="$classAP__GPS__SBP.html#a3fa95c1c1f83ad45a11a61d604e61d8d" title="AP_GPS_SBP::read" alt="" coords="1190,45,1333,72"/>
+<area shape="rect" id="node7" href="$classAP__GPS__SBP.html#a95d51866fda5a620229c74d5684acce4" title="AP_GPS_SBP::_sbp_process\l_message" alt="" coords="694,67,893,109"/>
+<area shape="rect" id="node8" href="$classAP__GPS__SBP.html#ad6291fa91e5c338da770ffdfefb6cd8a" title="AP_GPS_SBP::_sbp_process" alt="" coords="942,75,1141,101"/>
+</map>

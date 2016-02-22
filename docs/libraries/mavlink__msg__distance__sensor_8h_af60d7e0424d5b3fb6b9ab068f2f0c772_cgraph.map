@@ -1,0 +1,4 @@
+<map id="mavlink_msg_distance_sensor_encode" name="mavlink_msg_distance_sensor_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__distance__sensor_8h.html#ae33117c0e5c0e0769181e1c3419957eb" title="Pack a distance_sensor message. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="411,12,586,39"/>
+</map>

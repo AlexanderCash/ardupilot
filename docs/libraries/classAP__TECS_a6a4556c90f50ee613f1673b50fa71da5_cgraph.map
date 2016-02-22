@@ -1,0 +1,29 @@
+<map id="AP_TECS::update_pitch_throttle" name="AP_TECS::update_pitch_throttle">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="501,5,648,46"/>
+<area shape="rect" id="node3" href="$classAP__TECS.html#ac3a90f55264799a5482b76abfe5b9a68" title="AP_TECS::_update_speed" alt="" coords="233,121,412,148"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a8691156c332da099e3f5952e72ae2a58" title="AP_AHRS::airspeed_sensor\l_enabled" alt="" coords="723,249,911,290"/>
+<area shape="rect" id="node14" href="$classAP__TECS.html#a10c1bce8067ade79dfebc3c8ad4b0e42" title="AP_TECS::timeConstant" alt="" coords="490,593,659,620"/>
+<area shape="rect" id="node15" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="291,717,355,744"/>
+<area shape="rect" id="node16" href="$classAP__TECS.html#a2ecab25bceacdfb0c15694ff8428608f" title="AP_TECS::_initialise\l_states" alt="" coords="250,769,395,810"/>
+<area shape="rect" id="node17" href="$classAP__TECS.html#a6eab6d44faa6a51fbdd7a59279e17035" title="AP_TECS::_update_STE\l_rate_lim" alt="" coords="237,834,408,875"/>
+<area shape="rect" id="node18" href="$classAP__TECS.html#a376593eecc4ab66559947a144106bdd5" title="AP_TECS::_update_speed\l_demand" alt="" coords="485,426,664,467"/>
+<area shape="rect" id="node19" href="$classAP__TECS.html#a91aeb22f68e2957bfad6285ec41182cf" title="AP_TECS::_update_height\l_demand" alt="" coords="233,586,412,627"/>
+<area shape="rect" id="node20" href="$classAP__TECS.html#a7318e1b5998b99f4febe0d53040c5744" title="AP_TECS::_detect_underspeed" alt="" coords="219,900,427,927"/>
+<area shape="rect" id="node21" href="$classAP__TECS.html#acf4aed1a469a3bce5d1f68ee8a73fed6" title="AP_TECS::_update_energies" alt="" coords="226,951,419,977"/>
+<area shape="rect" id="node22" href="$classAP__TECS.html#aba98848b3373edf4f8d46abafccd83f9" title="AP_TECS::_update_throttle" alt="" coords="231,484,415,511"/>
+<area shape="rect" id="node24" href="$classAP__TECS.html#a0fe119d80dda024742a779a363e70fc2" title="AP_TECS::_update_throttle\l_option" alt="" coords="231,651,415,693"/>
+<area shape="rect" id="node25" href="$classAP__TECS.html#ab5ab1cc93f631786bb0c9df8596eef44" title="AP_TECS::_detect_bad\l_descent" alt="" coords="241,1002,404,1043"/>
+<area shape="rect" id="node26" href="$classAP__TECS.html#a7854ecaf0d95d9da406568583f6e287f" title="AP_TECS::_update_pitch" alt="" coords="237,375,409,401"/>
+<area shape="rect" id="node28" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="249,1067,396,1109"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a2648b5fc68b22e83205161cf1274939c" title="AP_AHRS::get_EAS2TAS" alt="" coords="728,45,907,72"/>
+<area shape="rect" id="node9" href="$classAP__AHRS.html#a39289d0dde31413ad172fcf2847fce4a" title="AP_AHRS::airspeed_estimate" alt="" coords="475,121,674,148"/>
+<area shape="rect" id="node5" href="$classAP__Airspeed.html#a9bb14f83815ed35b067dd2f4a7c1851f" title="AP_Airspeed::get_EAS2TAS" alt="" coords="961,45,1151,72"/>
+<area shape="rect" id="node7" href="$classAP__Airspeed.html#a6162295b433e3a863c0d4b9086b19014" title="AP_Airspeed::use" alt="" coords="993,231,1119,257"/>
+<area shape="rect" id="node8" href="$classAP__Airspeed.html#acddaade777fa87d5b8c904c79be01204" title="AP_Airspeed::healthy" alt="" coords="982,281,1130,308"/>
+<area shape="rect" id="node10" href="$classAP__Airspeed.html#a1027b15b91e0af1dbfe8b999a88c8a25" title="AP_Airspeed::get_airspeed" alt="" coords="727,147,907,173"/>
+<area shape="rect" id="node11" href="$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="Query GPS status. " alt="" coords="758,197,877,224"/>
+<area shape="rect" id="node12" href="$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="735,96,899,123"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="764,433,871,460"/>
+<area shape="rect" id="node23" href="$classAP__AHRS.html#a208790b5f85df72d0f5a1d94b7225beb" title="AP_AHRS::get_dcm_matrix" alt="" coords="481,644,668,671"/>
+<area shape="rect" id="node27" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="541,273,609,300"/>
+</map>

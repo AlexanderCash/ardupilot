@@ -1,0 +1,20 @@
+<map id="Linux::LinuxStorage_FRAM::_timer_tick" name="Linux::LinuxStorage_FRAM::_timer_tick">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxStorage__FRAM.html#abe5495ebecf6180c5865f33e9b0de113" title="Linux::LinuxStorage\l_FRAM::open" alt="" coords="193,199,330,241"/>
+<area shape="rect" id="node18" href="$classLinux_1_1LinuxStorage__FRAM.html#ab5ebbd575aa9f4b981b131d951e4368b" title="Linux::LinuxStorage\l_FRAM::lseek" alt="" coords="193,265,330,306"/>
+<area shape="rect" id="node19" href="$classLinux_1_1LinuxStorage__FRAM.html#a75a8c8d08e28cca6d154e29177c0027b" title="Linux::LinuxStorage\l_FRAM::write" alt="" coords="193,330,330,371"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDeviceManager.html#ab26a3e8f8b43e59376ce98aafd288452" title="AP_HAL::SPIDeviceManager\l::device" alt="" coords="379,82,573,123"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxStorage__FRAM.html#a3595b33fb16f0708473bc05a62b37070" title="Linux::LinuxStorage\l_FRAM::_register_read" alt="" coords="621,173,779,214"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="403,199,549,241"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="403,265,549,306"/>
+<area shape="rect" id="node12" href="$classLinux_1_1LinuxStorage__FRAM.html#a4c38ed83df91957981d65f3cdb83a8ff" title="Linux::LinuxStorage\l_FRAM::_register_write" alt="" coords="396,330,556,371"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="401,31,551,57"/>
+<area shape="rect" id="node5" href="$classLinux_1_1LinuxStorage__FRAM.html#a051df265457f5a9f4bbfcd18f7d220b6" title="Linux::LinuxStorage\l_FRAM::transaction" alt="" coords="828,271,967,313"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1SPIDeviceDriver.html#a1c518b753148caee4d708c2311a9e548" title="AP_HAL::SPIDeviceDriver\l::get_semaphore" alt="" coords="1017,183,1196,225"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="1017,249,1197,276"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="1017,301,1196,342"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="1017,367,1196,393"/>
+<area shape="rect" id="node13" href="$classLinux_1_1LinuxStorage__FRAM.html#aee9b258c651b30347870ba988ed8fa84" title="Linux::LinuxStorage\l_FRAM::_write_enable" alt="" coords="623,271,777,313"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="827,31,968,57"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="625,5,775,32"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="1035,31,1179,57"/>
+</map>

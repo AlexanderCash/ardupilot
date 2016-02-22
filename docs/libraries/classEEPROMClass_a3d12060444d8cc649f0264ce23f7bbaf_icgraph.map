@@ -1,0 +1,12 @@
+<map id="EEPROMClass::EE_PageTransfer" name="EEPROMClass::EE_PageTransfer">
+<area shape="rect" id="node2" href="$classEEPROMClass.html#a1ec32c6c58e3845274ab08e8944d2f46" title="Verify if active page is full and Writes variable in EEPROM. " alt="" coords="280,34,491,75"/>
+<area shape="rect" id="node6" href="$classEEPROMClass.html#a9e3825e66fd8112ed3768f726537c8c6" title="EEPROMClass::init" alt="" coords="316,129,455,156"/>
+<area shape="rect" id="node3" href="$classEEPROMClass.html#a94dfba95e7cbc16dd5cbfeb344a749c1" title="Writes/upadtes variable data in EEPROM. " alt="" coords="551,12,702,39"/>
+<area shape="rect" id="node4" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEStorage.html#a0aa3116d7a310753eea45c784330aa37" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEStorage::write_byte" alt="" coords="763,5,975,46"/>
+<area shape="rect" id="node5" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEStorage.html#a3cebced9065ea52b7c7684aed8f3435b" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEStorage::write_block" alt="" coords="1024,5,1243,46"/>
+<area shape="rect" id="node7" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEStorage.html#a25a3355ea68af27fd28ec211b93ec2ca" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEStorage::init" alt="" coords="539,63,714,105"/>
+<area shape="rect" id="node8" href="$classEEPROMClass.html#aa2aa9b1e1f3f7ec3924aacc22e7de722" title="EEPROMClass::init" alt="" coords="557,129,696,156"/>
+<area shape="rect" id="node9" href="$classEEPROMClass.html#a7b4057d24e48bfad9b294d5acd9e7b56" title="Returns the erase counter for current page. " alt="" coords="546,180,707,207"/>
+<area shape="rect" id="node10" href="$classEEPROMClass.html#a039849dd231854ce6b71bb558684d54e" title="Returns the last stored variable data, if found, which correspond to the passed virtual address..." alt="" coords="553,231,700,257"/>
+<area shape="rect" id="node11" href="$classEEPROMClass.html#a11daf35eb9821e9c9761533f555bb1ed" title="Return number of variable. " alt="" coords="549,281,704,308"/>
+</map>

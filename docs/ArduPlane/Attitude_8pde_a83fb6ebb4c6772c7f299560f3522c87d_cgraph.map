@@ -1,0 +1,4 @@
+<map id="get_speed_scaler" name="get_speed_scaler">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a9cbf8cb68e28b401c10a9f2065495b46" title="AP_AHRS_DCM::airspeed\l_estimate" alt="" coords="179,5,359,46"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="216,71,323,97"/>
+</map>

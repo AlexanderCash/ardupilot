@@ -1,0 +1,4 @@
+<map id="AP_Airspeed_I2C::_measure" name="AP_Airspeed_I2C::_measure">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a6b2ba493a18de0727817a54a2a2d0eba" title="AP_HAL::I2CDriver::\lwriteRegisters" alt="" coords="246,5,391,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="245,70,392,111"/>
+</map>

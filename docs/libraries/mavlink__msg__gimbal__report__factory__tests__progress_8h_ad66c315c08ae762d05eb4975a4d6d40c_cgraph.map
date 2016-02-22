@@ -1,0 +1,6 @@
+<map id="mavlink_msg_gimbal_report_factory_tests_progress_decode" name="mavlink_msg_gimbal_report_factory_tests_progress_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__report__factory__tests__progress_8h.html#a8fb95b656a2fee7407cd0e89c45c6e4d" title="Send a gimbal_report_factory_tests_progress message. " alt="" coords="219,5,365,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gimbal__report__factory__tests__progress_8h.html#a69b3f4298030b84d5dca0ed359e4df71" title="Get field test_section from gimbal_report_factory_tests_progress message. " alt="" coords="201,85,383,141"/>
+<area shape="rect" id="node4" href="$mavlink__msg__gimbal__report__factory__tests__progress_8h.html#a34353efc846a1cbb0e0967209d69c0d6" title="Get field test_section_progress from gimbal_report_factory_tests_progress message. " alt="" coords="201,166,383,237"/>
+<area shape="rect" id="node5" href="$mavlink__msg__gimbal__report__factory__tests__progress_8h.html#a1eccbbcf011e36debce0cea751a839fb" title="Get field test_status from gimbal_report_factory_tests_progress message. " alt="" coords="204,261,380,317"/>
+</map>

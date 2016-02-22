@@ -1,0 +1,17 @@
+<map id="AP_InertialSensor_UserInteract_MAVLink" name="AP_InertialSensor_UserInteract_MAVLink">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__UserInteract.html" title="AP_InertialSensor_UserInteract" alt="" coords="1139,92,1346,119"/>
+<area shape="rect" id="node3" href="$classGCS__MAVLINK.html" title="MAVLink transport control class. " alt="" coords="1184,143,1301,169"/>
+<area shape="rect" id="node4" href="$structAP__Param_1_1ParamToken.html" title="AP_Param::ParamToken" alt="" coords="766,15,933,41"/>
+<area shape="rect" id="node5" href="$classMAVLink__routing.html" title="MAVLink_routing" alt="" coords="789,65,910,92"/>
+<area shape="rect" id="node6" href="$structMAVLink__routing_1_1route.html" title="MAVLink_routing::route" alt="" coords="445,15,603,41"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="773,116,926,143"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="445,65,603,92"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="180,65,303,92"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="6,65,114,92"/>
+<area shape="rect" id="node11" href="$classAP__Param.html" title="AP_Param" alt="" coords="807,167,892,193"/>
+<area shape="rect" id="node12" href="$classStorageAccess.html" title="StorageAccess" alt="" coords="469,116,579,143"/>
+<area shape="rect" id="node13" href="$structAP__Param_1_1Info.html" title="AP_Param::Info" alt="" coords="467,167,581,193"/>
+<area shape="rect" id="node14" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="166,243,317,269"/>
+<area shape="rect" id="node15" href="$structAP__Param_1_1param__override.html" title="AP_Param::param_override" alt="" coords="433,217,615,244"/>
+<area shape="rect" id="node16" href="$struct____mavlink__statustext__t.html" title="__mavlink_statustext_t" alt="" coords="771,319,928,345"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mavlink_msg_camera_status_pack_chan" name="mavlink_msg_camera_status_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__camera__status_8h.html#a056ccd81c97cd88477ff3a6a800495a0" title="Encode a camera_status struct on a channel. " alt="" coords="203,5,352,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#af4fcd724835dff3ca18d895459cfdaae" title="mavlink_test_camera\l_status" alt="" coords="204,70,351,111"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="400,77,584,104"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="633,77,749,104"/>
+</map>

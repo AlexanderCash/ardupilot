@@ -1,0 +1,10 @@
+digraph "Linux::LinuxScheduler::micros"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Linux::LinuxScheduler\l::micros",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Linux::LinuxScheduler\l::micros64",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxScheduler.html#a65db143a95c6cc281a8c5c01a7afbf5d"];
+}

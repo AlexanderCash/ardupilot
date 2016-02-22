@@ -1,0 +1,4 @@
+<map id="AP_MotorsHeli::reset_swash" name="AP_MotorsHeli::reset_swash">
+<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#a335efd2c7f3fe6a95457c1bba607afa1" title="AP_MotorsHeli::calculate\l_roll_pitch_collective\l_factors" alt="" coords="200,4,371,60"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="419,19,483,45"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mavlink_msg_rangefinder_pack_chan" name="mavlink_msg_rangefinder_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__rangefinder_8h.html#af910123d72c3c34aa6b4fe543ab04dc2" title="Encode a rangefinder struct on a channel. " alt="" coords="224,5,395,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ae7a4556216cc94d0466e879d734c26b2" title="mavlink_test_rangefinder" alt="" coords="226,71,393,97"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="443,71,627,97"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="675,71,791,97"/>
+</map>

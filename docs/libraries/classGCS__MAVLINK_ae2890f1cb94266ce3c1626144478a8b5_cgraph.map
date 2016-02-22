@@ -1,0 +1,4 @@
+<map id="GCS_MAVLINK::send_battery2" name="GCS_MAVLINK::send_battery2">
+<area shape="rect" id="node2" href="$classAP__BattMonitor.html#a72b1cb4d4ca246859bd8bf5a11df9c1d" title="AP_BattMonitor::num\l_instances" alt="" coords="273,5,420,46"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a08b53e709a3bd620196721e561afb6f3" title="AP_BattMonitor::voltage2" alt="" coords="261,71,432,97"/>
+</map>

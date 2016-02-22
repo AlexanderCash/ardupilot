@@ -1,0 +1,6 @@
+<map id="HALSITL::SITLUARTDriver::read" name="HALSITL::SITLUARTDriver::read">
+<area shape="rect" id="node2" href="$classHALSITL_1_1SITLUARTDriver.html#a15f6d684a5da2f2ce80d90379d88e8e7" title="HALSITL::SITLUARTDriver\l::available" alt="" coords="237,34,421,75"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#a4ce3392665e5d8eee1136557a161be04" title="HALSITL::SITL_State\l::gps_read" alt="" coords="254,99,405,141"/>
+<area shape="rect" id="node3" href="$classHALSITL_1_1SITLUARTDriver.html#ab85cbcfce96792c2778b1e009875c4b3" title="HALSITL::SITLUARTDriver\l::_check_connection" alt="" coords="469,5,653,46"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITLUARTDriver.html#a02323d7a36a6d01b001f2867fa773f6a" title="HALSITL::SITLUARTDriver\l::_select_check" alt="" coords="701,34,885,75"/>
+</map>

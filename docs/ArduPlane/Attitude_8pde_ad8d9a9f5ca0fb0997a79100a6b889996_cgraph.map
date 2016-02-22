@@ -1,0 +1,4 @@
+<map id="stabilize_roll" name="stabilize_roll">
+<area shape="rect" id="node2" href="$control__modes_8pde.html#a41df80f4bdf3c12ede2766ec47fa59ae" title="fly_inverted" alt="" coords="173,5,262,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__RollController.html#a8995f6c95b27e132a6aa49f5fe9512ae" title="AP_RollController::\lget_servo_out" alt="" coords="150,57,285,98"/>
+</map>

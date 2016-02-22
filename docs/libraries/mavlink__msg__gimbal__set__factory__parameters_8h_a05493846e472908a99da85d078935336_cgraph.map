@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gimbal_set_factory_parameters_encode" name="mavlink_msg_gimbal_set_factory_parameters_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__set__factory__parameters_8h.html#a1663f33aa6236aef3e7fc683825a3f03" title="Pack a gimbal_set_factory_parameters message. " alt="" coords="222,11,423,53"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="473,19,647,45"/>
+</map>

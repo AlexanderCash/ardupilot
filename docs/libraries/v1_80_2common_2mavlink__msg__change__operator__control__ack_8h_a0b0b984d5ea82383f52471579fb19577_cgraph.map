@@ -1,0 +1,4 @@
+<map id="mavlink_msg_change_operator_control_ack_encode" name="mavlink_msg_change_operator_control_ack_encode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__change__operator__control__ack_8h.html#ae908477ae61839ffbd4a6c8d8dbf7eba" title="Pack a change_operator_control_ack message. " alt="" coords="206,11,391,53"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="441,19,615,45"/>
+</map>

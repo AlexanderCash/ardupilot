@@ -1,0 +1,7 @@
+<map id="NavEKF::getEulerAngles" name="NavEKF::getEulerAngles">
+<area shape="rect" id="node2" href="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117" title="NavEKF::alignYawGPS" alt="" coords="222,15,383,41"/>
+<area shape="rect" id="node6" href="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b" title="NavEKF::performArmingChecks" alt="" coords="432,71,643,97"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="440,5,635,46"/>
+<area shape="rect" id="node4" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="691,5,848,46"/>
+<area shape="rect" id="node5" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="694,71,845,97"/>
+</map>

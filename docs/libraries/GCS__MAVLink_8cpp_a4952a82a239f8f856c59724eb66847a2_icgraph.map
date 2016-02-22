@@ -1,0 +1,5 @@
+<map id="mav_var_type" name="mav_var_type">
+<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a5049292431ff6787cd0c4fe69e7fa494" title="GCS_MAVLINK::handle\l_param_request_read" alt="" coords="160,5,323,46"/>
+<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#ae8138868be824c9478307c705a0e6763" title="GCS_MAVLINK::handle\l_param_set" alt="" coords="160,70,323,111"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#a508b2da2af9a77f175c60cac467cec70" title="Send the next pending parameter, called from deferred message handling code. " alt="" coords="158,135,325,177"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mavlink_msg_ping_decode" name="mavlink_msg_ping_decode">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__ping_8h.html#a27cf0f3730baea2d8a30775bf327ca0f" title="Send a ping message. " alt="" coords="234,5,417,32"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__ping_8h.html#ab426aa49db73be9972e7dae0deb3e64a" title="Get field target_system from ping message. " alt="" coords="248,57,403,98"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__ping_8h.html#a8156363d6d8655bfd26f4eff5682117a" title="Get field target_component from ping message. " alt="" coords="248,122,403,163"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__ping_8h.html#ae949ed18d494a8bf5f8e7914123812b2" title="Get field time from ping message. " alt="" coords="232,188,419,215"/>
+</map>

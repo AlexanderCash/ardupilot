@@ -1,0 +1,12 @@
+<map id="AP_ServoRelayEvents::update_events" name="AP_ServoRelayEvents::update_events">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="241,5,388,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1RCOutput.html#a25196bb820266d4afcae14d0acdb7e1c" title="AP_HAL::RCOutput::enable_ch" alt="" coords="211,71,418,97"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="227,121,403,148"/>
+<area shape="rect" id="node5" href="$classRC__Channel.html#a9c60b41a2854338f60e26fdf95b4b044" title="RC_Channel::rc_channel" alt="" coords="231,172,399,199"/>
+<area shape="rect" id="node6" href="$classAP__Relay.html#acadbe252379390594091edd75953456a" title="AP_Relay::toggle" alt="" coords="253,223,377,249"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1GPIO.html#a453e2829832c783a5337849218390efc" title="AP_HAL::GPIO::read" alt="" coords="467,172,613,199"/>
+<area shape="rect" id="node8" href="$classAP__Relay.html#aff679a24b3c6b73f066e1e62c86e0fae" title="AP_Relay::off" alt="" coords="488,273,592,300"/>
+<area shape="rect" id="node11" href="$classAP__Relay.html#a8f00e5559174917b795ef84472822e53" title="AP_Relay::on" alt="" coords="489,223,591,249"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="661,223,832,249"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="671,273,822,300"/>
+</map>

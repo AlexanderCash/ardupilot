@@ -1,0 +1,6 @@
+<map id="mavlink_msg_autopilot_version_pack" name="mavlink_msg_autopilot_version_pack">
+<area shape="rect" id="node2" href="$mavlink__msg__autopilot__version_8h.html#a8139b0bba20d763bca7037106cbd0401" title="Encode a autopilot_version struct. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a9a34e152c8867677d8e68d8c46499df4" title="mavlink_test_autopilot\l_version" alt="" coords="411,34,563,75"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="611,41,765,68"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="814,41,930,68"/>
+</map>

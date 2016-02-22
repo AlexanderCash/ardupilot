@@ -1,0 +1,5 @@
+<map id="Log_Arm_Disarm" name="Log_Arm_Disarm">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title="AP_Arming::is_armed" alt="" coords="199,5,348,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#ace8d6adce582b106309f065977d6ae5f" title="AP_Arming::get_enabled\l_checks" alt="" coords="190,57,357,98"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="176,123,371,149"/>
+</map>

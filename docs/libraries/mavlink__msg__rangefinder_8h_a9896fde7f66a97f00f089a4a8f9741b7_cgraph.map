@@ -1,0 +1,4 @@
+<map id="mavlink_msg_rangefinder_decode" name="mavlink_msg_rangefinder_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__rangefinder_8h.html#ae4cfe80147c8290a5807c15d34f3b346" title="Send a rangefinder message. " alt="" coords="224,5,395,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__rangefinder_8h.html#a249aa12267ba2994d833b453d691f005" title="Get field voltage from rangefinder message. " alt="" coords="224,70,395,111"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mavlink_msg_digicam_configure_encode_chan" name="mavlink_msg_digicam_configure_encode_chan">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a7dbe51041eceec3a18e5f197a6f5242a" title="Pack a digicam_configure message on a channel. " alt="" coords="221,5,373,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="421,12,632,39"/>
+</map>

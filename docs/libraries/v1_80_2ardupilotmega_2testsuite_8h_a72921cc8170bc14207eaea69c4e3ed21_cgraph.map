@@ -1,0 +1,14 @@
+<map id="mavlink_test_gopro_set_response" name="mavlink_test_gopro_set_response">
+<area shape="rect" id="node2" href="$mavlink__msg__gopro__set__response_8h.html#a08b91045ad4a46a20ec39bb05815985a" title="Encode a gopro_set_response struct. " alt="" coords="189,5,352,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gopro__set__response_8h.html#a1386ba90c30dec7b13fe403279344b3a" title="Pack a gopro_set_response message. " alt="" coords="424,5,587,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__gopro__set__response_8h.html#adf55d1237b677113f69fe2b82c7d0f25" title="Decode a gopro_set_response message into a struct. " alt="" coords="189,122,352,163"/>
+<area shape="rect" id="node8" href="$mavlink__msg__gopro__set__response_8h.html#a0fd0209b1dacf0eedfafb4f8a1bc8890" title="Pack a gopro_set_response message on a channel. " alt="" coords="189,187,352,229"/>
+<area shape="rect" id="node10" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="195,253,347,294"/>
+<area shape="rect" id="node11" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="191,318,350,359"/>
+<area shape="rect" id="node12" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="213,384,328,411"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="659,12,834,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__gopro__set__response_8h.html#a3b3dbcf404f3f24261670da91d92a56b" title="Send a gopro_set_response message. " alt="" coords="424,70,587,111"/>
+<area shape="rect" id="node7" href="$mavlink__msg__gopro__set__response_8h.html#a9468090249536c756c68b07c58417bcc" title="Get field result from gopro_set_response message. " alt="" coords="424,135,587,177"/>
+<area shape="rect" id="node9" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="400,201,611,228"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="433,384,577,411"/>
+</map>

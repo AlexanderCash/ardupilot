@@ -1,0 +1,7 @@
+<map id="AP_Motors::update_lift_max_from_batt_voltage" name="AP_Motors::update_lift_max_from_batt_voltage">
+<area shape="rect" id="node2" href="$classLowPassFilterFloat.html#a0f1280ed7b46ee6d4f48d960ff65ff0f" title="LowPassFilterFloat\l::reset" alt="" coords="219,5,354,46"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="573,99,680,125"/>
+<area shape="rect" id="node5" href="$classLowPassFilterFloat.html#a2e489f7f440c90e1ed442a70a72bc52d" title="LowPassFilterFloat\l::apply" alt="" coords="219,122,354,163"/>
+<area shape="rect" id="node3" href="$classDigitalLPF.html#a3b7217283a52a01a86e7ab0c68a3ca96" title="DigitalLPF::reset" alt="" coords="404,12,524,39"/>
+<area shape="rect" id="node6" href="$classDigitalLPF.html#aec513ab9bc5165163c6ec87692f804e8" title="DigitalLPF::apply" alt="" coords="403,125,525,152"/>
+</map>

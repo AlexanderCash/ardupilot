@@ -1,0 +1,12 @@
+<map id="AP_RangeFinder_Backend::set_status" name="AP_RangeFinder_Backend::set_status">
+<area shape="rect" id="node2" href="$classAP__RangeFinder__analog.html#a04bfb7df1a0952c471040ca4c885fdb1" title="AP_RangeFinder_analog\l::AP_RangeFinder_analog" alt="" coords="234,5,409,46"/>
+<area shape="rect" id="node3" href="$classAP__RangeFinder__PX4.html#ad898de131b37d7f6dcb0852788623154" title="AP_RangeFinder_PX4\l::AP_RangeFinder_PX4" alt="" coords="241,70,402,111"/>
+<area shape="rect" id="node4" href="$classAP__RangeFinder__PX4__PWM.html#a7e9fc37b2b91a2851d35cb01adeddf0f" title="AP_RangeFinder_PX4\l_PWM::AP_RangeFinder\l_PX4_PWM" alt="" coords="237,135,406,191"/>
+<area shape="rect" id="node5" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a6e990839c7d9bbced27ead7b6f4d3a38" title="AP_RangeFinder_MaxsonarI2\lCXL::update" alt="" coords="459,186,655,227"/>
+<area shape="rect" id="node6" href="$classAP__RangeFinder__PX4__PWM.html#a434a00adf4f58b34de67fb54131cdec0" title="AP_RangeFinder_PX4\l_PWM::update" alt="" coords="481,251,634,293"/>
+<area shape="rect" id="node7" href="$classAP__RangeFinder__PX4.html#a5e0cebe64a3212c9e0d97e233a16e9e7" title="AP_RangeFinder_PX4\l::update" alt="" coords="481,382,634,423"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__PulsedLightLRF.html#ac465541eac74267f6dc1fa06d0301aa4" title="AP_RangeFinder_PulsedLight\lLRF::update" alt="" coords="459,447,655,489"/>
+<area shape="rect" id="node9" href="$classAP__RangeFinder__Backend.html#a9e858f638e4c2d1138aa3f56d217a394" title="AP_RangeFinder_Backend\l::update_status" alt="" coords="232,317,411,358"/>
+<area shape="rect" id="node11" href="$classAP__RangeFinder__PX4__PWM.html#add8a6de6a97c87db3c79d75eb925009a" title="AP_RangeFinder_PX4\l_PWM::~AP_RangeFinder\l_PX4_PWM" alt="" coords="233,484,410,540"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__analog.html#ad997f109f592a3c9f875655af6ad6de0" title="AP_RangeFinder_analog\l::update" alt="" coords="474,317,641,358"/>
+</map>

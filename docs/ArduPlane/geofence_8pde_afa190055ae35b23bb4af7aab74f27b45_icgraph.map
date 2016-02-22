@@ -1,0 +1,16 @@
+<map id="geofence_enabled" name="geofence_enabled">
+<area shape="rect" id="node2" href="$geofence_8pde.html#a131efdc9e7e9c64e4909789780279a66" title="geofence_check" alt="" coords="203,56,320,83"/>
+<area shape="rect" id="node5" href="$geofence_8pde.html#ac78e6aee3afead6d1d14c5820ee2fea2" title="geofence_send_status" alt="" coords="185,107,338,133"/>
+<area shape="rect" id="node7" href="$geofence_8pde.html#ad8086d776005853fd709d213598b8885" title="geofence_stickmixing" alt="" coords="187,157,335,184"/>
+<area shape="rect" id="node15" href="$GCS__Mavlink_8pde.html#a64efe705566865c689263aa128277c83" title="send_extended_status1" alt="" coords="181,208,341,235"/>
+<area shape="rect" id="node3" href="$ArduPlane_8pde.html#a6fba8fd13515c54a77e9434c4784c3c9" title="update_alt" alt="" coords="421,5,504,32"/>
+<area shape="rect" id="node4" href="$ArduPlane_8pde.html#a952c65073f8556020619eca374f08067" title="update_GPS_10Hz" alt="" coords="395,56,530,83"/>
+<area shape="rect" id="node6" href="$GCS__Mavlink_8pde.html#a00e25b3778f827e82b48e6f33c4dd2fe" title="send_fence_status" alt="" coords="397,107,529,133"/>
+<area shape="rect" id="node8" href="$Attitude_8pde.html#a14b5cf622d6dbc30bb14c09ef2c6597a" title="stick_mixing_enabled" alt="" coords="389,157,536,184"/>
+<area shape="rect" id="node9" href="$Attitude_8pde.html#a44e944a8ca5cc7235984188d5e3b7a6c" title="calc_nav_yaw_course" alt="" coords="585,103,735,129"/>
+<area shape="rect" id="node13" href="$Attitude_8pde.html#a49889b4d9baf5b8cbad14c404990694d" title="stabilize_stick_mixing\l_direct" alt="" coords="785,150,935,191"/>
+<area shape="rect" id="node14" href="$Attitude_8pde.html#ae92319b4ca282687af5dceb51f0b275d" title="stabilize_stick_mixing_fbw" alt="" coords="984,212,1163,239"/>
+<area shape="rect" id="node10" href="$Attitude_8pde.html#a2ee107cf7f9cd5f573d492d760751ddb" title="stabilize_yaw" alt="" coords="809,99,911,125"/>
+<area shape="rect" id="node11" href="$Attitude_8pde.html#a5915bf02c3bd19b57c717c8234369fdd" title="stabilize" alt="" coords="1211,135,1282,161"/>
+<area shape="rect" id="node12" href="$Attitude_8pde.html#aede80974c348fcf7fd493d948cd080df" title="stabilize_training" alt="" coords="1014,109,1133,136"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="mavlink_test_mission_current" name="mavlink_test_mission_current">
+<area shape="rect" id="node2" href="$mavlink__msg__mission__current_8h.html#a616ec6c15e080fc09b5e38013e497b1d" title="Encode a mission_current struct. " alt="" coords="207,5,358,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__mission__current_8h.html#a8464f6cb7df02e6ad98b027ad3059f0e" title="Pack a mission_current message. " alt="" coords="441,31,591,73"/>
+<area shape="rect" id="node5" href="$mavlink__msg__mission__current_8h.html#a3f6c0373c76ec926e8e09bd90e22bd6d" title="Decode a mission_current message into a struct. " alt="" coords="207,122,358,163"/>
+<area shape="rect" id="node7" href="$mavlink__msg__mission__current_8h.html#a6302c056573408334bf83b27c274aaf6" title="Pack a mission_current message on a channel. " alt="" coords="207,187,358,229"/>
+<area shape="rect" id="node9" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="207,253,359,294"/>
+<area shape="rect" id="node10" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="203,318,362,359"/>
+<area shape="rect" id="node11" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="225,384,340,411"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="670,39,845,65"/>
+<area shape="rect" id="node6" href="$mavlink__msg__mission__current_8h.html#a156e3320d72f6e2cbf0188dec7d59211" title="Send a mission_current message. " alt="" coords="441,122,591,163"/>
+<area shape="rect" id="node8" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="411,195,621,221"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="444,384,588,411"/>
+</map>

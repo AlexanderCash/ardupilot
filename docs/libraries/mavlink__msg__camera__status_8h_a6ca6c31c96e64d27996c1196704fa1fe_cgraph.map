@@ -1,0 +1,11 @@
+<map id="mavlink_msg_camera_status_decode" name="mavlink_msg_camera_status_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__camera__status_8h.html#ac1ba2d71ff59aa3dcd548d87af127f5b" title="Send a camera_status message. " alt="" coords="215,5,372,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__camera__status_8h.html#a7604522d7c77b75590a1495a0607da9a" title="Get field p1 from camera_status message. " alt="" coords="219,70,368,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__camera__status_8h.html#aa64e4949ebc180df55bb63c4e4a2eaef" title="Get field p2 from camera_status message. " alt="" coords="219,135,368,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__camera__status_8h.html#ad58f9f2fe6ad28d7faf87f27216d797e" title="Get field p3 from camera_status message. " alt="" coords="219,201,368,242"/>
+<area shape="rect" id="node6" href="$mavlink__msg__camera__status_8h.html#ab6e3b6060b037b1db141abc5a2c3a04c" title="Get field p4 from camera_status message. " alt="" coords="219,266,368,307"/>
+<area shape="rect" id="node7" href="$mavlink__msg__camera__status_8h.html#a9928be63876744e9c9a6bf1aed0f3942" title="Get field img_idx from camera_status message. " alt="" coords="219,331,368,373"/>
+<area shape="rect" id="node8" href="$mavlink__msg__camera__status_8h.html#a34770fffbaabc5a5e4537d89466730fa" title="Get field target_system from camera_status message. " alt="" coords="203,397,383,438"/>
+<area shape="rect" id="node9" href="$mavlink__msg__camera__status_8h.html#a498df40ccc68856676f24aba767bdc50" title="Get field cam_idx from camera_status message. " alt="" coords="219,462,368,503"/>
+<area shape="rect" id="node10" href="$mavlink__msg__camera__status_8h.html#a494c105acd063d975d32e178638caf89" title="Get field event_id from camera_status message. " alt="" coords="219,527,368,569"/>
+</map>

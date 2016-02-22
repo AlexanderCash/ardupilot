@@ -1,0 +1,4 @@
+<map id="mavlink_msg_nav_controller_output_encode_chan" name="mavlink_msg_nav_controller_output_encode_chan">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__nav__controller__output_8h.html#af0a2c94ed932fac26c8ab9f9b7e6dc2f" title="Pack a nav_controller_output message on a channel. " alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="475,12,685,39"/>
+</map>

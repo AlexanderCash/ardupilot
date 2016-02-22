@@ -1,0 +1,27 @@
+<map id="AP_HAL::Util::safety_switch_state" name="AP_HAL::Util::safety_switch_state">
+<area shape="rect" id="node2" href="$classPX4_1_1PX4RCOutput.html#a0de890ada8fb8f098ca020c3186131b0" title="PX4::PX4RCOutput::\l_publish_actuators" alt="" coords="239,22,385,63"/>
+<area shape="rect" id="node4" href="$classAP__Arming.html#a66dd88cc4605d1c91c655b2959274b5c" title="AP_Arming::hardware\l_safety_check" alt="" coords="237,119,387,161"/>
+<area shape="rect" id="node7" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#acc8033869efd9f2f6012ecda5373aa3b" title="VRBRAIN::VRBRAINUARTDriver\l::try_initialise" alt="" coords="200,250,424,291"/>
+<area shape="rect" id="node17" href="$classPX4_1_1PX4UARTDriver.html#a0b4321cec2488d6a8059018d17758084" title="PX4::PX4UARTDriver\l::try_initialise" alt="" coords="236,559,388,601"/>
+<area shape="rect" id="node3" href="$classPX4_1_1PX4RCOutput.html#a0bad50188ce186ff459871c6ec550383" title="PX4::PX4RCOutput::\l_timer_tick" alt="" coords="511,5,657,46"/>
+<area shape="rect" id="node5" href="$classAP__Arming.html#a73c03baf7f22b7124a2ac9e9286a850a" title="AP_Arming::pre_arm\l_checks" alt="" coords="513,70,655,111"/>
+<area shape="rect" id="node6" href="$classAP__Arming.html#a47b859d9929a736df2f08a1cad03efcb" title="AP_Arming::arm" alt="" coords="797,77,915,104"/>
+<area shape="rect" id="node8" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#ac482ec7548dcdcdfc383ebf1df411a53" title="VRBRAIN::VRBRAINUARTDriver\l::is_initialized" alt="" coords="472,135,696,177"/>
+<area shape="rect" id="node9" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a55ac6c7557b2c3d79526f75c7ac4910f" title="VRBRAIN::VRBRAINUARTDriver\l::available" alt="" coords="472,201,696,242"/>
+<area shape="rect" id="node10" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a72c62e728ace6a020b7149a2ea207874" title="VRBRAIN::VRBRAINUARTDriver\l::txspace" alt="" coords="472,266,696,307"/>
+<area shape="rect" id="node11" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#ab9f7ba0504452fd7320ed34a1f2a499f" title="VRBRAIN::VRBRAINUARTDriver\l::read" alt="" coords="472,331,696,373"/>
+<area shape="rect" id="node14" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a255b67303b401e64c49f9f0c44c68720" title="VRBRAIN::VRBRAINUARTDriver\l::write" alt="" coords="472,397,696,438"/>
+<area shape="rect" id="node12" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a0177a181f5bb9cbfda1d564f62711100" title="VRBRAIN::VRBRAINUARTDriver\l::_read_fd" alt="" coords="744,331,968,373"/>
+<area shape="rect" id="node13" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a72593c9ad60f292fe8c5b9cd5176e93b" title="VRBRAIN::VRBRAINUARTDriver\l::_timer_tick" alt="" coords="1016,397,1240,438"/>
+<area shape="rect" id="node15" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#acbaf340daa822b61725298405720b8d3" title="VRBRAIN::VRBRAINUARTDriver\l::write" alt="" coords="744,397,968,438"/>
+<area shape="rect" id="node16" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#afc978b3e0b18ae4a113fe1c04de5fe13" title="VRBRAIN::VRBRAINUARTDriver\l::_write_fd" alt="" coords="744,462,968,503"/>
+<area shape="rect" id="node18" href="$classPX4_1_1PX4UARTDriver.html#acc1fd6d9336130b945157e4e92d6ce26" title="PX4::PX4UARTDriver\l::is_initialized" alt="" coords="508,462,660,503"/>
+<area shape="rect" id="node19" href="$classPX4_1_1PX4UARTDriver.html#ada8c991e351fd9a70edec44432daeff9" title="PX4::PX4UARTDriver\l::available" alt="" coords="508,527,660,569"/>
+<area shape="rect" id="node20" href="$classPX4_1_1PX4UARTDriver.html#a082cae4d5827b4ca0c2ef0be2b04b096" title="PX4::PX4UARTDriver\l::txspace" alt="" coords="508,593,660,634"/>
+<area shape="rect" id="node21" href="$classPX4_1_1PX4UARTDriver.html#a0cfa3ca072d0d47a1b4427494d260c3c" title="PX4::PX4UARTDriver\l::read" alt="" coords="508,658,660,699"/>
+<area shape="rect" id="node24" href="$classPX4_1_1PX4UARTDriver.html#a165b2bf0c3e824061fbfd8cbc07ff97e" title="PX4::PX4UARTDriver\l::write" alt="" coords="508,723,660,765"/>
+<area shape="rect" id="node22" href="$classPX4_1_1PX4UARTDriver.html#abab7e875c48a125ad33bbf6e77526678" title="PX4::PX4UARTDriver\l::_read_fd" alt="" coords="780,658,932,699"/>
+<area shape="rect" id="node23" href="$classPX4_1_1PX4UARTDriver.html#a15f4a4558c5ffa4cc27cd0371470afa4" title="PX4::PX4UARTDriver\l::_timer_tick" alt="" coords="1052,723,1204,765"/>
+<area shape="rect" id="node25" href="$classPX4_1_1PX4UARTDriver.html#a64b2e805f062333fc5d28dd022f1d597" title="PX4::PX4UARTDriver\l::write" alt="" coords="780,723,932,765"/>
+<area shape="rect" id="node26" href="$classPX4_1_1PX4UARTDriver.html#a999818ba89f3849918b43fb38dd3e836" title="PX4::PX4UARTDriver\l::_write_fd" alt="" coords="780,789,932,830"/>
+</map>

@@ -1,0 +1,38 @@
+digraph "AP_GPS::num_sats"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_GPS::num_sats",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_Frsky_Telem::calc\l_gps_sats",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Frsky__Telem.html#ae2f281a86844f1853ea072f3e6d6c130"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_Frsky_Telem::send\l_frames",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Frsky__Telem.html#a9c09b9a14c083f48e845d81484de9c0e"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="AP_Frsky_Telem::send\l_hub_frame",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Frsky__Telem.html#ae386d05deadb794547df5a4e22edcc8a"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="NavEKF::calcGpsGoodToAlign",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a442aeaf3f7b83e2be7f737ac81486c65"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="NavEKF::readGpsData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a4c44a7b25f5b5584b755142c6198fd1e"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="NavEKF::InitialiseFilter\lDynamic",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="NavEKF::InitialiseFilter\lBootstrap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8"];
+  Node6 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="NavEKF::SelectVelPosFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="NavEKF::UpdateFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="AP_AHRS_DCM::drift\l_correction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549"];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="AP_AHRS_DCM::update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd"];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="DataFlash_Class::Log\l_Write_GPS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDataFlash__Class.html#a99edf88e150050fa323babcd07954c34"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$GPS__AUTO__test_8pde.html#afe461d27b9c48d5921c00d521181f12f"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

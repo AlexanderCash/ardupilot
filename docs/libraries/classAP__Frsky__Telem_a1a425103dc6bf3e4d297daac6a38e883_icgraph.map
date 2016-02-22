@@ -1,0 +1,4 @@
+<map id="AP_Frsky_Telem::send_batt_remain" name="AP_Frsky_Telem::send_batt_remain">
+<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#ae386d05deadb794547df5a4e22edcc8a" title="AP_Frsky_Telem::send\l_hub_frame" alt="" coords="214,5,373,46"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a9c09b9a14c083f48e845d81484de9c0e" title="AP_Frsky_Telem::send\l_frames" alt="" coords="422,5,581,46"/>
+</map>

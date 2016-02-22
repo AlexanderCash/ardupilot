@@ -1,0 +1,23 @@
+digraph "NavEKF::useAirspeed"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="NavEKF::useAirspeed",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="NavEKF::FuseVelPosNED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a74882eb98d3c69065b640829154a500c"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="NavEKF::SelectVelPosFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="NavEKF::UpdateFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="NavEKF::SelectBetaFusion",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a8525e5774e083f7187a7c4ed8609fa38"];
+  Node5 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="NavEKF::SetFlightAndFusion\lModes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="NavEKF::InitialiseFilter\lBootstrap",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,7 @@
+<map id="verify_continue_and_change_alt" name="verify_continue_and_change_alt">
+<area shape="rect" id="node2" href="$altitude_8pde.html#aad5da768a7e757989110fe2d704427b9" title="adjusted_altitude_cm" alt="" coords="198,5,343,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="223,56,319,83"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a224e7b94333df3a15a18499026474ac9" title="get_bearing_cd" alt="" coords="215,107,326,133"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ab0e06d28afb9d14043e1938af277396c" title="location_update" alt="" coords="214,157,327,184"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#acbff1d37eab53cfb052773759a27148c" title="AP_Navigation::update\l_waypoint" alt="" coords="193,209,349,250"/>
+</map>

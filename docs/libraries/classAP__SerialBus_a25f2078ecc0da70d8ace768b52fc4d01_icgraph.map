@@ -1,0 +1,6 @@
+<map id="AP_SerialBus::write" name="AP_SerialBus::write">
+<area shape="rect" id="node2" href="$classAP__Baro__MS5611.html#a754a45cd1e595ebd27fc4516341f3528" title="AP_Baro_MS5611::_timer" alt="" coords="192,13,365,40"/>
+<area shape="rect" id="node5" href="$classAP__Baro__MS5611.html#a5e36586ae33638288843d7bc9ba5c607" title="AP_Baro_MS5611::AP\l_Baro_MS5611" alt="" coords="439,57,593,98"/>
+<area shape="rect" id="node3" href="$classAP__Baro__MS5611.html#ab150f02d7a128f50c583578a411ed34d" title="AP_Baro_MS5611::accumulate" alt="" coords="414,5,618,32"/>
+<area shape="rect" id="node4" href="$classAP__Baro__MS5611.html#aaabf16d34651abefbe5a9c81f1eb7016" title="AP_Baro_MS5611::update" alt="" coords="667,5,843,32"/>
+</map>

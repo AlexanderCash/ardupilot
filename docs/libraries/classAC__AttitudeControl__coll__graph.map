@@ -1,0 +1,62 @@
+<map id="AC_AttitudeControl" name="AC_AttitudeControl">
+<area shape="rect" id="node2" href="$classAC__P.html" title="Object managing one P controller. " alt="" coords="1286,567,1343,593"/>
+<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="755,688,906,715"/>
+<area shape="rect" id="node7" href="$classAP__AHRS.html" title="AP_AHRS" alt="" coords="1440,721,1525,748"/>
+<area shape="rect" id="node9" href="$classAP__Baro.html" title="AP_Baro" alt="" coords="1123,67,1197,93"/>
+<area shape="rect" id="node15" href="$classOpticalFlow.html" title="OpticalFlow" alt="" coords="1115,347,1205,373"/>
+<area shape="rect" id="node20" href="$classAP__InertialSensor.html" title="AP_InertialSensor" alt="" coords="1097,1148,1223,1175"/>
+<area shape="rect" id="node24" href="$classAP__Airspeed.html" title="AP_Airspeed" alt="" coords="1111,968,1209,995"/>
+<area shape="rect" id="node32" href="$classAP__GPS.html" title="AP_GPS" alt="" coords="1123,1468,1197,1495"/>
+<area shape="rect" id="node49" href="$classCompass.html" title="Compass" alt="" coords="1121,456,1199,483"/>
+<area shape="rect" id="node53" href="$classAP__Motors.html" title="AP_Motors" alt="" coords="1439,1200,1526,1227"/>
+<area shape="rect" id="node58" href="$classRC__Channel.html" title="Object managing one RC channel. " alt="" coords="1111,855,1209,881"/>
+<area shape="rect" id="node60" href="$classAC__PID.html" title="Copter PID control class. " alt="" coords="1125,1029,1195,1056"/>
+<area shape="rect" id="node4" href="$structAC__AttitudeControl_1_1AttControlFlags.html" title="AC_AttitudeControl\l::AttControlFlags" alt="" coords="1415,275,1550,317"/>
+<area shape="rect" id="node5" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="185,837,301,864"/>
+<area shape="rect" id="node29" href="$classAirspeed__Calibration.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="759,821,902,848"/>
+<area shape="rect" id="node30" href="$classMatrix3.html" title="Matrix3\&lt; float \&gt;" alt="" coords="427,809,541,836"/>
+<area shape="rect" id="node46" href="$structAP__GPS_1_1GPS__State.html" title="AP_GPS::GPS_State" alt="" coords="756,1572,905,1599"/>
+<area shape="rect" id="node51" href="$structCompass_1_1mag__state.html" title="Compass::mag_state" alt="" coords="757,303,904,329"/>
+<area shape="rect" id="node6" href="$structAP__Vehicle_1_1MultiCopter.html" title="AP_Vehicle::MultiCopter" alt="" coords="1400,408,1565,435"/>
+<area shape="rect" id="node8" href="$structAP__AHRS_1_1ahrs__flags.html" title="AP_AHRS::ahrs_flags" alt="" coords="1083,765,1237,792"/>
+<area shape="rect" id="node14" href="$classAP__Baro__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="1417,45,1549,72"/>
+<area shape="rect" id="node10" href="$structAP__Baro_1_1sensor.html" title="AP_Baro::sensor" alt="" coords="770,64,891,91"/>
+<area shape="rect" id="node11" href="$classDerivativeFilter.html" title="DerivativeFilter\&lt; float, 7 \&gt;" alt="" coords="743,13,918,40"/>
+<area shape="rect" id="node12" href="$classFilterWithBuffer.html" title="FilterWithBuffer\&lt; float,\l FILTER_SIZE \&gt;" alt="" coords="407,6,561,47"/>
+<area shape="rect" id="node13" href="$classFilter.html" title="Filter\&lt; float \&gt;" alt="" coords="193,13,293,40"/>
+<area shape="rect" id="node18" href="$classOpticalFlow__backend.html" title="OpticalFlow_backend" alt="" coords="1409,341,1556,368"/>
+<area shape="rect" id="node16" href="$structOpticalFlow_1_1OpticalFlow__state.html" title="OpticalFlow::OpticalFlow\l_state" alt="" coords="747,357,915,398"/>
+<area shape="rect" id="node17" href="$structVector2.html" title="Vector2\&lt; float \&gt;" alt="" coords="426,525,542,552"/>
+<area shape="rect" id="node19" href="$structOpticalFlow_1_1AP__OpticalFlow__Flags.html" title="OpticalFlow::AP_OpticalFlow\l_Flags" alt="" coords="734,219,927,261"/>
+<area shape="rect" id="node21" href="$classAP__InertialSensor__Backend.html" title="AP_InertialSensor_Backend" alt="" coords="1390,1123,1575,1149"/>
+<area shape="rect" id="node22" href="$classDataFlash__Class.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="769,1300,892,1327"/>
+<area shape="rect" id="node23" href="$structLogStructure.html" title="LogStructure" alt="" coords="436,1221,532,1248"/>
+<area shape="rect" id="node25" href="$classAP__Airspeed__Analog.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="758,923,903,949"/>
+<area shape="rect" id="node26" href="$classAP__Airspeed__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="406,987,562,1013"/>
+<area shape="rect" id="node28" href="$classAP__Airspeed__PX4.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="765,1000,896,1027"/>
+<area shape="rect" id="node27" href="$classAP__HAL_1_1AnalogSource.html" title="AP_HAL::AnalogSource" alt="" coords="403,923,565,949"/>
+<area shape="rect" id="node31" href="$structAP__Vehicle_1_1FixedWing.html" title="AP_Vehicle::FixedWing" alt="" coords="404,759,564,785"/>
+<area shape="rect" id="node41" href="$classAP__GPS__Backend.html" title="AP_GPS_Backend" alt="" coords="1416,1548,1549,1575"/>
+<area shape="rect" id="node33" href="$structAP__GPS_1_1detect__state.html" title="AP_GPS::detect_state" alt="" coords="753,1420,908,1447"/>
+<area shape="rect" id="node34" href="$structSBP__detect__state.html" title="SBP_detect_state" alt="" coords="420,1475,548,1501"/>
+<area shape="rect" id="node35" href="$structUBLOX__detect__state.html" title="UBLOX_detect_state" alt="" coords="411,1525,557,1552"/>
+<area shape="rect" id="node36" href="$structSIRF__detect__state.html" title="SIRF_detect_state" alt="" coords="418,1373,550,1400"/>
+<area shape="rect" id="node37" href="$structMTK19__detect__state.html" title="MTK19_detect_state" alt="" coords="413,1272,555,1299"/>
+<area shape="rect" id="node38" href="$structNMEA__detect__state.html" title="NMEA_detect_state" alt="" coords="414,1323,554,1349"/>
+<area shape="rect" id="node39" href="$structMTK__detect__state.html" title="MTK_detect_state" alt="" coords="419,1424,549,1451"/>
+<area shape="rect" id="node40" href="$structAP__GPS_1_1GPS__timing.html" title="AP_GPS::GPS_timing" alt="" coords="754,1471,907,1497"/>
+<area shape="rect" id="node42" href="$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="754,1701,907,1728"/>
+<area shape="rect" id="node43" href="$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="405,1701,563,1728"/>
+<area shape="rect" id="node44" href="$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="181,1701,304,1728"/>
+<area shape="rect" id="node45" href="$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="6,1701,114,1728"/>
+<area shape="rect" id="node47" href="$structLocation.html" title="Location" alt="" coords="449,1645,519,1672"/>
+<area shape="rect" id="node48" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="165,1645,320,1672"/>
+<area shape="rect" id="node50" href="$classAP__Compass__Backend.html" title="AP_Compass_Backend" alt="" coords="1402,459,1563,485"/>
+<area shape="rect" id="node52" href="$classVector3.html" title="Vector3\&lt; int16_t \&gt;" alt="" coords="419,364,549,391"/>
+<area shape="rect" id="node54" href="$structAP__Motors_1_1AP__Motors__limit.html" title="AP_Motors::AP_Motors\l_limit" alt="" coords="1080,1331,1240,1373"/>
+<area shape="rect" id="node55" href="$classLowPassFilterFloat.html" title="LowPassFilterFloat" alt="" coords="1093,1215,1227,1241"/>
+<area shape="rect" id="node56" href="$classLowPassFilter.html" title="LowPassFilter" alt="" coords="778,1249,883,1276"/>
+<area shape="rect" id="node57" href="$classDigitalLPF.html" title="DigitalLPF" alt="" coords="789,1351,872,1377"/>
+<area shape="rect" id="node59" href="$structAP__Motors_1_1AP__Motors__flags.html" title="AP_Motors::AP_Motors\l_flags" alt="" coords="1080,1266,1240,1307"/>
+<area shape="rect" id="node61" href="$structAC__PID_1_1ac__pid__flags.html" title="AC_PID::ac_pid_flags" alt="" coords="755,1051,907,1077"/>
+</map>

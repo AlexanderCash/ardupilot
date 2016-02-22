@@ -1,0 +1,4 @@
+<map id="mavlink_msg_set_nav_mode_decode" name="mavlink_msg_set_nav_mode_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__set__nav__mode_8h.html#aa25511f3d9a0e83a6b5f31f8a2bdbc85" title="Send a set_nav_mode message. " alt="" coords="207,5,359,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__set__nav__mode_8h.html#ac64b1926370ffc793995ddbed7ea26c0" title="Get field nav_mode from set_nav_mode message. " alt="" coords="206,70,359,111"/>
+</map>

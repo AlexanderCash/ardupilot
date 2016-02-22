@@ -1,0 +1,8 @@
+<map id="set_target_altitude_proportion" name="set_target_altitude_proportion">
+<area shape="rect" id="node2" href="$altitude_8pde.html#a6357f669f6ecbbb7cfde5ba94be1e19c" title="set_target_altitude\l_location" alt="" coords="197,5,326,46"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="208,71,315,97"/>
+<area shape="rect" id="node4" href="$altitude_8pde.html#ab8083dab6dcaeff9d8150fe04c47185d" title="change_target_altitude" alt="" coords="185,121,338,148"/>
+<area shape="rect" id="node5" href="$altitude_8pde.html#a26e99e43b17681e3716fef6a71de06b7" title="calc_altitude_error_cm" alt="" coords="185,172,338,199"/>
+<area shape="rect" id="node7" href="$altitude_8pde.html#a9a2ab83d5bfa356d6e99cc7f6c7869cd" title="set_offset_altitude\l_location" alt="" coords="197,223,326,265"/>
+<area shape="rect" id="node6" href="$altitude_8pde.html#aad5da768a7e757989110fe2d704427b9" title="adjusted_altitude_cm" alt="" coords="387,172,533,199"/>
+</map>

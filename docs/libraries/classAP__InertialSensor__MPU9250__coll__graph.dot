@@ -1,0 +1,35 @@
+digraph "AP_InertialSensor_MPU9250"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_InertialSensor_MPU9250",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_InertialSensor_Backend",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__InertialSensor__Backend.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _imu" ,fontname="Helvetica"];
+  Node3 [label="AP_InertialSensor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__InertialSensor.html"];
+  Node2 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _backends" ,fontname="Helvetica"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _dataflash" ,fontname="Helvetica"];
+  Node4 [label="DataFlash_Class",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDataFlash__Class.html",tooltip="-*- tab-width: 4; Mode: C++; c-basic-offset: 4; indent-tabs-mode: nil -*- "];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _structures" ,fontname="Helvetica"];
+  Node5 [label="LogStructure",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structLogStructure.html"];
+  Node6 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" var_info" ,fontname="Helvetica"];
+  Node6 [label="AP_Param::GroupInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structAP__Param_1_1GroupInfo.html"];
+  Node6 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" group_info" ,fontname="Helvetica"];
+  Node7 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _delta_angle\n_gyro\n_accel\n_delta_velocity" ,fontname="Helvetica"];
+  Node7 [label="Vector3\< float \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector3.html"];
+  Node8 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _gyro_filter\n_accel_filter" ,fontname="Helvetica"];
+  Node8 [label="LowPassFilter2pVector3f",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLowPassFilter2pVector3f.html"];
+  Node9 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="LowPassFilter2p",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLowPassFilter2p.html"];
+  Node10 -> Node9 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _params" ,fontname="Helvetica"];
+  Node10 [label="DigitalBiquadFilter\l::biquad_params",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structDigitalBiquadFilter_1_1biquad__params.html"];
+  Node11 -> Node8 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _filter_x\n_filter_y\n_filter_z" ,fontname="Helvetica"];
+  Node11 [label="DigitalBiquadFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDigitalBiquadFilter.html"];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _gyro_filtered\n_accel_filtered" ,fontname="Helvetica"];
+  Node12 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _spi_sem" ,fontname="Helvetica"];
+  Node12 [label="AP_HAL::Semaphore",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL_1_1Semaphore.html"];
+  Node13 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _spi" ,fontname="Helvetica"];
+  Node13 [label="AP_HAL::SPIDeviceDriver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL_1_1SPIDeviceDriver.html"];
+}

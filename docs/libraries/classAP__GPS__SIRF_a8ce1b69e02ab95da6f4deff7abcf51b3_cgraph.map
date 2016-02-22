@@ -1,0 +1,9 @@
+<map id="AP_GPS_SIRF::read" name="AP_GPS_SIRF::read">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Stream.html#ae687e48f5689af94d66fb88822923e12" title="AP_HAL::Stream::available" alt="" coords="206,5,389,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Stream.html#ae42ff362cc2a7e527c22f92a3740c2ac" title="AP_HAL::Stream::read" alt="" coords="219,56,375,83"/>
+<area shape="rect" id="node4" href="$classAP__GPS__SIRF.html#aff6e450be59be2839fda3e495d5e269d" title="AP_GPS_SIRF::_accumulate" alt="" coords="200,107,395,133"/>
+<area shape="rect" id="node5" href="$classAP__GPS__SIRF.html#a8f00a5a9874a5be15024cd1895b387fc" title="AP_GPS_SIRF::_parse_gps" alt="" coords="203,157,391,184"/>
+<area shape="rect" id="node6" href="$classAP__GPS__Backend.html#a8e71e2e307aeb48d4d4aecaa64b00c20" title="AP_GPS_Backend::swap\l_int32" alt="" coords="443,85,615,126"/>
+<area shape="rect" id="node7" href="$classAP__GPS__Backend.html#a61dba442002a3dc1b50269c23d70a9c8" title="AP_GPS_Backend::swap\l_int16" alt="" coords="443,150,615,191"/>
+<area shape="rect" id="node8" href="$classAP__GPS__Backend.html#a349cb407ea3c09c424ed77bcf72a488b" title="AP_GPS_Backend::fill\l_3d_velocity" alt="" coords="452,215,607,257"/>
+</map>

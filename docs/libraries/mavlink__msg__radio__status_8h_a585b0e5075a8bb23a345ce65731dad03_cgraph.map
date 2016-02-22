@@ -1,0 +1,5 @@
+<map id="mavlink_msg_radio_status_encode_chan" name="mavlink_msg_radio_status_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__radio__status_8h.html#aa0241dc9570dabb03dab140e6f1671c4" title="Pack a radio_status message on a channel. " alt="" coords="233,23,410,65"/>
+<area shape="rect" id="node3" href="$Derivative_8pde.html#a430ab649ea04b609ea794c746bfee4ba" title="noise" alt="" coords="537,5,591,32"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="459,56,669,83"/>
+</map>

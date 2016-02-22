@@ -1,0 +1,5 @@
+<map id="mavlink_msg_battery_status_encode_chan" name="mavlink_msg_battery_status_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__battery__status_8h.html#aeb5a2737996e72e6f59ec6c6f6e4385d" title="Pack a battery_status message on a channel. " alt="" coords="203,23,349,65"/>
+<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="433,5,573,32"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="397,56,608,83"/>
+</map>

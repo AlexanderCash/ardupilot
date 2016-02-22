@@ -1,0 +1,7 @@
+<map id="AP_MotorsHeli::init_swash" name="AP_MotorsHeli::init_swash">
+<area shape="rect" id="node2" href="$classRC__Channel.html#ad51e68c85b76d1209e7cb6db224e63ba" title="RC_Channel::set_range" alt="" coords="193,5,356,32"/>
+<area shape="rect" id="node3" href="$classRC__Channel.html#a68fd99b7a3bf4283c8b500b49f511821" title="RC_Channel::set_angle" alt="" coords="194,56,355,83"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="219,107,330,133"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#a335efd2c7f3fe6a95457c1bba607afa1" title="AP_MotorsHeli::calculate\l_roll_pitch_collective\l_factors" alt="" coords="189,157,360,213"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="408,172,472,199"/>
+</map>

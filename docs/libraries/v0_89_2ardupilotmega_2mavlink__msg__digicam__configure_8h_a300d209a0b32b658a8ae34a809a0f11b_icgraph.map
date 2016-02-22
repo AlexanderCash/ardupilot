@@ -1,0 +1,10 @@
+<map id="mavlink_msg_digicam_configure_get_target_system" name="mavlink_msg_digicam_configure_get_target_system">
+<area shape="rect" id="node2" href="$classMAVLink__routing.html#afca07626745616e05d03caf5a0601c2f" title="MAVLink_routing::get\l_targets" alt="" coords="208,41,355,82"/>
+<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a1a89e45ae26d0bd6885f4ab23c0a440e" title="Decode a digicam_configure message into a struct. " alt="" coords="206,106,357,147"/>
+<area shape="rect" id="node3" href="$classMAVLink__routing.html#a474038c8ab695c57e23fb6fec4664947" title="MAVLink_routing::check\l_and_forward" alt="" coords="406,41,570,82"/>
+<area shape="rect" id="node4" href="$routing_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="687,5,734,32"/>
+<area shape="rect" id="node5" href="$classGCS__MAVLINK.html#a7d8788ed53976a200971612229fe2533" title="GCS_MAVLINK::update" alt="" coords="629,56,793,83"/>
+<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2testsuite_8h.html#afad94ced08219d5a61552df157a5fcc8" title="mavlink_test_digicam\l_configure" alt="" coords="414,106,562,147"/>
+<area shape="rect" id="node8" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="619,113,803,140"/>
+<area shape="rect" id="node9" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="851,113,967,140"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AP_MotorsCoax::Init" name="AP_MotorsCoax::Init">
+<area shape="rect" id="node2" href="$classAP__Motors.html#a2a3aa0f8b2981b440f6542da1f4b1ecf" title="AP_Motors::Init" alt="" coords="222,5,335,32"/>
+<area shape="rect" id="node3" href="$classAP__MotorsCoax.html#a10131e737c6b990c5be12746ee97367a" title="AP_MotorsCoax::set\l_update_rate" alt="" coords="207,57,351,98"/>
+<area shape="rect" id="node6" href="$classRC__Channel.html#a2cbeb0e5e4b289ad9eee7c04c2a200e6" title="RC_Channel::set_type" alt="" coords="201,123,356,149"/>
+<area shape="rect" id="node7" href="$classRC__Channel.html#a68fd99b7a3bf4283c8b500b49f511821" title="RC_Channel::set_angle" alt="" coords="198,173,359,200"/>
+<area shape="rect" id="node4" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="450,39,561,65"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1RCOutput.html#ae7903398aa18e2472dd34081e626dcb7" title="AP_HAL::RCOutput::set_freq" alt="" coords="408,89,603,116"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mavlink_msg_attitude_target_get_type_mask" name="mavlink_msg_attitude_target_get_type_mask">
+<area shape="rect" id="node2" href="$mavlink__msg__attitude__target_8h.html#a9fda17469111f24f4e9f5832748270e6" title="Decode a attitude_target message into a struct. " alt="" coords="213,5,363,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#aad5476e12397fb6c9e3a2f4bb9216ce1" title="mavlink_test_attitude\l_target" alt="" coords="411,5,557,46"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="606,12,759,39"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="809,12,925,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AP_Motors::set_pitch" name="AP_Motors::set_pitch">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl__Heli.html#a29ff02c0f413c83ac91a47f2adfab773" title="AC_AttitudeControl\l_Heli::rate_bf_to_motor\l_roll_pitch" alt="" coords="203,5,362,61"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl__Heli.html#a38cb1684d4155d8f1f319d7385d3f2c6" title="AC_AttitudeControl\l_Heli::rate_controller_run" alt="" coords="411,46,578,87"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl.html#a1c2565af20755e769d3bd9d1a9de826d" title="AC_AttitudeControl\l::rate_controller_run" alt="" coords="214,137,351,178"/>
+<area shape="rect" id="node5" href="$AP__Motors__test_8pde.html#a7f47bb79f883994514efee9d8de3ec0c" title="stability_test" alt="" coords="235,203,331,229"/>
+<area shape="rect" id="node6" href="$AP__Motors__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="471,203,518,229"/>
+</map>

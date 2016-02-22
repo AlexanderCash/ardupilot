@@ -1,0 +1,21 @@
+<map id="do_land" name="do_land">
+<area shape="rect" id="node2" href="$commands_8pde.html#a947d60d598982f6012289660b3fe8606" title="set_next_WP" alt="" coords="120,144,221,171"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ab6cd880d070717b4c3cc7a7278768e72" title="location_passed_point" alt="" coords="270,5,421,32"/>
+<area shape="rect" id="node4" href="$GCS__Mavlink_8pde.html#a6bb153355507cf625bc0de5dfa76c137" title="gcs_send_text_P" alt="" coords="284,56,407,83"/>
+<area shape="rect" id="node6" href="$altitude_8pde.html#a6357f669f6ecbbb7cfde5ba94be1e19c" title="set_target_altitude\l_location" alt="" coords="281,107,410,149"/>
+<area shape="rect" id="node7" href="$navigation_8pde.html#abb2020b166492828bc0fa1cbdb846588" title="loiter_angle_reset" alt="" coords="283,173,407,200"/>
+<area shape="rect" id="node8" href="$altitude_8pde.html#ad9fa3dc23a80c3bbb3d9ddd221ad4386" title="setup_glide_slope" alt="" coords="282,224,409,251"/>
+<area shape="rect" id="node16" href="$navigation_8pde.html#a6409561aa9dd027ac95e7110aa5a3e15" title="setup_turn_angle" alt="" coords="285,464,406,491"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="470,35,669,61"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="521,85,617,112"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ab0ccbafe7e2809759eea8d45d23e4ba0" title="location_path_proportion" alt="" coords="488,136,651,163"/>
+<area shape="rect" id="node11" href="$altitude_8pde.html#adad3de9d7894f9df95075219fef29534" title="above_location_current" alt="" coords="491,187,647,213"/>
+<area shape="rect" id="node12" href="$altitude_8pde.html#a9a2ab83d5bfa356d6e99cc7f6c7869cd" title="set_offset_altitude\l_location" alt="" coords="505,238,634,279"/>
+<area shape="rect" id="node13" href="$altitude_8pde.html#a95be1c235684766d83ed35917071dcad" title="reset_offset_altitude" alt="" coords="499,304,639,331"/>
+<area shape="rect" id="node14" href="$altitude_8pde.html#a9b319158d61a114fe14a8a17bd8203d4" title="adjusted_relative_altitude_cm" alt="" coords="472,355,667,381"/>
+<area shape="rect" id="node15" href="$altitude_8pde.html#aad5da768a7e757989110fe2d704427b9" title="adjusted_altitude_cm" alt="" coords="718,355,863,381"/>
+<area shape="rect" id="node17" href="$ArduPlane_8pde.html#a4ca9908869f03c8499bb30e8cae3ccc0" title="mission" alt="" coords="536,405,603,432"/>
+<area shape="rect" id="node18" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#a338b12fad6aa74b9c8a34d65850f6b40" title="AP_Mission::get_next\l_ground_course_cd" alt="" coords="494,457,645,498"/>
+<area shape="rect" id="node19" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a224e7b94333df3a15a18499026474ac9" title="get_bearing_cd" alt="" coords="514,523,625,549"/>
+<area shape="rect" id="node20" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a35821002985a8e3e526c8ccad9bb9934" title="wrap_180_cd" alt="" coords="520,573,619,600"/>
+</map>

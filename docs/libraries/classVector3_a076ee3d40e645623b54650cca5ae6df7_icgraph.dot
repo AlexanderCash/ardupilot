@@ -1,0 +1,43 @@
+digraph "Vector3::is_nan"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Vector3::is_nan",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_InertialSensor::\l_calibrate_accel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__InertialSensor.html#aa445a0a0669422f3c3d7ae999f0136ce"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_InertialSensor::\lcalibrate_accel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__InertialSensor.html#a9a2e96ead5ec6958cc5428807318ee6b"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="run_calibration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$INS__generic_8pde.html#a5f96ea11224723731b4efa6cf4f1237b"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="NavEKF::getFilterFaults",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ab71619ef68ba5d8b11f68ef4f31a65c2"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="NavEKF::healthy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ad418b75ceae3dde42f8c588b7e88abb4"];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SmallEKF::calcMagHeading\lInnov",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a991c54283e43ee0867269119746731f5"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="SmallEKF::alignHeading",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a795189f59fa31ed5b397a15f91408f70"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="SmallEKF::RunEKF",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9"];
+  Node8 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="SmallEKF::fuseCompass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classSmallEKF.html#a7149793dd06bfb4eec2c0619b2aa2ff0"];
+  Node11 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="NavEKF::getFilterStatus",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a84cacea011683356ae5fcd2eb2e30fcc"];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="NavEKF::getLLH",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#adc74369bdb7425b717f68eec54aa123f"];
+  Node12 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="NavEKF::getPosNED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a90a1fa4f67a09d5af0a6d2a11580269f"];
+  Node12 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="NavEKF::send_status\l_report",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#aa397dc742e68d43d9b10bc1e036d4674"];
+  Node7 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="NavEKF::getHAGL",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a7bcc5a68b0195a062de10b1fe028e2a4"];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="Compass::learn_offsets",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#aebf060fcb30f98e8d2c158750efa3b10"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="loop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Compass__test_8pde.html#afe461d27b9c48d5921c00d521181f12f"];
+}

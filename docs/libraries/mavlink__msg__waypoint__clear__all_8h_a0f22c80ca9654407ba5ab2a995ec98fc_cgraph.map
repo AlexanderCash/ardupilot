@@ -1,0 +1,4 @@
+<map id="mavlink_msg_waypoint_clear_all_decode" name="mavlink_msg_waypoint_clear_all_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__waypoint__clear__all_8h.html#a6dcfa3e0f1dc73c14a6be9de669c7cd4" title="Send a waypoint_clear_all message. " alt="" coords="214,5,373,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__waypoint__clear__all_8h.html#aff4394396875e690ca23a04fda450d94" title="Get field target_component from waypoint_clear_all message. " alt="" coords="214,85,373,141"/>
+</map>

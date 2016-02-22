@@ -1,0 +1,20 @@
+<map id="mavlink_test_distance_sensor" name="mavlink_test_distance_sensor">
+<area shape="rect" id="node2" href="$mavlink__msg__distance__sensor_8h.html#af60d7e0424d5b3fb6b9ab068f2f0c772" title="Encode a distance_sensor struct. " alt="" coords="208,31,363,73"/>
+<area shape="rect" id="node3" href="$mavlink__msg__distance__sensor_8h.html#ae33117c0e5c0e0769181e1c3419957eb" title="Pack a distance_sensor message. " alt="" coords="441,5,596,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__distance__sensor_8h.html#a77caa9cb0f731a3f9ce539bee9bc165a" title="Decode a distance_sensor message into a struct. " alt="" coords="208,305,363,346"/>
+<area shape="rect" id="node14" href="$mavlink__msg__distance__sensor_8h.html#afe7ecbd1d1247a9672ec7cb692994d33" title="Pack a distance_sensor message on a channel. " alt="" coords="208,370,363,411"/>
+<area shape="rect" id="node16" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="209,435,361,477"/>
+<area shape="rect" id="node17" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="206,501,365,542"/>
+<area shape="rect" id="node18" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="228,592,343,619"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="673,12,847,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__distance__sensor_8h.html#a73dedb3bbfe892024fe928fbc2459cc2" title="Send a distance_sensor message. " alt="" coords="427,70,610,111"/>
+<area shape="rect" id="node7" href="$mavlink__msg__distance__sensor_8h.html#a8bad024d2dededc8104e842f849cec0d" title="Get field min_distance from distance_sensor message. " alt="" coords="430,135,607,177"/>
+<area shape="rect" id="node8" href="$mavlink__msg__distance__sensor_8h.html#aa0b2d3b2dfe638bd92c700d1e46acdfe" title="Get field max_distance from distance_sensor message. " alt="" coords="428,201,609,242"/>
+<area shape="rect" id="node9" href="$mavlink__msg__distance__sensor_8h.html#a096ed39b2c75352af5112a12c909e6a3" title="Get field current_distance from distance_sensor message. " alt="" coords="421,266,617,307"/>
+<area shape="rect" id="node10" href="$mavlink__msg__distance__sensor_8h.html#a35d224ae2644c5d4e1716d1485173fbc" title="Get field type from distance_sensor message. " alt="" coords="441,331,596,373"/>
+<area shape="rect" id="node11" href="$mavlink__msg__distance__sensor_8h.html#a5ea6ba5f608f879b6d9301b75f651f47" title="Get field id from distance_sensor message. " alt="" coords="441,397,596,438"/>
+<area shape="rect" id="node12" href="$mavlink__msg__distance__sensor_8h.html#ac4a70d7020819811dedd96f8c8e57adf" title="Get field orientation from distance_sensor message. " alt="" coords="439,462,599,503"/>
+<area shape="rect" id="node13" href="$mavlink__msg__distance__sensor_8h.html#a47e3842bc0834c47fa8c01e3208bef9a" title="Get field covariance from distance_sensor message. " alt="" coords="437,527,600,569"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="413,593,624,620"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="447,644,591,671"/>
+</map>

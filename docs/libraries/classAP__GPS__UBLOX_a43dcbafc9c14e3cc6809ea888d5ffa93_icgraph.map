@@ -1,0 +1,7 @@
+<map id="AP_GPS_UBLOX::_configure_message_rate" name="AP_GPS_UBLOX::_configure_message_rate">
+<area shape="rect" id="node2" href="$classAP__GPS__UBLOX.html#a16ae8ab4b0babfbc2245beb0a438ec33" title="AP_GPS_UBLOX::_parse_gps" alt="" coords="499,34,701,61"/>
+<area shape="rect" id="node4" href="$classAP__GPS__UBLOX.html#ae1da492ab0f9b2b2871799848f2120f8" title="AP_GPS_UBLOX::_request\l_version" alt="" coords="257,92,442,133"/>
+<area shape="rect" id="node5" href="$classAP__GPS__UBLOX.html#a253fc95ba92dc62e68ed1b03e910d9fa" title="AP_GPS_UBLOX::send\l_next_rate_update" alt="" coords="519,92,681,133"/>
+<area shape="rect" id="node6" href="$classAP__GPS__UBLOX.html#a3b8dd4fbac9d7136cbd335c0b51d3257" title="AP_GPS_UBLOX::unexpected\l_message" alt="" coords="248,27,451,68"/>
+<area shape="rect" id="node3" href="$classAP__GPS__UBLOX.html#a09825f5ca37ee9bdb5e0939a4073a84e" title="AP_GPS_UBLOX::read" alt="" coords="749,67,909,94"/>
+</map>

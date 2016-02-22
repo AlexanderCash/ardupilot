@@ -1,0 +1,19 @@
+<map id="mavlink_test_attitude" name="mavlink_test_attitude">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#ac4c7efca3e3cdd8ca93f7a27802310a1" title="Encode a attitude struct into a message. " alt="" coords="205,33,355,74"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#a50c5a9bff877bc300eb52e607e29fed7" title="Pack a attitude message. " alt="" coords="421,5,605,32"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#aea9ac9866c5c81d5825d6eccecb9a9be" title="Decode a attitude message into a struct. " alt="" coords="205,253,355,294"/>
+<area shape="rect" id="node13" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#a618ec144aa502d1ee54e57f95497f15d" title="Pack a attitude message on a channel. " alt="" coords="205,318,355,359"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="204,383,356,425"/>
+<area shape="rect" id="node16" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="201,449,359,490"/>
+<area shape="rect" id="node17" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="223,540,337,567"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="667,5,842,32"/>
+<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#aea2016d8830fa3cb33d33e19b8b2739f" title="Send a attitude message. " alt="" coords="439,57,588,98"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#ab9d96bdc5f30a33b19db31bd8adffcf0" title="Get field roll from attitude message. " alt="" coords="439,122,588,163"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#ab1197a265a1461a1131a6a49947001f7" title="Get field pitch from attitude message. " alt="" coords="439,187,588,229"/>
+<area shape="rect" id="node9" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#a4143e517b4e03173f1614c4cd92857c6" title="Get field yaw from attitude message. " alt="" coords="439,253,588,294"/>
+<area shape="rect" id="node10" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#a57a3466521b3a0adecc5c500a33db559" title="Get field rollspeed from attitude message. " alt="" coords="439,318,588,359"/>
+<area shape="rect" id="node11" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#ab6acd8c67f884fb644d2a81635e7bec9" title="Get field pitchspeed from attitude message. " alt="" coords="439,383,588,425"/>
+<area shape="rect" id="node12" href="$v0_89_2common_2mavlink__msg__attitude_8h.html#a3d821889da959191467512ec589b34ad" title="Get field yawspeed from attitude message. " alt="" coords="439,449,588,490"/>
+<area shape="rect" id="node14" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="408,515,619,541"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="441,565,585,592"/>
+</map>

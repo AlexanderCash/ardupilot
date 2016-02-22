@@ -1,0 +1,7 @@
+<map id="NavEKF::readDeltaVelocity" name="NavEKF::readDeltaVelocity">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a14398c5d2ae68bbe1c67482a91909ad9" title="AP_AHRS::get_ins" alt="" coords="243,5,378,32"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#ac57331a5046d45016ef900726e1be2fb" title="AP_InertialSensor::\lget_accel_count" alt="" coords="243,57,378,98"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#ae29959984a5cbda37ebfce599f89ef73" title="AP_InertialSensor::\lget_delta_velocity" alt="" coords="243,122,378,163"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#ad22e8ed9b13a093d5cf3a2a420522b3b" title="AP_InertialSensor::\lget_delta_velocity_dt" alt="" coords="238,187,383,229"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#a0f63a4a0e6fc84d6ab9519bc4b254055" title="AP_InertialSensor::\lget_accel" alt="" coords="243,253,378,294"/>
+</map>

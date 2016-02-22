@@ -1,0 +1,5 @@
+<map id="AP_ADC_ADS7844" name="AP_ADC_ADS7844">
+<area shape="rect" id="node2" href="$classAP__ADC.html" title="AP_ADC" alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="105,5,252,32"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="276,5,455,32"/>
+</map>

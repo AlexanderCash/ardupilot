@@ -1,0 +1,6 @@
+<map id="NavioLED_I2C::hw_init" name="NavioLED_I2C::hw_init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="231,5,377,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="214,71,394,97"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#ac65aabf08fd708f968c44ceadfcb654e" title="AP_HAL::I2CDriver::\lignore_errors" alt="" coords="231,122,377,163"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="215,188,393,215"/>
+</map>

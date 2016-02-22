@@ -1,0 +1,20 @@
+digraph "AP_HAL_AVR::AVRI2CDriver::_sendAddress"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_HAL_AVR::AVRI2CDriver\l::_sendAddress",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_HAL_AVR::AVRI2CDriver\l::read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a68a3d248c8d8f924e3543f68ff4558ba"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_HAL_AVR::AVRI2CDriver\l::readRegisters",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a670d461aa076a280f94c4a4310a1ab28"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="AP_HAL_AVR::AVRI2CDriver\l::readRegister",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRI2CDriver.html#ad7b1213f22eab08e296a7ff9424930c2"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="AP_HAL_AVR::AVRI2CDriver\l::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRI2CDriver.html#abcfcfda9279d3a135f3e717573be29d5"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="AP_HAL_AVR::AVRI2CDriver\l::writeRegisters",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRI2CDriver.html#adc48d72cd3e1ebfeefa92475fc94ebd8"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="AP_HAL_AVR::AVRI2CDriver\l::writeRegister",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a10aac714efd03ad9d3fa9c2a7bf78ffd"];
+}

@@ -1,0 +1,7 @@
+<map id="Empty::EmptySPIDeviceManager" name="Empty::EmptySPIDeviceManager">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDeviceManager.html" title="AP_HAL::SPIDeviceManager" alt="" coords="5,173,200,200"/>
+<area shape="rect" id="node3" href="$classEmpty_1_1EmptySPIDeviceDriver.html" title="Empty::EmptySPIDeviceDriver" alt="" coords="225,173,428,200"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="176,83,355,109"/>
+<area shape="rect" id="node5" href="$classEmpty_1_1EmptySemaphore.html" title="Empty::EmptySemaphore" alt="" coords="379,83,551,109"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="392,5,539,32"/>
+</map>

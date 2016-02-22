@@ -1,0 +1,5 @@
+<map id="SmallEKF::fixCovariance" name="SmallEKF::fixCovariance">
+<area shape="rect" id="node2" href="$classSmallEKF.html#a7149793dd06bfb4eec2c0619b2aa2ff0" title="SmallEKF::fuseCompass" alt="" coords="224,5,395,32"/>
+<area shape="rect" id="node4" href="$classSmallEKF.html#a874dcc56946ec2da09aa12b73e8bd970" title="SmallEKF::fuseVelocity" alt="" coords="229,56,390,83"/>
+<area shape="rect" id="node3" href="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9" title="SmallEKF::RunEKF" alt="" coords="443,31,581,57"/>
+</map>

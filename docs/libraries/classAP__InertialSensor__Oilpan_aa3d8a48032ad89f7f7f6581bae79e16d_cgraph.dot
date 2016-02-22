@@ -1,0 +1,12 @@
+digraph "AP_InertialSensor_Oilpan::accel_sample_available"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_InertialSensor_Oilpan\l::accel_sample_available",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_InertialSensor_Oilpan\l::_sample_available",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__InertialSensor__Oilpan.html#a589b80e3cc915e4bfb55deb392c651f1"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_ADC_ADS7844::num\l_samples_available",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__ADC__ADS7844.html#aed03af21ccd2fa59fd4733defafd46a2",tooltip="Get minimum number of samples read from the sensors. "];
+}

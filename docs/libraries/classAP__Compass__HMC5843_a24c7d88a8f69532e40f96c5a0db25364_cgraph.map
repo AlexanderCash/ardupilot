@@ -1,0 +1,30 @@
+<map id="AP_Compass_HMC5843::detect" name="AP_Compass_HMC5843::detect">
+<area shape="rect" id="node2" href="$classAP__Compass__HMC5843.html#abb57ff9949288dfeb7708e86e5f639da" title="AP_Compass_HMC5843\l::AP_Compass_HMC5843" alt="" coords="225,289,402,330"/>
+<area shape="rect" id="node3" href="$classAP__Compass__HMC5843.html#ae8fe5f87eb75452d7cfd4293a9bbfc7e" title="AP_Compass_HMC5843\l::init" alt="" coords="229,354,398,395"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#ae7d4952721abae16479fef1f0ca37145" title="AP_HAL::Scheduler::\lsuspend_timer_procs" alt="" coords="463,5,609,46"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="463,70,609,111"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="463,135,609,177"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="907,319,1087,345"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="924,895,1071,937"/>
+<area shape="rect" id="node9" href="$classAP__Compass__HMC5843.html#a0216e4c0dd2ea0314e926d52ba89cbe4" title="AP_Compass_HMC5843\l::write_register" alt="" coords="913,253,1082,294"/>
+<area shape="rect" id="node12" href="$classAP__Compass__HMC5843.html#abbf4ec20bf2ac1f67830a9c0ce5d3ee8" title="AP_Compass_HMC5843\l::read_register" alt="" coords="451,749,621,790"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="1136,367,1315,393"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Scheduler.html#a7c51e7d405211cac2090dbd456223ef7" title="AP_HAL::Scheduler::\lresume_timer_procs" alt="" coords="463,987,609,1029"/>
+<area shape="rect" id="node16" href="$classAP__Compass__HMC5843.html#ad5a86abb47507e4536a898dbbe80d58b" title="AP_Compass_HMC5843\l::read_raw" alt="" coords="913,421,1082,462"/>
+<area shape="rect" id="node19" href="$classAP__Compass__HMC5843.html#a4049788b49354f8d3be33ece01507343" title="AP_Compass_HMC5843\l::re_initialise" alt="" coords="679,354,849,395"/>
+<area shape="rect" id="node20" href="$classAP__Compass__HMC5843.html#afbf15e406f6274c4ed9aab8212411a54" title="AP_Compass_HMC5843\l::read" alt="" coords="451,530,621,571"/>
+<area shape="rect" id="node28" href="$classAP__Compass__Backend.html#aee0aed3dcceb809b122d2a0784f44593" title="AP_Compass_Backend\l::register_compass" alt="" coords="455,922,617,963"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="1153,253,1298,294"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="1152,597,1299,638"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1I2CDriver.html#a87848503b8dd40b1e371161f1137757b" title="AP_HAL::I2CDriver::\lreadRegister" alt="" coords="691,807,837,849"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="1153,418,1298,459"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1I2CDriver.html#a687bb56361cf0ee839b4df36cf756952" title="AP_HAL::I2CDriver::\lsetHighSpeed" alt="" coords="1153,483,1298,525"/>
+<area shape="rect" id="node21" href="$classAP__Compass__HMC5843.html#a209d2944ee53cc15de197008bb49a550" title="AP_Compass_HMC5843\l::accumulate" alt="" coords="679,471,849,513"/>
+<area shape="rect" id="node23" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title="Vector3::rotate" alt="" coords="943,705,1051,732"/>
+<area shape="rect" id="node24" href="$classAP__Compass__Backend.html#ad14147ac2825d3c09106ccfd1328b3f0" title="AP_Compass_Backend\l::publish_field" alt="" coords="683,639,845,681"/>
+<area shape="rect" id="node22" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="924,538,1071,579"/>
+<area shape="rect" id="node25" href="$classAP__Compass__Backend.html#a2c550915f5cf24723480581d863c7b8c" title="AP_Compass_Backend\l::apply_corrections" alt="" coords="917,807,1078,849"/>
+<area shape="rect" id="node26" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="1193,840,1257,867"/>
+<area shape="rect" id="node27" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="1175,789,1275,816"/>
+<area shape="rect" id="node29" href="$classCompass.html#af1b5ea3ff42b02e04526d4be361a1ca1" title="Compass::register_compass" alt="" coords="669,925,859,952"/>
+</map>

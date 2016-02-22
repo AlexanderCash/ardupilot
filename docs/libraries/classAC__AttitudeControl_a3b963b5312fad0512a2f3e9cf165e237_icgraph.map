@@ -1,0 +1,8 @@
+<map id="AC_AttitudeControl::update_rate_bf_targets" name="AC_AttitudeControl::update_rate_bf_targets">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#a7f3ea9078e44d94c66da20f5e1f12612" title="AC_AttitudeControl\l::angle_ef_roll_pitch\l_rate_ef_yaw" alt="" coords="232,5,371,61"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl.html#afbe614d708bc9de386fda48ee3c65069" title="AC_AttitudeControl\l::angle_ef_roll_pitch\l_rate_ef_yaw_smooth" alt="" coords="226,85,377,141"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl.html#a436fd54f740d502a04b86f5b8a25bb42" title="AC_AttitudeControl\l::angle_ef_roll_pitch_yaw" alt="" coords="217,165,386,206"/>
+<area shape="rect" id="node5" href="$classAC__AttitudeControl__Heli.html#adcf61fba6788547660fa2237e46a459e" title="AC_AttitudeControl\l_Heli::passthrough_bf\l_roll_pitch_rate_yaw" alt="" coords="227,229,376,285"/>
+<area shape="rect" id="node6" href="$classAC__AttitudeControl.html#a716b26f41dfc5cf956b360affd045946" title="AC_AttitudeControl\l::rate_bf_roll_pitch_yaw" alt="" coords="221,309,381,350"/>
+<area shape="rect" id="node7" href="$classAC__AttitudeControl.html#a2f434d94c7265c3e09c0c7555ec92efb" title="AC_AttitudeControl\l::rate_ef_roll_pitch_yaw" alt="" coords="221,374,381,415"/>
+</map>

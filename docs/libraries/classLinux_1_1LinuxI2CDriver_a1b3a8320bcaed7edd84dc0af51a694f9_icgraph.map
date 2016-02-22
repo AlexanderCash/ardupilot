@@ -1,0 +1,7 @@
+<map id="Linux::LinuxI2CDriver::set_address" name="Linux::LinuxI2CDriver::set_address">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxI2CDriver.html#a6787c6dc254a3dd16869942daa481735" title="Linux::LinuxI2CDriver\l::read" alt="" coords="203,5,351,46"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxI2CDriver.html#aedd574f2895015fdf6385862f438f1cb" title="Linux::LinuxI2CDriver\l::readRegister" alt="" coords="203,70,351,111"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxI2CDriver.html#aaa2c671ac80b0ab631281af3e228b352" title="Linux::LinuxI2CDriver\l::write" alt="" coords="203,135,351,177"/>
+<area shape="rect" id="node6" href="$classLinux_1_1LinuxI2CDriver.html#ae72eff15ea613b9b27de68309277f8a2" title="Linux::LinuxI2CDriver\l::writeRegister" alt="" coords="203,201,351,242"/>
+<area shape="rect" id="node5" href="$classLinux_1_1LinuxI2CDriver.html#a74f69537b9ba27be6bc5f6bba519927b" title="Linux::LinuxI2CDriver\l::writeRegisters" alt="" coords="401,135,549,177"/>
+</map>

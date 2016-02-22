@@ -1,0 +1,4 @@
+<map id="AC_PosControl::set_alt_target_from_climb_rate" name="AC_PosControl::set_alt_target_from_climb_rate">
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="253,5,329,32"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="237,56,344,83"/>
+</map>

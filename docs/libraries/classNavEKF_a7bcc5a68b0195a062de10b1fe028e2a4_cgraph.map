@@ -1,0 +1,7 @@
+<map id="NavEKF::getHAGL" name="NavEKF::getHAGL">
+<area shape="rect" id="node2" href="$classNavEKF.html#ad418b75ceae3dde42f8c588b7e88abb4" title="NavEKF::healthy" alt="" coords="189,56,312,83"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#ab71619ef68ba5d8b11f68ef4f31a65c2" title="NavEKF::getFilterFaults" alt="" coords="360,31,523,57"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="422,81,461,108"/>
+<area shape="rect" id="node4" href="$classQuaternion.html#aa3036ce97bb5a7394a2d65edecd8f1ab" title="Quaternion::is_nan" alt="" coords="571,5,701,32"/>
+<area shape="rect" id="node5" href="$classVector3.html#a076ee3d40e645623b54650cca5ae6df7" title="Vector3::is_nan" alt="" coords="579,56,693,83"/>
+</map>

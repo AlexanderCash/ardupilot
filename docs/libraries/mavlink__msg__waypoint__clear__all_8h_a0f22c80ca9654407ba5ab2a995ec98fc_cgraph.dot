@@ -1,0 +1,12 @@
+digraph "mavlink_msg_waypoint_clear_all_decode"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="mavlink_msg_waypoint\l_clear_all_decode",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="mavlink_msg_waypoint\l_clear_all_get_target\l_system",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__waypoint__clear__all_8h.html#a6dcfa3e0f1dc73c14a6be9de669c7cd4",tooltip="Send a waypoint_clear_all message. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="mavlink_msg_waypoint\l_clear_all_get_target\l_component",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__waypoint__clear__all_8h.html#aff4394396875e690ca23a04fda450d94",tooltip="Get field target_component from waypoint_clear_all message. "];
+}

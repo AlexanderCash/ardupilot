@@ -1,0 +1,19 @@
+<map id="mavlink_test_hil_controls" name="mavlink_test_hil_controls">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#aaeed0852bd26eb9d24d489145d11c9c1" title="Encode a hil_controls struct into a message. " alt="" coords="225,33,397,74"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a111f1b901e6568ff2fe4995a47b40b20" title="Pack a hil_controls message. " alt="" coords="447,5,654,32"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#af680f22b5c1f7dbad8213834d6cf94a7" title="Decode a hil_controls message into a struct. " alt="" coords="225,253,397,294"/>
+<area shape="rect" id="node13" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#aaaba78a372715bff1145784250ff7b19" title="Pack a hil_controls message on a channel. " alt="" coords="225,318,397,359"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="235,383,387,425"/>
+<area shape="rect" id="node16" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="231,449,390,490"/>
+<area shape="rect" id="node17" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="253,540,368,567"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="705,5,879,32"/>
+<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a073805aa7a3d20f5b6897d632b1a3238" title="Send a hil_controls message. " alt="" coords="465,57,637,98"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#ab4f30c4a5679eb8c07e184f92e9c74bb" title="Get field roll_ailerons from hil_controls message. " alt="" coords="465,122,637,163"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a8ac7a4a54675fbe41c1fa087702f578a" title="Get field pitch_elevator from hil_controls message. " alt="" coords="465,187,637,229"/>
+<area shape="rect" id="node9" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a6b7c378b2754f7464475c0a90674c6b3" title="Get field yaw_rudder from hil_controls message. " alt="" coords="465,253,637,294"/>
+<area shape="rect" id="node10" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a292f32b7a4eba1f9898bb7ba9ef3d04b" title="Get field throttle from hil_controls message. " alt="" coords="465,318,637,359"/>
+<area shape="rect" id="node11" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a525158c4613198d4b3a219a19eb9c1e1" title="Get field mode from hil_controls message. " alt="" coords="465,383,637,425"/>
+<area shape="rect" id="node12" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a5c825c88e7703d07b5e4c860a410b8c1" title="Get field nav_mode from hil_controls message. " alt="" coords="465,449,637,490"/>
+<area shape="rect" id="node14" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="445,515,656,541"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="479,565,623,592"/>
+</map>

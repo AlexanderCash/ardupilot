@@ -1,0 +1,4 @@
+<map id="mavlink_msg_heartbeat_encode" name="mavlink_msg_heartbeat_encode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__heartbeat_8h.html#abf7d878c7c7202145ee29f79ebedcd4d" title="Pack a heartbeat message. " alt="" coords="213,12,408,39"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="457,12,631,39"/>
+</map>

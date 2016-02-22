@@ -1,0 +1,6 @@
+<map id="mavlink_msg_vicon_position_estimate_pack_chan" name="mavlink_msg_vicon_position_estimate_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__vicon__position__estimate_8h.html#aa5987504c60757739b4f66c4a93f8ebd" title="Encode a vicon_position_estimate struct on a channel. " alt="" coords="243,5,432,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a9a113daf3cc196f32eae3ce163957d26" title="mavlink_test_vicon\l_position_estimate" alt="" coords="270,70,405,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="481,77,634,104"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="683,77,799,104"/>
+</map>

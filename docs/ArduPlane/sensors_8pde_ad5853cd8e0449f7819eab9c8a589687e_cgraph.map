@@ -1,0 +1,18 @@
+<map id="zero_airspeed" name="zero_airspeed">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#afb7c91590b3efc00ee2d72cc6bcc856f" title="AP_Airspeed::calibrate" alt="" coords="173,157,328,184"/>
+<area shape="rect" id="node3" href="$sensors_8pde.html#a0da7ad9d8a02544848606d538eef9364" title="read_airspeed" alt="" coords="199,208,302,235"/>
+<area shape="rect" id="node15" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Baro.html#a67fd690b15ef9f0f23b3304831ca913a" title="AP_Baro::update_calibration" alt="" coords="157,259,344,285"/>
+<area shape="rect" id="node16" href="$GCS__Mavlink_8pde.html#a6bb153355507cf625bc0de5dfa76c137" title="gcs_send_text_P" alt="" coords="189,375,312,401"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#a4721e9a79d9611e1f693d4850c07edc0" title="AP_Airspeed::enabled" alt="" coords="417,5,567,32"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#af713d23fce3c9a5e78e043d4e3b2d012" title="AP_Airspeed::read" alt="" coords="427,56,557,83"/>
+<area shape="rect" id="node6" href="$system_8pde.html#aca07afa008c681903526cfdc27045584" title="should_log" alt="" coords="450,107,534,133"/>
+<area shape="rect" id="node8" href="$Log_8pde.html#a369cdc924e0aea2f79013f0932846dd1" title="Log_Write_Airspeed" alt="" coords="423,157,561,184"/>
+<area shape="rect" id="node9" href="$navigation_8pde.html#a4aefca636333473c7924fe74564efc96" title="calc_airspeed_errors" alt="" coords="421,208,563,235"/>
+<area shape="rect" id="node12" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#a0cb43b5b98b7b503b7e440a59b7ce3dd" title="AP_Airspeed::get_temperature" alt="" coords="392,259,592,285"/>
+<area shape="rect" id="node13" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Baro.html#a6efd89cc278ac45acd3bc35ce38f5505" title="AP_Baro::set_external\l_temperature" alt="" coords="415,310,569,351"/>
+<area shape="rect" id="node14" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a9cbf8cb68e28b401c10a9f2065495b46" title="AP_AHRS_DCM::airspeed\l_estimate" alt="" coords="402,375,582,417"/>
+<area shape="rect" id="node7" href="$Log_8pde.html#a05e0c1cc917db97ee71cc05c205c2095" title="start_logging" alt="" coords="695,107,791,133"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#ae89e3a7968da5650b306eafaf2d48706" title="AP_Airspeed::get_airspeed_cm" alt="" coords="640,183,845,209"/>
+<area shape="rect" id="node11" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#aef400289c2cdf6c24d39f3c93b82df37" title="AP_SpdHgtControl::get\l_target_airspeed" alt="" coords="663,234,822,275"/>
+<area shape="rect" id="node17" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="393,441,591,468"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mavlink_msg_rally_fetch_point_decode" name="mavlink_msg_rally_fetch_point_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__rally__fetch__point_8h.html#a93a5eeefa12a66f59f173074f969e36b" title="Send a rally_fetch_point message. " alt="" coords="233,5,405,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__rally__fetch__point_8h.html#ab5890f4d8eb826c8730f9b31a2924188" title="Get field target_component from rally_fetch_point message. " alt="" coords="222,70,415,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__rally__fetch__point_8h.html#adafd19025dd9e069c9c4c30fc3ca02fe" title="Get field idx from rally_fetch_point message. " alt="" coords="235,135,402,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AP_HAL::AnalogSource::read_average" name="AP_HAL::AnalogSource::read_average">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1ADCSource.html#a2377e307aa7e56c344ad59bcd9a5d2c5" title="AP_HAL_AVR::ADCSource\l::voltage_average" alt="" coords="216,5,403,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1ADCSource.html#a4fc59be8a234a9b23511b5f1feaf0dc2" title="AP_HAL_AVR::ADCSource\l::voltage_latest" alt="" coords="216,70,403,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRAnalogIn.html#a57f3cc3accfa7f97af33382e9cdec748" title="AP_HAL_AVR::AVRAnalogIn\l::board_voltage" alt="" coords="451,70,645,111"/>
+</map>

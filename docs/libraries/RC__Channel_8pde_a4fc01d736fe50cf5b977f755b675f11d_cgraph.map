@@ -1,0 +1,14 @@
+<map id="setup" name="setup">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="119,31,270,57"/>
+<area shape="rect" id="node6" href="$RC__Channel_8pde.html#a53067bc7a0921d9570fc1c68ce074877" title="print_radio_values" alt="" coords="131,85,258,112"/>
+<area shape="rect" id="node8" href="$classRC__Channel.html#a68fd99b7a3bf4283c8b500b49f511821" title="RC_Channel::set_angle" alt="" coords="114,136,275,163"/>
+<area shape="rect" id="node9" href="$classRC__Channel.html#ad4e6c8ba69625f57f3e189a8bfbd9e78" title="RC_Channel::set_default\l_dead_zone" alt="" coords="110,187,279,229"/>
+<area shape="rect" id="node10" href="$classRC__Channel.html#a2cbeb0e5e4b289ad9eee7c04c2a200e6" title="RC_Channel::set_type" alt="" coords="117,253,272,280"/>
+<area shape="rect" id="node11" href="$classRC__Channel.html#ad51e68c85b76d1209e7cb6db224e63ba" title="RC_Channel::set_range" alt="" coords="113,304,276,331"/>
+<area shape="rect" id="node12" href="$classRC__Channel.html#a627c19bdbbf6eaaf6c8e4abfcf54ac14" title="RC_Channel::enable_out" alt="" coords="111,355,279,381"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="584,5,725,32"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="357,31,507,57"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="773,5,917,32"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="355,82,509,123"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1RCOutput.html#a25196bb820266d4afcae14d0acdb7e1c" title="AP_HAL::RCOutput::enable_ch" alt="" coords="329,355,535,381"/>
+</map>

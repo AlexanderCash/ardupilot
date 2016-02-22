@@ -1,0 +1,27 @@
+<map id="LowPassFilter2p::set_cutoff_frequency" name="LowPassFilter2p::set_cutoff_frequency">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__MPU9250.html#aaad4270eba441681894d5d8c55004d43" title="AP_InertialSensor_MPU9250\l::_set_accel_filter" alt="" coords="200,5,392,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__MPU9150.html#ab3866dd1e3527673f3aece3794eafd43" title="AP_InertialSensor_MPU9150\l::_set_accel_filter_frequency" alt="" coords="200,135,392,177"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__PX4.html#ae7daade2d359b75cdb8af87e31861c77" title="AP_InertialSensor_PX4\l::_set_accel_filter_frequency" alt="" coords="201,266,391,307"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor__Flymaple.html#af774a771ce17e6f662a9b01649a526c6" title="AP_InertialSensor_Flymaple\l::_set_filter_frequency" alt="" coords="203,397,389,438"/>
+<area shape="rect" id="node19" href="$classAP__InertialSensor__L3G4200D.html#aa69806dc4f013527398e189d94af3bf1" title="AP_InertialSensor_L3G4200\lD::_set_filter_frequency" alt="" coords="203,462,389,503"/>
+<area shape="rect" id="node22" href="$classAP__InertialSensor__MPU9250.html#ac00f7e2ea2075d72f97ea3bb6067c771" title="AP_InertialSensor_MPU9250\l::_set_gyro_filter" alt="" coords="200,70,392,111"/>
+<area shape="rect" id="node23" href="$classAP__InertialSensor__MPU9150.html#a11920de68c6ceee367d640799239bb32" title="AP_InertialSensor_MPU9150\l::_set_gyro_filter_frequency" alt="" coords="200,201,392,242"/>
+<area shape="rect" id="node24" href="$classAP__InertialSensor__PX4.html#ab61158827172e5821cdaf639b500e32b" title="AP_InertialSensor_PX4\l::_set_gyro_filter_frequency" alt="" coords="205,331,387,373"/>
+<area shape="rect" id="node25" href="$classLowPassFilter2p.html#acd675fed10317ebe2161a9cee213c30d" title="LowPassFilter2p::LowPass\lFilter2p" alt="" coords="205,527,387,569"/>
+<area shape="rect" id="node26" href="$classAP__InertialSensor__MPU6000.html#a8c628f9e98b7ebd116337e3f21418e0a" title="AP_InertialSensor_MPU6000\l::update" alt="" coords="200,593,392,634"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__MPU9250.html#ad04b4e02cc8ba4a6da1d6132b8276f50" title="AP_InertialSensor_MPU9250\l::update" alt="" coords="440,38,632,79"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__MPU9150.html#a5d916ede262de822fd6ab45c93e036ae" title="AP_InertialSensor_MPU9150\l::_init_sensor" alt="" coords="440,201,632,242"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__MPU9150.html#a30e80692dbda9ab89f47e53f185a6604" title="AP_InertialSensor_MPU9150\l::update" alt="" coords="440,135,632,177"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__MPU9150.html#a5ccaed9383c0dd4ba0450d690f2284b7" title="AP_InertialSensor_MPU9150\l::detect" alt="" coords="680,201,872,242"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__PX4.html#a1151175435b1b3c211040058fe5462d9" title="AP_InertialSensor_PX4\l::_init_sensor" alt="" coords="457,266,615,307"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor__PX4.html#a56c271f4293b88db34537b7a11e63157" title="AP_InertialSensor_PX4\l::update" alt="" coords="457,331,615,373"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__PX4.html#a7e0a8d5f569f58343aa4d2c1c217a3bc" title="AP_InertialSensor_PX4\l::detect" alt="" coords="697,298,855,339"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="921,363,1055,405"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="1104,371,1256,397"/>
+<area shape="rect" id="node13" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1305,371,1359,397"/>
+<area shape="rect" id="node16" href="$classAP__InertialSensor__Flymaple.html#ab88dfea90e4a971be10615f68d4e89bf" title="AP_InertialSensor_Flymaple\l::_init_sensor" alt="" coords="443,462,629,503"/>
+<area shape="rect" id="node18" href="$classAP__InertialSensor__Flymaple.html#a980c93918fa051ba687babfd0ed617f8" title="AP_InertialSensor_Flymaple\l::update" alt="" coords="443,397,629,438"/>
+<area shape="rect" id="node17" href="$classAP__InertialSensor__Flymaple.html#ae3e691d7e30d800ca000f31c7cbb4b6b" title="AP_InertialSensor_Flymaple\l::detect" alt="" coords="683,429,869,470"/>
+<area shape="rect" id="node20" href="$classAP__InertialSensor__L3G4200D.html#ab760fee272b11822568d94d55734d2f2" title="AP_InertialSensor_L3G4200\lD::_init_sensor" alt="" coords="443,593,629,634"/>
+<area shape="rect" id="node21" href="$classAP__InertialSensor__L3G4200D.html#a18e419a13e12842e69295b3bca26acca" title="AP_InertialSensor_L3G4200\lD::update" alt="" coords="443,527,629,569"/>
+</map>

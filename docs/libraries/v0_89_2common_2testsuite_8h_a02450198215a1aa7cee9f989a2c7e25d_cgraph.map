@@ -1,0 +1,14 @@
+<map id="mavlink_test_set_altitude" name="mavlink_test_set_altitude">
+<area shape="rect" id="node2" href="$mavlink__msg__set__altitude_8h.html#a3c58da63f9b5d6bf82c8aa3471b6a7eb" title="Encode a set_altitude struct into a message. " alt="" coords="224,5,397,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__set__altitude_8h.html#a03b5a492a222f7ea3876f95d1b204bb5" title="Pack a set_altitude message. " alt="" coords="447,12,655,39"/>
+<area shape="rect" id="node5" href="$mavlink__msg__set__altitude_8h.html#aeb9e871c03f16305dbede3c436bb4777" title="Decode a set_altitude message into a struct. " alt="" coords="224,122,397,163"/>
+<area shape="rect" id="node8" href="$mavlink__msg__set__altitude_8h.html#ae59fabbd6da66abb39d9a080c8fcb0ba" title="Pack a set_altitude message on a channel. " alt="" coords="224,187,397,229"/>
+<area shape="rect" id="node10" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="235,253,387,294"/>
+<area shape="rect" id="node11" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="231,318,390,359"/>
+<area shape="rect" id="node12" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="253,384,368,411"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="705,12,879,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__set__altitude_8h.html#a9891e6549a7089f80c700a3c4b6fada9" title="Send a set_altitude message. " alt="" coords="464,63,637,105"/>
+<area shape="rect" id="node7" href="$mavlink__msg__set__altitude_8h.html#a8592f65f3812db066438b5b87a4da5b1" title="Get field mode from set_altitude message. " alt="" coords="464,129,637,170"/>
+<area shape="rect" id="node9" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="445,195,656,221"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="479,384,623,411"/>
+</map>

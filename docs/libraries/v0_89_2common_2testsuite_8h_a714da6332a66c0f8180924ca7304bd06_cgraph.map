@@ -1,0 +1,17 @@
+<map id="mavlink_test_gps_set_global_origin" name="mavlink_test_gps_set_global_origin">
+<area shape="rect" id="node2" href="$mavlink__msg__gps__set__global__origin_8h.html#ac31fc8af9b5af1bdd34d433dd57bcd49" title="Encode a gps_set_global_origin struct into a message. " alt="" coords="212,35,364,77"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gps__set__global__origin_8h.html#a48eae98bff92c33bf53d775219433146" title="Pack a gps_set_global_origin message. " alt="" coords="451,5,603,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__gps__set__global__origin_8h.html#af0947dc3d6f36b64e825a882c21e3fb8" title="Decode a gps_set_global_origin message into a struct. " alt="" coords="212,221,364,262"/>
+<area shape="rect" id="node11" href="$mavlink__msg__gps__set__global__origin_8h.html#a95825bd8da7e0bb22a2dd495bfc3d0ee" title="Pack a gps_set_global_origin message on a channel. " alt="" coords="203,286,373,327"/>
+<area shape="rect" id="node13" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="212,351,364,393"/>
+<area shape="rect" id="node14" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="209,417,367,458"/>
+<area shape="rect" id="node15" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="231,483,345,509"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="681,12,855,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__gps__set__global__origin_8h.html#a5deab68cede7b7ab869ac82b82d6f977" title="Send a gps_set_global_origin message. " alt="" coords="443,69,610,125"/>
+<area shape="rect" id="node7" href="$mavlink__msg__gps__set__global__origin_8h.html#a1a880c0dbd0809645441cdb51078bd59" title="Get field target_component from gps_set_global_origin message. " alt="" coords="443,149,610,205"/>
+<area shape="rect" id="node8" href="$mavlink__msg__gps__set__global__origin_8h.html#a8a8348a3370bb8919556ee097fa73994" title="Get field latitude from gps_set_global_origin message. " alt="" coords="439,229,614,270"/>
+<area shape="rect" id="node9" href="$mavlink__msg__gps__set__global__origin_8h.html#abe0174f15f1d9c6f035b3c7575bc6fe7" title="Get field longitude from gps_set_global_origin message. " alt="" coords="434,294,619,335"/>
+<area shape="rect" id="node10" href="$mavlink__msg__gps__set__global__origin_8h.html#a6e3c0925cb7d0bf800f514617ffc430c" title="Get field altitude from gps_set_global_origin message. " alt="" coords="439,359,614,401"/>
+<area shape="rect" id="node12" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="421,425,632,452"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="455,483,599,509"/>
+</map>

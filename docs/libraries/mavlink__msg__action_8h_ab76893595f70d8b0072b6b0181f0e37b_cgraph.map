@@ -1,0 +1,4 @@
+<map id="mavlink_msg_action_encode" name="mavlink_msg_action_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__action_8h.html#a5bc4d60435d9556b26dc949935c4037c" title="Pack a action message. " alt="" coords="195,12,371,39"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="419,12,594,39"/>
+</map>

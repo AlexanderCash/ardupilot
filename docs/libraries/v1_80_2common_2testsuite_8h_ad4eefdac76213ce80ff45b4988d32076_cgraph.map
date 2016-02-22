@@ -1,0 +1,16 @@
+<map id="mavlink_test_vision_speed_estimate" name="mavlink_test_vision_speed_estimate">
+<area shape="rect" id="node2" href="$mavlink__msg__vision__speed__estimate_8h.html#a4a85e7e6a2fd78cf030739ee7968cb2c" title="Encode a vision_speed_estimate struct. " alt="" coords="203,7,373,49"/>
+<area shape="rect" id="node3" href="$mavlink__msg__vision__speed__estimate_8h.html#a8b34c58cf9b0752a25dcbf509544484c" title="Pack a vision_speed_estimate message. " alt="" coords="459,5,615,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__vision__speed__estimate_8h.html#ab6e8181c840fd40b1defcdeef295cc16" title="Decode a vision_speed_estimate message into a struct. " alt="" coords="203,135,373,177"/>
+<area shape="rect" id="node10" href="$mavlink__msg__vision__speed__estimate_8h.html#adb64e06098adc73bae7c99dc01d75eb1" title="Pack a vision_speed_estimate message on a channel. " alt="" coords="193,201,383,242"/>
+<area shape="rect" id="node12" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="212,266,364,307"/>
+<area shape="rect" id="node13" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="209,331,367,373"/>
+<area shape="rect" id="node14" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="231,397,345,424"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="691,12,866,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__vision__speed__estimate_8h.html#a11d9a9d3fb9aaf0acb4bf595dda7bd33" title="Send a vision_speed_estimate message. " alt="" coords="447,70,628,111"/>
+<area shape="rect" id="node7" href="$mavlink__msg__vision__speed__estimate_8h.html#ab86b66249629d9c54de947b8337c42ae" title="Get field x from vision_speed_estimate message. " alt="" coords="457,135,617,177"/>
+<area shape="rect" id="node8" href="$mavlink__msg__vision__speed__estimate_8h.html#a7452e62cfcc75b5cc791de5b07c7f1dd" title="Get field y from vision_speed_estimate message. " alt="" coords="457,201,617,242"/>
+<area shape="rect" id="node9" href="$mavlink__msg__vision__speed__estimate_8h.html#aa7be484f6206c95f1d43e686e4e51967" title="Get field z from vision_speed_estimate message. " alt="" coords="457,266,617,307"/>
+<area shape="rect" id="node11" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="432,332,643,359"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="465,397,609,424"/>
+</map>

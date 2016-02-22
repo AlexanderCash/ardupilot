@@ -1,0 +1,12 @@
+digraph "Linux::LinuxI2CDriver::writeRegisters"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Linux::LinuxI2CDriver\l::writeRegisters",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Linux::LinuxI2CDriver\l::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxI2CDriver.html#aaa2c671ac80b0ab631281af3e228b352"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Linux::LinuxI2CDriver\l::set_address",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxI2CDriver.html#a1b3a8320bcaed7edd84dc0af51a694f9"];
+}

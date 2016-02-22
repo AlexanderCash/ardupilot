@@ -1,0 +1,27 @@
+<map id="Vector2::length" name="Vector2::length">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a46019950532852f60edd1a68bef9d1b2" title="AC_PosControl::accel\l_to_lean_angles" alt="" coords="404,142,556,183"/>
+<area shape="rect" id="node10" href="$structVector2.html#a62830d89ee7cd308a7d12caf352f1be9" title="Vector2::angle" alt="" coords="207,259,313,285"/>
+<area shape="rect" id="node11" href="$classAC__WPNav.html#a3dbf7bda89b127cdc81bca29e2af25de" title="AC_WPNav::calc_loiter\l_desired_velocity" alt="" coords="606,201,767,242"/>
+<area shape="rect" id="node12" href="$classAC__PI__2D.html#af464bd8936fccc9a0b11ab183e9ca384" title="AC_PI_2D::get_i" alt="" coords="199,91,321,117"/>
+<area shape="rect" id="node15" href="$classAC__PI__2D.html#ae8bc307e280fa7d11b67742491223fb1" title="AC_PI_2D::get_i_shrink" alt="" coords="179,36,341,63"/>
+<area shape="rect" id="node16" href="$structVector2.html#ace2a626eaa79412e2946216e9c3e63c6" title="Vector2\&lt; int32_t \&gt;\l::normalize" alt="" coords="195,310,325,351"/>
+<area shape="rect" id="node17" href="$structVector2.html#a94313613241845651f3aba43ed9d5434" title="Vector2\&lt; int32_t \&gt;\l::normalized" alt="" coords="195,375,325,417"/>
+<area shape="rect" id="node18" href="$classAP__L1__Control.html#aac848632dc59271619005127e22e374d" title="AP_L1_Control::update\l_heading_hold" alt="" coords="181,441,339,482"/>
+<area shape="rect" id="node19" href="$classAP__L1__Control.html#acc0860ec530ec9c9bec50a5701bb709e" title="AP_L1_Control::update\l_loiter" alt="" coords="181,506,339,547"/>
+<area shape="rect" id="node20" href="$classAP__L1__Control.html#a9052f01ea019fb51432d3104cce0b6e8" title="AP_L1_Control::update\l_waypoint" alt="" coords="181,571,339,613"/>
+<area shape="rect" id="node21" href="$classNavEKF.html#ad193e5aab03041673d4cfad9f7a2a6ba" title="NavEKF::writeOptFlowMeas" alt="" coords="165,637,355,664"/>
+<area shape="rect" id="node22" href="$classAP__AHRS__DCM.html#a5a98cf4f7346879e60a0f977757a6634" title="AP_AHRS_DCM::yaw_error\l_compass" alt="" coords="166,689,354,730"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#ad89eec74ef77005f3f5c449da98ad12c" title="AC_PosControl::update\l_vel_controller_xyz" alt="" coords="607,30,767,71"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#ae8b8e5c5812ab2419c570ae7f44a70f3" title="update_xy_controller &#45; run the horizontal position controller &#45; should be called at 100hz or higher ..." alt="" coords="607,99,767,141"/>
+<area shape="rect" id="node5" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller " alt="" coords="845,107,974,133"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#af9d3f98ad44166d4c5d072bf3ba4a3db" title="update_brake &#45; run the brake controller &#45; should be called at 400hz " alt="" coords="819,157,999,184"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#a0a434270245fd8641352af387700dc82" title="update_loiter &#45; run the loiter controller &#45; should be called at 10hz " alt="" coords="821,208,997,235"/>
+<area shape="rect" id="node8" href="$classAC__WPNav.html#a1d067335195835e46ba7218f8d784936" title="update_spline &#45; update spline controller " alt="" coords="818,5,1001,32"/>
+<area shape="rect" id="node9" href="$classAC__WPNav.html#ab37772c12f3376c2eda24d8506a994fc" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher " alt="" coords="816,56,1003,83"/>
+<area shape="rect" id="node13" href="$classAC__PI__2D.html#aca9b20442f46d13eff1ad8e1824c0067" title="AC_PI_2D::get_pi" alt="" coords="416,91,544,117"/>
+<area shape="rect" id="node14" href="$classAC__PosControl.html#a5b3282ea40c7d2ef6d44e51670094ccf" title="AC_PosControl::rate\l_to_accel_xy" alt="" coords="409,25,551,66"/>
+<area shape="rect" id="node23" href="$classAP__AHRS__DCM.html#a101f2aaddcc7e97e690924d4e9d7a191" title="AP_AHRS_DCM::drift\l_correction_yaw" alt="" coords="403,689,557,730"/>
+<area shape="rect" id="node24" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="610,689,763,730"/>
+<area shape="rect" id="node25" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="824,696,995,723"/>
+<area shape="rect" id="node26" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1051,696,1098,723"/>
+</map>

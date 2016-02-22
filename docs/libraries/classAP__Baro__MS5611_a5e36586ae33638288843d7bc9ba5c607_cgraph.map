@@ -1,0 +1,16 @@
+<map id="AP_Baro_MS5611::AP_Baro_MS5611" name="AP_Baro_MS5611::AP_Baro_MS5611">
+<area shape="rect" id="node2" href="$classAP__Baro.html#a2679b96d8c843053af9c658ff3efad73" title="AP_Baro::register_sensor" alt="" coords="225,54,396,80"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="472,21,619,62"/>
+<area shape="rect" id="node4" href="$classAP__SerialBus.html#a6022094d52b3477aaee4a14451df82bb" title="AP_SerialBus::init" alt="" coords="247,104,375,131"/>
+<area shape="rect" id="node5" href="$classAP__SerialBus.html#a3d779d1a6a2735967cde1d6a5ce85135" title="AP_SerialBus::sem_take\l_blocking" alt="" coords="227,156,395,197"/>
+<area shape="rect" id="node6" href="$classAP__SerialBus.html#a25f2078ecc0da70d8ace768b52fc4d01" title="AP_SerialBus::write" alt="" coords="476,207,615,234"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="237,425,384,466"/>
+<area shape="rect" id="node8" href="$classAP__SerialBus.html#a33e3411f9bcaed64af265d6ed7ed8ac0" title="AP_SerialBus::read\l_16bits" alt="" coords="477,517,613,558"/>
+<area shape="rect" id="node9" href="$classAP__Baro__MS5611.html#a4246dcfab6c1645a3a111eb975aaa1a0" title="AP_Baro_MS5611::_check_crc" alt="" coords="209,542,413,568"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="472,258,619,300"/>
+<area shape="rect" id="node11" href="$classAP__SerialBus.html#a5f00921cf638834d5d6aabfbed6461f6" title="AP_SerialBus::sem_give" alt="" coords="462,455,629,482"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Scheduler.html#ac2c4230957d5dbd3c2fd104af2794b4f" title="AP_HAL::Scheduler::\lregister_timer_process" alt="" coords="233,593,388,634"/>
+<area shape="rect" id="node13" href="$classAP__Baro__MS5611.html#a754a45cd1e595ebd27fc4516341f3528" title="AP_Baro_MS5611::_timer" alt="" coords="224,323,397,350"/>
+<area shape="rect" id="node14" href="$classAP__SerialBus.html#aa6f2ea7a630df154230bb6dd24adc541" title="AP_SerialBus::sem_take\l_nonblocking" alt="" coords="461,389,629,430"/>
+<area shape="rect" id="node15" href="$classAP__SerialBus.html#a8eb397dd152e865e82ee5b3c5a392f5f" title="AP_SerialBus::read\l_24bits" alt="" coords="477,324,613,365"/>
+</map>

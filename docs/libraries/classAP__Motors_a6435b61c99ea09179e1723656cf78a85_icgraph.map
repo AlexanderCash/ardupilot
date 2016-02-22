@@ -1,0 +1,7 @@
+<map id="AP_Motors::rel_pwm_to_thr_range" name="AP_Motors::rel_pwm_to_thr_range">
+<area shape="rect" id="node2" href="$classAP__Motors.html#a1dd91615b55a0a808ca97fde8fcc57b8" title="AP_Motors::get_throttle_warn" alt="" coords="197,5,392,32"/>
+<area shape="rect" id="node3" href="$classAP__MotorsTri.html#a5fb3552662e9242267eedd461d64fe4c" title="AP_MotorsTri::output\l_armed_not_stabilizing" alt="" coords="217,57,372,98"/>
+<area shape="rect" id="node4" href="$classAP__MotorsCoax.html#af0309d34188f4f427fd1197ea768f2ea" title="AP_MotorsCoax::output\l_armed_not_stabilizing" alt="" coords="213,122,376,163"/>
+<area shape="rect" id="node5" href="$classAP__MotorsSingle.html#a407007cbe551ef339131c7b66a0e5955" title="AP_MotorsSingle::output\l_armed_not_stabilizing" alt="" coords="211,187,378,229"/>
+<area shape="rect" id="node6" href="$classAP__MotorsMatrix.html#a54ae23df7be61c1fdc80ffe831383f4b" title="AP_MotorsMatrix::output\l_armed_not_stabilizing" alt="" coords="211,253,378,294"/>
+</map>

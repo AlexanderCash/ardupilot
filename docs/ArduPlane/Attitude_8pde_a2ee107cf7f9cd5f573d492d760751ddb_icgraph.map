@@ -1,0 +1,4 @@
+<map id="stabilize_yaw" name="stabilize_yaw">
+<area shape="rect" id="node2" href="$Attitude_8pde.html#a5915bf02c3bd19b57c717c8234369fdd" title="stabilize" alt="" coords="323,5,394,32"/>
+<area shape="rect" id="node3" href="$Attitude_8pde.html#aede80974c348fcf7fd493d948cd080df" title="stabilize_training" alt="" coords="155,31,274,57"/>
+</map>

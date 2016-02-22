@@ -1,0 +1,4 @@
+<map id="AP_ADC_ADS1115::_convert_register_data_to_mv" name="AP_ADC_ADS1115::_convert_register_data_to_mv">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="251,5,405,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="255,70,401,111"/>
+</map>

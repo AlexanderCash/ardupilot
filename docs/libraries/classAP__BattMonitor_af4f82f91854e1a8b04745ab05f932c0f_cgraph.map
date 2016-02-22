@@ -1,0 +1,6 @@
+<map id="AP_BattMonitor::exhausted" name="AP_BattMonitor::exhausted">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="247,5,393,46"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor.html#a36c8688e0c08b8eac5e638fba94bf94d" title="AP_BattMonitor::voltage" alt="" coords="238,95,402,121"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a6dbd2de8640f4fc150b4af300b0b48d3" title="AP_BattMonitor::has\l_current" alt="" coords="249,170,391,211"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor.html#af39d7e98bbdb2a8dc89cc093cbac3e0b" title="AP_BattMonitor::current\l_total_mah" alt="" coords="239,259,401,301"/>
+</map>

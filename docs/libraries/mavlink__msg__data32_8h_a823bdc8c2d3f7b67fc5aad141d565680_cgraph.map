@@ -1,0 +1,6 @@
+<map id="mavlink_msg_data32_decode" name="mavlink_msg_data32_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__data32_8h.html#a7b53104f75efbf1544af5e269a3dd547" title="Send a data32 message. " alt="" coords="201,5,346,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__data32_8h.html#a38fea47cfa9a383a7b15379e504decd1" title="Get field len from data32 message. " alt="" coords="201,70,346,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__data32_8h.html#a5e5c5cd756d0594be37cd9b12bec60a8" title="Get field data from data32 message. " alt="" coords="201,135,346,177"/>
+<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="395,135,563,177"/>
+</map>

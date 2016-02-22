@@ -1,0 +1,5 @@
+<map id="calc_nav_yaw_course" name="calc_nav_yaw_course">
+<area shape="rect" id="node2" href="$Attitude_8pde.html#a2ee107cf7f9cd5f573d492d760751ddb" title="stabilize_yaw" alt="" coords="205,31,307,57"/>
+<area shape="rect" id="node3" href="$Attitude_8pde.html#aede80974c348fcf7fd493d948cd080df" title="stabilize_training" alt="" coords="355,5,474,32"/>
+<area shape="rect" id="node4" href="$Attitude_8pde.html#a5915bf02c3bd19b57c717c8234369fdd" title="stabilize" alt="" coords="523,31,594,57"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mavlink_msg_mount_control_encode_chan" name="mavlink_msg_mount_control_encode_chan">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__control_8h.html#a46f2871d2a4c71f55751b74ce5dc64ae" title="Pack a mount_control message on a channel. " alt="" coords="243,5,431,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="480,12,691,39"/>
+</map>

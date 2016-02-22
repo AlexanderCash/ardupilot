@@ -1,0 +1,5 @@
+<map id="mavlink_msg_hwstatus_pack_chan" name="mavlink_msg_hwstatus_pack_chan">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2testsuite_8h.html#af32ae677c8372e380253627b7606e1c5" title="mavlink_test_hwstatus" alt="" coords="214,12,370,39"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="419,12,603,39"/>
+<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="651,12,767,39"/>
+</map>

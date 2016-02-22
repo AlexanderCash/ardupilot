@@ -1,0 +1,15 @@
+<map id="ahrs_update" name="ahrs_update">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title="AP_Arming::is_armed" alt="" coords="157,5,307,32"/>
+<area shape="rect" id="node3" href="$GCS__Mavlink_8pde.html#a16177b6ce2dc9f954e4afcef45cf5c76" title="gcs_update" alt="" coords="187,56,277,83"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="147,107,317,133"/>
+<area shape="rect" id="node7" href="$system_8pde.html#aca07afa008c681903526cfdc27045584" title="should_log" alt="" coords="190,157,274,184"/>
+<area shape="rect" id="node9" href="$Log_8pde.html#aa93e7c3a15ee96e36b6b2f3990102eca" title="Log_Write_Attitude" alt="" coords="165,208,299,235"/>
+<area shape="rect" id="node12" href="$Log_8pde.html#ae201b54e784bd7192c20717409953be9" title="Log_Write_IMU" alt="" coords="175,259,289,285"/>
+<area shape="rect" id="node13" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a26a38955546934cac5b94125ebf87cfe" title="AP_AHRS::get_yaw_rate\l_earth" alt="" coords="147,310,317,351"/>
+<area shape="rect" id="node14" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ada62278a4b460237f914e1c6a5355e55" title="wrap_PI" alt="" coords="197,376,267,403"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a7d8788ed53976a200971612229fe2533" title="GCS_MAVLINK::update" alt="" coords="379,31,543,57"/>
+<area shape="rect" id="node5" href="$compat_8h.html#a24416c6d53dc9204a8bd10e9af36e94b" title="run_cli" alt="" coords="431,81,491,108"/>
+<area shape="rect" id="node8" href="$Log_8pde.html#a05e0c1cc917db97ee71cc05c205c2095" title="start_logging" alt="" coords="413,157,509,184"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classOpticalFlow.html#adef66cc90d87a9261c9d3454723f9455" title="OpticalFlow::enabled" alt="" coords="389,208,533,235"/>
+<area shape="rect" id="node11" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classSITL.html#adc9cb04ae0ef3764e4dbf414d58ed9c4" title="SITL::Log_Write_SIMSTATE" alt="" coords="366,259,557,285"/>
+</map>

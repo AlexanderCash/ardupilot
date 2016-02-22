@@ -1,0 +1,28 @@
+<map id="Matrix3::to_euler" name="Matrix3::to_euler">
+<area shape="rect" id="node2" href="$classSITL.html#ac75a45aa71b2b420cf86dfc7afcdb82a" title="SITL::convert_earth\l_frame" alt="" coords="195,5,333,46"/>
+<area shape="rect" id="node3" href="$classAircraft.html#a818eb42d9a3c324476f9940798183b17" title="Aircraft::fill_fdm" alt="" coords="431,41,545,68"/>
+<area shape="rect" id="node9" href="$classJSBSim.html#a3c9432b767ace46a5a71eaadeb89c5ab" title="JSBSim::create_templates" alt="" coords="175,121,353,148"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__DCM.html#a78be7bcd6145ccfea4499800fabc65e5" title="AP_AHRS_DCM::euler\l_angles" alt="" coords="185,173,343,214"/>
+<area shape="rect" id="node14" href="$classAircraft.html#ac1d504f87b859e04f039adc4f41398cc" title="Aircraft::set_yaw_degrees" alt="" coords="177,239,351,265"/>
+<area shape="rect" id="node15" href="$classAP__Mount__Servo.html#af3b79839d37536f6bb7ab56104d77e2f" title="AP_Mount_Servo::stabilize" alt="" coords="174,289,354,316"/>
+<area shape="rect" id="node17" href="$eulers_8pde.html#ada3aa00f3fc83688f3bb0c2c847b7e50" title="test_conversion" alt="" coords="207,340,321,367"/>
+<area shape="rect" id="node20" href="$eulers_8pde.html#ab0e4b7cf8126ff5efa48d6f91eaad6ea" title="test_euler" alt="" coords="225,391,303,417"/>
+<area shape="rect" id="node22" href="$eulers_8pde.html#a288b88e3267221134f72a170d9895cef" title="test_quaternion" alt="" coords="209,441,319,468"/>
+<area shape="rect" id="node24" href="$rotations_8pde.html#acaec71463457149487901c616be1c74d" title="test_rotation_accuracy" alt="" coords="187,492,341,519"/>
+<area shape="rect" id="node26" href="$classHelicopter.html#a679e4dbbeca418ad17aa98aafdc99385" title="Helicopter::update" alt="" coords="200,543,328,569"/>
+<area shape="rect" id="node27" href="$classMultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="MultiCopter::update" alt="" coords="196,593,332,620"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="622,34,773,75"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="822,34,973,75"/>
+<area shape="rect" id="node6" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="1022,34,1173,75"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="1221,34,1392,75"/>
+<area shape="rect" id="node8" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1440,34,1611,75"/>
+<area shape="rect" id="node10" href="$classJSBSim.html#af578b81cce90bf59daea6eccc4c09549" title="JSBSim::update" alt="" coords="429,121,547,148"/>
+<area shape="rect" id="node12" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="403,180,573,207"/>
+<area shape="rect" id="node13" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="674,180,721,207"/>
+<area shape="rect" id="node16" href="$classAP__Mount__Servo.html#a8f4caa1ed68b0062d25e60c42b333995" title="AP_Mount_Servo::update" alt="" coords="403,239,573,265"/>
+<area shape="rect" id="node18" href="$eulers_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="670,365,725,392"/>
+<area shape="rect" id="node19" href="$eulers_8pde.html#ac5851b63c32809e725e1fadbec137224" title="test_conversions" alt="" coords="427,340,549,367"/>
+<area shape="rect" id="node21" href="$eulers_8pde.html#aceb2646dd2a8910fd27813e20e13c6a4" title="test_matrix_eulers" alt="" coords="423,391,553,417"/>
+<area shape="rect" id="node23" href="$eulers_8pde.html#a1e4ca41feae51e8f6dc923cde8d1ad39" title="test_quaternion_eulers" alt="" coords="411,441,565,468"/>
+<area shape="rect" id="node25" href="$rotations_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="461,492,515,519"/>
+</map>

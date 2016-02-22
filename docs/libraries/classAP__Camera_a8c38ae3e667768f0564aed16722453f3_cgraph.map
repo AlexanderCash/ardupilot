@@ -1,0 +1,20 @@
+<map id="AP_Camera::control_cmd" name="AP_Camera::control_cmd">
+<area shape="rect" id="node2" href="$classAP__Camera.html#a74372e2b8e5d3cd3b464f2ef417cb0f6" title="AP_Camera::trigger_pic" alt="" coords="227,236,389,263"/>
+<area shape="rect" id="node13" href="$mavlink__msg__command__long_8h.html#a4b9ea1702839a5a09d44775799a24ec8" title="Encode a command_long struct. " alt="" coords="441,275,604,317"/>
+<area shape="rect" id="node16" href="$classGCS__MAVLINK.html#a928edfeb8ca8d1656eca3e0c176d49a7" title="GCS_MAVLINK::send_to\l_components" alt="" coords="437,341,608,382"/>
+<area shape="rect" id="node3" href="$classAP__Camera.html#a336a2fbee20b67e8af153e4bc21bd3fd" title="Servo operated camera. " alt="" coords="444,123,601,149"/>
+<area shape="rect" id="node9" href="$classAP__Camera.html#a73b785894a0650a4dd8b1ffc24c4c250" title="basic relay activation " alt="" coords="446,224,599,251"/>
+<area shape="rect" id="node4" href="$classRC__Channel__aux.html#a8fed980206f9aad4c5435c5193690be7" title="RC_Channel_aux::set\l_radio" alt="" coords="662,57,813,98"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="901,123,1011,149"/>
+<area shape="rect" id="node5" href="$classRC__Channel__aux.html#a423accc4de40960cf7ef2c4755e8a9d1" title="RC_Channel_aux::function\l_assigned" alt="" coords="867,57,1045,98"/>
+<area shape="rect" id="node7" href="$classRC__Channel.html#aabaff8233192d5f2a20e2207914ca3e3" title="RC_Channel::output" alt="" coords="885,5,1027,32"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="1095,5,1271,32"/>
+<area shape="rect" id="node10" href="$classAP__Relay.html#a8f00e5559174917b795ef84472822e53" title="AP_Relay::on" alt="" coords="686,224,789,251"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="871,228,1041,255"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="881,177,1031,204"/>
+<area shape="rect" id="node14" href="$mavlink__msg__command__long_8h.html#ab5b46496ad411ef946e4a10b43d3d025" title="Pack a command_long message. " alt="" coords="656,275,819,317"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="869,283,1043,309"/>
+<area shape="rect" id="node17" href="$classMAVLink__routing.html#ace8e55f8db025f01d4309de699de5460" title="MAVLink_routing::send\l_to_components" alt="" coords="659,341,816,382"/>
+<area shape="rect" id="node18" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="888,348,1024,375"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="1094,348,1271,375"/>
+</map>

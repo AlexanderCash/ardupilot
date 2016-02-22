@@ -1,0 +1,52 @@
+<map id="AP_RollController" name="AP_RollController">
+<area shape="rect" id="node2" href="$classAP__AutoTune.html" title="AP_AutoTune" alt="" coords="1106,1356,1209,1383"/>
+<area shape="rect" id="node3" href="$classDataFlash__Class.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="769,1192,892,1219"/>
+<area shape="rect" id="node22" href="$classAP__InertialSensor.html" title="AP_InertialSensor" alt="" coords="1094,901,1221,928"/>
+<area shape="rect" id="node31" href="$classAP__GPS.html" title="AP_GPS" alt="" coords="1120,1111,1195,1137"/>
+<area shape="rect" id="node4" href="$structLogStructure.html" title="LogStructure" alt="" coords="436,1192,532,1219"/>
+<area shape="rect" id="node5" href="$structAP__Vehicle_1_1FixedWing.html" title="AP_Vehicle::FixedWing" alt="" coords="404,836,564,863"/>
+<area shape="rect" id="node29" href="$classAirspeed__Calibration.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="759,760,902,787"/>
+<area shape="rect" id="node6" href="$structAP__AutoTune_1_1ATGains.html" title="AP_AutoTune::ATGains" alt="" coords="749,1477,912,1504"/>
+<area shape="rect" id="node7" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="755,491,906,517"/>
+<area shape="rect" id="node8" href="$classAP__AHRS.html" title="AP_AHRS" alt="" coords="1403,624,1488,651"/>
+<area shape="rect" id="node10" href="$classAP__Baro.html" title="AP_Baro" alt="" coords="1120,63,1195,89"/>
+<area shape="rect" id="node16" href="$classOpticalFlow.html" title="OpticalFlow" alt="" coords="1112,176,1203,203"/>
+<area shape="rect" id="node24" href="$classAP__Airspeed.html" title="AP_Airspeed" alt="" coords="1108,649,1207,676"/>
+<area shape="rect" id="node48" href="$classCompass.html" title="Compass" alt="" coords="1118,335,1197,361"/>
+<area shape="rect" id="node9" href="$structAP__AHRS_1_1ahrs__flags.html" title="AP_AHRS::ahrs_flags" alt="" coords="1081,700,1234,727"/>
+<area shape="rect" id="node15" href="$classAP__Baro__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="1379,40,1511,67"/>
+<area shape="rect" id="node11" href="$structAP__Baro_1_1sensor.html" title="AP_Baro::sensor" alt="" coords="770,63,891,89"/>
+<area shape="rect" id="node12" href="$classDerivativeFilter.html" title="DerivativeFilter\&lt; float, 7 \&gt;" alt="" coords="743,12,918,39"/>
+<area shape="rect" id="node13" href="$classFilterWithBuffer.html" title="FilterWithBuffer\&lt; float,\l FILTER_SIZE \&gt;" alt="" coords="407,5,561,46"/>
+<area shape="rect" id="node14" href="$classFilter.html" title="Filter\&lt; float \&gt;" alt="" coords="193,12,293,39"/>
+<area shape="rect" id="node19" href="$classOpticalFlow__backend.html" title="OpticalFlow_backend" alt="" coords="1372,131,1519,157"/>
+<area shape="rect" id="node17" href="$structOpticalFlow_1_1OpticalFlow__state.html" title="OpticalFlow::OpticalFlow\l_state" alt="" coords="747,218,915,259"/>
+<area shape="rect" id="node18" href="$structVector2.html" title="Vector2\&lt; float \&gt;" alt="" coords="426,236,542,263"/>
+<area shape="rect" id="node20" href="$structOpticalFlow_1_1AP__OpticalFlow__Flags.html" title="OpticalFlow::AP_OpticalFlow\l_Flags" alt="" coords="734,146,927,187"/>
+<area shape="rect" id="node21" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="185,716,301,743"/>
+<area shape="rect" id="node30" href="$classMatrix3.html" title="Matrix3\&lt; float \&gt;" alt="" coords="427,716,541,743"/>
+<area shape="rect" id="node45" href="$structAP__GPS_1_1GPS__State.html" title="AP_GPS::GPS_State" alt="" coords="756,1028,905,1055"/>
+<area shape="rect" id="node50" href="$structCompass_1_1mag__state.html" title="Compass::mag_state" alt="" coords="757,293,904,320"/>
+<area shape="rect" id="node23" href="$classAP__InertialSensor__Backend.html" title="AP_InertialSensor_Backend" alt="" coords="1353,885,1538,912"/>
+<area shape="rect" id="node25" href="$classAP__Airspeed__Analog.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="758,676,903,703"/>
+<area shape="rect" id="node26" href="$classAP__Airspeed__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="406,615,562,641"/>
+<area shape="rect" id="node28" href="$classAP__Airspeed__PX4.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="765,625,896,652"/>
+<area shape="rect" id="node27" href="$classAP__HAL_1_1AnalogSource.html" title="AP_HAL::AnalogSource" alt="" coords="403,665,565,692"/>
+<area shape="rect" id="node40" href="$classAP__GPS__Backend.html" title="AP_GPS_Backend" alt="" coords="1379,1048,1512,1075"/>
+<area shape="rect" id="node32" href="$structAP__GPS_1_1detect__state.html" title="AP_GPS::detect_state" alt="" coords="753,1356,908,1383"/>
+<area shape="rect" id="node33" href="$structSBP__detect__state.html" title="SBP_detect_state" alt="" coords="420,1501,548,1528"/>
+<area shape="rect" id="node34" href="$structUBLOX__detect__state.html" title="UBLOX_detect_state" alt="" coords="411,1248,557,1275"/>
+<area shape="rect" id="node35" href="$structSIRF__detect__state.html" title="SIRF_detect_state" alt="" coords="418,1299,550,1325"/>
+<area shape="rect" id="node36" href="$structMTK19__detect__state.html" title="MTK19_detect_state" alt="" coords="413,1349,555,1376"/>
+<area shape="rect" id="node37" href="$structNMEA__detect__state.html" title="NMEA_detect_state" alt="" coords="414,1400,554,1427"/>
+<area shape="rect" id="node38" href="$structMTK__detect__state.html" title="MTK_detect_state" alt="" coords="419,1451,549,1477"/>
+<area shape="rect" id="node39" href="$structAP__GPS_1_1GPS__timing.html" title="AP_GPS::GPS_timing" alt="" coords="754,1243,907,1269"/>
+<area shape="rect" id="node41" href="$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="754,1141,907,1168"/>
+<area shape="rect" id="node42" href="$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="405,1141,563,1168"/>
+<area shape="rect" id="node43" href="$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="181,1141,304,1168"/>
+<area shape="rect" id="node44" href="$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="6,1141,114,1168"/>
+<area shape="rect" id="node46" href="$structLocation.html" title="Location" alt="" coords="449,1060,519,1087"/>
+<area shape="rect" id="node47" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="165,1060,320,1087"/>
+<area shape="rect" id="node49" href="$classAP__Compass__Backend.html" title="AP_Compass_Backend" alt="" coords="1365,289,1526,316"/>
+<area shape="rect" id="node51" href="$classVector3.html" title="Vector3\&lt; int16_t \&gt;" alt="" coords="419,293,549,320"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="ToshibaLED_PX4" name="ToshibaLED_PX4">
+<area shape="rect" id="node2" href="$classToshibaLED.html" title="ToshibaLED" alt="" coords="7,168,101,195"/>
+<area shape="rect" id="node3" href="$classRGBLed.html" title="RGBLed" alt="" coords="19,83,91,109"/>
+<area shape="rect" id="node4" href="$classNotifyDevice.html" title="NotifyDevice" alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node5" href="$unionToshibaLED__PX4_1_1rgb__value.html" title="ToshibaLED_PX4::rgb\l_value" alt="" coords="127,161,279,202"/>
+</map>

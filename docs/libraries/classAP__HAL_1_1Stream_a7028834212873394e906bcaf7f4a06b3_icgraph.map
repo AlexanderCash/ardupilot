@@ -1,0 +1,57 @@
+<map id="AP_HAL::Stream::txspace" name="AP_HAL::Stream::txspace">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__UserInteract__MAVLink.html#a1a59b8482c469e2038348c25ba6e3009" title="AP_InertialSensor_UserInteract\l_MAVLink::_printf_P" alt="" coords="763,5,970,46"/>
+<area shape="rect" id="node3" href="$GCS__MAVLink_8h.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="259,479,395,505"/>
+<area shape="rect" id="node36" href="$classGCS__MAVLINK.html#adecc982b9dd27229f29b0756733ed137" title="GCS_MAVLINK::handle\l_serial_control" alt="" coords="245,806,408,847"/>
+<area shape="rect" id="node37" href="$classAP__GPS__SBP.html#a839cd0de09e74c87975706b11b8859e8" title="AP_GPS_SBP::inject_data" alt="" coords="237,872,417,899"/>
+<area shape="rect" id="node38" href="$classAP__GPS.html#ad4512e4952aa41566d6afb110e0fd6a1" title="AP_GPS::send_blob_update" alt="" coords="233,923,421,949"/>
+<area shape="rect" id="node43" href="$classAP__Mount__Alexmos.html#aad80a69937fd3356ed8f2e338bde3605" title="AP_Mount_Alexmos::send\l_command" alt="" coords="238,1090,415,1131"/>
+<area shape="rect" id="node53" href="$classAP__GPS__UBLOX.html#a253fc95ba92dc62e68ed1b03e910d9fa" title="AP_GPS_UBLOX::send\l_next_rate_update" alt="" coords="245,1201,408,1242"/>
+<area shape="rect" id="node55" href="$classAP__Frsky__Telem.html#a89ada57d816dfa4246726c17aa7fd32f" title="AP_Frsky_Telem::sport_tick" alt="" coords="233,1357,421,1384"/>
+<area shape="rect" id="node4" href="$classMAVLink__routing.html#a474038c8ab695c57e23fb6fec4664947" title="MAVLink_routing::check\l_and_forward" alt="" coords="785,238,949,279"/>
+<area shape="rect" id="node7" href="$GCS__Console_8h.html#acf3b9449586c84f434aef52a4a8059cd" title="gcs_console_send" alt="" coords="524,304,655,331"/>
+<area shape="rect" id="node9" href="$classMAVLink__routing.html#ae80b2a0d4f442fe80a7d0097da164b7e" title="MAVLink_routing::handle\l_heartbeat" alt="" coords="506,238,673,279"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#a85823a47df8b14becd807722f9f90b80" title="GCS_MAVLINK::handle\l_log_send_data" alt="" coords="508,406,671,447"/>
+<area shape="rect" id="node14" href="$classGCS__MAVLINK.html#add5099b4e743990e0e0de5bc607660e6" title="GCS_MAVLINK::handle\l_log_send_listing" alt="" coords="508,471,671,513"/>
+<area shape="rect" id="node16" href="$classGCS__MAVLINK.html#a143a91427102a9aea995d10bad67f435" title="GCS_MAVLINK::handle\l_mission_item" alt="" coords="1036,114,1199,155"/>
+<area shape="rect" id="node17" href="$classGCS__MAVLINK.html#a508b2da2af9a77f175c60cac467cec70" title="Send the next pending parameter, called from deferred message handling code. " alt="" coords="506,537,673,578"/>
+<area shape="rect" id="node18" href="$classGCS__MAVLINK.html#aa6f7ccdb5ed30bcce6499dcbf9e6d4ad" title="GCS_MAVLINK::send_gps_raw" alt="" coords="485,603,694,629"/>
+<area shape="rect" id="node19" href="$classGCS__MAVLINK.html#a03e7084a4853eca1ecddded452fc3a14" title="GCS_MAVLINK::send_radio_in" alt="" coords="487,653,692,680"/>
+<area shape="rect" id="node20" href="$classGCS__MAVLINK.html#a6a5358c59d074d14a2917a4ec29dd5eb" title="GCS_MAVLINK::send_statustext_all" alt="" coords="470,704,709,731"/>
+<area shape="rect" id="node22" href="$classGCS__MAVLINK.html#a1cde0c4232c296db943613ab2e378427" title="GCS_MAVLINK::send_text" alt="" coords="498,81,681,108"/>
+<area shape="rect" id="node26" href="$classMAVLink__routing.html#ace8e55f8db025f01d4309de699de5460" title="MAVLink_routing::send\l_to_components" alt="" coords="511,755,668,797"/>
+<area shape="rect" id="node32" href="$simplegcs_8h.html#ae6d65bb6477c3fe759944f62cf26a0af" title="try_send_message" alt="" coords="523,355,655,381"/>
+<area shape="rect" id="node33" href="$simplegcs_8h.html#ab0b28a573b02c581205a6ca0d9dbcb37" title="try_send_statustext" alt="" coords="521,821,658,848"/>
+<area shape="rect" id="node5" href="$routing_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1094,245,1141,272"/>
+<area shape="rect" id="node6" href="$classGCS__MAVLINK.html#a7d8788ed53976a200971612229fe2533" title="GCS_MAVLINK::update" alt="" coords="1035,296,1199,323"/>
+<area shape="rect" id="node8" href="$GCS__Console_2examples_2Console_2Console_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="843,329,890,356"/>
+<area shape="rect" id="node11" href="$classGCS__MAVLINK.html#af4f36c08fe81ee49ab53b1626d8da8ec" title="GCS_MAVLINK::handle\l_log_send" alt="" coords="785,406,948,447"/>
+<area shape="rect" id="node12" href="$classGCS__MAVLINK.html#a9685f685665e932079522a281086b581" title="GCS_MAVLINK::handle\l_log_request_data" alt="" coords="1036,406,1199,447"/>
+<area shape="rect" id="node13" href="$classGCS__MAVLINK.html#add8326241719712dc068a07845bf476c" title="GCS_MAVLINK::handle\l_log_message" alt="" coords="1264,439,1427,481"/>
+<area shape="rect" id="node15" href="$classGCS__MAVLINK.html#a1c015f2ab464807939761ac7d7889bd4" title="GCS_MAVLINK::handle\l_log_request_list" alt="" coords="1036,471,1199,513"/>
+<area shape="rect" id="node21" href="$classAPM__OBC.html#abcd546549be8688ab9cd0c46147dc077" title="APM_OBC::check" alt="" coords="801,704,932,731"/>
+<area shape="rect" id="node23" href="$classGCS__MAVLINK.html#a45f2a7f8ba45e6d161ba4d6971e3fd66" title="GCS_MAVLINK::handle\l_param_request_list" alt="" coords="785,70,948,111"/>
+<area shape="rect" id="node24" href="$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="767,187,966,213"/>
+<area shape="rect" id="node25" href="$classGCS__MAVLINK.html#add72083180081323352d4f701ae0d7d2" title="GCS_MAVLINK::handle\l_mission_write_partial_list" alt="" coords="1030,179,1205,221"/>
+<area shape="rect" id="node27" href="$classGCS__MAVLINK.html#a928edfeb8ca8d1656eca3e0c176d49a7" title="GCS_MAVLINK::send_to\l_components" alt="" coords="781,755,952,797"/>
+<area shape="rect" id="node28" href="$classAP__Camera.html#a57bca3faf48ab4baa3052f4480b69747" title="AP_Camera::configure_cmd" alt="" coords="1024,712,1211,739"/>
+<area shape="rect" id="node29" href="$classAP__Camera.html#a8c38ae3e667768f0564aed16722453f3" title="AP_Camera::control_cmd" alt="" coords="1259,763,1431,789"/>
+<area shape="rect" id="node30" href="$classAP__Camera.html#a74372e2b8e5d3cd3b464f2ef417cb0f6" title="AP_Camera::trigger_pic" alt="" coords="1037,813,1198,840"/>
+<area shape="rect" id="node31" href="$classAP__Camera.html#a27664cf70d78d5af17d66a3d715048db" title="decode MavLink that controls camera " alt="" coords="1259,813,1431,840"/>
+<area shape="rect" id="node34" href="$GCS__Console_2examples_2Console_2Console_8pde.html#a6bbdf9d637b5b4717f5c7fdd0d5b5759" title="flush_console_to_statustext" alt="" coords="774,821,959,848"/>
+<area shape="rect" id="node35" href="$GCS__Console_2examples_2Console_2Console_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="839,872,894,899"/>
+<area shape="rect" id="node39" href="$classAP__GPS.html#a4bdd5c70ed358b4147a58c7d09f040dd" title="AP_GPS::detect_instance" alt="" coords="502,923,677,949"/>
+<area shape="rect" id="node40" href="$classAP__GPS.html#a83302e8b52e5d01ae67375b3542eb460" title="AP_GPS::update_instance" alt="" coords="777,923,956,949"/>
+<area shape="rect" id="node41" href="$classAP__GPS.html#afe04427a47ab5e630cb979815abd911e" title="AP_GPS::update" alt="" coords="1056,923,1179,949"/>
+<area shape="rect" id="node42" href="$GPS__AUTO__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="1322,923,1369,949"/>
+<area shape="rect" id="node44" href="$classAP__Mount__Alexmos.html#a1f6761ce850ccd070fddd623eb9d577a" title="AP_Mount_Alexmos::control_axis" alt="" coords="480,973,699,1000"/>
+<area shape="rect" id="node46" href="$classAP__Mount__Alexmos.html#a0f1bf55ecd2a81e392ee23ead469991c" title="AP_Mount_Alexmos::get\l_angles" alt="" coords="506,1025,673,1066"/>
+<area shape="rect" id="node48" href="$classAP__Mount__Alexmos.html#aafa4a3812c9685c396759e297eff6872" title="AP_Mount_Alexmos::get\l_boardinfo" alt="" coords="506,1090,673,1131"/>
+<area shape="rect" id="node50" href="$classAP__Mount__Alexmos.html#adfaef569475429685fac995ac9f58b9a" title="AP_Mount_Alexmos::read\l_params" alt="" coords="502,1155,677,1197"/>
+<area shape="rect" id="node51" href="$classAP__Mount__Alexmos.html#a1afd65f66045a67de1a9d6768597ac17" title="AP_Mount_Alexmos::set\l_motor" alt="" coords="506,1221,673,1262"/>
+<area shape="rect" id="node52" href="$classAP__Mount__Alexmos.html#ad203e2599e27adfa1daafd4cdb4291b9" title="AP_Mount_Alexmos::write\l_params" alt="" coords="501,1286,678,1327"/>
+<area shape="rect" id="node45" href="$classAP__Mount__Alexmos.html#ad6fa0fd652a1401e0c9d791ad9399b67" title="AP_Mount_Alexmos::update" alt="" coords="773,973,961,1000"/>
+<area shape="rect" id="node47" href="$classAP__Mount__Alexmos.html#a6d6484f3819b38ddba699ca986bf9f99" title="AP_Mount_Alexmos::status_msg" alt="" coords="758,1032,975,1059"/>
+<area shape="rect" id="node49" href="$classAP__Mount__Alexmos.html#a5fa7cd0a3d3c60bd6a2705075ee22359" title="AP_Mount_Alexmos::init" alt="" coords="783,1129,950,1156"/>
+<area shape="rect" id="node54" href="$classAP__GPS__UBLOX.html#a09825f5ca37ee9bdb5e0939a4073a84e" title="AP_GPS_UBLOX::read" alt="" coords="509,1352,669,1379"/>
+<area shape="rect" id="node56" href="$classAP__Frsky__Telem.html#a081d1787f8ec08ca8c489fb5dc86393c" title="AP_Frsky_Telem::init" alt="" coords="515,1403,663,1429"/>
+</map>

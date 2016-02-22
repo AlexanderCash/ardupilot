@@ -1,0 +1,16 @@
+<map id="AP_HAL::RCInput::read" name="AP_HAL::RCInput::read">
+<area shape="rect" id="node2" href="$FLYMAPLE_2examples_2RCInput_2RCInput_8pde.html#aeb998f1761a28e512e2dcbc829983e06" title="individualread" alt="" coords="268,63,369,89"/>
+<area shape="rect" id="node4" href="$classRC__Channel.html#ae3fdc00cc4a913a006bd48679cc7b83a" title="RC_Channel::input" alt="" coords="252,12,385,39"/>
+<area shape="rect" id="node6" href="$classDataFlash__Class.html#ae3cb0f9ab8db6bcced3f504a2a767081" title="DataFlash_Class::Log\l_Write_RCIN" alt="" coords="243,114,395,155"/>
+<area shape="rect" id="node7" href="$AC__PID__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="295,231,342,257"/>
+<area shape="rect" id="node10" href="$FLYMAPLE_2examples_2RCInput_2RCInput_8pde.html#a3386c13c098492e383d289443c48e1c0" title="multiread" alt="" coords="281,180,356,207"/>
+<area shape="rect" id="node11" href="$classRC__Channel.html#a80d6122b2ac8dd749ca54859ebde023d" title="RC_Channel::read" alt="" coords="253,281,384,308"/>
+<area shape="rect" id="node14" href="$classGCS__MAVLINK.html#a03e7084a4853eca1ecddded452fc3a14" title="GCS_MAVLINK::send_radio_in" alt="" coords="216,332,421,359"/>
+<area shape="rect" id="node15" href="$RCJitterTest_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="291,383,346,409"/>
+<area shape="rect" id="node3" href="$FLYMAPLE_2examples_2RCInput_2RCInput_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="535,125,582,152"/>
+<area shape="rect" id="node5" href="$classRC__Channel__aux.html#ac83fb0c13a25e6f077d47b7feb77c7df" title="RC_Channel_aux::copy\l_radio_in_out" alt="" coords="478,5,639,46"/>
+<area shape="rect" id="node8" href="$HAL__PX4__Class_8cpp.html#a9bd6e6ad19a651d2c83ab3edb8d51924" title="main_loop" alt="" coords="518,231,599,257"/>
+<area shape="rect" id="node9" href="$classHAL__PX4.html#aa30a8fe0c2c42ede8ced6fc21e1c748a" title="HAL_PX4::init" alt="" coords="697,231,802,257"/>
+<area shape="rect" id="node12" href="$classRC__Channel.html#a097e513f2636b2eded75d63a281ace63" title="RC_Channel::set_pwm_all" alt="" coords="469,281,648,308"/>
+<area shape="rect" id="node13" href="$RC__Channel_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="726,281,773,308"/>
+</map>

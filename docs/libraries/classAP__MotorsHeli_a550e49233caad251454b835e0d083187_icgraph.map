@@ -1,0 +1,6 @@
+<map id="AP_MotorsHeli::rsc_control" name="AP_MotorsHeli::rsc_control">
+<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#a85918ee9be140eee1738ca2898fc6513" title="AP_MotorsHeli::output\l_armed_stabilizing" alt="" coords="189,70,344,111"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#af02bef1b954fa23247b9940113c9a59a" title="AP_MotorsHeli::output\l_armed_not_stabilizing" alt="" coords="392,5,547,46"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title="AP_MotorsHeli::output\l_armed_zero_throttle" alt="" coords="392,70,547,111"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title="AP_MotorsHeli::output\l_disarmed" alt="" coords="392,135,547,177"/>
+</map>

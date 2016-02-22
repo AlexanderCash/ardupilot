@@ -1,0 +1,4 @@
+<map id="mavlink_msg_debug_encode" name="mavlink_msg_debug_encode">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__debug_8h.html#abbf57a83d1ddcba5c08d3378925f22c1" title="Pack a debug message. " alt="" coords="245,5,421,32"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="470,5,645,32"/>
+</map>

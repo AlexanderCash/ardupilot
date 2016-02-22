@@ -1,0 +1,4 @@
+<map id="AC_PID::set_integrator" name="AC_PID::set_integrator">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#abd590af4985586d33e4623adf76e7536" title="init_takeoff &#45; initialises target altitude if we are taking off " alt="" coords="219,5,357,46"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#a73ba96e0c072bf80ac6c7be005ca312e" title="relax_alt_hold_controllers &#45; set all desired and targets to measured " alt="" coords="213,70,363,111"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AP_BattMonitor_SMBus_PX4" name="AP_BattMonitor_SMBus_PX4">
+<area shape="rect" id="node2" href="$classAP__BattMonitor__SMBus.html" title="AP_BattMonitor_SMBus" alt="" coords="21,203,184,229"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__Backend.html" title="AP_BattMonitor_Backend" alt="" coords="58,112,229,139"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html" title="AP_BattMonitor" alt="" coords="215,203,329,229"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="337,112,487,139"/>
+<area shape="rect" id="node6" href="$structAP__BattMonitor_1_1BattMonitor__State.html" title="AP_BattMonitor::BattMonitor\l_State" alt="" coords="135,6,324,47"/>
+</map>

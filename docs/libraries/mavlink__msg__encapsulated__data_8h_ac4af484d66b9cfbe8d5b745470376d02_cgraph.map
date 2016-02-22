@@ -1,0 +1,5 @@
+<map id="mavlink_msg_encapsulated_data_decode" name="mavlink_msg_encapsulated_data_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__encapsulated__data_8h.html#a1613d4a4636e9f21b10f52d2db295c4b" title="Send a encapsulated_data message. " alt="" coords="238,5,421,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__encapsulated__data_8h.html#a622c7c69fc1d201985b95b30d1dc97d8" title="Get field data from encapsulated_data message. " alt="" coords="238,70,421,111"/>
+<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="469,70,637,111"/>
+</map>

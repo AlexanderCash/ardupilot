@@ -1,0 +1,5 @@
+<map id="mavlink_msg_radio_encode_chan" name="mavlink_msg_radio_encode_chan">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__radio_8h.html#affe6fe66153ea5b65647dab166f18c58" title="Pack a radio message on a channel. " alt="" coords="273,31,477,57"/>
+<area shape="rect" id="node3" href="$Derivative_8pde.html#a430ab649ea04b609ea794c746bfee4ba" title="noise" alt="" coords="604,5,657,32"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="525,56,736,83"/>
+</map>

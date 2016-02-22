@@ -1,0 +1,8 @@
+<map id="AP_HAL::DigitalSource" name="AP_HAL::DigitalSource">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRDigitalSource.html" title="AP_HAL_AVR::AVRDigitalSource" alt="" coords="218,5,441,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEDigitalSource.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEDigitalSource" alt="" coords="241,57,418,98"/>
+<area shape="rect" id="node4" href="$classEmpty_1_1EmptyDigitalSource.html" title="Empty::EmptyDigitalSource" alt="" coords="237,123,421,149"/>
+<area shape="rect" id="node5" href="$classLinux_1_1LinuxDigitalSource.html" title="Linux::LinuxDigitalSource" alt="" coords="244,173,415,200"/>
+<area shape="rect" id="node6" href="$classPX4_1_1PX4DigitalSource.html" title="PX4::PX4DigitalSource" alt="" coords="250,224,409,251"/>
+<area shape="rect" id="node7" href="$classVRBRAIN_1_1VRBRAINDigitalSource.html" title="VRBRAIN::VRBRAINDigitalSource" alt="" coords="214,275,445,301"/>
+</map>

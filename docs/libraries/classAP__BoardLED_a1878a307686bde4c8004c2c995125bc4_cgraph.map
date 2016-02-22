@@ -1,0 +1,4 @@
+<map id="AP_BoardLED::update" name="AP_BoardLED::update">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="211,5,362,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#ad5afc1071909c7e9ec29e0b70c59817a" title="AP_HAL::GPIO::toggle" alt="" coords="208,56,365,83"/>
+</map>

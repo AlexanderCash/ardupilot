@@ -1,0 +1,12 @@
+<map id="AP_HAL::Scheduler::stop_clock" name="AP_HAL::Scheduler::stop_clock">
+<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#af9bfcaa8ed54183483f647e508c85ab8" title="HALSITL::SITL_State\l::_fdm_input" alt="" coords="201,5,351,46"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="405,61,555,102"/>
+<area shape="rect" id="node8" href="$classHALSITL_1_1SITL__State.html#a431cc90b2798830af85bcd65d0dade9f" title="HALSITL::SITL_State\l::_sitl_setup" alt="" coords="201,123,351,165"/>
+<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="609,31,759,73"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="809,31,959,73"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="1008,31,1179,73"/>
+<area shape="rect" id="node6" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1227,31,1397,73"/>
+<area shape="rect" id="node9" href="$classHALSITL_1_1SITL__State.html#a5211ba971055052489d9817c3388c4c2" title="HALSITL::SITL_State\l::_parse_command_line" alt="" coords="400,126,560,167"/>
+<area shape="rect" id="node10" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="609,126,759,167"/>
+<area shape="rect" id="node11" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="830,133,938,160"/>
+</map>

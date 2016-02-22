@@ -1,0 +1,6 @@
+<map id="determine_is_flying" name="determine_is_flying">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a9cbf8cb68e28b401c10a9f2065495b46" title="AP_AHRS_DCM::airspeed\l_estimate" alt="" coords="190,5,370,46"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="AP_GPS::status" alt="" coords="221,71,339,97"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="198,121,362,148"/>
+<area shape="rect" id="node5" href="$ArduPlane_8pde.html#a911cf724de5ec5104eb7e22550674d05" title="is_flying" alt="" coords="245,172,315,199"/>
+</map>

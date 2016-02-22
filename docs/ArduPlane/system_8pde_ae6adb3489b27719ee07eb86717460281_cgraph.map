@@ -1,0 +1,8 @@
+<map id="change_arm_state" name="change_arm_state">
+<area shape="rect" id="node2" href="$Log_8pde.html#ae95ab449c78dc5c27249df81a8116446" title="Log_Arm_Disarm" alt="" coords="184,64,307,91"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title="AP_Arming::is_armed" alt="" coords="377,5,527,32"/>
+<area shape="rect" id="node6" href="$system_8pde.html#aca07afa008c681903526cfdc27045584" title="should_log" alt="" coords="203,144,287,171"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#ace8d6adce582b106309f065977d6ae5f" title="AP_Arming::get_enabled\l_checks" alt="" coords="369,57,535,98"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="355,123,549,149"/>
+<area shape="rect" id="node7" href="$Log_8pde.html#a05e0c1cc917db97ee71cc05c205c2095" title="start_logging" alt="" coords="404,173,500,200"/>
+</map>

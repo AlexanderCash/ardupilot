@@ -1,0 +1,6 @@
+<map id="mavlink_msg_manual_setpoint_pack_chan" name="mavlink_msg_manual_setpoint_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__manual__setpoint_8h.html#a7b2765587b1f7f584c2c02776f7fe30b" title="Encode a manual_setpoint struct on a channel. " alt="" coords="203,5,362,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a5981897808c483294cde1b4e41fb5eb9" title="mavlink_test_manual\l_setpoint" alt="" coords="210,70,355,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="411,77,565,104"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="614,77,730,104"/>
+</map>

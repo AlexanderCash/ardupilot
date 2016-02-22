@@ -1,0 +1,8 @@
+<map id="AP_InertialNav::get_velocity_z" name="AP_InertialNav::get_velocity_z">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a20ac6348cbb9a1ac803c626c91ec93e5" title="get_stopping_point_z &#45; calculates stopping point based on current position, velocity, vehicle acceleration " alt="" coords="195,77,333,118"/>
+<area shape="rect" id="node7" href="$classAC__PosControl.html#a73ba96e0c072bf80ac6c7be005ca312e" title="relax_alt_hold_controllers &#45; set all desired and targets to measured " alt="" coords="189,142,339,183"/>
+<area shape="rect" id="node3" href="$classAC__WPNav.html#a2b69b65d22efd7793a6f081678f9b8a1" title="AC_WPNav::set_spline\l_destination" alt="" coords="414,5,575,46"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#a51caffd56dd27f42595df30f63cd1eaa" title="set_target_to_stopping_point_z &#45; sets altitude target to reasonable stopping altitude in cm above hom..." alt="" coords="425,69,564,125"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#aac204111a3f01e04d5b8165f03db223e" title="set_wp_destination waypoint using position vector (distance from home in cm) " alt="" coords="387,149,602,176"/>
+<area shape="rect" id="node5" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title="AC_Circle::init" alt="" coords="651,84,757,111"/>
+</map>

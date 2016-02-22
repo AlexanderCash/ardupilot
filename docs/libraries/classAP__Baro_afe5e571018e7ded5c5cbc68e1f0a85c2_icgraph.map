@@ -1,0 +1,5 @@
+<map id="AP_Baro::get_calibration_temperature" name="AP_Baro::get_calibration_temperature">
+<area shape="rect" id="node2" href="$classAP__Baro.html#a0115c37618652051c1f6efd072fcc74b" title="AP_Baro::get_EAS2TAS" alt="" coords="231,12,398,39"/>
+<area shape="rect" id="node4" href="$classAP__Baro.html#a67fd690b15ef9f0f23b3304831ca913a" title="AP_Baro::update_calibration" alt="" coords="221,63,408,89"/>
+<area shape="rect" id="node3" href="$classAP__Baro.html#ab313ca72951292ae6d6f6a06ec21d123" title="AP_Baro::get_air_density\l_ratio" alt="" coords="456,5,627,46"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="calc_nav_yaw_ground" name="calc_nav_yaw_ground">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="222,5,386,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SteerController.html#aaf42965b867c847976199bb550f7a529" title="AP_SteerController\l::get_steering_out_rate" alt="" coords="227,57,381,98"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SteerController.html#a58fa2b841c4507318c4560ff237b4db9" title="AP_SteerController\l::get_steering_out_angle_error" alt="" coords="205,122,403,163"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="249,188,359,215"/>
+</map>

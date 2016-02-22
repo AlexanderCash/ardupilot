@@ -1,0 +1,21 @@
+<map id="AP_InertialSensor::calibrate_trim" name="AP_InertialSensor::calibrate_trim">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a7e9afc57ac1aa35adca7d8bf870fbb4c" title="AP_InertialSensor::\lget_sample_rate" alt="" coords="195,99,330,141"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#aa4faf114689e827390b5da7bc6fd5f20" title="AP_InertialSensor::\lwait_for_sample" alt="" coords="410,158,545,199"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor.html#a2ab4e9e49af5ae38f38d3818fde2b675" title="AP_InertialSensor::\lupdate" alt="" coords="195,217,330,258"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="189,282,336,323"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor.html#a0e468eca65e425f017c8467039900573" title="AP_InertialSensor::\lget_accel" alt="" coords="195,371,330,413"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor.html#ad62d78eafa668b24e1969ee38a4aa882" title="AP_InertialSensor::\lget_accel_health" alt="" coords="195,461,330,502"/>
+<area shape="rect" id="node15" href="$classAP__InertialSensor.html#ad85a0f7284984ab4bc7b6309ec61003f" title="AP_InertialSensor::\l_calculate_trim" alt="" coords="195,526,330,567"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="639,5,785,46"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#aa0beaea3a0ce331569f7617c10a06f53" title="AP_HAL::Scheduler::\ldelay_microseconds_boost" alt="" coords="622,70,802,111"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="853,99,1000,141"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Backend.html#a1e40c452864d32dba89bb000c4381e52" title="AP_InertialSensor_Backend\l::gyro_sample_available" alt="" coords="619,187,805,229"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Backend.html#a0136c556865dd4a0f123ce8444f042de" title="AP_InertialSensor_Backend\l::accel_sample_available" alt="" coords="619,253,805,294"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="635,318,789,359"/>
+<area shape="rect" id="node11" href="$classAP__InertialSensor__Backend.html#a7016ddeb343d823f9fe518fd414ba848" title="AP_InertialSensor_Backend\l::update" alt="" coords="385,223,570,265"/>
+<area shape="rect" id="node16" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="427,453,527,480"/>
+<area shape="rect" id="node18" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="445,504,509,531"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1UARTDriver.html#a29b84f87f40b331b6922da5d8b57d9f0" title="AP_HAL::UARTDriver\l::println_P" alt="" coords="401,555,554,597"/>
+<area shape="rect" id="node20" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="443,621,511,648"/>
+<area shape="rect" id="node17" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="693,453,731,480"/>
+</map>

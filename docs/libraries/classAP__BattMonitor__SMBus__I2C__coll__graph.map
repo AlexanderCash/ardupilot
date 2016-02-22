@@ -1,0 +1,7 @@
+<map id="AP_BattMonitor_SMBus_I2C" name="AP_BattMonitor_SMBus_I2C">
+<area shape="rect" id="node2" href="$classAP__BattMonitor__SMBus.html" title="AP_BattMonitor_SMBus" alt="" coords="19,203,183,229"/>
+<area shape="rect" id="node3" href="$classAP__BattMonitor__Backend.html" title="AP_BattMonitor_Backend" alt="" coords="57,112,228,139"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html" title="AP_BattMonitor" alt="" coords="213,203,328,229"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="335,112,485,139"/>
+<area shape="rect" id="node6" href="$structAP__BattMonitor_1_1BattMonitor__State.html" title="AP_BattMonitor::BattMonitor\l_State" alt="" coords="133,6,323,47"/>
+</map>

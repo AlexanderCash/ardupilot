@@ -1,0 +1,16 @@
+digraph "OreoLED_PX4::update"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="OreoLED_PX4::update",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="OreoLED_PX4::set_macro",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classOreoLED__PX4.html#ad6e87dbe026c0b2861938c9a8d4b6571"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_HAL::GPIO::usb_connected",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL_1_1GPIO.html#ab0ea67003249493b7efc0528410b9be6"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="OreoLED_PX4::set_rgb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classOreoLED__PX4.html#ac79742b697403772ab712adeff362b23"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="OreoLED_PX4::send_bytes",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classOreoLED__PX4.html#ab6a4705d012289abbebb81baf1b4bee1"];
+}

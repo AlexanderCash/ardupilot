@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gimbal_set_home_offsets_decode" name="mavlink_msg_gimbal_set_home_offsets_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__set__home__offsets_8h.html#aa74d706357230fdc92c11b4ec44eebbb" title="Send a gimbal_set_home_offsets message. " alt="" coords="238,5,397,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gimbal__set__home__offsets_8h.html#a6aed09d9513602dba2b8bcb7f9b3a59e" title="Get field target_component from gimbal_set_home_offsets message. " alt="" coords="238,85,397,141"/>
+</map>

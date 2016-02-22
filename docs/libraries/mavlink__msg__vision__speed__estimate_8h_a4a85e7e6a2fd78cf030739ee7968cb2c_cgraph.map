@@ -1,0 +1,4 @@
+<map id="mavlink_msg_vision_speed_estimate_encode" name="mavlink_msg_vision_speed_estimate_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__vision__speed__estimate_8h.html#a8b34c58cf9b0752a25dcbf509544484c" title="Pack a vision_speed_estimate message. " alt="" coords="225,5,381,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="430,12,605,39"/>
+</map>

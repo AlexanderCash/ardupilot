@@ -1,0 +1,4 @@
+<map id="mavlink_msg_set_altitude_decode" name="mavlink_msg_set_altitude_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__set__altitude_8h.html#a9891e6549a7089f80c700a3c4b6fada9" title="Send a set_altitude message. " alt="" coords="227,5,400,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__set__altitude_8h.html#a8592f65f3812db066438b5b87a4da5b1" title="Get field mode from set_altitude message. " alt="" coords="227,70,400,111"/>
+</map>

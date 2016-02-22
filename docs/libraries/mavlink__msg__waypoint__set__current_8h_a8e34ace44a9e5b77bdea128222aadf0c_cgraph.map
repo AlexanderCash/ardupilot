@@ -1,0 +1,5 @@
+<map id="mavlink_msg_waypoint_set_current_decode" name="mavlink_msg_waypoint_set_current_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__waypoint__set__current_8h.html#a217be2f1832881c57af1895d62fbea84" title="Send a waypoint_set_current message. " alt="" coords="214,5,373,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__waypoint__set__current_8h.html#aafc223c6578e6b2c7f91262c5c28d754" title="Get field target_component from waypoint_set_current message. " alt="" coords="214,85,373,141"/>
+<area shape="rect" id="node4" href="$mavlink__msg__waypoint__set__current_8h.html#aef006f9deabfcbb6268eef19614a84d6" title="Get field seq from waypoint_set_current message. " alt="" coords="214,165,373,206"/>
+</map>

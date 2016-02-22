@@ -1,0 +1,11 @@
+<map id="fly_inverted" name="fly_inverted">
+<area shape="rect" id="node2" href="$Attitude_8pde.html#ad8d9a9f5ca0fb0997a79100a6b889996" title="stabilize_roll" alt="" coords="163,24,258,51"/>
+<area shape="rect" id="node5" href="$Attitude_8pde.html#ae92319b4ca282687af5dceb51f0b275d" title="stabilize_stick_mixing_fbw" alt="" coords="325,75,504,102"/>
+<area shape="rect" id="node6" href="$ArduPlane_8pde.html#a1353a77e19a7028fda60ee8706f0879d" title="update_flight_mode" alt="" coords="897,202,1031,228"/>
+<area shape="rect" id="node7" href="$Attitude_8pde.html#aab3e2dfad45667f6846d8224f27a33ad" title="update_load_factor" alt="" coords="145,176,277,203"/>
+<area shape="rect" id="node3" href="$Attitude_8pde.html#a5915bf02c3bd19b57c717c8234369fdd" title="stabilize" alt="" coords="575,24,646,51"/>
+<area shape="rect" id="node4" href="$Attitude_8pde.html#aede80974c348fcf7fd493d948cd080df" title="stabilize_training" alt="" coords="355,24,474,51"/>
+<area shape="rect" id="node8" href="$Attitude_8pde.html#a1656865f030526901196f0d9f5f11f94" title="calc_nav_roll" alt="" coords="365,252,464,279"/>
+<area shape="rect" id="node9" href="$ArduPlane_8pde.html#ab3877ebcfdd6fb99ff7500ad24f2ebd1" title="handle_auto_mode" alt="" coords="717,278,848,304"/>
+<area shape="rect" id="node10" href="$takeoff_8pde.html#a7cb17de63e596049a607d769db6b033d" title="takeoff_calc_roll" alt="" coords="552,328,669,355"/>
+</map>

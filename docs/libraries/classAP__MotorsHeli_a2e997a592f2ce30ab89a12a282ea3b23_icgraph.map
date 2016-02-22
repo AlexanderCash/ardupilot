@@ -1,0 +1,11 @@
+<map id="AP_MotorsHeli::write_aux" name="AP_MotorsHeli::write_aux">
+<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#a50457b8a60a8486755d6673c6631d2d8" title="AP_MotorsHeli::move\l_swash" alt="" coords="246,15,397,57"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli.html#a9ff3335ed128d02af4c8120cd55caa4b" title="AP_MotorsHeli::output_test" alt="" coords="230,81,413,108"/>
+<area shape="rect" id="node9" href="$classAP__MotorsHeli.html#a550e49233caad251454b835e0d083187" title="AP_MotorsHeli::rsc\l_control" alt="" coords="485,125,621,166"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli.html#a9c2207f78e61cb24cd34150cada0970f" title="AP_MotorsHeli::tail_ramp" alt="" coords="236,183,407,209"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#a85918ee9be140eee1738ca2898fc6513" title="AP_MotorsHeli::output\l_armed_stabilizing" alt="" coords="693,70,848,111"/>
+<area shape="rect" id="node7" href="$classAP__MotorsHeli.html#a42fa16716c5bd1f3e06f89c3f0579672" title="AP_MotorsHeli::output_min" alt="" coords="462,73,645,100"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli.html#af02bef1b954fa23247b9940113c9a59a" title="AP_MotorsHeli::output\l_armed_not_stabilizing" alt="" coords="896,5,1051,46"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title="AP_MotorsHeli::output\l_armed_zero_throttle" alt="" coords="896,70,1051,111"/>
+<area shape="rect" id="node6" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title="AP_MotorsHeli::output\l_disarmed" alt="" coords="896,135,1051,177"/>
+</map>

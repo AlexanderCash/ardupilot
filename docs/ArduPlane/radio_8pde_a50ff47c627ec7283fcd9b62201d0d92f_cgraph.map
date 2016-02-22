@@ -1,0 +1,8 @@
+<map id="init_rc_out" name="init_rc_out">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a627c19bdbbf6eaaf6c8e4abfcf54ac14" title="RC_Channel::enable_out" alt="" coords="147,5,315,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#a4701a9f5154ee86ca4e108ff1f56ed60" title="AP_Arming::arming_required" alt="" coords="137,56,325,83"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel__aux.html#a94bef65abca366d677d6d0a2c31af9c1" title="RC_Channel_aux::enable\l_aux_servos" alt="" coords="145,107,316,149"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#ad94e21220da17785c00f809e5a46c99b" title="RC_Channel::output\l_trim_all" alt="" coords="160,173,301,214"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a9f1951bc4d01acd73009c2983d8ec6b1" title="RC_Channel::setup_failsafe\l_trim_all" alt="" coords="137,238,324,279"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#a869e1086eb9bdf12f46595e49c8f2915" title="RCMapper::throttle" alt="" coords="164,304,297,331"/>
+</map>

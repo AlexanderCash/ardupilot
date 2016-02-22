@@ -1,0 +1,14 @@
+<map id="loop" name="loop">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="257,57,404,98"/>
+<area shape="rect" id="node3" href="$AP__ADC__test_8pde.html#ab7608ee8404f6bcef359aa32473829d8" title="show_timing" alt="" coords="102,115,197,141"/>
+<area shape="rect" id="node12" href="$AP__ADC__test_8pde.html#a73638d4c6b6727029345856e93e2ff3e" title="show_data" alt="" coords="107,165,192,192"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="255,5,406,32"/>
+<area shape="rect" id="node8" href="$classAP__ADC__ADS7844.html#ae2cf439805b5baf5e2fe8c1f5c2cdb2e" title="AP_ADC_ADS7844::Ch6" alt="" coords="245,188,416,215"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="254,122,407,163"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="664,5,805,32"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="465,31,615,57"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="853,5,997,32"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#ae7d4952721abae16479fef1f0ca37145" title="AP_HAL::Scheduler::\lsuspend_timer_procs" alt="" coords="467,173,613,214"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Scheduler.html#a7c51e7d405211cac2090dbd456223ef7" title="AP_HAL::Scheduler::\lresume_timer_procs" alt="" coords="467,238,613,279"/>
+<area shape="rect" id="node13" href="$classAP__ADC__ADS7844.html#aa1046188d296d89daf7f67253f1b1d5c" title="AP_ADC_ADS7844::Ch" alt="" coords="249,239,413,265"/>
+</map>

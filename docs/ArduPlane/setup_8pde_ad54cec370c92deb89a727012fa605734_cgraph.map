@@ -1,0 +1,28 @@
+<map id="setup_radio" name="setup_radio">
+<area shape="rect" id="node2" href="$radio_8pde.html#af0936356c792084dddebc6d52de8f415" title="read_radio" alt="" coords="581,191,664,217"/>
+<area shape="rect" id="node18" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a148e078784162a8823f190be7bd9bada" title="RC_Channel::update\l_min_max" alt="" coords="144,355,288,397"/>
+<area shape="rect" id="node19" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#aae26f7c9f60cc08537fffe967510f481" title="RC_Channel::save_eeprom" alt="" coords="531,308,714,335"/>
+<area shape="rect" id="node20" href="$setup_8pde.html#a9556d3446ac88bddd49be4e60786b9f3" title="print_done" alt="" coords="175,421,257,448"/>
+<area shape="rect" id="node21" href="$radio_8pde.html#a1614289ebd5b21af2a777a601dc8174c" title="trim_radio" alt="" coords="177,253,255,280"/>
+<area shape="rect" id="node24" href="$setup_8pde.html#a83b9b58203609bfef9631a9a6f8a8550" title="report_radio" alt="" coords="171,472,261,499"/>
+<area shape="rect" id="node3" href="$radio_8pde.html#aa3f305d709f0ad2dd7f06e2f2ea42d63" title="control_failsafe" alt="" coords="802,31,913,57"/>
+<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a80d6122b2ac8dd749ca54859ebde023d" title="RC_Channel::read" alt="" coords="792,81,923,108"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a097e513f2636b2eded75d63a281ace63" title="RC_Channel::set_pwm_all" alt="" coords="768,132,947,159"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a6335f1eb053134fc11184f9c4d0a1f09" title="RC_Channel::set_pwm\l_no_deadzone" alt="" coords="778,183,937,225"/>
+<area shape="rect" id="node11" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a1e19754a0ea244150053da90f6f03c52" title="RC_Channel::set_pwm" alt="" coords="778,249,937,276"/>
+<area shape="rect" id="node12" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a8691156c332da099e3f5952e72ae2a58" title="AP_AHRS::airspeed_sensor\l_enabled" alt="" coords="763,301,951,342"/>
+<area shape="rect" id="node13" href="$radio_8pde.html#aaa4da1fb7d396d603fa9b268938fc136" title="rudder_arm_check" alt="" coords="793,367,922,393"/>
+<area shape="rect" id="node4" href="$radio_8pde.html#ab2ecdfa6c35c9ccb656acc5a4db48044" title="rc_failsafe_active" alt="" coords="1027,5,1151,32"/>
+<area shape="rect" id="node6" href="$ArduPlane_8pde.html#a7df79fd15233ca04f776c27b69d2e184" title="gcs_send_text_fmt" alt="" coords="1023,56,1156,83"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="1247,5,1420,32"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a4902306dab46ff02b2296f99eb1f1c9c" title="GCS_MAVLINK::send_message" alt="" coords="1227,56,1440,83"/>
+<area shape="rect" id="node14" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title="AP_Arming::is_armed" alt="" coords="1015,279,1164,305"/>
+<area shape="rect" id="node15" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#adc1f265c14d4faf6981643ccd1ef88b8" title="AP_Arming::rudder_arming\l_enabled" alt="" coords="1000,330,1179,371"/>
+<area shape="rect" id="node16" href="$compat_8pde.html#a5229e8911d1f7eed10eb978ff088e551" title="millis" alt="" coords="1063,396,1115,423"/>
+<area shape="rect" id="node17" href="$ArduPlane_8pde.html#a907e60860c7242b1b074557071267ca7" title="arm_motors" alt="" coords="1044,447,1135,473"/>
+<area shape="rect" id="node22" href="$radio_8pde.html#af32fc657c2393680366fd61de7ca21d6" title="trim_control_surfaces" alt="" coords="336,253,483,280"/>
+<area shape="rect" id="node23" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel__aux.html#ac3fa5d755ccdad0cd33ac9a38062a9e4" title="RC_Channel_aux::set\l_radio_trim" alt="" coords="547,242,698,283"/>
+<area shape="rect" id="node25" href="$setup_8pde.html#a1fb1d3a7a299b220df395431b4241406" title="print_divider" alt="" coords="363,421,455,448"/>
+<area shape="rect" id="node26" href="$setup_8pde.html#a53067bc7a0921d9570fc1c68ce074877" title="print_radio_values" alt="" coords="346,472,473,499"/>
+<area shape="rect" id="node27" href="$setup_8pde.html#a6e743a637a45663d659643a181a7290c" title="print_blanks" alt="" coords="363,523,455,549"/>
+</map>

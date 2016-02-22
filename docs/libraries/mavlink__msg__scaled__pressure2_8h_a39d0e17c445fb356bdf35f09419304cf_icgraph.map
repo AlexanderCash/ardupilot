@@ -1,0 +1,6 @@
+<map id="mavlink_msg_scaled_pressure2_pack_chan" name="mavlink_msg_scaled_pressure2_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__scaled__pressure2_8h.html#a0aba6b147853120cdee1a4b61fd7ef9d" title="Encode a scaled_pressure2 struct on a channel. " alt="" coords="211,5,381,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a95f9323f5e09c52e8e4f5c0cb72c6fe1" title="mavlink_test_scaled\l_pressure2" alt="" coords="225,70,367,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="430,77,583,104"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="633,77,749,104"/>
+</map>

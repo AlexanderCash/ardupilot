@@ -1,0 +1,6 @@
+<map id="Linux::LinuxScheduler::suspend_timer_procs" name="Linux::LinuxScheduler::suspend_timer_procs">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxSemaphore.html#aeb67a6316045bb520884a0e1518faf60" title="Linux::LinuxSemaphore\l::take" alt="" coords="209,70,367,111"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxSemaphore.html#a95fab6c6751022e98592f3d2f1a031e2" title="Linux::LinuxSemaphore\l::take_nonblocking" alt="" coords="417,5,575,46"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#acfe178fdca7f8d9b22a939b3aac1a84f" title="AP_HAL::Scheduler::\lmicros64" alt="" coords="423,70,569,111"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="423,135,569,177"/>
+</map>

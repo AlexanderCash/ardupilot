@@ -1,0 +1,7 @@
+<map id="mavlink_msg_log_data_decode" name="mavlink_msg_log_data_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__log__data_8h.html#ae2533ba0da03228c2cf55ae104b29a31" title="Get field ofs from log_data message. " alt="" coords="208,5,363,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__log__data_8h.html#a872b48a44a19b29722b46f3e27cf973a" title="Send a log_data message. " alt="" coords="208,70,363,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__log__data_8h.html#a986db6197ce9b73828a747fb3c0804aa" title="Get field count from log_data message. " alt="" coords="208,135,363,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__log__data_8h.html#a96b29754a967b9bff7f8479e373e384b" title="Get field data from log_data message. " alt="" coords="208,201,363,242"/>
+<area shape="rect" id="node6" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="411,201,579,242"/>
+</map>

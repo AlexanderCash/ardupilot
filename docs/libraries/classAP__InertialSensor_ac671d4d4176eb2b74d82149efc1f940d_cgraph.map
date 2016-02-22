@@ -1,0 +1,5 @@
+<map id="AP_InertialSensor::accel_calibrated_ok_all" name="AP_InertialSensor::accel_calibrated_ok_all">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#ac57331a5046d45016ef900726e1be2fb" title="AP_InertialSensor::\lget_accel_count" alt="" coords="211,5,346,46"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#acedd05d9f5ab6f2878991cc684e17c18" title="is_equal" alt="" coords="243,71,314,97"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="247,121,311,148"/>
+</map>

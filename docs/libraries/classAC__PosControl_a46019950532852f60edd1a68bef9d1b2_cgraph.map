@@ -1,0 +1,14 @@
+<map id="AC_PosControl::accel_to_lean_angles" name="AC_PosControl::accel_to_lean_angles">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#a85dc24e26f3d1b7b2394a8c3380c7bde" title="AC_AttitudeControl\l::lean_angle_max" alt="" coords="215,5,350,46"/>
+<area shape="rect" id="node3" href="$classLowPassFilterVector2f.html#a5dd23c93efc92d418089d2c5b5ddc5e6" title="LowPassFilterVector2f\l::reset" alt="" coords="205,70,360,111"/>
+<area shape="rect" id="node5" href="$structVector2.html#ad8ebafde96f43521d3647e2552387529" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="227,136,338,163"/>
+<area shape="rect" id="node8" href="$classLowPassFilter.html#a5c3c8a444566f57ef2bb95775fe7be5e" title="LowPassFilter::set\l_cutoff_frequency" alt="" coords="217,187,348,229"/>
+<area shape="rect" id="node9" href="$classLowPassFilterVector2f.html#a1c0d92749dd36e4f70bd735914db0813" title="LowPassFilterVector2f\l::apply" alt="" coords="205,253,360,294"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="579,291,685,317"/>
+<area shape="rect" id="node12" href="$classAP__AHRS.html#a1aaffcffc239930cb651fad539362fa0" title="AP_AHRS::cos_yaw" alt="" coords="210,369,355,396"/>
+<area shape="rect" id="node13" href="$classAP__AHRS.html#ae559b9d6fdd1e8ed3001258f58c98c39" title="AP_AHRS::sin_yaw" alt="" coords="212,420,353,447"/>
+<area shape="rect" id="node4" href="$classDigitalLPF.html#a3b7217283a52a01a86e7ab0c68a3ca96" title="DigitalLPF::reset" alt="" coords="409,77,529,104"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="419,136,519,163"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="613,136,651,163"/>
+<area shape="rect" id="node10" href="$classDigitalLPF.html#aec513ab9bc5165163c6ec87692f804e8" title="DigitalLPF::apply" alt="" coords="408,264,531,291"/>
+</map>

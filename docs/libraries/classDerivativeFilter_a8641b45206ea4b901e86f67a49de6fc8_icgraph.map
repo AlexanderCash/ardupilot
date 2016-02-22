@@ -1,0 +1,6 @@
+<map id="DerivativeFilter::slope" name="DerivativeFilter::slope">
+<area shape="rect" id="node2" href="$classAP__Baro.html#afd63ca7ecadb313c2217bd9f7e6a7b42" title="AP_Baro::get_climb_rate" alt="" coords="203,41,370,68"/>
+<area shape="rect" id="node5" href="$Derivative_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="263,92,310,119"/>
+<area shape="rect" id="node3" href="$classDataFlash__Class.html#a2f676bab8be41d66e21fd820454d73c1" title="DataFlash_Class::Log\l_Write_Baro" alt="" coords="419,5,571,46"/>
+<area shape="rect" id="node4" href="$BARO__generic_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="471,71,518,97"/>
+</map>

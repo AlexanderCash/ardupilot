@@ -1,0 +1,11 @@
+<map id="mavlink_msg_global_position_int_decode" name="mavlink_msg_global_position_int_decode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#af810b5299251871bd3a978c174c3cb03" title="Send a global_position_int message. " alt="" coords="217,5,369,61"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a678306cd8783393c319eb36e3b6aac9d" title="Get field lat from global_position_int message. " alt="" coords="223,85,364,126"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a24c0bdcadc7650de300716305ef45605" title="Get field lon from global_position_int message. " alt="" coords="221,150,365,191"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a78a1ab97bee3c70ae8151d1bc15827f5" title="Get field alt from global_position_int message. " alt="" coords="223,215,364,257"/>
+<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a1fe63f3e036a311b8223296f6891b3be" title="Get field relative_alt from global_position_int message. " alt="" coords="198,281,389,322"/>
+<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a745812359380e03966844fda90c63e2b" title="Get field vx from global_position_int message. " alt="" coords="223,346,364,387"/>
+<area shape="rect" id="node8" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a76aec5e0d87a984d1cd999b626a21e6f" title="Get field vy from global_position_int message. " alt="" coords="223,411,364,453"/>
+<area shape="rect" id="node9" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a568d0824d6a6b51eb43d2bef78c6509c" title="Get field vz from global_position_int message. " alt="" coords="223,477,364,518"/>
+<area shape="rect" id="node10" href="$v1_80_2common_2mavlink__msg__global__position__int_8h.html#a44bd2ea79b69f2243c4badeee60865ba" title="Get field hdg from global_position_int message. " alt="" coords="219,542,367,583"/>
+</map>

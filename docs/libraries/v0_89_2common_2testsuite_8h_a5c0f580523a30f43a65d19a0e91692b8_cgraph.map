@@ -1,0 +1,17 @@
+<map id="mavlink_test_named_value_float" name="mavlink_test_named_value_float">
+<area shape="rect" id="node2" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="921,100,1061,127"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#a1d366e6bfb2a4b097342b21143103635" title="Encode a named_value_float struct into a message. " alt="" coords="198,138,381,179"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#ab81a303ba49367e8f8ad4f6350626fa1" title="Pack a named_value_float message. " alt="" coords="430,93,613,134"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#a0f7bc63a9679566aff8dac756dbd6372" title="Decode a named_value_float message into a struct. " alt="" coords="198,255,381,297"/>
+<area shape="rect" id="node11" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#a3a132e72de7bfa848ff3774b123bfe35" title="Pack a named_value_float message on a channel. " alt="" coords="430,194,613,235"/>
+<area shape="rect" id="node13" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="213,321,365,362"/>
+<area shape="rect" id="node14" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="210,386,369,427"/>
+<area shape="rect" id="node15" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="232,452,347,479"/>
+<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#a1e87b7f293e127478ca611644a7810b6" title="_mav_put_char_array" alt="" coords="693,151,840,177"/>
+<area shape="rect" id="node6" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="679,100,854,127"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#abfe1e22a055cacc05c6c17076a55b847" title="Send a named_value_float message. " alt="" coords="430,259,613,301"/>
+<area shape="rect" id="node10" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#a9f0e14d12796766d4cf5a6675824ab22" title="Get field value from named_value_float message. " alt="" coords="430,325,613,366"/>
+<area shape="rect" id="node9" href="$v0_89_2protocol_8h.html#a12ebb16564718cc14d12b46458bbb290" title="_MAV_RETURN_char_array" alt="" coords="671,303,862,329"/>
+<area shape="rect" id="node12" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="661,252,872,279"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="449,452,593,479"/>
+</map>

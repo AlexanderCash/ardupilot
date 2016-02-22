@@ -1,0 +1,8 @@
+<map id="SmallEKF::getDebug" name="SmallEKF::getDebug">
+<area shape="rect" id="node2" href="$classQuaternion.html#ab3049efa36b211699ca03ea53970f0fd" title="Quaternion::to_euler" alt="" coords="200,64,339,91"/>
+<area shape="rect" id="node7" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="219,115,319,141"/>
+<area shape="rect" id="node3" href="$classQuaternion.html#a9ae6c42349ddc744022a4a1cf7868eb0" title="Quaternion::get_euler_roll" alt="" coords="391,5,561,32"/>
+<area shape="rect" id="node4" href="$classQuaternion.html#a0bfe50c332309932cd833b83f6524e5f" title="Quaternion::get_euler\l_pitch" alt="" coords="403,57,549,98"/>
+<area shape="rect" id="node6" href="$classQuaternion.html#a35c2a1030832728574363ed8655da625" title="Quaternion::get_euler_yaw" alt="" coords="387,123,565,149"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a2706fd969ad73bc8ef977d964c04f4a3" title="safe_asin" alt="" coords="614,64,693,91"/>
+</map>

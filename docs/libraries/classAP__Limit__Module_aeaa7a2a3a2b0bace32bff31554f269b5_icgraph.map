@@ -1,0 +1,10 @@
+<map id="AP_Limit_Module::next" name="AP_Limit_Module::next">
+<area shape="rect" id="node2" href="$classAP__Limits.html#a6ea553ffc7e3c7b38b0272a4cbbb011f" title="AP_Limits::check_triggered" alt="" coords="211,31,394,57"/>
+<area shape="rect" id="node5" href="$classAP__Limits.html#a600c5bd09ab2c716b6f91cb614796c68" title="AP_Limits::modules\l_count" alt="" coords="233,82,372,123"/>
+<area shape="rect" id="node6" href="$classAP__Limits.html#a7ccb226882b9a7d6bc15748018ee38a1" title="AP_Limits::modules_last" alt="" coords="219,148,386,175"/>
+<area shape="rect" id="node8" href="$classAP__Limits.html#abb928fafc33c9e23b06933f697c4dc63" title="AP_Limits::modules_next" alt="" coords="217,199,388,225"/>
+<area shape="rect" id="node3" href="$classAP__Limits.html#a5816145fee40aa0a0704a3283c987aca" title="AP_Limits::check_all" alt="" coords="459,5,605,32"/>
+<area shape="rect" id="node4" href="$classAP__Limits.html#a7a2a453576c01c9f70ca8fa9ce567ed1" title="AP_Limits::check_required" alt="" coords="443,56,621,83"/>
+<area shape="rect" id="node7" href="$classAP__Limits.html#aefb390ee91f5a9e53c5cd8b64f9e502a" title="AP_Limits::modules_add" alt="" coords="449,148,615,175"/>
+<area shape="rect" id="node9" href="$classAP__Limits.html#a9801e9c96adb490addd6dd4dcf6d32df" title="AP_Limits::init" alt="" coords="479,199,585,225"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="mavlink_msg_set_attitude_target_encode" name="mavlink_msg_set_attitude_target_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__set__attitude__target_8h.html#a20803f4deca404582f41b2ade94b9d54" title="Pack a set_attitude_target message. " alt="" coords="230,23,405,65"/>
+<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="471,5,611,32"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="454,56,629,83"/>
+</map>

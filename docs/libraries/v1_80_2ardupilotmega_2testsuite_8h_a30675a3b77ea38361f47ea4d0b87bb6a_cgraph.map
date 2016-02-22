@@ -1,0 +1,14 @@
+<map id="mavlink_test_battery2" name="mavlink_test_battery2">
+<area shape="rect" id="node2" href="$mavlink__msg__battery2_8h.html#a1d830821660a72fa08310c48691889e5" title="Encode a battery2 struct. " alt="" coords="209,5,362,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__battery2_8h.html#ad1e4706d64d4d9733ef923847e50cc95" title="Pack a battery2 message. " alt="" coords="425,12,613,39"/>
+<area shape="rect" id="node5" href="$mavlink__msg__battery2_8h.html#aa9762062234f17fa45aa91e881410d44" title="Decode a battery2 message into a struct. " alt="" coords="209,122,362,163"/>
+<area shape="rect" id="node8" href="$mavlink__msg__battery2_8h.html#a1178f70568b8c35ea7fe74891864c38c" title="Pack a battery2 message on a channel. " alt="" coords="209,187,362,229"/>
+<area shape="rect" id="node10" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="209,253,361,294"/>
+<area shape="rect" id="node11" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="206,318,365,359"/>
+<area shape="rect" id="node12" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="228,384,343,411"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="673,12,847,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__battery2_8h.html#abb37336feaa0d57be8491133108fbabc" title="Send a battery2 message. " alt="" coords="442,63,595,105"/>
+<area shape="rect" id="node7" href="$mavlink__msg__battery2_8h.html#a00bc2ac4e876121633b9145b8a0599a0" title="Get field current_battery from battery2 message. " alt="" coords="442,129,595,170"/>
+<area shape="rect" id="node9" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="413,195,624,221"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="447,384,591,411"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="DataFlash_APM1::ReadStatus" name="DataFlash_APM1::ReadStatus">
+<area shape="rect" id="node2" href="$classDataFlash__APM1.html#a18af1406d39d156a4229e628d1537f2e" title="DataFlash_APM1::BlockErase" alt="" coords="263,5,463,32"/>
+<area shape="rect" id="node3" href="$classDataFlash__APM1.html#aed2e377ddb0444e1a86b87dbd6f5337c" title="DataFlash_APM1::BufferToPage" alt="" coords="256,56,469,83"/>
+<area shape="rect" id="node4" href="$classDataFlash__APM1.html#a3310a0c8c7634db911d6c08d69d909ce" title="DataFlash_APM1::ChipErase" alt="" coords="265,107,460,133"/>
+<area shape="rect" id="node5" href="$classDataFlash__APM1.html#a2419cd77e0492d1b156ed26523d282f5" title="DataFlash_APM1::PageErase" alt="" coords="264,157,461,184"/>
+<area shape="rect" id="node6" href="$classDataFlash__APM1.html#ab7163ee791a71e1286ea4ffcaf9a6000" title="DataFlash_APM1::PageToBuffer" alt="" coords="256,208,469,235"/>
+<area shape="rect" id="node7" href="$classDataFlash__APM1.html#a8fcd13f5ec697d1fcd63ae61e0b6925d" title="DataFlash_APM1::WaitReady" alt="" coords="263,259,462,285"/>
+</map>

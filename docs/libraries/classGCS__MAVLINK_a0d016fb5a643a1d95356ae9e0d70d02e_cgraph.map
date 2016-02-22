@@ -1,0 +1,6 @@
+<map id="GCS_MAVLINK::handle_log_request_erase" name="GCS_MAVLINK::handle_log_request_erase">
+<area shape="rect" id="node2" href="$mavlink__msg__log__erase_8h.html#a1c511819bca66a24e5b66df15d265649" title="Decode a log_erase message into a struct. " alt="" coords="225,38,388,79"/>
+<area shape="rect" id="node5" href="$classDataFlash__Class.html#a8e4f6c9fc9e78712f446b94ffaa9cc69" title="DataFlash_Class::EraseAll" alt="" coords="217,104,397,131"/>
+<area shape="rect" id="node3" href="$mavlink__msg__log__erase_8h.html#a9ceb78d6683be034e40df6778bf5548f" title="Send a log_erase message. " alt="" coords="445,5,608,46"/>
+<area shape="rect" id="node4" href="$mavlink__msg__log__erase_8h.html#ad4e2e408568343966f459f19191e488a" title="Get field target_component from log_erase message. " alt="" coords="445,70,608,111"/>
+</map>

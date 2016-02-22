@@ -1,0 +1,12 @@
+<map id="libraries/AP_HAL_AVR/GPIO.h" name="libraries/AP_HAL_AVR/GPIO.h">
+<area shape="rect" id="node2" href="$AVR_2SPIDriver_8h.html" title="libraries/AP_HAL_AVR\l/SPIDriver.h" alt="" coords="345,97,503,138"/>
+<area shape="rect" id="node3" href="$AP__HAL__AVR__private_8h.html" title="libraries/AP_HAL_AVR\l/AP_HAL_AVR_private.h" alt="" coords="127,187,296,229"/>
+<area shape="rect" id="node6" href="$SPIDeviceManager__APM1_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDeviceManager_APM1.cpp" alt="" coords="551,187,757,229"/>
+<area shape="rect" id="node8" href="$AP__HAL__AVR_2GPIO_8cpp.html" title="libraries/AP_HAL_AVR\l/GPIO.cpp" alt="" coords="577,97,735,138"/>
+<area shape="rect" id="node9" href="$SPIDevice__SPI0_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI0.cpp" alt="" coords="759,97,916,138"/>
+<area shape="rect" id="node10" href="$SPIDevice__SPI2_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI2.cpp" alt="" coords="940,97,1097,138"/>
+<area shape="rect" id="node11" href="$SPIDevice__SPI3_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI3.cpp" alt="" coords="1121,97,1279,138"/>
+<area shape="rect" id="node7" href="$SPIDeviceManager__APM2_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDeviceManager_APM2.cpp" alt="" coords="321,187,527,229"/>
+<area shape="rect" id="node4" href="$HAL__AVR__APM1__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM1_Class.cpp" alt="" coords="5,278,200,319"/>
+<area shape="rect" id="node5" href="$HAL__AVR__APM2__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM2_Class.cpp" alt="" coords="225,278,420,319"/>
+</map>

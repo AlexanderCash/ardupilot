@@ -1,0 +1,29 @@
+<map id="fastdelegate::detail::ClosurePtr::CopyFrom" name="fastdelegate::detail::ClosurePtr::CopyFrom">
+<area shape="rect" id="node2" href="$classfastdelegate_1_1FastDelegate0.html#a22ccf2034d7d2e701ad07f008e12feb3" title="fastdelegate::FastDelegate0\l::FastDelegate0" alt="" coords="216,5,403,46"/>
+<area shape="rect" id="node3" href="$classfastdelegate_1_1FastDelegate1.html#a1f504d48dfdfd2c13472222454f414fb" title="fastdelegate::FastDelegate1\l::FastDelegate1" alt="" coords="216,70,403,111"/>
+<area shape="rect" id="node4" href="$classfastdelegate_1_1FastDelegate2.html#a17d4008ed34545f3f47e273775a4cec4" title="fastdelegate::FastDelegate2\l::FastDelegate2" alt="" coords="216,135,403,177"/>
+<area shape="rect" id="node5" href="$classfastdelegate_1_1FastDelegate3.html#a32fd3fdae3048cae182c9d958820cc9d" title="fastdelegate::FastDelegate3\l::FastDelegate3" alt="" coords="216,201,403,242"/>
+<area shape="rect" id="node6" href="$classfastdelegate_1_1FastDelegate4.html#ac2e46862418fe78b03625cbd2b0c4564" title="fastdelegate::FastDelegate4\l::FastDelegate4" alt="" coords="216,266,403,307"/>
+<area shape="rect" id="node7" href="$classfastdelegate_1_1FastDelegate5.html#a0e904da2a812c94d3049d0c378818096" title="fastdelegate::FastDelegate5\l::FastDelegate5" alt="" coords="216,331,403,373"/>
+<area shape="rect" id="node8" href="$classfastdelegate_1_1FastDelegate6.html#a7b2f124f5f18335a2839c3dde1758726" title="fastdelegate::FastDelegate6\l::FastDelegate6" alt="" coords="216,397,403,438"/>
+<area shape="rect" id="node9" href="$classfastdelegate_1_1FastDelegate7.html#abac552fef0bc80a5387b65e1649a792e" title="fastdelegate::FastDelegate7\l::FastDelegate7" alt="" coords="216,462,403,503"/>
+<area shape="rect" id="node10" href="$classfastdelegate_1_1FastDelegate8.html#a7b9a6f3e337a0e00fe5d0dda26527c28" title="fastdelegate::FastDelegate8\l::FastDelegate8" alt="" coords="216,527,403,569"/>
+<area shape="rect" id="node11" href="$classfastdelegate_1_1FastDelegate0.html#ac0b5ece7882748dffb69a38a16330c43" title="fastdelegate::FastDelegate0\l::operator=" alt="" coords="216,593,403,634"/>
+<area shape="rect" id="node12" href="$classfastdelegate_1_1FastDelegate1.html#af7a9b2fe3193eaf35d3945ae4d312986" title="fastdelegate::FastDelegate1\l::operator=" alt="" coords="216,658,403,699"/>
+<area shape="rect" id="node13" href="$classfastdelegate_1_1FastDelegate2.html#ae83c24724d183d41eaa5432274e1c87a" title="fastdelegate::FastDelegate2\l::operator=" alt="" coords="216,723,403,765"/>
+<area shape="rect" id="node14" href="$classfastdelegate_1_1FastDelegate3.html#aac032abbe080ed58fe5df78b28a46569" title="fastdelegate::FastDelegate3\l::operator=" alt="" coords="216,789,403,830"/>
+<area shape="rect" id="node15" href="$classfastdelegate_1_1FastDelegate4.html#a5a22bf7fb83d307c67b496881df6ef60" title="fastdelegate::FastDelegate4\l::operator=" alt="" coords="216,854,403,895"/>
+<area shape="rect" id="node16" href="$classfastdelegate_1_1FastDelegate5.html#a24ef321855aac3b3cb9a8796dda4b0db" title="fastdelegate::FastDelegate5\l::operator=" alt="" coords="216,919,403,961"/>
+<area shape="rect" id="node17" href="$classfastdelegate_1_1FastDelegate6.html#ae90318301040d75051b4ff3679311992" title="fastdelegate::FastDelegate6\l::operator=" alt="" coords="216,985,403,1026"/>
+<area shape="rect" id="node18" href="$classfastdelegate_1_1FastDelegate7.html#a8c8b908e14da141bb43384323a3fbdd2" title="fastdelegate::FastDelegate7\l::operator=" alt="" coords="216,1050,403,1091"/>
+<area shape="rect" id="node19" href="$classfastdelegate_1_1FastDelegate8.html#add76949748e418f6199e2b26cb992207" title="fastdelegate::FastDelegate8\l::operator=" alt="" coords="216,1115,403,1157"/>
+<area shape="rect" id="node20" href="$classfastdelegate_1_1FastDelegate0.html#a27f89b9961f7785b79be17c927e8a4d7" title="fastdelegate::FastDelegate0\l::SetMemento" alt="" coords="216,1181,403,1222"/>
+<area shape="rect" id="node21" href="$classfastdelegate_1_1FastDelegate1.html#a7a6bac4a020935aa215d1aea56e90865" title="fastdelegate::FastDelegate1\l::SetMemento" alt="" coords="216,1246,403,1287"/>
+<area shape="rect" id="node22" href="$classfastdelegate_1_1FastDelegate2.html#a787d48a85c60f4a77a9e082dae512c62" title="fastdelegate::FastDelegate2\l::SetMemento" alt="" coords="216,1311,403,1353"/>
+<area shape="rect" id="node23" href="$classfastdelegate_1_1FastDelegate3.html#a020063fdd1e8e5f8ffb8c2269cac96f5" title="fastdelegate::FastDelegate3\l::SetMemento" alt="" coords="216,1377,403,1418"/>
+<area shape="rect" id="node24" href="$classfastdelegate_1_1FastDelegate4.html#a43b176347475a4199aec2d18177f7fb2" title="fastdelegate::FastDelegate4\l::SetMemento" alt="" coords="216,1442,403,1483"/>
+<area shape="rect" id="node25" href="$classfastdelegate_1_1FastDelegate5.html#a83b4830a32d09df2448e746448b3ddfb" title="fastdelegate::FastDelegate5\l::SetMemento" alt="" coords="216,1507,403,1549"/>
+<area shape="rect" id="node26" href="$classfastdelegate_1_1FastDelegate6.html#a0b499ffd85bcb32e48f19fab1d527459" title="fastdelegate::FastDelegate6\l::SetMemento" alt="" coords="216,1573,403,1614"/>
+<area shape="rect" id="node27" href="$classfastdelegate_1_1FastDelegate7.html#aa24a858f8647bad93692fc9d3a92526e" title="fastdelegate::FastDelegate7\l::SetMemento" alt="" coords="216,1638,403,1679"/>
+<area shape="rect" id="node28" href="$classfastdelegate_1_1FastDelegate8.html#a5364a539334606999e05ab8fde8dfa6a" title="fastdelegate::FastDelegate8\l::SetMemento" alt="" coords="216,1703,403,1745"/>
+</map>

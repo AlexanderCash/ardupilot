@@ -1,0 +1,7 @@
+<map id="mavlink_msg_roll_pitch_yaw_thrust_setpoint_decode" name="mavlink_msg_roll_pitch_yaw_thrust_setpoint_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a6a2f04ea64c58c8ba4333faef6d24cd3" title="Send a roll_pitch_yaw_thrust_setpoint message. " alt="" coords="267,5,437,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#ac5ea2eab12121de82fea21be60fc2408" title="Get field roll from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="255,85,449,126"/>
+<area shape="rect" id="node4" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#ad3cf4bbc11979b73ef661cdcee735209" title="Get field pitch from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="249,150,455,191"/>
+<area shape="rect" id="node5" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a3916f0de76f2d46cc5307838b281b497" title="Get field yaw from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="251,215,453,257"/>
+<area shape="rect" id="node6" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a3972d8cfaedcf11ca16efc5c91ff1e39" title="Get field thrust from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="267,280,437,336"/>
+</map>

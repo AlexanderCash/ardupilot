@@ -1,0 +1,30 @@
+<map id="RC_Channel::angle_to_pwm" name="RC_Channel::angle_to_pwm">
+<area shape="rect" id="node2" href="$classRC__Channel.html#a5876259d8fb8c1c475322a236bae7819" title="RC_Channel::calc_pwm" alt="" coords="243,437,407,464"/>
+<area shape="rect" id="node3" href="$classAP__MotorsCoax.html#af0309d34188f4f427fd1197ea768f2ea" title="AP_MotorsCoax::output\l_armed_not_stabilizing" alt="" coords="463,5,625,46"/>
+<area shape="rect" id="node4" href="$classAP__MotorsCoax.html#a11539f6cae3db5ab262c2918c2ee6657" title="AP_MotorsCoax::output\l_armed_stabilizing" alt="" coords="463,70,625,111"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#a85918ee9be140eee1738ca2898fc6513" title="AP_MotorsHeli::output\l_armed_stabilizing" alt="" coords="1144,179,1299,221"/>
+<area shape="rect" id="node9" href="$classAP__MotorsHeli.html#a50457b8a60a8486755d6673c6631d2d8" title="AP_MotorsHeli::move\l_swash" alt="" coords="697,19,847,61"/>
+<area shape="rect" id="node11" href="$classAP__MotorsHeli.html#af457d2dbc01ff81e1d8b5a2ffdb5c38c" title="AP_MotorsHeli::write_rsc" alt="" coords="459,263,629,289"/>
+<area shape="rect" id="node14" href="$classAP__MotorsHeli.html#a2e997a592f2ce30ab89a12a282ea3b23" title="AP_MotorsHeli::write_aux" alt="" coords="457,187,631,213"/>
+<area shape="rect" id="node17" href="$classAP__MotorsMatrix.html#a54ae23df7be61c1fdc80ffe831383f4b" title="AP_MotorsMatrix::output\l_armed_not_stabilizing" alt="" coords="461,365,627,406"/>
+<area shape="rect" id="node18" href="$classAP__MotorsMatrix.html#a32cad7f12087bf7106fe70a8d40f7419" title="AP_MotorsMatrix::output\l_armed_stabilizing" alt="" coords="461,430,627,471"/>
+<area shape="rect" id="node19" href="$classAP__MotorsSingle.html#a407007cbe551ef339131c7b66a0e5955" title="AP_MotorsSingle::output\l_armed_not_stabilizing" alt="" coords="461,495,627,537"/>
+<area shape="rect" id="node20" href="$classAP__MotorsSingle.html#aa687f46ca430b67757cb2a76220cf0d5" title="AP_MotorsSingle::output\l_armed_stabilizing" alt="" coords="461,561,627,602"/>
+<area shape="rect" id="node21" href="$classAP__MotorsTri.html#a5fb3552662e9242267eedd461d64fe4c" title="AP_MotorsTri::output\l_armed_not_stabilizing" alt="" coords="467,626,621,667"/>
+<area shape="rect" id="node22" href="$classAP__MotorsTri.html#adb1243ee8f1454434568fc5113fcfa83" title="AP_MotorsTri::output\l_armed_stabilizing" alt="" coords="471,691,617,733"/>
+<area shape="rect" id="node23" href="$RC__Channel_8pde.html#a1bfc35afa72ec1dcc31b3dae2add3e8f" title="copy_input_output" alt="" coords="480,757,608,784"/>
+<area shape="rect" id="node25" href="$classRC__Channel__aux.html#a14dd3af6c4497c0fe638cb23e89a7f82" title="RC_Channel_aux::set\l_servo_out" alt="" coords="469,809,619,850"/>
+<area shape="rect" id="node26" href="$classRC__Channel__aux.html#a39d6000a07de2819dd8888980f5b6773" title="RC_Channel_aux::move\l_servo" alt="" coords="461,874,627,915"/>
+<area shape="rect" id="node6" href="$classAP__MotorsHeli.html#af02bef1b954fa23247b9940113c9a59a" title="AP_MotorsHeli::output\l_armed_not_stabilizing" alt="" coords="1347,114,1501,155"/>
+<area shape="rect" id="node7" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title="AP_MotorsHeli::output\l_armed_zero_throttle" alt="" coords="1347,179,1501,221"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title="AP_MotorsHeli::output\l_disarmed" alt="" coords="1347,245,1501,286"/>
+<area shape="rect" id="node10" href="$classAP__MotorsHeli.html#a42fa16716c5bd1f3e06f89c3f0579672" title="AP_MotorsHeli::output_min" alt="" coords="913,77,1095,104"/>
+<area shape="rect" id="node12" href="$classAP__MotorsHeli.html#a9304ace27b941e28e8427d3c21bfb2eb" title="AP_MotorsHeli::rotor_ramp" alt="" coords="682,288,862,315"/>
+<area shape="rect" id="node13" href="$classAP__MotorsHeli.html#a550e49233caad251454b835e0d083187" title="AP_MotorsHeli::rsc\l_control" alt="" coords="936,179,1072,221"/>
+<area shape="rect" id="node15" href="$classAP__MotorsHeli.html#a9ff3335ed128d02af4c8120cd55caa4b" title="AP_MotorsHeli::output_test" alt="" coords="681,187,863,213"/>
+<area shape="rect" id="node16" href="$classAP__MotorsHeli.html#a9c2207f78e61cb24cd34150cada0970f" title="AP_MotorsHeli::tail_ramp" alt="" coords="687,85,857,112"/>
+<area shape="rect" id="node24" href="$RC__Channel_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="749,757,795,784"/>
+<area shape="rect" id="node27" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity " alt="" coords="702,852,842,879"/>
+<area shape="rect" id="node28" href="$classAP__Mount__Servo.html#aa03d61822081680668287a8519d658fd" title="move_servo &#45; moves servo with the given id to the specified angle. all angles are in degrees * 10 ..." alt="" coords="690,903,854,945"/>
+<area shape="rect" id="node29" href="$classAP__Mount__Servo.html#a8f4caa1ed68b0062d25e60c42b333995" title="AP_Mount_Servo::update" alt="" coords="919,911,1089,937"/>
+</map>

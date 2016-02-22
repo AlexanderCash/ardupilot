@@ -1,0 +1,5 @@
+<map id="SmallEKF::calcMagHeadingInnov" name="SmallEKF::calcMagHeadingInnov">
+<area shape="rect" id="node2" href="$classSmallEKF.html#a795189f59fa31ed5b397a15f91408f70" title="SmallEKF::alignHeading" alt="" coords="243,5,407,32"/>
+<area shape="rect" id="node4" href="$classSmallEKF.html#a7149793dd06bfb4eec2c0619b2aa2ff0" title="SmallEKF::fuseCompass" alt="" coords="240,56,411,83"/>
+<area shape="rect" id="node3" href="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9" title="SmallEKF::RunEKF" alt="" coords="459,31,597,57"/>
+</map>

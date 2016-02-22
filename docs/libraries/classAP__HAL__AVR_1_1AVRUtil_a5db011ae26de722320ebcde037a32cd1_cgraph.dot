@@ -1,0 +1,12 @@
+digraph "AP_HAL_AVR::AVRUtil::available_memory"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_HAL_AVR::AVRUtil\l::available_memory",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="memcheck_available\l_memory",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$memcheck_8cpp.html#addb7792ac1af2b5d32e1defcb6a9b05f",tooltip="-*- tab-width: 4; Mode: C++; c-basic-offset: 4; indent-tabs-mode: nil -*- "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="memcheck_update_stackptr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$memcheck_8cpp.html#ad877c822db6b90086c3e74ea35b9d362"];
+}

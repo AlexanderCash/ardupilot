@@ -1,0 +1,4 @@
+<map id="mavlink_msg_scaled_imu_encode" name="mavlink_msg_scaled_imu_encode">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__scaled__imu_8h.html#add91d69ca2f2cd1ec700dd6bfc744c2b" title="Pack a scaled_imu message. " alt="" coords="197,5,341,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="390,12,565,39"/>
+</map>

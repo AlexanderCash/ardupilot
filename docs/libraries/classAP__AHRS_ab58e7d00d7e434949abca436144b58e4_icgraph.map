@@ -1,0 +1,4 @@
+<map id="AP_AHRS::get_secondary_attitude" name="AP_AHRS::get_secondary_attitude">
+<area shape="rect" id="node2" href="$classDataFlash__Class.html#ad81bca014959c6b0a6714ea0d83c409f" title="DataFlash_Class::Log\l_Write_AHRS2" alt="" coords="252,5,404,46"/>
+<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a558ba3447048b78cb9dde460053e2741" title="GCS_MAVLINK::send_ahrs2" alt="" coords="232,71,424,97"/>
+</map>

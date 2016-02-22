@@ -1,0 +1,5 @@
+<map id="mavlink_msg_waypoint_count_decode" name="mavlink_msg_waypoint_count_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__waypoint__count_8h.html#a3348a0dbed0fa820816e543e976f64f9" title="Send a waypoint_count message. " alt="" coords="224,5,400,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__waypoint__count_8h.html#a642ef4d823e5d0722d988d8d42db3ef7" title="Get field target_component from waypoint_count message. " alt="" coords="213,70,411,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__waypoint__count_8h.html#a9b2e77ffdcfa0810a09cc64e3163821a" title="Get field count from waypoint_count message. " alt="" coords="233,135,391,177"/>
+</map>

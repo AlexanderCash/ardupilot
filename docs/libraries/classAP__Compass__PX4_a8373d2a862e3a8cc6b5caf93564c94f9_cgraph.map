@@ -1,0 +1,10 @@
+<map id="AP_Compass_PX4::accumulate" name="AP_Compass_PX4::accumulate">
+<area shape="rect" id="node2" href="$classAP__Compass__PX4.html#a4e20dea88905e71e94524c33a95ff76c" title="AP_Compass_PX4::read" alt="" coords="264,192,432,219"/>
+<area shape="rect" id="node3" href="$classAP__Compass__Backend.html#ad14147ac2825d3c09106ccfd1328b3f0" title="AP_Compass_Backend\l::publish_field" alt="" coords="481,122,642,163"/>
+<area shape="rect" id="node7" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="902,184,1002,211"/>
+<area shape="rect" id="node4" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title="Vector3::rotate" alt="" coords="718,5,826,32"/>
+<area shape="rect" id="node5" href="$classAP__Compass__Backend.html#a2c550915f5cf24723480581d863c7b8c" title="AP_Compass_Backend\l::apply_corrections" alt="" coords="691,57,853,98"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="699,122,845,163"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="699,187,845,229"/>
+<area shape="rect" id="node6" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="920,64,984,91"/>
+</map>

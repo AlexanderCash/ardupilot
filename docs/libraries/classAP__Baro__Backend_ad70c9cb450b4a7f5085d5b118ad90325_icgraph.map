@@ -1,0 +1,6 @@
+<map id="AP_Baro_Backend::_copy_to_frontend" name="AP_Baro_Backend::_copy_to_frontend">
+<area shape="rect" id="node2" href="$classAP__Baro__MS5611.html#af4231d950df2a9656c6cf8ff6dee7d60" title="AP_Baro_MS5611::_calculate" alt="" coords="230,5,426,32"/>
+<area shape="rect" id="node4" href="$classAP__Baro__PX4.html#ad1567a4cad0762451ae7d01a5471d000" title="AP_Baro_PX4::update" alt="" coords="251,56,405,83"/>
+<area shape="rect" id="node5" href="$classAP__Baro__BMP085.html#a2aa3463e9e908fef68b1f5ab699f1357" title="AP_Baro_BMP085::update" alt="" coords="239,107,417,133"/>
+<area shape="rect" id="node3" href="$classAP__Baro__MS5611.html#aaabf16d34651abefbe5a9c81f1eb7016" title="AP_Baro_MS5611::update" alt="" coords="475,5,651,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mavlink_msg_rc_channels_raw_encode" name="mavlink_msg_rc_channels_raw_encode">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__rc__channels__raw_8h.html#a4dc2219744f3f4c69fbd3a8e8a4f5008" title="Pack a rc_channels_raw message. " alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="454,12,629,39"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="mavlink_msg_wind_get_speed_z" name="mavlink_msg_wind_get_speed_z">
+<area shape="rect" id="node2" href="$mavlink__msg__wind_8h.html#acac9e3c38ad6b159319db7fea92d16f7" title="Decode a wind message into a struct. " alt="" coords="214,12,397,39"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a32301ea0684d0435a7832a9e09cb9185" title="mavlink_test_wind" alt="" coords="445,12,576,39"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="624,12,808,39"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="857,12,973,39"/>
+</map>

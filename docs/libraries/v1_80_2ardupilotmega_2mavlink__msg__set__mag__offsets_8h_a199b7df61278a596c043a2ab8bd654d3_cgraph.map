@@ -1,0 +1,4 @@
+<map id="mavlink_msg_set_mag_offsets_encode_chan" name="mavlink_msg_set_mag_offsets_encode_chan">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__set__mag__offsets_8h.html#a0ff8265c77b04396c8b7f3830ec147c1" title="Pack a set_mag_offsets message on a channel. " alt="" coords="211,5,367,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="416,12,627,39"/>
+</map>

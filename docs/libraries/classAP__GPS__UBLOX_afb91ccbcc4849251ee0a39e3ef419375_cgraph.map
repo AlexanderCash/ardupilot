@@ -1,0 +1,7 @@
+<map id="AP_GPS_UBLOX::_configure_gps" name="AP_GPS_UBLOX::_configure_gps">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title="AP_HAL::UARTDriver\l::begin" alt="" coords="286,5,439,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="289,70,436,111"/>
+<area shape="rect" id="node4" href="$classAP__GPS__UBLOX.html#a3e73204e71c7302d8a054bb479d003f1" title="AP_GPS_UBLOX::_send\l_message" alt="" coords="277,135,448,177"/>
+<area shape="rect" id="node5" href="$classAP__GPS__UBLOX.html#aa9e7578f241ffd59f632d9b5104bed75" title="AP_GPS_UBLOX::_update\l_checksum" alt="" coords="496,106,677,147"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="515,172,659,199"/>
+</map>

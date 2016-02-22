@@ -1,0 +1,14 @@
+digraph "AP_HAL_AVR::ISRRegistry::register_signal"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_HAL_AVR::ISRRegistry\l::register_signal",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_HAL_AVR::APM1RCInput\l::init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1APM1RCInput.html#af10c794dd4f65a5795267637ece9f873"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_HAL_AVR::AVRScheduler\l::init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRScheduler.html#a27b893d5b82c5b004d16836fcea36220"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="AP_HAL_AVR::APM2RCInput\l::init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1APM2RCInput.html#a1e1a5061cb6f1b7f5f3662f0b5339adf"];
+}

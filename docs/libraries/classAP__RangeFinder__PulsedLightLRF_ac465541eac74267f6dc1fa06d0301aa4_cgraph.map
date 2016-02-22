@@ -1,0 +1,12 @@
+<map id="AP_RangeFinder_PulsedLightLRF::update" name="AP_RangeFinder_PulsedLightLRF::update">
+<area shape="rect" id="node2" href="$classAP__RangeFinder__PulsedLightLRF.html#a51ff133034bca6db07bbf0792e3df4c2" title="AP_RangeFinder_PulsedLight\lLRF::get_reading" alt="" coords="251,161,447,202"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__Backend.html#a9e858f638e4c2d1138aa3f56d217a394" title="AP_RangeFinder_Backend\l::update_status" alt="" coords="260,278,439,320"/>
+<area shape="rect" id="node11" href="$classAP__RangeFinder__Backend.html#ac5b3771c47b58dfba89ebcf2a24541cd" title="AP_RangeFinder_Backend\l::set_status" alt="" coords="505,337,684,378"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="759,154,905,196"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="742,286,922,312"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="522,37,667,78"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="743,44,921,71"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="521,102,668,144"/>
+<area shape="rect" id="node8" href="$classAP__RangeFinder__PulsedLightLRF.html#aeb01c92de42ba4e384ef2a3cbc84f51f" title="AP_RangeFinder_PulsedLight\lLRF::start_reading" alt="" coords="497,220,693,261"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="759,220,905,261"/>
+</map>

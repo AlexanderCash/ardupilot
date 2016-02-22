@@ -1,0 +1,4 @@
+<map id="AC_AttitudeControl::update_ef_roll_angle_and_error" name="AC_AttitudeControl::update_ef_roll_angle_and_error">
+<area shape="rect" id="node2" href="$AP__Math_8h.html#a35821002985a8e3e526c8ccad9bb9934" title="wrap_180_cd" alt="" coords="207,5,305,32"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="203,56,309,83"/>
+</map>

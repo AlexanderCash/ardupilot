@@ -1,0 +1,6 @@
+<map id="NavEKF::getMagXYZ" name="NavEKF::getMagXYZ">
+<area shape="rect" id="node2" href="$classSmallEKF.html#a991c54283e43ee0867269119746731f5" title="SmallEKF::calcMagHeading\lInnov" alt="" coords="203,23,389,65"/>
+<area shape="rect" id="node3" href="$classSmallEKF.html#a7149793dd06bfb4eec2c0619b2aa2ff0" title="SmallEKF::fuseCompass" alt="" coords="437,5,608,32"/>
+<area shape="rect" id="node5" href="$classSmallEKF.html#a795189f59fa31ed5b397a15f91408f70" title="SmallEKF::alignHeading" alt="" coords="441,56,605,83"/>
+<area shape="rect" id="node4" href="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9" title="SmallEKF::RunEKF" alt="" coords="656,31,795,57"/>
+</map>

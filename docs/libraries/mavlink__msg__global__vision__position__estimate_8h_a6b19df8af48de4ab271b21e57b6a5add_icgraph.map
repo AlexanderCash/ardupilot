@@ -1,0 +1,6 @@
+<map id="mavlink_msg_global_vision_position_estimate_get_x" name="mavlink_msg_global_vision_position_estimate_get_x">
+<area shape="rect" id="node2" href="$mavlink__msg__global__vision__position__estimate_8h.html#a22fcc785ddaac4975348ec9dc3181df1" title="Decode a global_vision_position_estimate message into a struct. " alt="" coords="265,4,437,60"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#ad033a2dd99c45646da4dad339cbf0e62" title="mavlink_test_global\l_vision_position_estimate" alt="" coords="486,11,658,53"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="707,19,861,45"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="910,19,1026,45"/>
+</map>

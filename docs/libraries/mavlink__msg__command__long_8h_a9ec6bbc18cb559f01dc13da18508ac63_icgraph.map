@@ -1,0 +1,6 @@
+<map id="mavlink_msg_command_long_get_confirmation" name="mavlink_msg_command_long_get_confirmation">
+<area shape="rect" id="node2" href="$mavlink__msg__command__long_8h.html#a8d13fffc72f28b666b0186814ebbf86e" title="Decode a command_long message into a struct. " alt="" coords="216,5,379,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a73c6c6692680b0b05f6782f6411a00e4" title="mavlink_test_command_long" alt="" coords="427,12,618,39"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="667,12,821,39"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="870,12,986,39"/>
+</map>

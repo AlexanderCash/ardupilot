@@ -1,0 +1,10 @@
+<map id="AP_Relay::off" name="AP_Relay::off">
+<area shape="rect" id="node2" href="$classAP__ServoRelayEvents.html#a97e7a71ad2ed00b9b4ceb20bc617be4c" title="AP_ServoRelayEvents\l::do_set_relay" alt="" coords="361,5,517,46"/>
+<area shape="rect" id="node3" href="$classAP__Relay.html#aa13db0b0f4e316fe33459b659a642d9f" title="AP_Relay::init" alt="" coords="181,44,288,71"/>
+<area shape="rect" id="node4" href="$classAP__Relay.html#acadbe252379390594091edd75953456a" title="AP_Relay::toggle" alt="" coords="173,95,297,121"/>
+<area shape="rect" id="node8" href="$classAP__Camera.html#a3124ce12331fb79e0b68b7067d609be2" title="AP_Camera::trigger\l_pic_cleanup" alt="" coords="166,146,303,187"/>
+<area shape="rect" id="node9" href="$classAP__Parachute.html#a986da5e4faa8be2479c695317263a1cc" title="update &#45; shuts off the trigger should be called at about 10hz " alt="" coords="158,212,311,239"/>
+<area shape="rect" id="node5" href="$classAP__ServoRelayEvents.html#abae99d08dbec323313058baebc468f0e" title="AP_ServoRelayEvents\l::update_events" alt="" coords="361,87,517,129"/>
+<area shape="rect" id="node6" href="$classAP__ServoRelayEvents.html#af3cde3623c5f0fa9368aa46eb85f916e" title="AP_ServoRelayEvents\l::do_repeat_servo" alt="" coords="566,54,722,95"/>
+<area shape="rect" id="node7" href="$classAP__ServoRelayEvents.html#a7bc553c3358ab805cc1ff315ca60ff97" title="AP_ServoRelayEvents\l::do_repeat_relay" alt="" coords="566,119,722,161"/>
+</map>

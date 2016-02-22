@@ -1,0 +1,18 @@
+<map id="mavlink_test_ahrs2" name="mavlink_test_ahrs2">
+<area shape="rect" id="node2" href="$mavlink__msg__ahrs2_8h.html#aa92fa31335a7d9fb21e1d544a49b9379" title="Encode a ahrs2 struct. " alt="" coords="200,25,387,52"/>
+<area shape="rect" id="node3" href="$mavlink__msg__ahrs2_8h.html#a815270ed6028910edca22b1ac1261cee" title="Pack a ahrs2 message. " alt="" coords="464,5,637,32"/>
+<area shape="rect" id="node5" href="$mavlink__msg__ahrs2_8h.html#a7c22c88ca76c0c52582c38baba384e9b" title="Decode a ahrs2 message into a struct. " alt="" coords="200,183,387,209"/>
+<area shape="rect" id="node12" href="$mavlink__msg__ahrs2_8h.html#ae1bb0b4f5b884440227b2596892ccded" title="Pack a ahrs2 message on a channel. " alt="" coords="189,233,397,260"/>
+<area shape="rect" id="node14" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="217,285,369,326"/>
+<area shape="rect" id="node15" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="214,350,373,391"/>
+<area shape="rect" id="node16" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="236,425,351,452"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="705,5,879,32"/>
+<area shape="rect" id="node6" href="$mavlink__msg__ahrs2_8h.html#a234111adb58d99ba9cce0561ff56288e" title="Send a ahrs2 message. " alt="" coords="457,56,644,83"/>
+<area shape="rect" id="node7" href="$mavlink__msg__ahrs2_8h.html#aa30f5de95d41f489f95382eb8ef1d887" title="Get field pitch from ahrs2 message. " alt="" coords="469,107,632,149"/>
+<area shape="rect" id="node8" href="$mavlink__msg__ahrs2_8h.html#ab2fcd63e95690171fb3ffba549bd4f00" title="Get field yaw from ahrs2 message. " alt="" coords="453,173,648,200"/>
+<area shape="rect" id="node9" href="$mavlink__msg__ahrs2_8h.html#a79fc34122442f82055f2f8556f6c0f5d" title="Get field altitude from ahrs2 message. " alt="" coords="469,225,632,266"/>
+<area shape="rect" id="node10" href="$mavlink__msg__ahrs2_8h.html#a5d5e3b199049f195bef6c14beaf653e5" title="Get field lat from ahrs2 message. " alt="" coords="459,291,643,317"/>
+<area shape="rect" id="node11" href="$mavlink__msg__ahrs2_8h.html#af149240e81dda8a4d01cbf8667ca76e1" title="Get field lng from ahrs2 message. " alt="" coords="457,341,644,368"/>
+<area shape="rect" id="node13" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="445,392,656,419"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="479,443,623,469"/>
+</map>

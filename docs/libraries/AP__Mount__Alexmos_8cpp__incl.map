@@ -1,0 +1,184 @@
+<map id="libraries/AP_Mount/AP_Mount_Alexmos.cpp" name="libraries/AP_Mount/AP_Mount_Alexmos.cpp">
+<area shape="rect" id="node2" href="$AP__Mount__Alexmos_8h.html" title="AP_Mount_Alexmos.h" alt="" coords="8972,96,9124,123"/>
+<area shape="rect" id="node3" href="$AP__Mount_8h.html" title="AP_Mount.h" alt="" coords="8887,245,8981,272"/>
+<area shape="rect" id="node4" href="$AP__Math_8h.html" title="AP_Math.h" alt="" coords="9862,899,9948,925"/>
+<area shape="rect" id="node9" href="$AP__Param_8h.html" title="A system for managing and storing variables that are of general interest to the system. " alt="" coords="12028,989,12124,1016"/>
+<area shape="rect" id="node10" href="$AP__HAL_8h.html" title="AP_HAL.h" alt="" coords="11947,1163,12031,1189"/>
+<area shape="rect" id="node46" href="$AP__GPS_8h.html" title="AP_GPS.h" alt="" coords="7618,635,7704,661"/>
+<area shape="rect" id="node138" href="$AP__AHRS_8h.html" title="AP_AHRS.h" alt="" coords="11087,320,11183,347"/>
+<area shape="rect" id="node200" href="$AP__Mount__Backend_8h.html" title="AP_Mount_Backend.h" alt="" coords="8972,171,9124,197"/>
+<area shape="rect" id="node5" href="$AP__Common_8h.html" title="Common definitions and utility routines for the ArduPilot libraries. " alt="" coords="10010,989,10120,1016"/>
+<area shape="rect" id="node47" href="$GCS__MAVLink_8h.html" title="One size fits all header for MAVLink integration. " alt="" coords="8592,808,8715,835"/>
+<area shape="rect" id="node127" href="$AP__SerialManager_8h.html" title="../AP_SerialManager\l/AP_SerialManager.h" alt="" coords="8687,710,8832,751"/>
+<area shape="rect" id="node198" href="$RC__Channel_8h.html" title="RC_Channel manager, with EEPROM&#45;backed storage of constants. " alt="" coords="8790,899,8988,925"/>
+<area shape="rect" id="node39" href="$rotations_8h.html" title="rotations.h" alt="" coords="10248,989,10329,1016"/>
+<area shape="rect" id="node40" href="$vector2_8h.html" title="vector2.h" alt="" coords="9201,1080,9276,1107"/>
+<area shape="rect" id="node41" href="$vector3_8h.html" title="vector3.h" alt="" coords="9353,1080,9428,1107"/>
+<area shape="rect" id="node42" href="$matrix3_8h.html" title="matrix3.h" alt="" coords="9910,989,9985,1016"/>
+<area shape="rect" id="node43" href="$quaternion_8h.html" title="quaternion.h" alt="" coords="9083,1080,9176,1107"/>
+<area shape="rect" id="node44" href="$polygon_8h.html" title="polygon.h" alt="" coords="10145,989,10223,1016"/>
+<area shape="rect" id="node45" href="$edc_8h.html" title="edc.h" alt="" coords="10699,1424,10753,1451"/>
+<area shape="rect" id="node22" href="$AP__Progmem_8h.html" title="AP_Progmem.h" alt="" coords="11112,1507,11227,1533"/>
+<area shape="rect" id="node38" href="$StorageManager_8h.html" title="../StorageManager/Storage\lManager.h" alt="" coords="12221,1073,12400,1114"/>
+<area shape="rect" id="node11" href="$AP__HAL__Namespace_8h.html" title="AP_HAL_Namespace.h" alt="" coords="12094,1672,12255,1699"/>
+<area shape="rect" id="node14" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="11350,1589,11481,1616"/>
+<area shape="rect" id="node15" href="$AP__HAL__Macros_8h.html" title="AP_HAL_Macros.h" alt="" coords="11463,1237,11597,1264"/>
+<area shape="rect" id="node16" href="$UARTDriver_8h.html" title="UARTDriver.h" alt="" coords="11937,1327,12041,1353"/>
+<area shape="rect" id="node17" href="$BetterStream_8h.html" title="utility/BetterStream.h" alt="" coords="11757,1424,11901,1451"/>
+<area shape="rect" id="node19" href="$Stream_8h.html" title="Stream.h" alt="" coords="11663,1507,11736,1533"/>
+<area shape="rect" id="node20" href="$Print_8h.html" title="Print.h" alt="" coords="11558,1589,11617,1616"/>
+<area shape="rect" id="node24" href="$I2CDriver_8h.html" title="I2CDriver.h" alt="" coords="11642,1589,11731,1616"/>
+<area shape="rect" id="node25" href="$SPIDriver_8h.html" title="SPIDriver.h" alt="" coords="12595,1327,12685,1353"/>
+<area shape="rect" id="node26" href="$AnalogIn_8h.html" title="AnalogIn.h" alt="" coords="12710,1327,12793,1353"/>
+<area shape="rect" id="node27" href="$Storage_8h.html" title="Storage.h" alt="" coords="12279,1507,12357,1533"/>
+<area shape="rect" id="node28" href="$GPIO_8h.html" title="GPIO.h" alt="" coords="12123,1507,12189,1533"/>
+<area shape="rect" id="node29" href="$RCInput_8h.html" title="RCInput.h" alt="" coords="12117,1327,12199,1353"/>
+<area shape="rect" id="node30" href="$RCOutput_8h.html" title="RCOutput.h" alt="" coords="12427,1327,12519,1353"/>
+<area shape="rect" id="node31" href="$Scheduler_8h.html" title="Scheduler.h" alt="" coords="11361,1424,11452,1451"/>
+<area shape="rect" id="node32" href="$Semaphores_8h.html" title="Semaphores.h" alt="" coords="12483,1237,12589,1264"/>
+<area shape="rect" id="node33" href="$Util_8h.html" title="Util.h" alt="" coords="11679,1424,11732,1451"/>
+<area shape="rect" id="node34" href="$HAL_8h.html" title="HAL.h" alt="" coords="12309,1237,12367,1264"/>
+<area shape="rect" id="node13" href="$FastDelegate_8h.html" title="utility/FastDelegate.h" alt="" coords="12101,1747,12248,1773"/>
+<area shape="rect" id="node23" href="$AP__Progmem__Identity_8h.html" title="AP_Progmem_Identity.h" alt="" coords="10881,1589,11044,1616"/>
+<area shape="rect" id="node125" href="$AP__Vehicle_8h.html" title="AP_Vehicle.h" alt="" coords="12027,808,12128,835"/>
+<area shape="rect" id="node126" href="$GPS__detect__state_8h.html" title="GPS_detect_state.h" alt="" coords="7591,717,7731,744"/>
+<area shape="rect" id="node128" href="$GPS__Backend_8h.html" title="GPS_Backend.h" alt="" coords="7147,717,7265,744"/>
+<area shape="rect" id="node129" href="$AP__GPS__UBLOX_8h.html" title="AP_GPS_UBLOX.h" alt="" coords="8076,717,8215,744"/>
+<area shape="rect" id="node130" href="$AP__GPS__MTK_8h.html" title="AP_GPS_MTK.h" alt="" coords="6849,717,6969,744"/>
+<area shape="rect" id="node132" href="$AP__GPS__MTK19_8h.html" title="AP_GPS_MTK19.h" alt="" coords="6690,717,6824,744"/>
+<area shape="rect" id="node133" href="$AP__GPS__NMEA_8h.html" title="NMEA protocol parser. " alt="" coords="7290,717,7421,744"/>
+<area shape="rect" id="node134" href="$AP__GPS__SIRF_8h.html" title="AP_GPS_SIRF.h" alt="" coords="7983,899,8107,925"/>
+<area shape="rect" id="node135" href="$AP__GPS__SBP_8h.html" title="AP_GPS_SBP.h" alt="" coords="7447,717,7567,744"/>
+<area shape="rect" id="node136" href="$AP__GPS__PX4_8h.html" title="AP_GPS_PX4.h" alt="" coords="7858,717,7976,744"/>
+<area shape="rect" id="node49" href="$v1_80_2ardupilotmega_2version_8h.html" title="MAVLink comm protocol built from ardupilotmega.xml. " alt="" coords="8357,982,8520,1023"/>
+<area shape="rect" id="node50" href="$v1_80_2mavlink__types_8h.html" title="include/mavlink/v1.0\l/mavlink_types.h" alt="" coords="10229,1582,10369,1623"/>
+<area shape="rect" id="node51" href="$v1_80_2ardupilotmega_2mavlink_8h.html" title="MAVLink comm protocol built from ardupilotmega.xml. " alt="" coords="8234,891,8400,933"/>
+<area shape="rect" id="node52" href="$v1_80_2ardupilotmega_2ardupilotmega_8h.html" title="MAVLink comm protocol generated from ardupilotmega.xml. " alt="" coords="5171,1237,5285,1264"/>
+<area shape="rect" id="node53" href="$v1_80_2protocol_8h.html" title="../protocol.h" alt="" coords="10149,1424,10240,1451"/>
+<area shape="rect" id="node55" href="$v1_80_2common_2common_8h.html" title="MAVLink comm protocol generated from common.xml. " alt="" coords="1896,1327,2044,1353"/>
+<area shape="rect" id="node71" href="$v1_80_2ardupilotmega_2mavlink__msg__sensor__offsets_8h.html" title="./mavlink_msg_sensor\l_offsets.h" alt="" coords="2070,1319,2223,1361"/>
+<area shape="rect" id="node72" href="$v1_80_2ardupilotmega_2mavlink__msg__set__mag__offsets_8h.html" title="./mavlink_msg_set_mag\l_offsets.h" alt="" coords="2247,1319,2411,1361"/>
+<area shape="rect" id="node73" href="$v1_80_2ardupilotmega_2mavlink__msg__meminfo_8h.html" title="./mavlink_msg_meminfo.h" alt="" coords="2435,1327,2609,1353"/>
+<area shape="rect" id="node74" href="$v1_80_2ardupilotmega_2mavlink__msg__ap__adc_8h.html" title="./mavlink_msg_ap_adc.h" alt="" coords="2634,1327,2800,1353"/>
+<area shape="rect" id="node75" href="$v1_80_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html" title="./mavlink_msg_digicam\l_configure.h" alt="" coords="2825,1319,2983,1361"/>
+<area shape="rect" id="node76" href="$v1_80_2ardupilotmega_2mavlink__msg__digicam__control_8h.html" title="./mavlink_msg_digicam\l_control.h" alt="" coords="3007,1319,3165,1361"/>
+<area shape="rect" id="node77" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__configure_8h.html" title="./mavlink_msg_mount\l_configure.h" alt="" coords="3190,1319,3340,1361"/>
+<area shape="rect" id="node78" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__control_8h.html" title="./mavlink_msg_mount\l_control.h" alt="" coords="3365,1319,3515,1361"/>
+<area shape="rect" id="node79" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__status_8h.html" title="./mavlink_msg_mount\l_status.h" alt="" coords="3539,1319,3689,1361"/>
+<area shape="rect" id="node80" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__point_8h.html" title="./mavlink_msg_fence\l_point.h" alt="" coords="3715,1319,3861,1361"/>
+<area shape="rect" id="node81" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__fetch__point_8h.html" title="./mavlink_msg_fence\l_fetch_point.h" alt="" coords="3885,1319,4032,1361"/>
+<area shape="rect" id="node82" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__status_8h.html" title="./mavlink_msg_fence\l_status.h" alt="" coords="4056,1319,4203,1361"/>
+<area shape="rect" id="node83" href="$v1_80_2ardupilotmega_2mavlink__msg__ahrs_8h.html" title="./mavlink_msg_ahrs.h" alt="" coords="4227,1327,4377,1353"/>
+<area shape="rect" id="node84" href="$v1_80_2ardupilotmega_2mavlink__msg__simstate_8h.html" title="./mavlink_msg_simstate.h" alt="" coords="4402,1327,4576,1353"/>
+<area shape="rect" id="node85" href="$v1_80_2ardupilotmega_2mavlink__msg__hwstatus_8h.html" title="./mavlink_msg_hwstatus.h" alt="" coords="4601,1327,4780,1353"/>
+<area shape="rect" id="node86" href="$v1_80_2ardupilotmega_2mavlink__msg__radio_8h.html" title="./mavlink_msg_radio.h" alt="" coords="4805,1327,4957,1353"/>
+<area shape="rect" id="node87" href="$v1_80_2ardupilotmega_2mavlink__msg__limits__status_8h.html" title="./mavlink_msg_limits\l_status.h" alt="" coords="4982,1319,5127,1361"/>
+<area shape="rect" id="node88" href="$mavlink__msg__wind_8h.html" title="./mavlink_msg_wind.h" alt="" coords="5152,1327,5304,1353"/>
+<area shape="rect" id="node89" href="$mavlink__msg__data16_8h.html" title="./mavlink_msg_data16.h" alt="" coords="5329,1327,5492,1353"/>
+<area shape="rect" id="node90" href="$mavlink__msg__data32_8h.html" title="./mavlink_msg_data32.h" alt="" coords="5517,1327,5680,1353"/>
+<area shape="rect" id="node91" href="$mavlink__msg__data64_8h.html" title="./mavlink_msg_data64.h" alt="" coords="5705,1327,5868,1353"/>
+<area shape="rect" id="node92" href="$mavlink__msg__data96_8h.html" title="./mavlink_msg_data96.h" alt="" coords="5893,1327,6056,1353"/>
+<area shape="rect" id="node93" href="$mavlink__msg__rangefinder_8h.html" title="./mavlink_msg_rangefinder.h" alt="" coords="6081,1327,6271,1353"/>
+<area shape="rect" id="node94" href="$mavlink__msg__airspeed__autocal_8h.html" title="./mavlink_msg_airspeed\l_autocal.h" alt="" coords="6295,1319,6457,1361"/>
+<area shape="rect" id="node95" href="$mavlink__msg__rally__point_8h.html" title="./mavlink_msg_rally\l_point.h" alt="" coords="6481,1319,6620,1361"/>
+<area shape="rect" id="node96" href="$mavlink__msg__rally__fetch__point_8h.html" title="./mavlink_msg_rally\l_fetch_point.h" alt="" coords="6644,1319,6783,1361"/>
+<area shape="rect" id="node97" href="$mavlink__msg__compassmot__status_8h.html" title="./mavlink_msg_compassmot\l_status.h" alt="" coords="6807,1319,6996,1361"/>
+<area shape="rect" id="node98" href="$mavlink__msg__ahrs2_8h.html" title="./mavlink_msg_ahrs2.h" alt="" coords="7020,1327,7177,1353"/>
+<area shape="rect" id="node99" href="$mavlink__msg__camera__status_8h.html" title="./mavlink_msg_camera\l_status.h" alt="" coords="7201,1319,7359,1361"/>
+<area shape="rect" id="node100" href="$mavlink__msg__camera__feedback_8h.html" title="./mavlink_msg_camera\l_feedback.h" alt="" coords="7383,1319,7540,1361"/>
+<area shape="rect" id="node101" href="$mavlink__msg__battery2_8h.html" title="./mavlink_msg_battery2.h" alt="" coords="7565,1327,7736,1353"/>
+<area shape="rect" id="node102" href="$mavlink__msg__ahrs3_8h.html" title="./mavlink_msg_ahrs3.h" alt="" coords="7761,1327,7919,1353"/>
+<area shape="rect" id="node103" href="$mavlink__msg__autopilot__version__request_8h.html" title="./mavlink_msg_autopilot\l_version_request.h" alt="" coords="7943,1319,8105,1361"/>
+<area shape="rect" id="node104" href="$mavlink__msg__led__control_8h.html" title="./mavlink_msg_led_control.h" alt="" coords="8130,1327,8317,1353"/>
+<area shape="rect" id="node105" href="$mavlink__msg__ekf__status__report_8h.html" title="./mavlink_msg_ekf_status\l_report.h" alt="" coords="8342,1319,8516,1361"/>
+<area shape="rect" id="node106" href="$mavlink__msg__gimbal__report_8h.html" title="./mavlink_msg_gimbal\l_report.h" alt="" coords="8541,1319,8693,1361"/>
+<area shape="rect" id="node107" href="$mavlink__msg__gimbal__control_8h.html" title="./mavlink_msg_gimbal\l_control.h" alt="" coords="8717,1319,8869,1361"/>
+<area shape="rect" id="node108" href="$mavlink__msg__gimbal__reset_8h.html" title="./mavlink_msg_gimbal\l_reset.h" alt="" coords="8893,1319,9045,1361"/>
+<area shape="rect" id="node109" href="$mavlink__msg__gimbal__axis__calibration__progress_8h.html" title="./mavlink_msg_gimbal\l_axis_calibration_progress.h" alt="" coords="9069,1319,9256,1361"/>
+<area shape="rect" id="node110" href="$mavlink__msg__gimbal__set__home__offsets_8h.html" title="./mavlink_msg_gimbal\l_set_home_offsets.h" alt="" coords="9280,1319,9432,1361"/>
+<area shape="rect" id="node111" href="$mavlink__msg__gimbal__home__offset__calibration__result_8h.html" title="./mavlink_msg_gimbal\l_home_offset_calibration\l_result.h" alt="" coords="9457,1312,9623,1368"/>
+<area shape="rect" id="node112" href="$mavlink__msg__gimbal__set__factory__parameters_8h.html" title="./mavlink_msg_gimbal\l_set_factory_parameters.h" alt="" coords="9647,1319,9824,1361"/>
+<area shape="rect" id="node113" href="$mavlink__msg__gimbal__factory__parameters__loaded_8h.html" title="./mavlink_msg_gimbal\l_factory_parameters_loaded.h" alt="" coords="9849,1319,10047,1361"/>
+<area shape="rect" id="node114" href="$mavlink__msg__gimbal__erase__firmware__and__config_8h.html" title="./mavlink_msg_gimbal\l_erase_firmware_and_config.h" alt="" coords="10071,1319,10269,1361"/>
+<area shape="rect" id="node115" href="$mavlink__msg__gimbal__perform__factory__tests_8h.html" title="./mavlink_msg_gimbal\l_perform_factory_tests.h" alt="" coords="94,1319,260,1361"/>
+<area shape="rect" id="node116" href="$mavlink__msg__gimbal__report__factory__tests__progress_8h.html" title="./mavlink_msg_gimbal\l_report_factory_tests\l_progress.h" alt="" coords="285,1312,437,1368"/>
+<area shape="rect" id="node117" href="$mavlink__msg__gimbal__request__axis__calibration__status_8h.html" title="./mavlink_msg_gimbal\l_request_axis_calibration\l_status.h" alt="" coords="462,1312,631,1368"/>
+<area shape="rect" id="node118" href="$mavlink__msg__gimbal__report__axis__calibration__status_8h.html" title="./mavlink_msg_gimbal\l_report_axis_calibration\l_status.h" alt="" coords="655,1312,813,1368"/>
+<area shape="rect" id="node119" href="$mavlink__msg__gimbal__request__axis__calibration_8h.html" title="./mavlink_msg_gimbal\l_request_axis_calibration.h" alt="" coords="838,1319,1017,1361"/>
+<area shape="rect" id="node120" href="$mavlink__msg__gopro__heartbeat_8h.html" title="./mavlink_msg_gopro\l_heartbeat.h" alt="" coords="1043,1319,1189,1361"/>
+<area shape="rect" id="node121" href="$mavlink__msg__gopro__get__request_8h.html" title="./mavlink_msg_gopro\l_get_request.h" alt="" coords="1213,1319,1360,1361"/>
+<area shape="rect" id="node122" href="$mavlink__msg__gopro__get__response_8h.html" title="./mavlink_msg_gopro\l_get_response.h" alt="" coords="1384,1319,1531,1361"/>
+<area shape="rect" id="node123" href="$mavlink__msg__gopro__set__request_8h.html" title="./mavlink_msg_gopro\l_set_request.h" alt="" coords="1555,1319,1701,1361"/>
+<area shape="rect" id="node124" href="$mavlink__msg__gopro__set__response_8h.html" title="./mavlink_msg_gopro\l_set_response.h" alt="" coords="1725,1319,1872,1361"/>
+<area shape="rect" id="node54" href="$v1_80_2mavlink__helpers_8h.html" title="mavlink_helpers.h" alt="" coords="10131,1507,10257,1533"/>
+<area shape="rect" id="node56" href="$v1_80_2common_2mavlink__msg__heartbeat_8h.html" title="./mavlink_msg_heartbeat.h" alt="" coords="3171,1424,3349,1451"/>
+<area shape="rect" id="node57" href="$v1_80_2common_2mavlink__msg__sys__status_8h.html" title="./mavlink_msg_sys_status.h" alt="" coords="591,1424,780,1451"/>
+<area shape="rect" id="node58" href="$v1_80_2common_2mavlink__msg__system__time_8h.html" title="./mavlink_msg_system\l_time.h" alt="" coords="804,1417,961,1458"/>
+<area shape="rect" id="node59" href="$v1_80_2common_2mavlink__msg__ping_8h.html" title="./mavlink_msg_ping.h" alt="" coords="985,1424,1133,1451"/>
+<area shape="rect" id="node60" href="$v1_80_2common_2mavlink__msg__change__operator__control_8h.html" title="./mavlink_msg_change\l_operator_control.h" alt="" coords="1159,1417,1315,1458"/>
+<area shape="rect" id="node61" href="$v1_80_2common_2mavlink__msg__change__operator__control__ack_8h.html" title="./mavlink_msg_change\l_operator_control_ack.h" alt="" coords="1339,1417,1500,1458"/>
+<area shape="rect" id="node62" href="$v1_80_2common_2mavlink__msg__auth__key_8h.html" title="./mavlink_msg_auth\l_key.h" alt="" coords="1525,1417,1664,1458"/>
+<area shape="rect" id="node63" href="$v1_80_2common_2mavlink__msg__set__mode_8h.html" title="./mavlink_msg_set_mode.h" alt="" coords="1689,1424,1871,1451"/>
+<area shape="rect" id="node64" href="$v1_80_2common_2mavlink__msg__param__request__read_8h.html" title="./mavlink_msg_param\l_request_read.h" alt="" coords="1895,1417,2045,1458"/>
+<area shape="rect" id="node65" href="$v1_80_2common_2mavlink__msg__param__request__list_8h.html" title="./mavlink_msg_param\l_request_list.h" alt="" coords="2070,1417,2220,1458"/>
+<area shape="rect" id="node66" href="$v1_80_2common_2mavlink__msg__param__value_8h.html" title="./mavlink_msg_param\l_value.h" alt="" coords="2245,1417,2395,1458"/>
+<area shape="rect" id="node67" href="$v1_80_2common_2mavlink__msg__param__set_8h.html" title="./mavlink_msg_param\l_set.h" alt="" coords="2419,1417,2569,1458"/>
+<area shape="rect" id="node68" href="$v1_80_2common_2mavlink__msg__gps__raw__int_8h.html" title="./mavlink_msg_gps_raw\l_int.h" alt="" coords="2595,1417,2757,1458"/>
+<area shape="rect" id="node69" href="$v1_80_2common_2mavlink__msg__gps__status_8h.html" title="./mavlink_msg_gps_status.h" alt="" coords="2781,1424,2971,1451"/>
+<area shape="rect" id="node70" href="$v1_80_2common_2mavlink__msg__scaled__imu_8h.html" title="./mavlink_msg_scaled\l_imu.h" alt="" coords="2995,1417,3147,1458"/>
+<area shape="rect" id="node131" href="$AP__GPS__MTK__Common_8h.html" title="AP_GPS_MTK_Common.h" alt="" coords="6676,808,6857,835"/>
+<area shape="rect" id="node139" href="$AP__Compass_8h.html" title="Catch&#45;all header that defines all supported compass classes. " alt="" coords="10125,560,10240,587"/>
+<area shape="rect" id="node147" href="$AP__Airspeed_8h.html" title="AP_Airspeed.h" alt="" coords="13255,717,13364,744"/>
+<area shape="rect" id="node152" href="$AP__InertialSensor_8h.html" title="AP_InertialSensor.h" alt="" coords="11543,560,11681,587"/>
+<area shape="rect" id="node179" href="$AP__Baro_8h.html" title="AP_Baro.h" alt="" coords="13635,635,13720,661"/>
+<area shape="rect" id="node185" href="$AP__OpticalFlow_8h.html" title="Catch&#45;all header that defines all supported optical flow classes. " alt="" coords="9138,470,9288,511"/>
+<area shape="rect" id="node190" href="$AP__AHRS__DCM_8h.html" title="AP_AHRS_DCM.h" alt="" coords="12755,395,12889,421"/>
+<area shape="rect" id="node191" href="$AP__AHRS__NavEKF_8h.html" title="AP_AHRS_NavEKF.h" alt="" coords="12914,395,13067,421"/>
+<area shape="rect" id="node140" href="$AP__Compass__HMC5843_8h.html" title="AP_Compass_HMC5843.h" alt="" coords="9998,635,10177,661"/>
+<area shape="rect" id="node144" href="$AP__Compass__HIL_8h.html" title="AP_Compass_HIL.h" alt="" coords="9467,808,9609,835"/>
+<area shape="rect" id="node145" href="$AP__Compass__AK8963_8h.html" title="AP_Compass_AK8963.h" alt="" coords="9686,808,9852,835"/>
+<area shape="rect" id="node146" href="$AP__Compass__PX4_8h.html" title="AP_Compass_PX4.h" alt="" coords="10301,808,10448,835"/>
+<area shape="rect" id="node141" href="$Compass_8h.html" title="Compass.h" alt="" coords="10043,717,10132,744"/>
+<area shape="rect" id="node143" href="$AP__Compass__Backend_8h.html" title="AP_Compass_Backend.h" alt="" coords="10329,899,10500,925"/>
+<area shape="rect" id="node142" href="$AP__Declination_8h.html" title="AP_Declination.h" alt="" coords="9928,808,10051,835"/>
+<area shape="rect" id="node148" href="$AP__Airspeed__Backend_8h.html" title="AP_Airspeed_Backend.h" alt="" coords="13233,899,13399,925"/>
+<area shape="rect" id="node149" href="$AP__Airspeed__analog_8h.html" title="AP_Airspeed_analog.h" alt="" coords="13153,808,13307,835"/>
+<area shape="rect" id="node150" href="$AP__Airspeed__PX4_8h.html" title="AP_Airspeed_PX4.h" alt="" coords="13383,808,13523,835"/>
+<area shape="rect" id="node151" href="$AP__Airspeed__I2C_8h.html" title="AP_Airspeed_I2C.h" alt="" coords="13549,808,13685,835"/>
+<area shape="rect" id="node153" href="$AP__InertialSensor__UserInteract_8h.html" title="AP_InertialSensor_UserInteract.h" alt="" coords="12274,808,12491,835"/>
+<area shape="rect" id="node154" href="$AP__InertialSensor__Backend_8h.html" title="AP_InertialSensor_Backend.h" alt="" coords="12226,635,12421,661"/>
+<area shape="rect" id="node155" href="$AP__InertialSensor__MPU6000_8h.html" title="AP_InertialSensor_MPU6000.h" alt="" coords="10603,635,10805,661"/>
+<area shape="rect" id="node165" href="$AP__InertialSensor__PX4_8h.html" title="AP_InertialSensor_PX4.h" alt="" coords="11737,635,11908,661"/>
+<area shape="rect" id="node170" href="$AP__InertialSensor__Oilpan_8h.html" title="AP_InertialSensor_Oilpan.h" alt="" coords="12549,635,12731,661"/>
+<area shape="rect" id="node171" href="$AP__InertialSensor__MPU9250_8h.html" title="AP_InertialSensor_MPU9250.h" alt="" coords="10829,635,11032,661"/>
+<area shape="rect" id="node172" href="$AP__InertialSensor__L3G4200D_8h.html" title="AP_InertialSensor_L3G4200D.h" alt="" coords="11057,635,11263,661"/>
+<area shape="rect" id="node174" href="$AP__InertialSensor__Flymaple_8h.html" title="AP_InertialSensor_Flymaple.h" alt="" coords="11287,635,11485,661"/>
+<area shape="rect" id="node175" href="$AP__InertialSensor__MPU9150_8h.html" title="AP_InertialSensor_MPU9150.h" alt="" coords="11511,635,11713,661"/>
+<area shape="rect" id="node176" href="$AP__InertialSensor__HIL_8h.html" title="AP_InertialSensor_HIL.h" alt="" coords="11933,635,12099,661"/>
+<area shape="rect" id="node177" href="$AP__InertialSensor__UserInteract__Stream_8h.html" title="AP_InertialSensor_UserInteract\l_Stream.h" alt="" coords="12618,710,12824,751"/>
+<area shape="rect" id="node178" href="$AP__InertialSensor__UserInteract__MAVLink_8h.html" title="AP_InertialSensor_UserInteract\l_MAVLink.h" alt="" coords="12285,710,12491,751"/>
+<area shape="rect" id="node156" href="$Filter_8h.html" title="Filter.h" alt="" coords="11286,717,11348,744"/>
+<area shape="rect" id="node164" href="$LowPassFilter2p_8h.html" title="A class to implement a second order low pass filter Author: Leonard Hall LeonardTHall@gmail.com " alt="" coords="11131,717,11260,744"/>
+<area shape="rect" id="node157" href="$FilterClass_8h.html" title="A pure virtual interface class. " alt="" coords="11332,989,11428,1016"/>
+<area shape="rect" id="node158" href="$AverageFilter_8h.html" title="A class to provide the average of a number of samples. " alt="" coords="11390,808,11500,835"/>
+<area shape="rect" id="node159" href="$FilterWithBuffer_8h.html" title="A filter with a buffer. This is implemented separately to the base Filter class to get around restric..." alt="" coords="11418,899,11541,925"/>
+<area shape="rect" id="node160" href="$DerivativeFilter_8h.html" title="DerivativeFilter.h" alt="" coords="11627,808,11748,835"/>
+<area shape="rect" id="node161" href="$LowPassFilter_8h.html" title="A class to implement a low pass filter without losing precision even for int types the downside being..." alt="" coords="11131,808,11247,835"/>
+<area shape="rect" id="node162" href="$ModeFilter_8h.html" title="A class to apply a mode filter which is basically picking the median value from the last x samples th..." alt="" coords="11271,808,11365,835"/>
+<area shape="rect" id="node163" href="$Butter_8h.html" title="Butter.h" alt="" coords="11510,1080,11577,1107"/>
+<area shape="rect" id="node180" href="$AP__Baro__Backend_8h.html" title="AP_Baro_Backend.h" alt="" coords="13439,717,13581,744"/>
+<area shape="rect" id="node181" href="$AP__Baro__MS5611_8h.html" title="AP_Baro_MS5611.h" alt="" coords="14053,717,14192,744"/>
+<area shape="rect" id="node182" href="$AP__Baro__BMP085_8h.html" title="AP_Baro_BMP085.h" alt="" coords="13606,717,13748,744"/>
+<area shape="rect" id="node183" href="$AP__Baro__HIL_8h.html" title="AP_Baro_HIL.h" alt="" coords="13773,717,13885,744"/>
+<area shape="rect" id="node184" href="$AP__Baro__PX4_8h.html" title="AP_Baro_PX4.h" alt="" coords="13911,717,14027,744"/>
+<area shape="rect" id="node186" href="$OpticalFlow_8h.html" title="OpticalFlow.h" alt="" coords="9086,808,9188,835"/>
+<area shape="rect" id="node187" href="$OpticalFlow__backend_8h.html" title="OpticalFlow_backend.h" alt="" coords="9627,899,9785,925"/>
+<area shape="rect" id="node188" href="$AP__OpticalFlow__HIL_8h.html" title="AP_OpticalFlow_HIL.h" alt="" coords="9265,899,9419,925"/>
+<area shape="rect" id="node189" href="$AP__OpticalFlow__PX4_8h.html" title="AP_OpticalFlow_PX4.h" alt="" coords="9445,899,9603,925"/>
+<area shape="rect" id="node192" href="$AP__NavEKF_8h.html" title="AP_NavEKF.h" alt="" coords="12934,477,13041,504"/>
+<area shape="rect" id="node193" href="$AP__Nav__Common_8h.html" title="AP_Nav_Common.h" alt="" coords="13025,560,13167,587"/>
+<area shape="rect" id="node194" href="$AP__RangeFinder_8h.html" title="Catch&#45;all header that defines all supported RangeFinder classes. " alt="" coords="12817,560,12948,587"/>
+<area shape="rect" id="node196" href="$vectorN_8h.html" title="vectorN.h" alt="" coords="12999,1080,13077,1107"/>
+<area shape="rect" id="node195" href="$RangeFinder_8h.html" title="RangeFinder.h" alt="" coords="12617,808,12724,835"/>
+<area shape="rect" id="node199" href="$RC__Channel__aux_8h.html" title="RC_Channel manager for auxiliary channels (5..8), with EEPROM&#45;backed storage of constants. " alt="" coords="8821,989,8956,1016"/>
+</map>

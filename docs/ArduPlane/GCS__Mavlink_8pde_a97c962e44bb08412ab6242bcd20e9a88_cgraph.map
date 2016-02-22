@@ -1,0 +1,10 @@
+<map id="send_vfr_hud" name="send_vfr_hud">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#a4721e9a79d9611e1f693d4850c07edc0" title="AP_Airspeed::enabled" alt="" coords="170,5,321,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#a1027b15b91e0af1dbfe8b999a88c8a25" title="AP_Airspeed::get_airspeed" alt="" coords="155,56,335,83"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a9cbf8cb68e28b401c10a9f2065495b46" title="AP_AHRS_DCM::airspeed\l_estimate" alt="" coords="155,107,335,149"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="163,173,327,200"/>
+<area shape="rect" id="node6" href="$system_8pde.html#aace1398ffda9439d94207326348ef40b" title="throttle_percentage" alt="" coords="179,224,312,251"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Baro.html#afd63ca7ecadb313c2217bd9f7e6a7b42" title="AP_Baro::get_climb_rate" alt="" coords="162,275,329,301"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="418,199,529,225"/>
+<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#acbef0e8e40f867ca4d8d6c19598dcff5" title="RC_Channel::norm_output" alt="" coords="385,249,562,276"/>
+</map>

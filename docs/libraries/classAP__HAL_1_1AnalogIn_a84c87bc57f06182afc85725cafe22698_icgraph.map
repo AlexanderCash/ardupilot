@@ -1,0 +1,5 @@
+<map id="AP_HAL::AnalogIn::board_voltage" name="AP_HAL::AnalogIn::board_voltage">
+<area shape="rect" id="node2" href="$classDataFlash__Class.html#a1a8930525fbd06f38f6ea6bd3df25334" title="DataFlash_Class::Log\l_Write_Current" alt="" coords="248,5,400,46"/>
+<area shape="rect" id="node3" href="$classDataFlash__Class.html#a0244745bcbf21252169dbca26be44557" title="DataFlash_Class::Log\l_Write_Power" alt="" coords="248,70,400,111"/>
+<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#a731179362dc1cb1bbd2fd77eec523d8b" title="GCS_MAVLINK::send_power\l_status" alt="" coords="227,135,421,177"/>
+</map>

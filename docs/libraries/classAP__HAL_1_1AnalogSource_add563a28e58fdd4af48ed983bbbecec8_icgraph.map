@@ -1,0 +1,12 @@
+<map id="AP_HAL::AnalogSource::set_pin" name="AP_HAL::AnalogSource::set_pin">
+<area shape="rect" id="node2" href="$classAP__Airspeed__Analog.html#a33da45ef81801b4971ed1afe3e2183fb" title="AP_Airspeed_Analog\l::get_differential_pressure" alt="" coords="217,23,389,65"/>
+<area shape="rect" id="node8" href="$examples_2AnalogIn_2AnalogIn_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="279,89,326,116"/>
+<area shape="rect" id="node9" href="$classAP__BattMonitor__Analog.html#aea3c22d36fc78bf8d9b8a86a193f3eae" title="Read the battery voltage and current. Should be called at 10hz. " alt="" coords="222,141,383,182"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__analog.html#a79298166e180b5de2cf9f7c9dbcf56ea" title="AP_RangeFinder_analog\l::update_voltage" alt="" coords="219,206,386,247"/>
+<area shape="rect" id="node3" href="$classAP__Airspeed.html#a2d265701a127bd336882e930cb996e86" title="AP_Airspeed::get_pressure" alt="" coords="437,31,619,57"/>
+<area shape="rect" id="node4" href="$classAP__Airspeed.html#afb7c91590b3efc00ee2d72cc6bcc856f" title="AP_Airspeed::calibrate" alt="" coords="667,5,821,32"/>
+<area shape="rect" id="node6" href="$classAP__Airspeed.html#af713d23fce3c9a5e78e043d4e3b2d012" title="AP_Airspeed::read" alt="" coords="679,56,809,83"/>
+<area shape="rect" id="node5" href="$Airspeed_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="870,5,925,32"/>
+<area shape="rect" id="node7" href="$Airspeed_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="874,56,921,83"/>
+<area shape="rect" id="node11" href="$classAP__RangeFinder__analog.html#ad997f109f592a3c9f875655af6ad6de0" title="AP_RangeFinder_analog\l::update" alt="" coords="445,206,611,247"/>
+</map>

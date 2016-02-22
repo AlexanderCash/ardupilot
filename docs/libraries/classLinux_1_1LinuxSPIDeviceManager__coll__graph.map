@@ -1,0 +1,8 @@
+<map id="Linux::LinuxSPIDeviceManager" name="Linux::LinuxSPIDeviceManager">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDeviceManager.html" title="AP_HAL::SPIDeviceManager" alt="" coords="5,96,200,123"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxSemaphore.html" title="Linux::LinuxSemaphore" alt="" coords="225,96,383,123"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="231,5,377,32"/>
+<area shape="rect" id="node5" href="$classLinux_1_1LinuxSPIDeviceDriver.html" title="Linux::LinuxSPIDeviceDriver" alt="" coords="407,96,597,123"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="407,5,585,32"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1DigitalSource.html" title="AP_HAL::DigitalSource" alt="" coords="610,5,768,32"/>
+</map>

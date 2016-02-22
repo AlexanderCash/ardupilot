@@ -1,0 +1,33 @@
+digraph "mavlink_test_set_nav_mode"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="mavlink_test_set_nav_mode",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="mavlink_msg_set_nav\l_mode_encode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__set__nav__mode_8h.html#ac9aaf3c308c7b47343931e05dd0cd883",tooltip="Encode a set_nav_mode struct into a message. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="mavlink_msg_set_nav\l_mode_pack",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__set__nav__mode_8h.html#a3a2e27564668b41d8f5b39c0592c34b8",tooltip="Pack a set_nav_mode message. "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="mavlink_finalize_message",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0",tooltip="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="mavlink_msg_set_nav\l_mode_decode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__set__nav__mode_8h.html#a05f5ac85490e504ce6527bd742e3634a",tooltip="Decode a set_nav_mode message into a struct. "];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="mavlink_msg_set_nav\l_mode_get_target",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__set__nav__mode_8h.html#aa25511f3d9a0e83a6b5f31f8a2bdbc85",tooltip="Send a set_nav_mode message. "];
+  Node5 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="mavlink_msg_set_nav\l_mode_get_nav_mode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__set__nav__mode_8h.html#ac64b1926370ffc793995ddbed7ea26c0",tooltip="Get field nav_mode from set_nav_mode message. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="mavlink_msg_set_nav\l_mode_pack_chan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__set__nav__mode_8h.html#a4523f93d78da5ad7f876a57ce2eb1854",tooltip="Pack a set_nav_mode message on a channel. "];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="mavlink_finalize_message_chan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422",tooltip="Finalize a MAVLink message with channel assignment. "];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="mavlink_msg_to_send\l_buffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e",tooltip="Pack a message to send it over a serial byte stream. "];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="mavlink_msg_get_send\l_buffer_length",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8",tooltip="Get the required buffer size for this message. "];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="comm_send_ch",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8"];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="AP_HAL::Print::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501"];
+}

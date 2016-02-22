@@ -1,0 +1,8 @@
+<map id="AP_HAL::SPIDeviceDriver" name="AP_HAL::SPIDeviceDriver">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRSPI0DeviceDriver.html" title="AP_HAL_AVR::AVRSPI0Device\lDriver" alt="" coords="233,5,447,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRSPI2DeviceDriver.html" title="AP_HAL_AVR::AVRSPI2Device\lDriver" alt="" coords="233,70,447,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRSPI3DeviceDriver.html" title="AP_HAL_AVR::AVRSPI3Device\lDriver" alt="" coords="233,135,447,177"/>
+<area shape="rect" id="node5" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLESPIDeviceDriver.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLESPIDeviceDriver" alt="" coords="241,201,439,242"/>
+<area shape="rect" id="node6" href="$classEmpty_1_1EmptySPIDeviceDriver.html" title="Empty::EmptySPIDeviceDriver" alt="" coords="238,267,442,293"/>
+<area shape="rect" id="node7" href="$classLinux_1_1LinuxSPIDeviceDriver.html" title="Linux::LinuxSPIDeviceDriver" alt="" coords="245,317,435,344"/>
+</map>

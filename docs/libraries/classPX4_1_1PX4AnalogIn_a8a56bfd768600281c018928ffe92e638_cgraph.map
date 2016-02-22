@@ -1,0 +1,9 @@
+<map id="PX4::PX4AnalogIn::_timer_tick" name="PX4::PX4AnalogIn::_timer_tick">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="201,5,348,46"/>
+<area shape="rect" id="node3" href="$classPX4_1_1PX4AnalogIn.html#a7faa536d4196883a2cc9e634e7ef2bc3" title="PX4::PX4AnalogIn::next\l_stop_pin" alt="" coords="193,122,357,163"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="417,63,564,105"/>
+<area shape="rect" id="node7" href="$classPX4_1_1PX4AnalogSource.html#a92f62157a3a0f767589c3242dee448d6" title="PX4::PX4AnalogSource\l::_add_value" alt="" coords="194,187,355,229"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Util.html#a973ee89f8eee7af3a4d2a3eb700cbf3c" title="AP_HAL::Util::get_soft\l_armed" alt="" coords="197,253,353,294"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="405,129,576,156"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="415,180,566,207"/>
+</map>

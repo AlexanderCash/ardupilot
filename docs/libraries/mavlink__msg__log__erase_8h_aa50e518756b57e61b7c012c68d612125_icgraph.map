@@ -1,0 +1,6 @@
+<map id="mavlink_msg_log_erase_pack" name="mavlink_msg_log_erase_pack">
+<area shape="rect" id="node2" href="$mavlink__msg__log__erase_8h.html#a8e5b55f46d5e1c715c5302dcaf398702" title="Encode a log_erase struct. " alt="" coords="251,5,413,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#ab14831a3b1843093ec02e8972909a28f" title="mavlink_test_log_erase" alt="" coords="462,41,621,68"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="670,41,823,68"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="873,41,989,68"/>
+</map>

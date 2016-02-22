@@ -1,0 +1,8 @@
+<map id="test_accuracy" name="test_accuracy">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="158,5,311,46"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="187,71,283,97"/>
+<area shape="rect" id="node4" href="$location_8cpp.html#ad2368c582f3e0c135e2a74772f4db61a" title="longitude_scale" alt="" coords="360,45,472,72"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="366,96,466,123"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="520,45,627,72"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="554,96,593,123"/>
+</map>

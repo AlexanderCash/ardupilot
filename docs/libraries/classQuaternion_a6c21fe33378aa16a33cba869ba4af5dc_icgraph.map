@@ -1,0 +1,5 @@
+<map id="Quaternion::from_axis_angle" name="Quaternion::from_axis_angle">
+<area shape="rect" id="node2" href="$classQuaternion.html#aad078c52b4d7e9221963199f0dd075df" title="Quaternion::rotate" alt="" coords="278,5,405,32"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#a6718baa569eff65fb4e317ecf5426598" title="NavEKF::UpdateStrapdownEquationsNED" alt="" coords="206,56,477,83"/>
+<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="526,56,677,83"/>
+</map>

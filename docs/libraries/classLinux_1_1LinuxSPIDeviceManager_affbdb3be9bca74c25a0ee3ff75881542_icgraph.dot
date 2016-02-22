@@ -1,0 +1,12 @@
+digraph "Linux::LinuxSPIDeviceManager::transaction"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Linux::LinuxSPIDeviceManager\l::transaction",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Linux::LinuxSPIDeviceDriver\l::transaction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxSPIDeviceDriver.html#a965f99c3d97f3020993967b5f6b9d21a"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Linux::LinuxSPIDeviceDriver\l::transfer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxSPIDeviceDriver.html#ad9b6ff548d1a58fc5688383e64fa46b0"];
+}

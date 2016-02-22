@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gimbal_home_offset_calibration_result_encode_chan" name="mavlink_msg_gimbal_home_offset_calibration_result_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__home__offset__calibration__result_8h.html#abeac0d18de3aa7729e753a0632e6ef3c" title="Pack a gimbal_home_offset_calibration_result message on a channel. " alt="" coords="222,4,389,60"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="437,19,648,45"/>
+</map>

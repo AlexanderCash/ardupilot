@@ -1,0 +1,10 @@
+<map id="AP_Baro_MS5611" name="AP_Baro_MS5611">
+<area shape="rect" id="node2" href="$classAP__Baro__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="613,176,744,203"/>
+<area shape="rect" id="node3" href="$classAP__Baro.html" title="AP_Baro" alt="" coords="387,267,460,293"/>
+<area shape="rect" id="node4" href="$structAP__Baro_1_1sensor.html" title="AP_Baro::sensor" alt="" coords="5,176,125,203"/>
+<area shape="rect" id="node5" href="$classDerivativeFilter.html" title="DerivativeFilter\&lt; float, 7 \&gt;" alt="" coords="150,176,324,203"/>
+<area shape="rect" id="node6" href="$classFilterWithBuffer.html" title="FilterWithBuffer\&lt; float,\l FILTER_SIZE \&gt;" alt="" coords="160,83,313,125"/>
+<area shape="rect" id="node7" href="$classFilter.html" title="Filter\&lt; float \&gt;" alt="" coords="187,5,287,32"/>
+<area shape="rect" id="node8" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="349,176,499,203"/>
+<area shape="rect" id="node9" href="$classAP__SerialBus.html" title="AP_SerialBus" alt="" coords="769,176,871,203"/>
+</map>

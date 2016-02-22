@@ -1,0 +1,4 @@
+<map id="RC_Channel_aux::set_servo_failsafe" name="RC_Channel_aux::set_servo_failsafe">
+<area shape="rect" id="node2" href="$classAPM__OBC.html#adf90097b54be3e9ffbf21f675e411b6c" title="APM_OBC::setup_failsafe" alt="" coords="205,12,381,39"/>
+<area shape="rect" id="node3" href="$classAPM__OBC.html#acfedfcd0f28b1d53b722766e321b534e" title="APM_OBC::check_crash\l_plane" alt="" coords="430,5,599,46"/>
+</map>

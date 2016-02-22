@@ -1,0 +1,9 @@
+<map id="libraries/AP_HAL_AVR/utility/pins_arduino_mega.h" name="libraries/AP_HAL_AVR/utility/pins_arduino_mega.h">
+<area shape="rect" id="node2" href="$AP__HAL__AVR_2GPIO_8cpp.html" title="libraries/AP_HAL_AVR\l/GPIO.cpp" alt="" coords="5,117,163,158"/>
+<area shape="rect" id="node3" href="$SPIDevice__SPI0_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI0.cpp" alt="" coords="187,117,344,158"/>
+<area shape="rect" id="node4" href="$SPIDevice__SPI2_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI2.cpp" alt="" coords="368,117,525,158"/>
+<area shape="rect" id="node5" href="$SPIDevice__SPI3_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI3.cpp" alt="" coords="549,117,707,158"/>
+<area shape="rect" id="node6" href="$SPIDeviceManager__APM1_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDeviceManager_APM1.cpp" alt="" coords="731,117,937,158"/>
+<area shape="rect" id="node7" href="$SPIDeviceManager__APM2_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDeviceManager_APM2.cpp" alt="" coords="962,117,1168,158"/>
+<area shape="rect" id="node8" href="$pins__arduino__mega_8cpp.html" title="libraries/AP_HAL_AVR\l/utility/pins_arduino\l_mega.cpp" alt="" coords="1193,109,1351,165"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="AP_GPS_SIRF" name="AP_GPS_SIRF">
+<area shape="rect" id="node2" href="$classAP__GPS__Backend.html" title="AP_GPS_Backend" alt="" coords="1012,125,1145,152"/>
+<area shape="rect" id="node7" href="$classAP__GPS.html" title="AP_GPS" alt="" coords="1319,232,1393,259"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="662,89,815,116"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="403,89,562,116"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="181,89,304,116"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="6,89,114,116"/>
+<area shape="rect" id="node8" href="$structAP__GPS_1_1detect__state.html" title="AP_GPS::detect_state" alt="" coords="1001,307,1156,333"/>
+<area shape="rect" id="node9" href="$structSBP__detect__state.html" title="SBP_detect_state" alt="" coords="675,208,803,235"/>
+<area shape="rect" id="node10" href="$structUBLOX__detect__state.html" title="UBLOX_detect_state" alt="" coords="665,259,812,285"/>
+<area shape="rect" id="node11" href="$structSIRF__detect__state.html" title="SIRF_detect_state" alt="" coords="673,309,805,336"/>
+<area shape="rect" id="node12" href="$structMTK19__detect__state.html" title="MTK19_detect_state" alt="" coords="667,360,810,387"/>
+<area shape="rect" id="node13" href="$structNMEA__detect__state.html" title="NMEA_detect_state" alt="" coords="669,411,809,437"/>
+<area shape="rect" id="node14" href="$structMTK__detect__state.html" title="MTK_detect_state" alt="" coords="674,461,803,488"/>
+<area shape="rect" id="node15" href="$structAP__GPS_1_1GPS__timing.html" title="AP_GPS::GPS_timing" alt="" coords="1002,249,1155,276"/>
+<area shape="rect" id="node16" href="$classDataFlash__Class.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="1017,489,1140,516"/>
+<area shape="rect" id="node17" href="$structLogStructure.html" title="LogStructure" alt="" coords="691,512,787,539"/>
+<area shape="rect" id="node18" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="1003,396,1154,423"/>
+<area shape="rect" id="node19" href="$structAP__GPS_1_1GPS__State.html" title="AP_GPS::GPS_State" alt="" coords="664,152,813,179"/>
+<area shape="rect" id="node20" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="425,144,541,171"/>
+<area shape="rect" id="node21" href="$structLocation.html" title="Location" alt="" coords="447,195,518,221"/>
+<area shape="rect" id="node22" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="165,195,320,221"/>
+<area shape="rect" id="node23" href="$structAP__GPS__SIRF_1_1sirf__geonav.html" title="AP_GPS_SIRF::sirf_geonav" alt="" coords="985,5,1173,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AP_HAL_FLYMAPLE_NS::FLYMAPLEI2CDriver::readRegister" name="AP_HAL_FLYMAPLE_NS::FLYMAPLEI2CDriver::readRegister">
+<area shape="rect" id="node2" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#a46c3373a00a7bb3a157a9cb6bd3bf2fa" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::readRegisters" alt="" coords="230,4,405,60"/>
+<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#a709fc3df3c6f770655bc8cf3da5a3ad7" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::_transfer" alt="" coords="454,4,629,60"/>
+<area shape="rect" id="node4" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#aa4008883fef11c0970e355c9b32edb9f" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::_reset" alt="" coords="678,4,853,60"/>
+</map>

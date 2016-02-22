@@ -1,0 +1,6 @@
+<map id="GCS_MAVLINK::send_to_components" name="GCS_MAVLINK::send_to_components">
+<area shape="rect" id="node2" href="$classAP__Camera.html#a57bca3faf48ab4baa3052f4480b69747" title="AP_Camera::configure_cmd" alt="" coords="224,5,411,32"/>
+<area shape="rect" id="node3" href="$classAP__Camera.html#a8c38ae3e667768f0564aed16722453f3" title="AP_Camera::control_cmd" alt="" coords="459,56,631,83"/>
+<area shape="rect" id="node4" href="$classAP__Camera.html#a74372e2b8e5d3cd3b464f2ef417cb0f6" title="AP_Camera::trigger_pic" alt="" coords="237,107,398,133"/>
+<area shape="rect" id="node5" href="$classAP__Camera.html#a27664cf70d78d5af17d66a3d715048db" title="decode MavLink that controls camera " alt="" coords="459,107,631,133"/>
+</map>

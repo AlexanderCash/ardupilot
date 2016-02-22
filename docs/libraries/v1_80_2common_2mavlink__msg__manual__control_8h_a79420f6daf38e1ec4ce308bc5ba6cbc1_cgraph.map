@@ -1,0 +1,4 @@
+<map id="mavlink_msg_manual_control_encode" name="mavlink_msg_manual_control_encode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__manual__control_8h.html#af47fdab3ea29c73af0d7797d78747f3e" title="Pack a manual_control message. " alt="" coords="203,5,351,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="401,12,575,39"/>
+</map>

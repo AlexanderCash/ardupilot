@@ -1,0 +1,7 @@
+<map id="DataFlash_APM1::WaitReady" name="DataFlash_APM1::WaitReady">
+<area shape="rect" id="node2" href="$classDataFlash__APM1.html#ac6237807304039f6a9152285ea4733d9" title="DataFlash_APM1::ReadStatus" alt="" coords="253,77,456,104"/>
+<area shape="rect" id="node3" href="$classDataFlash__APM1.html#a45d36ee2aec52e9a91d273d73af1b9b9" title="DataFlash_APM1::ReadStatusReg" alt="" coords="504,77,731,104"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html#adcf5550715404a610251a05f19c5d7f7" title="AP_HAL::SPIDeviceDriver\l::cs_assert" alt="" coords="779,5,957,46"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1SPIDeviceDriver.html#ab5464ab7f3f7936ba955e7ac111a8991" title="AP_HAL::SPIDeviceDriver\l::transfer" alt="" coords="779,70,957,111"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1SPIDeviceDriver.html#ac4f961b121a7f66fb189e63e617d4715" title="AP_HAL::SPIDeviceDriver\l::cs_release" alt="" coords="779,135,957,177"/>
+</map>

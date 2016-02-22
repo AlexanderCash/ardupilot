@@ -1,0 +1,7 @@
+<map id="Linux::LinuxUARTDriver::_timer_tick" name="Linux::LinuxUARTDriver::_timer_tick">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxUARTDriver.html#a0473e135769e0e46a828f89d21e14f6e" title="Linux::LinuxUARTDriver\l::_write_fd" alt="" coords="219,5,383,46"/>
+<area shape="rect" id="node5" href="$classLinux_1_1LinuxUARTDriver.html#aa1980b215d66416b2110e26ec7e5fd2e" title="Linux::LinuxUARTDriver\l::_read_fd" alt="" coords="219,70,383,111"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxUARTDriver.html#a4a235180a7626eec1cdf53b850a89242" title="Linux::LinuxUARTDriver\l::write" alt="" coords="433,5,597,46"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="645,5,792,46"/>
+<area shape="rect" id="node6" href="$classLinux_1_1LinuxUARTDriver.html#a0047c2c25a1c64e0a80f15d6a3fa00da" title="Linux::LinuxUARTDriver\l::read" alt="" coords="433,70,597,111"/>
+</map>

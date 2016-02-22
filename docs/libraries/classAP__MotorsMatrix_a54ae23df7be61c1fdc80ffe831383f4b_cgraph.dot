@@ -1,0 +1,32 @@
+digraph "AP_MotorsMatrix::output_armed_not_stabilizing"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_MotorsMatrix::output\l_armed_not_stabilizing",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_Motors::rel_pwm\l_to_thr_range",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Motors.html#a6435b61c99ea09179e1723656cf78a85"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="RC_Channel::calc_pwm",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classRC__Channel.html#a5876259d8fb8c1c475322a236bae7819"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="RC_Channel::range_to_pwm",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classRC__Channel.html#ac50875b55ac524f9d0b2ee50174bd300"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="RC_Channel::angle_to_pwm",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classRC__Channel.html#abcf4a69f7323c85306e8a25b34e929b3"];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="constrain_int16",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="AP_Motors::apply_thrust\l_curve_and_volt_scaling",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Motors.html#a17439e7e7cfda7bbc3e9911c2f5dd20b"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="safe_sqrt",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b"];
+  Node7 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="LowPassFilterFloat::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLowPassFilterFloat.html#a26e58fd86bce9a357a94ee6afdf6e94d"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="DigitalLPF::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDigitalLPF.html#ae897c24f1bbe856fa98bb90949ae99c8"];
+  Node7 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="constrain_float",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="AP_HAL::RCOutput::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60"];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pgm_read_byte",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da"];
+}

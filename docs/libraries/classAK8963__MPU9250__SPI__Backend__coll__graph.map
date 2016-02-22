@@ -1,0 +1,5 @@
+<map id="AK8963_MPU9250_SPI_Backend" name="AK8963_MPU9250_SPI_Backend">
+<area shape="rect" id="node2" href="$classAK8963__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="156,5,303,32"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="327,5,505,32"/>
+</map>

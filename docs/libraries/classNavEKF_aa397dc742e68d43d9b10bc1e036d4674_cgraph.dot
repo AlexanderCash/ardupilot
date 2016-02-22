@@ -1,0 +1,34 @@
+digraph "NavEKF::send_status_report"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="NavEKF::send_status\l_report",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="NavEKF::getFilterStatus",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a84cacea011683356ae5fcd2eb2e30fcc"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="NavEKF::assume_zero\l_sideslip",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#aede9e0e542bbf09e7815a71cd3ed3437"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="AP_AHRS::get_fly_forward",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__AHRS.html#a6120b45de751ab784fdfdd04f437b44e"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="AP_AHRS::get_vehicle\l_class",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__AHRS.html#a91a73986f61cc338a22047e34230cbb2"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="NavEKF::healthy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ad418b75ceae3dde42f8c588b7e88abb4"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="NavEKF::getFilterFaults",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ab71619ef68ba5d8b11f68ef4f31a65c2"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Quaternion::is_nan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classQuaternion.html#aa3036ce97bb5a7394a2d65edecd8f1ab"];
+  Node7 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Vector3::is_nan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector3.html#a076ee3d40e645623b54650cca5ae6df7"];
+  Node6 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="sq",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="NavEKF::getVariances",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ac786ebf1b73275ba6ea744c0648b1d76"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="Vector3::length",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345"];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="pythagorous3",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#ac09c78b18c2ad21b9a04081f119f11c0"];
+  Node13 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

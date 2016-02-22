@@ -1,0 +1,5 @@
+<map id="AP_Compass_HIL::AP_Compass_HIL" name="AP_Compass_HIL::AP_Compass_HIL">
+<area shape="rect" id="node2" href="$classCompass.html#a0bc30e897c2c0c412120e1b1337bd1cb" title="Compass::_setup_earth\l_field" alt="" coords="211,23,373,65"/>
+<area shape="rect" id="node3" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="441,5,575,32"/>
+<area shape="rect" id="node4" href="$classCompass.html#a5051de1d15ee203600422235ab93c88c" title="Compass::get_declination" alt="" coords="421,56,595,83"/>
+</map>

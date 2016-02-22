@@ -1,0 +1,9 @@
+<map id="Linux::LinuxSPIUARTDriver::_read_fd" name="Linux::LinuxSPIUARTDriver::_read_fd">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxUARTDriver.html#aa1980b215d66416b2110e26ec7e5fd2e" title="Linux::LinuxUARTDriver\l::_read_fd" alt="" coords="251,5,415,46"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxSPIUARTDriver.html#a333f7c157d79a4d32c292c3e8412f11e" title="Linux::LinuxSPIUARTDriver\l::sem_take_nonblocking" alt="" coords="240,70,427,111"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="244,135,423,177"/>
+<area shape="rect" id="node7" href="$classLinux_1_1LinuxSPIUARTDriver.html#a5bc8250221023ba5463956c376812b58" title="Linux::LinuxSPIUARTDriver\l::sem_give" alt="" coords="240,201,427,242"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxUARTDriver.html#a0047c2c25a1c64e0a80f15d6a3fa00da" title="Linux::LinuxUARTDriver\l::read" alt="" coords="482,5,646,46"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="487,70,641,111"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="475,208,653,235"/>
+</map>

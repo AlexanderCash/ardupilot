@@ -1,0 +1,12 @@
+<map id="AP_HAL_AVR::AVRI2CDriver::readRegister" name="AP_HAL_AVR::AVRI2CDriver::readRegister">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a670d461aa076a280f94c4a4310a1ab28" title="AP_HAL_AVR::AVRI2CDriver\l::readRegisters" alt="" coords="253,135,453,177"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a5b514ca47e2922c1edc6d4bee9af0a40" title="AP_HAL_AVR::AVRI2CDriver\l::_start" alt="" coords="501,201,701,242"/>
+<area shape="rect" id="node7" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a4933b33026d6df5e3f3dc81a2f4fa66d" title="AP_HAL_AVR::AVRI2CDriver\l::_sendAddress" alt="" coords="501,5,701,46"/>
+<area shape="rect" id="node8" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#aa8a50cefa8dfc1e7be5e7582ff623ac3" title="AP_HAL_AVR::AVRI2CDriver\l::_sendByte" alt="" coords="501,70,701,111"/>
+<area shape="rect" id="node9" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#ade630cbd7b81e596e041f0fb2bc2ffca" title="AP_HAL_AVR::AVRI2CDriver\l::_receiveByte" alt="" coords="501,135,701,177"/>
+<area shape="rect" id="node10" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a2236b43fe7b73ed57ad71d140a92e1da" title="AP_HAL_AVR::AVRI2CDriver\l::_stop" alt="" coords="501,266,701,307"/>
+<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#ad2ed5866b98e4fc7a13a413f41b06904" title="AP_HAL_AVR::AVRI2CDriver\l::_waitInterrupt" alt="" coords="749,135,949,177"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="1024,135,1171,177"/>
+<area shape="rect" id="node6" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#ab61b4fd56d391eb9ad827400baf9fa97" title="AP_HAL_AVR::AVRI2CDriver\l::_handleLockup" alt="" coords="997,201,1197,242"/>
+<area shape="rect" id="node11" href="$classAP__HAL__AVR_1_1AVRI2CDriver.html#a705587f45673c106f5a02c8d742c6e3d" title="AP_HAL_AVR::AVRI2CDriver\l::_waitStop" alt="" coords="749,201,949,242"/>
+</map>

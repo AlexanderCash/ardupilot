@@ -1,0 +1,6 @@
+<map id="VRBRAIN::VRBRAINAnalogIn::channel" name="VRBRAIN::VRBRAINAnalogIn::channel">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="257,12,407,39"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="656,12,797,39"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="457,37,607,64"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="845,12,989,39"/>
+</map>

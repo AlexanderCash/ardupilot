@@ -1,0 +1,21 @@
+<map id="mavlink_test_gps_status" name="mavlink_test_gps_status">
+<area shape="rect" id="node2" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="953,94,1093,120"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#a7f2ac0f3bc21db0d8f79f475721d08d2" title="Encode a gps_status struct into a message. " alt="" coords="221,149,392,190"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#af06eb8afabaac8745416e6ac393b8dc0" title="Pack a gps_status message. " alt="" coords="440,94,645,120"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#a25fb7dbe61f4b8374ae6a06d91efdb2c" title="Decode a gps_status message into a struct. " alt="" coords="221,276,392,317"/>
+<area shape="rect" id="node15" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#a71e50e42e9217c6ad5cbe64a235c9c34" title="Pack a gps_status message on a channel. " alt="" coords="457,145,628,186"/>
+<area shape="rect" id="node17" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="231,341,383,382"/>
+<area shape="rect" id="node18" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="227,406,386,448"/>
+<area shape="rect" id="node19" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="249,538,364,564"/>
+<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#a64bb3513b0bb1439774f99bc2f27c38b" title="_mav_put_int8_t_array" alt="" coords="721,144,876,171"/>
+<area shape="rect" id="node6" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="711,94,886,120"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#a46e630b6ba9cdf45bf6eee11128f835d" title="Send a gps_status message. " alt="" coords="457,210,628,252"/>
+<area shape="rect" id="node9" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#a53bcafc102ed5270fa1f29e361a57fb9" title="Get field satellite_prn from gps_status message. " alt="" coords="457,276,628,317"/>
+<area shape="rect" id="node11" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#aed6a2497d81a440625b4fd788c431734" title="Get field satellite_used from gps_status message. " alt="" coords="457,341,628,382"/>
+<area shape="rect" id="node12" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#afcedbd26afa19c9af632f98f012ea690" title="Get field satellite_elevation from gps_status message. " alt="" coords="457,406,628,448"/>
+<area shape="rect" id="node13" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#a0839d6c5d7d8f90f7a8015dcd9e9df9c" title="Get field satellite_azimuth from gps_status message. " alt="" coords="457,472,628,513"/>
+<area shape="rect" id="node14" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#ace15425b97a09125dea93b5bc9342384" title="Get field satellite_snr from gps_status message. " alt="" coords="457,537,628,578"/>
+<area shape="rect" id="node10" href="$v0_89_2protocol_8h.html#a376f7eb3a7e5c20aac470d3571efdf00" title="_MAV_RETURN_int8_t\l_array" alt="" coords="718,406,879,448"/>
+<area shape="rect" id="node16" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="693,246,904,272"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="471,603,615,630"/>
+</map>

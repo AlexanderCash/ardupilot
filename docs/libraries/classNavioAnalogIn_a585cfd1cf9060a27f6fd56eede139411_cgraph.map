@@ -1,0 +1,4 @@
+<map id="NavioAnalogIn::_update" name="NavioAnalogIn::_update">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="229,5,376,46"/>
+<area shape="rect" id="node3" href="$classAP__ADC__ADS1115.html#ab7c03913c7d2b11802d504f73043f756" title="AP_ADC_ADS1115::read" alt="" coords="217,71,389,97"/>
+</map>

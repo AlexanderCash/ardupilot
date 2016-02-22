@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gimbal_request_axis_calibration_status_decode" name="mavlink_msg_gimbal_request_axis_calibration_status_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__request__axis__calibration__status_8h.html#acb5c940d900bba865e73f9d2b0b5a0b0" title="Send a gimbal_request_axis_calibration_status message. " alt="" coords="235,5,415,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gimbal__request__axis__calibration__status_8h.html#aa1a09af9f0866052832616f6532f3d56" title="Get field target_component from gimbal_request_axis_calibration_status message. " alt="" coords="225,85,426,141"/>
+</map>

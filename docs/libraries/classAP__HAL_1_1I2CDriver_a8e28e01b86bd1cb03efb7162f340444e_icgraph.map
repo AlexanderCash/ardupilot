@@ -1,0 +1,45 @@
+<map id="AP_HAL::I2CDriver::writeRegister" name="AP_HAL::I2CDriver::writeRegister">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Flymaple.html#ab88dfea90e4a971be10615f68d4e89bf" title="AP_InertialSensor_Flymaple\l::_init_sensor" alt="" coords="216,5,403,46"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__MPU9150.html#a5d916ede262de822fd6ab45c93e036ae" title="AP_InertialSensor_MPU9150\l::_init_sensor" alt="" coords="725,547,917,589"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__L3G4200D.html#ab760fee272b11822568d94d55734d2f2" title="AP_InertialSensor_L3G4200\lD::_init_sensor" alt="" coords="216,135,403,177"/>
+<area shape="rect" id="node10" href="$classAP__Baro__BMP085.html#a3e1a7692b1f37a05939ba7c42bc63fc8" title="AP_Baro_BMP085::Command\l_ReadPress" alt="" coords="210,70,409,111"/>
+<area shape="rect" id="node14" href="$classAP__Baro__BMP085.html#a1d67783c485f23ca9c80a97bd5722c21" title="AP_Baro_BMP085::Command\l_ReadTemp" alt="" coords="210,201,409,242"/>
+<area shape="rect" id="node16" href="$classToshibaLED__I2C.html#ab4c128ad9e8774de9a9a7714d5d15041" title="ToshibaLED_I2C::hw_init" alt="" coords="224,317,395,344"/>
+<area shape="rect" id="node17" href="$classAP__InertialSensor__MPU9150.html#a18a44cafa785c4cd017f08cc5a6890b6" title="Reset FIFO read/write pointers. " alt="" coords="213,434,405,475"/>
+<area shape="rect" id="node21" href="$classAP__InertialSensor__MPU9150.html#a2ec9ed7e9e69228c1b049f8a581312a7" title="Set the accel full&#45;scale range. " alt="" coords="475,579,667,621"/>
+<area shape="rect" id="node22" href="$classAP__InertialSensor__MPU9150.html#a52c42003f028832a315c4b8d5a827956" title="Set compass sampling rate. The compass on the auxiliary I2C bus is read by the MPU hardware at a maxi..." alt="" coords="200,499,419,541"/>
+<area shape="rect" id="node23" href="$classAP__InertialSensor__MPU9150.html#ac5ee90a87aaa7360d3f2d11f2a981726" title="Set the gyro full&#45;scale range. " alt="" coords="475,645,667,686"/>
+<area shape="rect" id="node24" href="$classAP__InertialSensor__MPU9150.html#a1815cc1868c7c9e92c68e414cc1c8368" title="Set digital low pass filter. The following LPF settings are supported: 188, 98, 42, 20, 10, 5. " alt="" coords="475,710,667,751"/>
+<area shape="rect" id="node25" href="$classAP__InertialSensor__MPU9150.html#a698a91c16b9e1e1639bb8981654bcf07" title="Set sampling rate. Sampling rate must be between 4Hz and 1kHz. " alt="" coords="475,775,667,817"/>
+<area shape="rect" id="node26" href="$classAP__InertialSensor__MPU9150.html#a6e1dbb9ed5a2d759db59071da683b0fc" title="Turn specific sensors on/off. sensors can contain a combination of the following flags: &#160;&#160;INV_X_GYRO..." alt="" coords="213,369,405,410"/>
+<area shape="rect" id="node27" href="$classLinux_1_1LinuxRCOutput__Navio.html#a3a0b61d36fc041236058d65f62a8e751" title="Linux::LinuxRCOutput\l_Navio::set_freq" alt="" coords="234,834,385,875"/>
+<area shape="rect" id="node29" href="$classAP__InertialSensor__MPU9150.html#a54e93b2cb6bab082dfd0644554bbab5f" title="Enable/disable data ready interrupt. If the DMP is on, the DMP interrupt is enabled. Otherwise, the data ready interrupt is used. " alt="" coords="213,565,405,606"/>
+<area shape="rect" id="node30" href="$AP__HAL__AVR_2examples_2I2CDriver__HMC5883L_2I2CDriver__HMC5883L_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="282,900,337,927"/>
+<area shape="rect" id="node31" href="$classAP__RangeFinder__PulsedLightLRF.html#aeb01c92de42ba4e384ef2a3cbc84f51f" title="AP_RangeFinder_PulsedLight\lLRF::start_reading" alt="" coords="211,951,407,993"/>
+<area shape="rect" id="node38" href="$classAP__Compass__HMC5843.html#a0216e4c0dd2ea0314e926d52ba89cbe4" title="AP_Compass_HMC5843\l::write_register" alt="" coords="225,1023,394,1065"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Flymaple.html#ae3e691d7e30d800ca000f31c7cbb4b6b" title="AP_InertialSensor_Flymaple\l::detect" alt="" coords="477,10,664,51"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="754,31,889,73"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="1667,435,1819,461"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1867,544,1922,571"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__MPU9150.html#a5ccaed9383c0dd4ba0450d690f2284b7" title="AP_InertialSensor_MPU9150\l::detect" alt="" coords="968,547,1160,589"/>
+<area shape="rect" id="node11" href="$classAP__Baro__BMP085.html#a17a0aef961a4ce8aa39073d889f678d6" title="AP_Baro_BMP085::accumulate" alt="" coords="467,113,674,140"/>
+<area shape="rect" id="node12" href="$AP__Baro__BMP085__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="798,159,845,185"/>
+<area shape="rect" id="node13" href="$classAP__Baro__BMP085.html#a2aa3463e9e908fef68b1f5ab699f1357" title="AP_Baro_BMP085::update" alt="" coords="732,108,911,135"/>
+<area shape="rect" id="node15" href="$classAP__Baro__BMP085.html#a2391b8ea8db43eed0d79e419798e747f" title="AP_Baro_BMP085::AP\l_Baro_BMP085" alt="" coords="492,201,649,242"/>
+<area shape="rect" id="node18" href="$classAP__InertialSensor__MPU9150.html#aabb66a96ba3568bc39fcb2ed8381e06d" title="Accumulate values from accels and gyros. " alt="" coords="475,449,667,490"/>
+<area shape="rect" id="node19" href="$classAP__InertialSensor__MPU9150.html#adcb93c24e742a509d7a3a83b49a12f94" title="Select which sensors are pushed to FIFO. sensors can contain a combination of the following flags: &#160;&#160;..." alt="" coords="475,514,667,555"/>
+<area shape="rect" id="node20" href="$classAP__InertialSensor__MPU9150.html#a4ffc7c830891e19a289795dc80886b42" title="Get one packet from the FIFO. If sensors does not contain a particular sensor, disregard the data ret..." alt="" coords="475,383,667,425"/>
+<area shape="rect" id="node28" href="$classLinux_1_1LinuxRCOutput__Navio.html#af499aa521845cdedd35be326cafeabe4" title="Linux::LinuxRCOutput\l_Navio::init" alt="" coords="495,841,646,882"/>
+<area shape="rect" id="node32" href="$classAP__RangeFinder__PulsedLightLRF.html#a12f05561023eacee38730a22aeaef09c" title="AP_RangeFinder_PulsedLight\lLRF::detect" alt="" coords="723,907,919,949"/>
+<area shape="rect" id="node36" href="$classAP__RangeFinder__PulsedLightLRF.html#a51ff133034bca6db07bbf0792e3df4c2" title="AP_RangeFinder_PulsedLight\lLRF::get_reading" alt="" coords="473,906,669,947"/>
+<area shape="rect" id="node33" href="$classRangeFinder.html#a7f7f9dce880eb37d53df67cba39bdda9" title="RangeFinder::detect\l_instance" alt="" coords="994,907,1134,949"/>
+<area shape="rect" id="node34" href="$classRangeFinder.html#a1c2d6a488e35a856814b5d48ca3d5d9e" title="RangeFinder::init" alt="" coords="1233,915,1354,941"/>
+<area shape="rect" id="node35" href="$RFIND__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="1495,915,1550,941"/>
+<area shape="rect" id="node37" href="$classAP__RangeFinder__PulsedLightLRF.html#ac465541eac74267f6dc1fa06d0301aa4" title="AP_RangeFinder_PulsedLight\lLRF::update" alt="" coords="723,842,919,883"/>
+<area shape="rect" id="node39" href="$classAP__Compass__HMC5843.html#ae8fe5f87eb75452d7cfd4293a9bbfc7e" title="AP_Compass_HMC5843\l::init" alt="" coords="979,1015,1149,1057"/>
+<area shape="rect" id="node43" href="$classAP__Compass__HMC5843.html#a4049788b49354f8d3be33ece01507343" title="AP_Compass_HMC5843\l::re_initialise" alt="" coords="486,1023,655,1065"/>
+<area shape="rect" id="node40" href="$classAP__Compass__HMC5843.html#a24c7d88a8f69532e40f96c5a0db25364" title="AP_Compass_HMC5843\l::detect" alt="" coords="1209,998,1378,1039"/>
+<area shape="rect" id="node41" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="1427,985,1619,1012"/>
+<area shape="rect" id="node42" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="1691,652,1794,679"/>
+<area shape="rect" id="node44" href="$classAP__Compass__HMC5843.html#afbf15e406f6274c4ed9aab8212411a54" title="AP_Compass_HMC5843\l::read" alt="" coords="737,973,906,1014"/>
+</map>

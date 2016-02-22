@@ -1,0 +1,37 @@
+<map id="longitude_scale" name="longitude_scale">
+<area shape="rect" id="node2" href="$location_8cpp.html#a224e7b94333df3a15a18499026474ac9" title="get_bearing_cd" alt="" coords="166,479,277,505"/>
+<area shape="rect" id="node9" href="$location_8cpp.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="173,224,269,251"/>
+<area shape="rect" id="node17" href="$location_8cpp.html#a527b26472ed6f2e0c141e109a0722a0a" title="location_diff" alt="" coords="175,603,267,629"/>
+<area shape="rect" id="node29" href="$location_8cpp.html#a717b438a67f0b41665feec9009ba1bd4" title="location_offset" alt="" coords="168,805,275,832"/>
+<area shape="rect" id="node3" href="$classAP__Mission.html#a338b12fad6aa74b9c8a34d65850f6b40" title="AP_Mission::get_next\l_ground_course_cd" alt="" coords="346,406,497,447"/>
+<area shape="rect" id="node4" href="$location_8pde.html#af4c4a815e04b2917f9e189120d8b2ad1" title="test_one_offset" alt="" coords="365,355,477,381"/>
+<area shape="rect" id="node7" href="$classAP__L1__Control.html#acc0860ec530ec9c9bec50a5701bb709e" title="AP_L1_Control::update\l_loiter" alt="" coords="343,537,500,578"/>
+<area shape="rect" id="node8" href="$classAP__L1__Control.html#a9052f01ea019fb51432d3104cce0b6e8" title="AP_L1_Control::update\l_waypoint" alt="" coords="343,471,500,513"/>
+<area shape="rect" id="node5" href="$location_8pde.html#ac7efc0072d2ac5bca8b847032980a1dd" title="test_offset" alt="" coords="850,355,934,381"/>
+<area shape="rect" id="node6" href="$location_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1017,355,1071,381"/>
+<area shape="rect" id="node10" href="$classAP__Rally.html#a0b93e6b6133860929bbd7b68be633fa3" title="AP_Rally::find_nearest\l_rally_point" alt="" coords="343,187,499,229"/>
+<area shape="rect" id="node12" href="$location_8cpp.html#ac4acf5d14c42d6255cd005460de4d1ad" title="get_distance_cm" alt="" coords="361,253,482,280"/>
+<area shape="rect" id="node13" href="$classAP__Mission.html#af895b228640bdf29178d44e00897d10e" title="AP_Mission::get_landing\l_sequence_start" alt="" coords="338,5,505,46"/>
+<area shape="rect" id="node14" href="$location_8pde.html#a2cdcbcb30d47a7c6a9fde641d87a0b0f" title="test_accuracy" alt="" coords="615,304,719,331"/>
+<area shape="rect" id="node15" href="$classAP__Limit__Geofence.html#afb1a696f2769594a81383413f8931016" title="AP_Limit_Geofence::\ltriggered" alt="" coords="348,70,495,111"/>
+<area shape="rect" id="node16" href="$classAP__Camera.html#a12e960c264147ca7a73c21f16c7522c0" title="AP_Camera::update_location" alt="" coords="325,136,517,163"/>
+<area shape="rect" id="node11" href="$classAP__Rally.html#ae280e2921f301fa4cc3991bc85d91801" title="AP_Rally::calc_best\l_rally_or_home_location" alt="" coords="585,187,748,229"/>
+<area shape="rect" id="node18" href="$classNavEKF.html#a90a1fa4f67a09d5af0a6d2a11580269f" title="NavEKF::getPosNED" alt="" coords="346,755,497,781"/>
+<area shape="rect" id="node19" href="$location_8cpp.html#ab0ccbafe7e2809759eea8d45d23e4ba0" title="location_path_proportion" alt="" coords="340,603,503,629"/>
+<area shape="rect" id="node22" href="$classNavEKF.html#a4c44a7b25f5b5584b755142c6198fd1e" title="NavEKF::readGpsData" alt="" coords="343,653,500,680"/>
+<area shape="rect" id="node27" href="$classCRRCSim.html#a372323133793618a7ff4bd13c156e91f" title="CRRCSim::recv_fdm" alt="" coords="593,733,740,760"/>
+<area shape="rect" id="node20" href="$location_8cpp.html#ab6cd880d070717b4c3cc7a7278768e72" title="location_passed_point" alt="" coords="591,475,742,501"/>
+<area shape="rect" id="node21" href="$location_8pde.html#aff2387ea872bdd079c8de9005c934319" title="test_passed_waypoint" alt="" coords="816,452,968,479"/>
+<area shape="rect" id="node23" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="588,667,745,709"/>
+<area shape="rect" id="node24" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="588,550,745,591"/>
+<area shape="rect" id="node25" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="567,616,766,643"/>
+<area shape="rect" id="node26" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="817,616,967,643"/>
+<area shape="rect" id="node28" href="$classCRRCSim.html#ab08e79ebbb84fd46e62c3da83f2c650f" title="CRRCSim::update" alt="" coords="826,733,958,760"/>
+<area shape="rect" id="node30" href="$classAP__AHRS__DCM.html#ac8f908b8d8551b3201a104d03a5c31b7" title="AP_AHRS_DCM::get_position" alt="" coords="566,856,767,883"/>
+<area shape="rect" id="node31" href="$classNavEKF.html#adc74369bdb7425b717f68eec54aa123f" title="NavEKF::getLLH" alt="" coords="360,907,483,933"/>
+<area shape="rect" id="node32" href="$location_8cpp.html#ab0e06d28afb9d14043e1938af277396c" title="location_update" alt="" coords="365,805,478,832"/>
+<area shape="rect" id="node33" href="$classAircraft.html#af9bf4c2e03c614d5396a5b94d794e57f" title="Aircraft::update_position" alt="" coords="585,805,748,832"/>
+<area shape="rect" id="node34" href="$classHelicopter.html#a679e4dbbeca418ad17aa98aafdc99385" title="Helicopter::update" alt="" coords="828,784,956,811"/>
+<area shape="rect" id="node35" href="$classMultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="MultiCopter::update" alt="" coords="824,835,960,861"/>
+<area shape="rect" id="node36" href="$classRover.html#a1b444db0b18db7f90dfb59e493ab5e29" title="Rover::update" alt="" coords="840,885,944,912"/>
+</map>

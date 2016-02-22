@@ -1,0 +1,9 @@
+<map id="AP_Baro_BMP085" name="AP_Baro_BMP085">
+<area shape="rect" id="node2" href="$classAP__Baro__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="49,176,180,203"/>
+<area shape="rect" id="node3" href="$classAP__Baro.html" title="AP_Baro" alt="" coords="241,267,315,293"/>
+<area shape="rect" id="node4" href="$structAP__Baro_1_1sensor.html" title="AP_Baro::sensor" alt="" coords="211,176,332,203"/>
+<area shape="rect" id="node5" href="$classDerivativeFilter.html" title="DerivativeFilter\&lt; float, 7 \&gt;" alt="" coords="357,176,531,203"/>
+<area shape="rect" id="node6" href="$classFilterWithBuffer.html" title="FilterWithBuffer\&lt; float,\l FILTER_SIZE \&gt;" alt="" coords="367,83,520,125"/>
+<area shape="rect" id="node7" href="$classFilter.html" title="Filter\&lt; float \&gt;" alt="" coords="394,5,493,32"/>
+<area shape="rect" id="node8" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="555,176,705,203"/>
+</map>

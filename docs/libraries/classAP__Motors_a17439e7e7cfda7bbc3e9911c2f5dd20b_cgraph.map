@@ -1,0 +1,6 @@
+<map id="AP_Motors::apply_thrust_curve_and_volt_scaling" name="AP_Motors::apply_thrust_curve_and_volt_scaling">
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="263,5,339,32"/>
+<area shape="rect" id="node3" href="$classLowPassFilterFloat.html#a26e58fd86bce9a357a94ee6afdf6e94d" title="LowPassFilterFloat::get" alt="" coords="221,56,381,83"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="248,107,355,133"/>
+<area shape="rect" id="node4" href="$classDigitalLPF.html#ae897c24f1bbe856fa98bb90949ae99c8" title="DigitalLPF::get" alt="" coords="429,56,539,83"/>
+</map>

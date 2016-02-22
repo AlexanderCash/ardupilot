@@ -1,0 +1,5 @@
+<map id="Rover::calc_lat_accel" name="Rover::calc_lat_accel">
+<area shape="rect" id="node2" href="$classRover.html#ae5c72938cdd8038ef7a91efd29d858f7" title="Rover::calc_yaw_rate" alt="" coords="203,5,352,32"/>
+<area shape="rect" id="node4" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="573,31,637,57"/>
+<area shape="rect" id="node3" href="$classRover.html#a8db6add3d0ad36dcca9aa26ac970449a" title="Rover::turn_circle" alt="" coords="400,5,525,32"/>
+</map>

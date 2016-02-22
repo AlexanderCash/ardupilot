@@ -1,0 +1,4 @@
+<map id="AP_InertialSensor_Oilpan::gyro_sample_available" name="AP_InertialSensor_Oilpan::gyro_sample_available">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Oilpan.html#a589b80e3cc915e4bfb55deb392c651f1" title="AP_InertialSensor_Oilpan\l::_sample_available" alt="" coords="224,5,395,46"/>
+<area shape="rect" id="node3" href="$classAP__ADC__ADS7844.html#aed03af21ccd2fa59fd4733defafd46a2" title="Get minimum number of samples read from the sensors. " alt="" coords="443,5,615,46"/>
+</map>

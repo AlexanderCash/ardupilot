@@ -1,0 +1,20 @@
+<map id="mavlink_test_nav_controller_output" name="mavlink_test_nav_controller_output">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a221ac45450cc06107cde26cf1eeb2069" title="Encode a nav_controller_output struct into a message. " alt="" coords="237,31,424,73"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a18c0291cc3f15d16aaf37762e9f42529" title="Pack a nav_controller_output message. " alt="" coords="484,5,671,46"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#ac587dbfe4916091fb16bd80df2f1c8e0" title="Decode a nav_controller_output message into a struct. " alt="" coords="237,305,424,346"/>
+<area shape="rect" id="node14" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#af0a2c94ed932fac26c8ab9f9b7e6dc2f" title="Pack a nav_controller_output message on a channel. " alt="" coords="237,370,424,411"/>
+<area shape="rect" id="node16" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="255,435,407,477"/>
+<area shape="rect" id="node17" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="251,501,410,542"/>
+<area shape="rect" id="node18" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="273,592,388,619"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="731,12,906,39"/>
+<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a735e83a473b23a8f3e44763529762e2a" title="Send a nav_controller_output message. " alt="" coords="484,70,671,111"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#adaf047f5afa174e2f8a3f9b69b1c5a66" title="Get field nav_pitch from nav_controller_output message. " alt="" coords="484,135,671,177"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a56a3abca2b5e6283c0d933f0630bb6dd" title="Get field nav_bearing from nav_controller_output message. " alt="" coords="484,201,671,242"/>
+<area shape="rect" id="node9" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a17bb8d3d4a6345095198dc9c768ac18d" title="Get field target_bearing from nav_controller_output message. " alt="" coords="484,266,671,307"/>
+<area shape="rect" id="node10" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a349cbe765d7622a10d8ea541d7e29638" title="Get field wp_dist from nav_controller_output message. " alt="" coords="484,331,671,373"/>
+<area shape="rect" id="node11" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a0bfaf33a8e5ce2f9d9ba5cc8e41ae2e2" title="Get field alt_error from nav_controller_output message. " alt="" coords="484,397,671,438"/>
+<area shape="rect" id="node12" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a326479f31799fa113d5a448962fb2f3e" title="Get field aspd_error from nav_controller_output message. " alt="" coords="484,462,671,503"/>
+<area shape="rect" id="node13" href="$v0_89_2common_2mavlink__msg__nav__controller__output_8h.html#a37bdba7b5f5964c32a4a2c524ef33e8c" title="Get field xtrack_error from nav_controller_output message. " alt="" coords="484,527,671,569"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="472,593,683,620"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="505,644,649,671"/>
+</map>

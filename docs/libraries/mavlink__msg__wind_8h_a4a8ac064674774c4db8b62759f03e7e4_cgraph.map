@@ -1,0 +1,4 @@
+<map id="mavlink_msg_wind_encode_chan" name="mavlink_msg_wind_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__wind_8h.html#ad8a758ffaf8520d1114536492a832c43" title="Pack a wind message on a channel. " alt="" coords="272,5,475,32"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="523,5,733,32"/>
+</map>

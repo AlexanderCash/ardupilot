@@ -1,0 +1,11 @@
+<map id="mavlink_msg_battery_status_decode" name="mavlink_msg_battery_status_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__battery__status_8h.html#a30571db50999c9bc546a971e557d9224" title="Get field current_consumed from battery_status message. " alt="" coords="228,5,375,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__battery__status_8h.html#a2ec47d94ce33778ed40685ee4bbf113f" title="Get field energy_consumed from battery_status message. " alt="" coords="200,85,403,126"/>
+<area shape="rect" id="node4" href="$mavlink__msg__battery__status_8h.html#abe92f353e37ccb73b40d9a3c65539b4c" title="Get field temperature from battery_status message. " alt="" coords="218,150,385,191"/>
+<area shape="rect" id="node5" href="$mavlink__msg__battery__status_8h.html#a3a394e6dd64f8a95146616d70a4f7506" title="Get field voltages from battery_status message. " alt="" coords="228,215,375,257"/>
+<area shape="rect" id="node6" href="$mavlink__msg__battery__status_8h.html#a6e3e9a95285ef105990fe7a4f7dff47c" title="Get field current_battery from battery_status message. " alt="" coords="228,280,375,336"/>
+<area shape="rect" id="node7" href="$mavlink__msg__battery__status_8h.html#a9e843eb65b6f04217a22091914e90e49" title="Send a battery_status message. " alt="" coords="228,359,375,401"/>
+<area shape="rect" id="node8" href="$mavlink__msg__battery__status_8h.html#aec38451b6da50cbbdacb8b003cc47869" title="Get field battery_function from battery_status message. " alt="" coords="228,424,375,480"/>
+<area shape="rect" id="node9" href="$mavlink__msg__battery__status_8h.html#a1cedcba2d501dc13a89d14b7c99ba215" title="Get field type from battery_status message. " alt="" coords="228,503,375,545"/>
+<area shape="rect" id="node10" href="$mavlink__msg__battery__status_8h.html#aa38a67c9282d0fb3356c6758e7a6d6d9" title="Get field battery_remaining from battery_status message. " alt="" coords="228,568,375,624"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="mavlink_msg_digicam_configure_decode" name="mavlink_msg_digicam_configure_decode">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a300d209a0b32b658a8ae34a809a0f11b" title="Send a digicam_configure message. " alt="" coords="230,5,381,61"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a980a5b5ca1fd62503a1eeeaf2a8d9e80" title="Get field target_component from digicam_configure message. " alt="" coords="230,85,381,141"/>
+<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a060aec6a55b29a01c039cfb9d083fda3" title="Get field mode from digicam_configure message. " alt="" coords="230,165,381,206"/>
+<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#ae4336248d739263ac8c21bb3b2a7e929" title="Get field shutter_speed from digicam_configure message. " alt="" coords="207,230,403,271"/>
+<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#ac68d738591453c1113f89ea512a84c52" title="Get field aperture from digicam_configure message. " alt="" coords="225,295,386,337"/>
+<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a21990fc77104ea649fbbc743aad54d7a" title="Get field iso from digicam_configure message. " alt="" coords="230,361,381,402"/>
+<area shape="rect" id="node8" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a582791214bfd4cf822240e6bfc9e65b5" title="Get field exposure_type from digicam_configure message. " alt="" coords="206,426,405,467"/>
+<area shape="rect" id="node9" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a9bd182c08b1dbfbc2b88ad3b6b1b71fc" title="Get field command_id from digicam_configure message. " alt="" coords="211,491,399,533"/>
+<area shape="rect" id="node10" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a7a410e1c8eb173da0c5abbb88f6e00ef" title="Get field engine_cut_off from digicam_configure message. " alt="" coords="229,556,381,612"/>
+<area shape="rect" id="node11" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a3ca3a122b159eccf1b7c4a3d3619c3a7" title="Get field extra_param from digicam_configure message. " alt="" coords="212,635,399,677"/>
+<area shape="rect" id="node12" href="$v0_89_2ardupilotmega_2mavlink__msg__digicam__configure_8h.html#a9d3df8e11b01f07bbedba7c548efd6c6" title="Get field extra_value from digicam_configure message. " alt="" coords="215,701,396,742"/>
+</map>

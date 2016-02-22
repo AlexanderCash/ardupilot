@@ -1,0 +1,10 @@
+<map id="setup_compass" name="setup_compass">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="201,5,303,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html#ae4b75a61c52e28221d8fb2b2d4c35ca3" title="AP_HAL::BetterStream\l::println_P" alt="" coords="173,57,331,98"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#afeac6bcfad2650762cccda72dbce3e69" title="Compass::set_and_save\l_offsets" alt="" coords="169,122,335,163"/>
+<area shape="rect" id="node5" href="$setup_8pde.html#afa7955d7bdbfeebe4e27bc388a2281b8" title="report_compass" alt="" coords="195,188,309,215"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html#a5b0d9d566418c7baa2ae7437fe1eae01" title="AP_HAL::BetterStream\l::print_P" alt="" coords="385,97,543,138"/>
+<area shape="rect" id="node7" href="$setup_8pde.html#a886b74c9f77aa3e207dcd3cbf0adac72" title="print_enabled" alt="" coords="415,163,513,189"/>
+<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#a6ef45f63ac177793bf38270cef8228cb" title="Compass::get_offsets" alt="" coords="389,213,539,240"/>
+<area shape="rect" id="node9" href="$setup_8pde.html#a6e743a637a45663d659643a181a7290c" title="print_blanks" alt="" coords="418,264,510,291"/>
+</map>

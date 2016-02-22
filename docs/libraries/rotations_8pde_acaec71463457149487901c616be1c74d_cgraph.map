@@ -1,0 +1,7 @@
+<map id="test_rotation_accuracy" name="test_rotation_accuracy">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a29b84f87f40b331b6922da5d8b57d9f0" title="AP_HAL::UARTDriver\l::println_P" alt="" coords="209,5,362,46"/>
+<area shape="rect" id="node3" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="218,71,353,97"/>
+<area shape="rect" id="node4" href="$classMatrix3.html#a6f044e8d64f6f10e054af962487399b9" title="Matrix3::rotate" alt="" coords="232,121,339,148"/>
+<area shape="rect" id="node5" href="$classMatrix3.html#a893c6a712d52e47dbb7ed2d7a548046e" title="Matrix3::to_euler" alt="" coords="226,172,345,199"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a2706fd969ad73bc8ef977d964c04f4a3" title="safe_asin" alt="" coords="411,172,490,199"/>
+</map>

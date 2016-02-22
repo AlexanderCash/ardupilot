@@ -1,0 +1,6 @@
+<map id="JSBSim::check_stdout" name="JSBSim::check_stdout">
+<area shape="rect" id="node2" href="$classJSBSim.html#aedcd4c940f82212c3405d0a18dec5d6f" title="JSBSim::open_fdm_socket" alt="" coords="211,56,392,83"/>
+<area shape="rect" id="node3" href="$classJSBSim.html#a2d834b58ab0702e7801752bcf5fa0fee" title="JSBSim::start_JSBSim" alt="" coords="441,5,599,32"/>
+<area shape="rect" id="node5" href="$classJSBSim.html#abad0f6f9ffe6ec49ae911c2ab54df3ef" title="JSBSim::recv_fdm" alt="" coords="454,107,586,133"/>
+<area shape="rect" id="node4" href="$classJSBSim.html#af578b81cce90bf59daea6eccc4c09549" title="JSBSim::update" alt="" coords="648,56,765,83"/>
+</map>

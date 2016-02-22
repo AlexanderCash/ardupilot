@@ -1,0 +1,4 @@
+<map id="mavlink_msg_hil_optical_flow_encode_chan" name="mavlink_msg_hil_optical_flow_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__hil__optical__flow_8h.html#a28c829ad0705a8972f8d695c523c51b2" title="Pack a hil_optical_flow message on a channel. " alt="" coords="219,5,383,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="432,12,643,39"/>
+</map>

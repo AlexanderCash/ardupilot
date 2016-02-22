@@ -1,0 +1,11 @@
+<map id="AC_AttitudeControl::rate_bf_to_motor_yaw" name="AC_AttitudeControl::rate_bf_to_motor_yaw">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a73669ea2a3cea5b5348915f7a333f840" title="AP_AHRS::get_gyro" alt="" coords="234,5,377,32"/>
+<area shape="rect" id="node3" href="$classAC__PID.html#ac267330f1299f011febcaaba47994af7" title="AC_PID::set_input_filter_all" alt="" coords="213,56,397,83"/>
+<area shape="rect" id="node6" href="$classAC__PID.html#a45e183de590c9318ecbb975a4d613646" title="AC_PID::get_p" alt="" coords="250,107,361,133"/>
+<area shape="rect" id="node7" href="$classAC__PID.html#a0fc275cae5ff46799af85af551c65870" title="AC_PID::get_integrator" alt="" coords="226,157,385,184"/>
+<area shape="rect" id="node8" href="$classAC__PID.html#a2d5bf9811a78c93a396ec1e37ae6fa0a" title="AC_PID::get_i" alt="" coords="471,157,577,184"/>
+<area shape="rect" id="node9" href="$classAC__PID.html#a323cc8c9ff563d631b9bdc4d3a42e2b1" title="AC_PID::get_d" alt="" coords="250,259,361,285"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="252,309,359,336"/>
+<area shape="rect" id="node4" href="$classAC__PID.html#ac12ffbd4fd053c6152d403b69e07b8e1" title="AC_PID::get_filt_alpha" alt="" coords="446,81,602,108"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="651,120,715,147"/>
+</map>

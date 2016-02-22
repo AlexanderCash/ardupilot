@@ -1,0 +1,20 @@
+<map id="LowPassFilter::set_cutoff_frequency" name="LowPassFilter::set_cutoff_frequency">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#a46019950532852f60edd1a68bef9d1b2" title="AC_PosControl::accel\l_to_lean_angles" alt="" coords="188,131,340,173"/>
+<area shape="rect" id="node10" href="$classAP__Motors.html#a07c8ae539ad3f6122051be7513cc1b6b" title="AP_Motors::AP_Motors" alt="" coords="184,197,344,224"/>
+<area shape="rect" id="node11" href="$classAC__PosControl.html#a9ca7e50a303f190965a1cde9542f5f52" title="set_dt &#45; sets time delta in seconds for all controllers (i.e. 100hz = 0.01, 400hz = 0..." alt="" coords="185,248,343,275"/>
+<area shape="rect" id="node12" href="$classAP__Motors.html#a663672b4ada40c46d343e3f62b51b820" title="AP_Motors::set_throttle\l_filter_cutoff" alt="" coords="184,299,344,341"/>
+<area shape="rect" id="node19" href="$LowPassFilter_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="237,365,291,392"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#ad89eec74ef77005f3f5c449da98ad12c" title="AC_PosControl::update\l_vel_controller_xyz" alt="" coords="1464,46,1624,87"/>
+<area shape="rect" id="node4" href="$classAC__PosControl.html#ae8b8e5c5812ab2419c570ae7f44a70f3" title="update_xy_controller &#45; run the horizontal position controller &#45; should be called at 100hz or higher ..." alt="" coords="411,135,571,177"/>
+<area shape="rect" id="node5" href="$classAC__Circle.html#ad28205982ae7bc5f1e72f5285696c99b" title="update &#45; update circle controller " alt="" coords="666,43,795,69"/>
+<area shape="rect" id="node6" href="$classAC__WPNav.html#af9d3f98ad44166d4c5d072bf3ba4a3db" title="update_brake &#45; run the brake controller &#45; should be called at 400hz " alt="" coords="641,93,821,120"/>
+<area shape="rect" id="node7" href="$classAC__WPNav.html#a0a434270245fd8641352af387700dc82" title="update_loiter &#45; run the loiter controller &#45; should be called at 10hz " alt="" coords="643,144,819,171"/>
+<area shape="rect" id="node8" href="$classAC__WPNav.html#a1d067335195835e46ba7218f8d784936" title="update_spline &#45; update spline controller " alt="" coords="639,195,822,221"/>
+<area shape="rect" id="node9" href="$classAC__WPNav.html#ab37772c12f3376c2eda24d8506a994fc" title="update_wpnav &#45; run the wp controller &#45; should be called at 100hz or higher " alt="" coords="637,245,824,272"/>
+<area shape="rect" id="node13" href="$classAC__AttitudeControl.html#a3fc1abbb95b012486da0687e611652f2" title="AC_AttitudeControl\l::set_throttle_out" alt="" coords="423,297,558,338"/>
+<area shape="rect" id="node18" href="$classAC__AttitudeControl.html#a76dacd70bc0485c1046bf0c948bc0156" title="AC_AttitudeControl\l::set_throttle_out_unstabilized" alt="" coords="393,362,589,403"/>
+<area shape="rect" id="node14" href="$classAC__PosControl.html#a326002cec926ea659f8c06273c09513c" title="AC_PosControl::accel\l_to_throttle" alt="" coords="655,297,807,338"/>
+<area shape="rect" id="node15" href="$classAC__PosControl.html#a7f2e50bce46c82e024fb47a288b2ffb2" title="AC_PosControl::rate\l_to_accel_z" alt="" coords="873,233,1015,274"/>
+<area shape="rect" id="node16" href="$classAC__PosControl.html#adaf1679fb65c1bef02180409dcd96cad" title="AC_PosControl::pos\l_to_rate_z" alt="" coords="1065,170,1207,211"/>
+<area shape="rect" id="node17" href="$classAC__PosControl.html#af9c555a3b07ea1420ea28e7333379941" title="update_z_controller &#45; fly to altitude in cm above home " alt="" coords="1256,106,1416,147"/>
+</map>

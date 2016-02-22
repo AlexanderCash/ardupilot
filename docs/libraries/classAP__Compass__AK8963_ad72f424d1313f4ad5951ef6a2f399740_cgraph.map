@@ -1,0 +1,5 @@
+<map id="AP_Compass_AK8963::_calibrate" name="AP_Compass_AK8963::_calibrate">
+<area shape="rect" id="node2" href="$classAP__Compass__AK8963.html#a378f5bb0aa95ca3e840fa2367d633709" title="AP_Compass_AK8963::\l_register_write" alt="" coords="219,5,383,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="228,70,375,111"/>
+<area shape="rect" id="node4" href="$classAP__Compass__AK8963.html#ad76d04d22141b079603a9c5726e5c251" title="AP_Compass_AK8963::\l_register_read" alt="" coords="219,135,383,177"/>
+</map>

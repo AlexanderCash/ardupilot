@@ -1,0 +1,6 @@
+<map id="verify_loiter_turns" name="verify_loiter_turns">
+<area shape="rect" id="node2" href="$navigation_8pde.html#a2307c8ad7ff975923da6fbe17c1c28fc" title="update_loiter" alt="" coords="192,15,288,41"/>
+<area shape="rect" id="node4" href="$GCS__Mavlink_8pde.html#a6bb153355507cf625bc0de5dfa76c137" title="gcs_send_text_P" alt="" coords="179,67,301,93"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#a97a9971938227d8e88c267b33e841e0d" title="AP_Navigation::update\l_loiter" alt="" coords="371,5,527,46"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="350,71,549,97"/>
+</map>

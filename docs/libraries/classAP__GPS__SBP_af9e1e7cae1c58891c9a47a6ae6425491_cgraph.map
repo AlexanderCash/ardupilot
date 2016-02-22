@@ -1,0 +1,12 @@
+<map id="AP_GPS_SBP::_attempt_state_update" name="AP_GPS_SBP::_attempt_state_update">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="443,5,589,46"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="263,63,339,89"/>
+<area shape="rect" id="node4" href="$classAP__GPS__SBP.html#af5d2846c5c8368ab5d6d9456f78cb04d" title="AP_GPS_SBP::logging\l_log_full_update" alt="" coords="222,114,381,155"/>
+<area shape="rect" id="node5" href="$classDataFlash__Class.html#ad15905fd635a59cc510a7781a9c4f3d9" title="DataFlash_Class::logging\l_started" alt="" coords="430,70,602,111"/>
+<area shape="rect" id="node6" href="$classAP__GPS__SBP.html#ad7b0b15f5b06d35e0537da4c29447e7c" title="AP_GPS_SBP::logging\l_write_headers" alt="" coords="437,135,595,177"/>
+<area shape="rect" id="node11" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="1123,201,1317,228"/>
+<area shape="rect" id="node7" href="$classDataFlash__Class.html#a29bebad0ba87297f083ecc1bc23bed51" title="DataFlash_Class::AddLogFormats" alt="" coords="651,143,874,169"/>
+<area shape="rect" id="node8" href="$classDataFlash__Class.html#a258d0eb16b61ced019be5a17bfe51b21" title="DataFlash_Class::Log\l_Write_Format" alt="" coords="923,135,1075,177"/>
+<area shape="rect" id="node9" href="$classDataFlash__Class.html#a972466284a00ba479b9752a8fa43415e" title="DataFlash_Class::Log\l_Fill_Format" alt="" coords="1144,135,1296,177"/>
+<area shape="rect" id="node10" href="$AP__Progmem__AVR_8h.html#a00eef44be35a92b1ef4067ea49bea7a3" title="strncpy_P" alt="" coords="1366,143,1447,169"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="missing_rotations" name="missing_rotations">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="181,5,331,32"/>
+<area shape="rect" id="node6" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="189,56,323,83"/>
+<area shape="rect" id="node7" href="$rotations_8pde.html#ad6798e5b3eec8e581f4c054837985245" title="have_rotation" alt="" coords="206,107,306,133"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="179,158,333,199"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="581,5,723,32"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="382,31,533,57"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="771,5,915,32"/>
+<area shape="rect" id="node8" href="$classMatrix3.html#a18e2df03dec4abdf11fc9fb60ed7c226" title="Matrix3::transposed" alt="" coords="389,81,526,108"/>
+<area shape="rect" id="node9" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title="Vector3::rotate" alt="" coords="403,132,511,159"/>
+</map>

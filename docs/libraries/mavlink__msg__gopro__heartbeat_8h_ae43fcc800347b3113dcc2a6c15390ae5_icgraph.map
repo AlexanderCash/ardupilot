@@ -1,0 +1,6 @@
+<map id="mavlink_msg_gopro_heartbeat_pack_chan" name="mavlink_msg_gopro_heartbeat_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__gopro__heartbeat_8h.html#a8b8f5a130472a9df4a94f36d0ef7ef2a" title="Encode a gopro_heartbeat struct on a channel. " alt="" coords="254,5,453,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a844892ff8e7d9fa6030411ae7d608c9f" title="mavlink_test_gopro\l_heartbeat" alt="" coords="286,70,421,111"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="501,77,685,104"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="734,77,850,104"/>
+</map>

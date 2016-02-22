@@ -1,0 +1,9 @@
+<map id="MultiCopter" name="MultiCopter">
+<area shape="rect" id="node2" href="$classAircraft.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="171,261,235,288"/>
+<area shape="rect" id="node3" href="$classMatrix3.html" title="Matrix3\&lt; float \&gt;" alt="" coords="101,141,216,168"/>
+<area shape="rect" id="node4" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node5" href="$structLocation.html" title="Location" alt="" coords="241,141,311,168"/>
+<area shape="rect" id="node6" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="199,5,352,32"/>
+<area shape="rect" id="node7" href="$classFrame.html" title="Frame" alt="" coords="317,261,375,288"/>
+<area shape="rect" id="node8" href="$classMotor.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="335,141,389,168"/>
+</map>

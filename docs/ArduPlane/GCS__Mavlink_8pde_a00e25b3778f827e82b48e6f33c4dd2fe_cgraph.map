@@ -1,0 +1,19 @@
+<map id="send_fence_status" name="send_fence_status">
+<area shape="rect" id="node2" href="$geofence_8pde.html#ac78e6aee3afead6d1d14c5820ee2fea2" title="geofence_send_status" alt="" coords="187,203,341,229"/>
+<area shape="rect" id="node3" href="$geofence_8pde.html#afa190055ae35b23bb4af7aab74f27b45" title="geofence_enabled" alt="" coords="390,203,517,229"/>
+<area shape="rect" id="node4" href="$geofence_8pde.html#ab7e1468a4df2fd93b4d942d473293718" title="geofence_update_pwm\l_enabled_state" alt="" coords="566,166,722,207"/>
+<area shape="rect" id="node18" href="$geofence_8pde.html#a20ede2fd434cc04b108b19036619b3b7" title="geofence_present" alt="" coords="581,232,707,259"/>
+<area shape="rect" id="node5" href="$geofence_8pde.html#a4d7f03c5f25503d2aeb4ccfcc794e990" title="geofence_load" alt="" coords="984,148,1091,175"/>
+<area shape="rect" id="node16" href="$geofence_8pde.html#a1b52d18e33a42f78d722b05c44863a52" title="geofence_set_enabled" alt="" coords="771,199,923,225"/>
+<area shape="rect" id="node6" href="$geofence_8pde.html#a353df7cd0eaf06539b323d6db073a81a" title="max_fencepoints" alt="" coords="1393,5,1514,32"/>
+<area shape="rect" id="node8" href="$geofence_8pde.html#acac3851672433298cd94a37fa363bc75" title="get_fence_point_with\l_index" alt="" coords="1153,57,1298,98"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$polygon_8cpp.html#a44581f526f8df1f0bc8e3eb4f530e960" title="Polygon_complete" alt="" coords="1161,123,1290,149"/>
+<area shape="rect" id="node11" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$polygon_8cpp.html#a53235dca2c01737b9221be463ae1f3d3" title="Polygon_outside" alt="" coords="1166,173,1285,200"/>
+<area shape="rect" id="node12" href="$GCS__Mavlink_8pde.html#a6bb153355507cf625bc0de5dfa76c137" title="gcs_send_text_P" alt="" coords="1164,224,1287,251"/>
+<area shape="rect" id="node14" href="$GCS__Mavlink_8pde.html#a52733528836bdd250b5ead3d6e8370b9" title="gcs_send_message" alt="" coords="1156,275,1295,301"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classStorageAccess.html#a82088aa568b13d18acc9e41a01fd1f19" title="StorageAccess::size" alt="" coords="1609,5,1751,32"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classStorageAccess.html#af10e9fa6cda0cb973243e4852c9d16c6" title="StorageAccess::read\l_uint32" alt="" coords="1381,57,1525,98"/>
+<area shape="rect" id="node13" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="1354,224,1553,251"/>
+<area shape="rect" id="node15" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a4902306dab46ff02b2296f99eb1f1c9c" title="GCS_MAVLINK::send_message" alt="" coords="1347,275,1560,301"/>
+<area shape="rect" id="node17" href="$geofence_8pde.html#ae06c98e94b21cb602b1e605df91c6205" title="geofence_set_floor\l_enabled" alt="" coords="971,199,1103,241"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="AP_Mount_Alexmos::update" name="AP_Mount_Alexmos::update">
+<area shape="rect" id="node2" href="$classAP__Mount__Alexmos.html#ae8cbf59b4d11fb8f9d74e9283c6173df" title="AP_Mount_Alexmos::read\l_incoming" alt="" coords="265,73,439,114"/>
+<area shape="rect" id="node6" href="$classAP__Mount__Backend.html#a5b180d2237a8e70d512762f651291f49" title="AP_Mount_Backend::get_mode" alt="" coords="249,161,455,188"/>
+<area shape="rect" id="node8" href="$classAP__Mount__Alexmos.html#a1f6761ce850ccd070fddd623eb9d577a" title="AP_Mount_Alexmos::control_axis" alt="" coords="243,216,461,243"/>
+<area shape="rect" id="node12" href="$classAP__Mount__Backend.html#ab4be0d28626c019ba59dc179f728c9c9" title="AP_Mount_Backend::update\l_targets_from_rc" alt="" coords="258,293,446,334"/>
+<area shape="rect" id="node18" href="$classAP__Mount__Backend.html#ab0207ef4fbcb40f1592a85cc75ddad37" title="AP_Mount_Backend::calc\l_angle_to_location" alt="" coords="265,461,439,502"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Stream.html#ae687e48f5689af94d66fb88822923e12" title="AP_HAL::Stream::available" alt="" coords="526,5,709,32"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Stream.html#ae42ff362cc2a7e527c22f92a3740c2ac" title="AP_HAL::Stream::read" alt="" coords="539,56,695,83"/>
+<area shape="rect" id="node5" href="$classAP__Mount__Alexmos.html#a86d97ef92dce997f93ad929d09d9ed52" title="AP_Mount_Alexmos::parse_body" alt="" coords="509,107,725,133"/>
+<area shape="rect" id="node7" href="$classAP__Mount.html#a26ea3e1c86204271b6b90f1fb4f3ee92" title="AP_Mount::get_mode" alt="" coords="543,157,691,184"/>
+<area shape="rect" id="node9" href="$classAP__Mount__Alexmos.html#aad80a69937fd3356ed8f2e338bde3605" title="AP_Mount_Alexmos::send\l_command" alt="" coords="529,209,706,250"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="775,191,953,217"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="792,241,936,268"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="564,275,671,301"/>
+<area shape="rect" id="node14" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="832,325,896,352"/>
+<area shape="rect" id="node15" href="$classAP__Mount__Backend.html#a7cbf9f6695f80998e1cc39b9a3a5a0ae" title="AP_Mount_Backend::angle\l_input_rad" alt="" coords="527,377,707,418"/>
+<area shape="rect" id="node16" href="$classAP__Mount__Backend.html#aca1f2d5e9e859d8458772006a5e9a178" title="AP_Mount_Backend::angle\l_input" alt="" coords="774,377,954,418"/>
+<area shape="rect" id="node17" href="$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="1003,384,1176,411"/>
+<area shape="rect" id="node19" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="567,443,667,469"/>
+<area shape="rect" id="node21" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="567,493,667,520"/>
+<area shape="rect" id="node22" href="$AP__Math_8h.html#ada62278a4b460237f914e1c6a5355e55" title="wrap_PI" alt="" coords="582,544,653,571"/>
+<area shape="rect" id="node20" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="845,443,883,469"/>
+</map>

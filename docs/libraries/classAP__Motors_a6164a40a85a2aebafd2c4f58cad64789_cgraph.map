@@ -1,0 +1,10 @@
+<map id="AP_Motors::update_throttle_filter" name="AP_Motors::update_throttle_filter">
+<area shape="rect" id="node2" href="$classAP__Motors.html#abb781661db2b685644795dfe8f5a655f" title="AP_Motors::armed" alt="" coords="249,5,380,32"/>
+<area shape="rect" id="node3" href="$classLowPassFilterFloat.html#a2e489f7f440c90e1ed442a70a72bc52d" title="LowPassFilterFloat\l::apply" alt="" coords="247,57,382,98"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="613,96,720,123"/>
+<area shape="rect" id="node6" href="$classLowPassFilterFloat.html#a0f1280ed7b46ee6d4f48d960ff65ff0f" title="LowPassFilterFloat\l::reset" alt="" coords="247,174,382,215"/>
+<area shape="rect" id="node8" href="$classLowPassFilterFloat.html#a26e58fd86bce9a357a94ee6afdf6e94d" title="LowPassFilterFloat::get" alt="" coords="235,240,395,267"/>
+<area shape="rect" id="node4" href="$classDigitalLPF.html#aec513ab9bc5165163c6ec87692f804e8" title="DigitalLPF::apply" alt="" coords="443,68,565,95"/>
+<area shape="rect" id="node7" href="$classDigitalLPF.html#a3b7217283a52a01a86e7ab0c68a3ca96" title="DigitalLPF::reset" alt="" coords="444,181,564,208"/>
+<area shape="rect" id="node9" href="$classDigitalLPF.html#ae897c24f1bbe856fa98bb90949ae99c8" title="DigitalLPF::get" alt="" coords="449,240,559,267"/>
+</map>

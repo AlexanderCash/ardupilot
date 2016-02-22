@@ -1,0 +1,25 @@
+<map id="autotune_restore" name="autotune_restore">
+<area shape="rect" id="node2" href="$system_8pde.html#afe59c30399d04a968780503b2fc09ff7" title="set_mode" alt="" coords="174,325,253,352"/>
+<area shape="rect" id="node3" href="$commands__logic_8pde.html#a1a8c657acb9efa7a54b0b2a74025ec11" title="start_command" alt="" coords="335,56,447,83"/>
+<area shape="rect" id="node6" href="$control__modes_8pde.html#a795c2818aac0b7d2f673b178d181116d" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="321,477,460,504"/>
+<area shape="rect" id="node8" href="$system_8pde.html#adf8053623ae608c96db339992ed2528c" title="init_ardupilot" alt="" coords="745,157,839,184"/>
+<area shape="rect" id="node10" href="$events_8pde.html#a6cc4db2101a0b686b4594a14ac4de049" title="failsafe_short_on_event" alt="" coords="311,208,471,235"/>
+<area shape="rect" id="node12" href="$events_8pde.html#a3f3b6c96711997a5a63eaa4436ea097c" title="failsafe_long_on_event" alt="" coords="313,325,468,352"/>
+<area shape="rect" id="node14" href="$events_8pde.html#afd1ed491d5988a9aafccf86d9c95c0ce" title="failsafe_short_off\l_event" alt="" coords="329,259,452,301"/>
+<area shape="rect" id="node15" href="$events_8pde.html#a8c50f18e2cc2e6ec43f90c1a0b880e99" title="low_battery_event" alt="" coords="327,376,455,403"/>
+<area shape="rect" id="node17" href="$geofence_8pde.html#a131efdc9e7e9c64e4909789780279a66" title="geofence_check" alt="" coords="332,427,449,453"/>
+<area shape="rect" id="node20" href="$landing_8pde.html#a53286296e984291837fff41ec8c10038" title="jump_to_landing_sequence" alt="" coords="301,528,480,555"/>
+<area shape="rect" id="node23" href="$system_8pde.html#ae45d741f1c48b956c06322f8c4db6c70" title="startup_ground" alt="" coords="558,157,666,184"/>
+<area shape="rect" id="node24" href="$system_8pde.html#af51c9dc9104bacb7e0e05b366b43f66c" title="mavlink_set_mode" alt="" coords="325,579,456,605"/>
+<area shape="rect" id="node4" href="$commands__logic_8pde.html#a8cc2b5f231ed49f1dd33e7500f0351c0" title="exit_mission_callback" alt="" coords="537,56,687,83"/>
+<area shape="rect" id="node5" href="$commands__logic_8pde.html#a0430a022cdb46cf93cef509c17cd6b1f" title="start_command_callback" alt="" coords="529,5,695,32"/>
+<area shape="rect" id="node7" href="$control__modes_8pde.html#a1a85d98dee38cd7a939181118d483622" title="reset_control_switch" alt="" coords="541,477,683,504"/>
+<area shape="rect" id="node9" href="$ArduPlane_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="889,157,943,184"/>
+<area shape="rect" id="node11" href="$system_8pde.html#a298557d3029fc5e0db868e570ddd065c" title="check_short_failsafe" alt="" coords="541,216,683,243"/>
+<area shape="rect" id="node13" href="$system_8pde.html#ac712a358c5e71bb976fd5c39f844190f" title="check_long_failsafe" alt="" coords="543,275,681,301"/>
+<area shape="rect" id="node16" href="$sensors_8pde.html#af836fb7da62a6fb918d166aa9835ad91" title="read_battery" alt="" coords="565,325,659,352"/>
+<area shape="rect" id="node18" href="$ArduPlane_8pde.html#a952c65073f8556020619eca374f08067" title="update_GPS_10Hz" alt="" coords="545,427,679,453"/>
+<area shape="rect" id="node19" href="$ArduPlane_8pde.html#a6fba8fd13515c54a77e9434c4784c3c9" title="update_alt" alt="" coords="571,376,653,403"/>
+<area shape="rect" id="node21" href="$ArduPlane_8pde.html#a281c9fecc7781fe8c291fbbca573fa5a" title="update_navigation" alt="" coords="549,528,675,555"/>
+<area shape="rect" id="node22" href="$navigation_8pde.html#a5573c39eb2cddb37f77c17128c88eb54" title="navigate" alt="" coords="757,528,827,555"/>
+</map>

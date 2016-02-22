@@ -1,0 +1,4 @@
+<map id="mavlink_msg_compassmot_status_encode" name="mavlink_msg_compassmot_status_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__compassmot__status_8h.html#ab3118b02f6c4be1368437fb717ac4857" title="Pack a compassmot_status message. " alt="" coords="235,5,416,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="465,12,639,39"/>
+</map>

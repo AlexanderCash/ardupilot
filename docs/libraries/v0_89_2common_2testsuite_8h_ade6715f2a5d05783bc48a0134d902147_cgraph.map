@@ -1,0 +1,26 @@
+<map id="mavlink_test_waypoint" name="mavlink_test_waypoint">
+<area shape="rect" id="node2" href="$mavlink__msg__waypoint_8h.html#a2cbcb58ecb9aa199c1471fc1b8836257" title="Encode a waypoint struct into a message. " alt="" coords="209,66,367,107"/>
+<area shape="rect" id="node3" href="$mavlink__msg__waypoint_8h.html#a8bbb93c27534ea59f828d98702c707fd" title="Pack a waypoint message. " alt="" coords="425,5,618,32"/>
+<area shape="rect" id="node5" href="$mavlink__msg__waypoint_8h.html#a9903f212715e975e48e47e7b085d5fa0" title="Decode a waypoint message into a struct. " alt="" coords="209,482,367,523"/>
+<area shape="rect" id="node20" href="$mavlink__msg__waypoint_8h.html#a6e4857ae216676e30b7ee15be4826851" title="Pack a waypoint message on a channel. " alt="" coords="209,547,367,589"/>
+<area shape="rect" id="node22" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="212,613,364,654"/>
+<area shape="rect" id="node23" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="209,678,367,719"/>
+<area shape="rect" id="node24" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="231,867,345,893"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="675,5,850,32"/>
+<area shape="rect" id="node6" href="$mavlink__msg__waypoint_8h.html#a748b6ecf4eae4022f0a08e121d927774" title="Send a waypoint message. " alt="" coords="442,57,601,98"/>
+<area shape="rect" id="node7" href="$mavlink__msg__waypoint_8h.html#a811902b82ca2a0a047c73cacd7c21c36" title="Get field target_component from waypoint message. " alt="" coords="442,122,601,163"/>
+<area shape="rect" id="node8" href="$mavlink__msg__waypoint_8h.html#a3b65204b73e8cb6bc2b8f9a12aeea9cf" title="Get field seq from waypoint message. " alt="" coords="442,187,601,229"/>
+<area shape="rect" id="node9" href="$mavlink__msg__waypoint_8h.html#a9e950f296f4fec0082a2d5ae11547f86" title="Get field frame from waypoint message. " alt="" coords="442,253,601,294"/>
+<area shape="rect" id="node10" href="$mavlink__msg__waypoint_8h.html#a10f60e388105339def95c9351a5faa78" title="Get field command from waypoint message. " alt="" coords="442,318,601,359"/>
+<area shape="rect" id="node11" href="$mavlink__msg__waypoint_8h.html#a5fc1c3355bac6c37b74ea25a20ad2741" title="Get field current from waypoint message. " alt="" coords="442,383,601,425"/>
+<area shape="rect" id="node12" href="$mavlink__msg__waypoint_8h.html#a80af364bafc09c20a67d07812d156a33" title="Get field autocontinue from waypoint message. " alt="" coords="442,449,601,490"/>
+<area shape="rect" id="node13" href="$mavlink__msg__waypoint_8h.html#a020ee9db691cda7eec7fbd5ba70c1623" title="Get field param1 from waypoint message. " alt="" coords="442,514,601,555"/>
+<area shape="rect" id="node14" href="$mavlink__msg__waypoint_8h.html#a48da8efbfb0e11b0cf4b7a266ccd70a7" title="Get field param2 from waypoint message. " alt="" coords="442,579,601,621"/>
+<area shape="rect" id="node15" href="$mavlink__msg__waypoint_8h.html#a3d4af3e3ffc68a3797a99ed16084979e" title="Get field param3 from waypoint message. " alt="" coords="442,645,601,686"/>
+<area shape="rect" id="node16" href="$mavlink__msg__waypoint_8h.html#aaafef472e4a6fffd4748b29176b28e68" title="Get field param4 from waypoint message. " alt="" coords="442,710,601,751"/>
+<area shape="rect" id="node17" href="$mavlink__msg__waypoint_8h.html#ab2e88a2da27c9164d9f94d8f59864acb" title="Get field x from waypoint message. " alt="" coords="442,775,601,817"/>
+<area shape="rect" id="node18" href="$mavlink__msg__waypoint_8h.html#a4a66971a4106ee2276514f03a2798958" title="Get field y from waypoint message. " alt="" coords="442,841,601,882"/>
+<area shape="rect" id="node19" href="$mavlink__msg__waypoint_8h.html#a9418b6aabf4efef0f861cda2622c1647" title="Get field z from waypoint message. " alt="" coords="442,906,601,947"/>
+<area shape="rect" id="node21" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="416,972,627,999"/>
+<area shape="rect" id="node25" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="449,1023,593,1049"/>
+</map>

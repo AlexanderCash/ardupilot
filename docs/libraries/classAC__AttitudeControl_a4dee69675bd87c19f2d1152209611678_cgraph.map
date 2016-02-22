@@ -1,0 +1,6 @@
+<map id="AC_AttitudeControl::get_boosted_throttle" name="AC_AttitudeControl::get_boosted_throttle">
+<area shape="rect" id="node2" href="$classAP__Motors.html#aaa2d36d6f7a8e76cf1a51b1973c0776f" title="AP_Motors::throttle_min" alt="" coords="203,5,365,32"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#aae50efebd31d79c279e6155298433493" title="AP_AHRS::cos_pitch" alt="" coords="209,56,359,83"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#a68ea4fdaf53cf5d7068927f5f20393ab" title="AP_AHRS::cos_roll" alt="" coords="215,107,353,133"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="231,157,337,184"/>
+</map>

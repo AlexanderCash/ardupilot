@@ -1,0 +1,15 @@
+digraph "AP_AHRS::get_correct_centrifugal"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_AHRS::get_correct\l_centrifugal",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="NavEKF::getVehicleArmStatus",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#aa98e017d389ce1831db02e36a44d5647"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="NavEKF::UpdateFilter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="NavEKF::performArmingChecks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

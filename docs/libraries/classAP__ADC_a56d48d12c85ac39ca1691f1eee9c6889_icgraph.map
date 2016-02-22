@@ -1,0 +1,7 @@
+<map id="AP_ADC::Ch" name="AP_ADC::Ch">
+<area shape="rect" id="node2" href="$classAP__ADC__AnalogSource.html#a7d83c1ca360a21e964c610b0a49bc1ae" title="AP_ADC_AnalogSource\l::read_average" alt="" coords="155,5,319,46"/>
+<area shape="rect" id="node4" href="$classAP__ADC__AnalogSource.html#acb33da3d90943c66de0e65de47685ce6" title="AP_ADC_AnalogSource\l::voltage_average" alt="" coords="155,70,319,111"/>
+<area shape="rect" id="node3" href="$classAP__ADC__AnalogSource.html#a428959a713e7afbf329345a0633d2307" title="AP_ADC_AnalogSource\l::read_latest" alt="" coords="383,5,547,46"/>
+<area shape="rect" id="node5" href="$classAP__ADC__AnalogSource.html#a48233afb06760757da0627051349cd4b" title="AP_ADC_AnalogSource\l::voltage_latest" alt="" coords="383,70,547,111"/>
+<area shape="rect" id="node6" href="$classAP__ADC__AnalogSource.html#acde2528ff902560c113803987607947a" title="AP_ADC_AnalogSource\l::voltage_average_ratiometric" alt="" coords="369,135,562,177"/>
+</map>

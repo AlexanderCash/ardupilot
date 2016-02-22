@@ -1,0 +1,4 @@
+<map id="NavEKF::getFilterFaults" name="NavEKF::getFilterFaults">
+<area shape="rect" id="node2" href="$classQuaternion.html#aa3036ce97bb5a7394a2d65edecd8f1ab" title="Quaternion::is_nan" alt="" coords="216,5,347,32"/>
+<area shape="rect" id="node3" href="$classVector3.html#a076ee3d40e645623b54650cca5ae6df7" title="Vector3::is_nan" alt="" coords="225,56,338,83"/>
+</map>

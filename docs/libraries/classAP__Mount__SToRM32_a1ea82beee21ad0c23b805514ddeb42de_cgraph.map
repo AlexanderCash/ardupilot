@@ -1,0 +1,5 @@
+<map id="AP_Mount_SToRM32::init" name="AP_Mount_SToRM32::init">
+<area shape="rect" id="node2" href="$classAP__SerialManager.html#ac3c38f184c41fa2c2cff8bb4842c3ebe" title="AP_SerialManager::get\l_mavlink_channel" alt="" coords="259,5,415,46"/>
+<area shape="rect" id="node4" href="$classAP__Mount__SToRM32.html#af8a271b6eed15ea78c60811c8610e0aa" title="AP_Mount_SToRM32::set_mode" alt="" coords="230,71,445,97"/>
+<area shape="rect" id="node3" href="$classAP__SerialManager.html#a0b9318b2cf0f61a6e13d46a125dc038b" title="AP_SerialManager::protocol\l_match" alt="" coords="493,5,677,46"/>
+</map>

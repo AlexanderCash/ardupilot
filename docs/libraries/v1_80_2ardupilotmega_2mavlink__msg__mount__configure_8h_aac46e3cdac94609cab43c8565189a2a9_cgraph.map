@@ -1,0 +1,4 @@
+<map id="mavlink_msg_mount_configure_encode" name="mavlink_msg_mount_configure_encode">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#a62a9b4db9965aee89699ef5f418ca3d0" title="Pack a mount_configure message. " alt="" coords="256,12,493,39"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="542,12,717,39"/>
+</map>

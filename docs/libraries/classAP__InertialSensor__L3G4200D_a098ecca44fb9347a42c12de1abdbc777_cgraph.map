@@ -1,0 +1,11 @@
+<map id="AP_InertialSensor_L3G4200D::_accumulate" name="AP_InertialSensor_L3G4200D::_accumulate">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="257,5,402,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="252,70,407,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#a87848503b8dd40b1e371161f1137757b" title="AP_HAL::I2CDriver::\lreadRegister" alt="" coords="257,135,402,177"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="257,201,402,242"/>
+<area shape="rect" id="node6" href="$classLowPassFilter2pVector3f.html#aacd220c14267ceb451d02cad92799f6b" title="LowPassFilter2pVector3f\l::apply" alt="" coords="245,266,413,307"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1I2CDriver.html#a4c53137ce475ec416f9c12358f3a4135" title="AP_HAL::I2CDriver::\lreadRegistersMultiple" alt="" coords="255,331,403,373"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="240,397,419,424"/>
+<area shape="rect" id="node7" href="$classDigitalBiquadFilter.html#abcce28ce01f1fe8a084a16f163848f69" title="DigitalBiquadFilter\l::apply" alt="" coords="467,266,595,307"/>
+<area shape="rect" id="node8" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="643,273,707,300"/>
+</map>

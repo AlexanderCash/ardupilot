@@ -1,0 +1,4 @@
+<map id="mavlink_msg_ping_encode_chan" name="mavlink_msg_ping_encode_chan">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__ping_8h.html#ac20cbc9de623b50b5cf16c198106232e" title="Pack a ping message on a channel. " alt="" coords="269,5,469,32"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="517,5,728,32"/>
+</map>

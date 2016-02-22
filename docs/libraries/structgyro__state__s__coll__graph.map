@@ -1,0 +1,5 @@
+<map id="gyro_state_s" name="gyro_state_s">
+<area shape="rect" id="node2" href="$structhw__s.html" title="hw_s" alt="" coords="5,5,59,32"/>
+<area shape="rect" id="node3" href="$structtest__s.html" title="test_s" alt="" coords="83,5,140,32"/>
+<area shape="rect" id="node4" href="$structgyro__reg__s.html" title="gyro_reg_s" alt="" coords="166,5,252,32"/>
+</map>

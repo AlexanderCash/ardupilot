@@ -1,0 +1,9 @@
+<map id="VRBRAIN::VRBRAINScheduler::micros64" name="VRBRAIN::VRBRAINScheduler::micros64">
+<area shape="rect" id="node2" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a20360f74ca9912d424c5c6800a85efef" title="VRBRAIN::VRBRAINScheduler\l::delay" alt="" coords="264,5,475,46"/>
+<area shape="rect" id="node3" href="$classVRBRAIN_1_1VRBRAINScheduler.html#adb60346f5a91eee3812dfed4ba2fb094" title="VRBRAIN::VRBRAINScheduler\l::delay_microseconds" alt="" coords="264,70,475,111"/>
+<area shape="rect" id="node4" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a920a5d8d521c3f4c41ed9ebaa39f70dc" title="VRBRAIN::VRBRAINScheduler\l::micros" alt="" coords="264,135,475,177"/>
+<area shape="rect" id="node5" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a9fcfda1476927950fd4e2d7a1914e8b1" title="VRBRAIN::VRBRAINScheduler\l::millis64" alt="" coords="264,201,475,242"/>
+<area shape="rect" id="node6" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a7ed5e2767f92a978bd2376bee4dcdf8e" title="VRBRAIN::VRBRAINScheduler\l::millis" alt="" coords="523,201,733,242"/>
+<area shape="rect" id="node7" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a4b175d260d414b70bd02a334ad4db6f0" title="VRBRAIN::VRBRAINScheduler\l::_timer_thread" alt="" coords="781,201,992,242"/>
+<area shape="rect" id="node8" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a588119520d7b68e248e103d32fdf6b2f" title="VRBRAIN::VRBRAINScheduler\l::init" alt="" coords="1040,201,1251,242"/>
+</map>

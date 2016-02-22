@@ -1,0 +1,17 @@
+<map id="mavlink_test_roll_pitch_yaw_thrust_setpoint" name="mavlink_test_roll_pitch_yaw_thrust_setpoint">
+<area shape="rect" id="node2" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a2e13e9c44c79e1d0e86cbca6e0d618d7" title="Encode a roll_pitch_yaw_thrust_setpoint struct into a message. " alt="" coords="219,27,413,69"/>
+<area shape="rect" id="node3" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#aec1b12a25674848aa844e07463ec417b" title="Pack a roll_pitch_yaw_thrust_setpoint message. " alt="" coords="487,5,668,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a68b7458d2ed21b3ad6d6291201767405" title="Decode a roll_pitch_yaw_thrust_setpoint message into a struct. " alt="" coords="219,213,413,254"/>
+<area shape="rect" id="node11" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#af36db18206f1ad296c7541899c7e40e1" title="Pack a roll_pitch_yaw_thrust_setpoint message on a channel. " alt="" coords="208,278,424,319"/>
+<area shape="rect" id="node13" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="240,343,392,385"/>
+<area shape="rect" id="node14" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="237,409,395,450"/>
+<area shape="rect" id="node15" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="259,475,373,501"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="731,12,906,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a6a2f04ea64c58c8ba4333faef6d24cd3" title="Send a roll_pitch_yaw_thrust_setpoint message. " alt="" coords="492,69,663,125"/>
+<area shape="rect" id="node7" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#ac5ea2eab12121de82fea21be60fc2408" title="Get field roll from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="480,149,675,190"/>
+<area shape="rect" id="node8" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#ad3cf4bbc11979b73ef661cdcee735209" title="Get field pitch from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="474,214,681,255"/>
+<area shape="rect" id="node9" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a3916f0de76f2d46cc5307838b281b497" title="Get field yaw from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="476,279,679,321"/>
+<area shape="rect" id="node10" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a3972d8cfaedcf11ca16efc5c91ff1e39" title="Get field thrust from roll_pitch_yaw_thrust_setpoint message. " alt="" coords="492,344,663,400"/>
+<area shape="rect" id="node12" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="472,424,683,451"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="505,475,649,501"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AP_Motors::update_throttle_thr_mix" name="AP_Motors::update_throttle_thr_mix">
+<area shape="rect" id="node2" href="$classAP__Motors.html#a594bb6e631a495fed163cbf92af83525" title="AP_Motors::output" alt="" coords="235,12,365,39"/>
+<area shape="rect" id="node3" href="$AP__Motors__test_8pde.html#a7f47bb79f883994514efee9d8de3ec0c" title="stability_test" alt="" coords="413,12,509,39"/>
+<area shape="rect" id="node4" href="$AP__Motors__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="558,12,605,39"/>
+</map>

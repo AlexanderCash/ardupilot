@@ -1,0 +1,15 @@
+digraph "CRRCSim::send_servos_heli"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CRRCSim::send_servos_heli",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CRRCSim::send_servos",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCRRCSim.html#afc2aa7813970f3eeba2585f7fc7db092"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="CRRCSim::recv_fdm",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCRRCSim.html#a372323133793618a7ff4bd13c156e91f"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="CRRCSim::update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCRRCSim.html#ab08e79ebbb84fd46e62c3da83f2c650f"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

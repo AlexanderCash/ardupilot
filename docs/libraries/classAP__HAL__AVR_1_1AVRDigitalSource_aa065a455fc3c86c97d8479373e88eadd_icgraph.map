@@ -1,0 +1,22 @@
+<map id="AP_HAL_AVR::AVRDigitalSource::write" name="AP_HAL_AVR::AVRDigitalSource::write">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRSPI0DeviceDriver.html#a7f294dc50be0d08958980f4cc67a3b1f" title="AP_HAL_AVR::AVRSPI0Device\lDriver::_cs_assert" alt="" coords="278,70,493,111"/>
+<area shape="rect" id="node5" href="$classAP__HAL__AVR_1_1AVRSPI2DeviceDriver.html#aeba9adbff34e8c747e227c0445773ab1" title="AP_HAL_AVR::AVRSPI2Device\lDriver::_cs_assert" alt="" coords="278,266,493,307"/>
+<area shape="rect" id="node8" href="$classAP__HAL__AVR_1_1AVRSPI3DeviceDriver.html#ab15b6f962ebb952e8245bd886c5b738d" title="AP_HAL_AVR::AVRSPI3Device\lDriver::_cs_assert" alt="" coords="278,397,493,438"/>
+<area shape="rect" id="node11" href="$classAP__HAL__AVR_1_1AVRSPI0DeviceDriver.html#a2b71451a0deb6625eb952c10c49e9e11" title="AP_HAL_AVR::AVRSPI0Device\lDriver::_cs_release" alt="" coords="278,135,493,177"/>
+<area shape="rect" id="node13" href="$classAP__HAL__AVR_1_1AVRSPI2DeviceDriver.html#a3c43f1cbd89590cd76331da42e759eff" title="AP_HAL_AVR::AVRSPI2Device\lDriver::_cs_release" alt="" coords="278,331,493,373"/>
+<area shape="rect" id="node15" href="$classAP__HAL__AVR_1_1AVRSPI3DeviceDriver.html#a7e74121f8cca004adc09c9bb2142762a" title="AP_HAL_AVR::AVRSPI3Device\lDriver::_cs_release" alt="" coords="278,462,493,503"/>
+<area shape="rect" id="node17" href="$classAP__HAL__AVR_1_1AVRSPI0DeviceDriver.html#a25712c2edf66ba3b6550ed356afdf980" title="AP_HAL_AVR::AVRSPI0Device\lDriver::init" alt="" coords="278,593,493,634"/>
+<area shape="rect" id="node20" href="$classAP__HAL__AVR_1_1AVRSPI2DeviceDriver.html#ab3f69030d8468dbd47176eabdc7d2334" title="AP_HAL_AVR::AVRSPI2Device\lDriver::init" alt="" coords="278,527,493,569"/>
+<area shape="rect" id="node21" href="$classAP__HAL__AVR_1_1AVRSPI3DeviceDriver.html#a4268c09156186adfe750a2253111e805" title="AP_HAL_AVR::AVRSPI3Device\lDriver::init" alt="" coords="278,658,493,699"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRSPI0DeviceDriver.html#a2837a6a8583ba7f92e0e1826363da5ff" title="AP_HAL_AVR::AVRSPI0Device\lDriver::transaction" alt="" coords="542,70,757,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRSPI0DeviceDriver.html#a9ebceb9ce1c8433eea67c21f64903590" title="AP_HAL_AVR::AVRSPI0Device\lDriver::cs_assert" alt="" coords="542,5,757,46"/>
+<area shape="rect" id="node6" href="$classAP__HAL__AVR_1_1AVRSPI2DeviceDriver.html#ace9a22b0df92354545bd5d4ea256a53c" title="AP_HAL_AVR::AVRSPI2Device\lDriver::transaction" alt="" coords="542,266,757,307"/>
+<area shape="rect" id="node7" href="$classAP__HAL__AVR_1_1AVRSPI2DeviceDriver.html#a55cf08b98e2362eef9f46a719bf21bad" title="AP_HAL_AVR::AVRSPI2Device\lDriver::cs_assert" alt="" coords="542,201,757,242"/>
+<area shape="rect" id="node9" href="$classAP__HAL__AVR_1_1AVRSPI3DeviceDriver.html#a77c2917af53c1ec26b604f6d26be9af0" title="AP_HAL_AVR::AVRSPI3Device\lDriver::transaction" alt="" coords="542,462,757,503"/>
+<area shape="rect" id="node10" href="$classAP__HAL__AVR_1_1AVRSPI3DeviceDriver.html#ac9fbb1819fafe491feeaaa9c3411ba5b" title="AP_HAL_AVR::AVRSPI3Device\lDriver::cs_assert" alt="" coords="542,397,757,438"/>
+<area shape="rect" id="node12" href="$classAP__HAL__AVR_1_1AVRSPI0DeviceDriver.html#a0b15282973afc3a036d92b8b8f8154fd" title="AP_HAL_AVR::AVRSPI0Device\lDriver::cs_release" alt="" coords="542,135,757,177"/>
+<area shape="rect" id="node14" href="$classAP__HAL__AVR_1_1AVRSPI2DeviceDriver.html#ac99cb5ec86c16c9e2b2d94b1c5a512cf" title="AP_HAL_AVR::AVRSPI2Device\lDriver::cs_release" alt="" coords="542,331,757,373"/>
+<area shape="rect" id="node16" href="$classAP__HAL__AVR_1_1AVRSPI3DeviceDriver.html#a5de3349c45c4c7968dfb378237b9add5" title="AP_HAL_AVR::AVRSPI3Device\lDriver::cs_release" alt="" coords="542,527,757,569"/>
+<area shape="rect" id="node18" href="$classAP__HAL__AVR_1_1APM1SPIDeviceManager.html#a4948e7d4ad1faa56539dec151174b162" title="AP_HAL_AVR::APM1SPIDevice\lManager::init" alt="" coords="542,593,757,634"/>
+<area shape="rect" id="node19" href="$classAP__HAL__AVR_1_1APM2SPIDeviceManager.html#ae3e318ff4ff7e39e92c86dc9beeec231" title="AP_HAL_AVR::APM2SPIDevice\lManager::init" alt="" coords="542,658,757,699"/>
+</map>

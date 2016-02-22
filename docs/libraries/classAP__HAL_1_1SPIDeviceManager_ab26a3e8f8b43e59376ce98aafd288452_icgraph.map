@@ -1,0 +1,24 @@
+<map id="AP_HAL::SPIDeviceManager::device" name="AP_HAL::SPIDeviceManager::device">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__MPU9250.html#a1ffc4c3ef07f19632864c3f5de6702ba" title="AP_InertialSensor_MPU9250\l::_init_sensor" alt="" coords="249,5,441,46"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__MPU6000.html#a50be758eef3a4d1538323bab21349d2c" title="AP_InertialSensor_MPU6000\l::_init_sensor" alt="" coords="491,66,683,107"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__LSM9DS0.html#a1047cd97a910ee344c829084b700e10b" title="AP_InertialSensor_LSM9DS0\l::_init_sensor" alt="" coords="248,122,443,163"/>
+<area shape="rect" id="node10" href="$classLinux_1_1LinuxSPIUARTDriver.html#a9f188db84e47b81782901435e47b99f9" title="Linux::LinuxSPIUARTDriver\l::begin" alt="" coords="252,187,439,229"/>
+<area shape="rect" id="node11" href="$classAP__ADC__ADS7844.html#a15f6735b9bbe6c15a097bbb45bb024ad" title="AP_ADC_ADS7844::Init" alt="" coords="263,253,428,280"/>
+<area shape="rect" id="node15" href="$classAP__SerialBus__SPI.html#ac4703f2a024ef131607142cda2748970" title="AP_SerialBus_SPI::init" alt="" coords="267,304,424,331"/>
+<area shape="rect" id="node16" href="$classDataFlash__APM1.html#a97e03c262c2edd6e8070c0c6c0abf304" title="DataFlash_APM1::Init" alt="" coords="270,355,421,381"/>
+<area shape="rect" id="node17" href="$classAK8963__MPU9250__SPI__Backend.html#ac4ee64924a936932defb3dc329c57c48" title="AK8963_MPU9250_SPI\l_Backend::init" alt="" coords="264,406,427,447"/>
+<area shape="rect" id="node18" href="$BusTest_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="322,472,369,499"/>
+<area shape="rect" id="node19" href="$classLinux_1_1LinuxStorage__FRAM.html#abe5495ebecf6180c5865f33e9b0de113" title="Linux::LinuxStorage\l_FRAM::open" alt="" coords="277,523,414,565"/>
+<area shape="rect" id="node23" href="$AP__HAL__AVR_2examples_2Semaphore_2Semaphore_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="318,589,373,616"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__MPU9250.html#a5870cbd48fb92ada02747afcae3eaa6c" title="AP_InertialSensor_MPU9250\l::detect" alt="" coords="731,5,923,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="971,70,1106,111"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="1155,77,1307,104"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1355,77,1410,104"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__MPU6000.html#a2bbaf4bcb81f081d2f9e29b5c25ec31b" title="AP_InertialSensor_MPU6000\l::detect" alt="" coords="731,70,923,111"/>
+<area shape="rect" id="node12" href="$classAP__InertialSensor__Oilpan.html#ace5a0d60949fbdfd793fcfcd2af9232e" title="AP_InertialSensor_Oilpan\l::_init_sensor" alt="" coords="501,174,672,215"/>
+<area shape="rect" id="node14" href="$AP__ADC__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="559,253,614,280"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor__Oilpan.html#a5584e4f2ba880d16e773e83b6836fae7" title="AP_InertialSensor_Oilpan\l::detect" alt="" coords="741,161,912,202"/>
+<area shape="rect" id="node20" href="$classLinux_1_1LinuxStorage__FRAM.html#a4f5c65dff23063e62595c01a997af52c" title="Linux::LinuxStorage\l_FRAM::_storage_create" alt="" coords="503,465,671,506"/>
+<area shape="rect" id="node21" href="$classLinux_1_1LinuxStorage__FRAM.html#a3c8de702b5554324a004ba3da50d7e80" title="Linux::LinuxStorage\l_FRAM::_storage_open" alt="" coords="747,494,907,535"/>
+<area shape="rect" id="node22" href="$classLinux_1_1LinuxStorage__FRAM.html#a95e031b758f4a15f38f6c23c43b91c8f" title="Linux::LinuxStorage\l_FRAM::_timer_tick" alt="" coords="517,582,656,623"/>
+</map>

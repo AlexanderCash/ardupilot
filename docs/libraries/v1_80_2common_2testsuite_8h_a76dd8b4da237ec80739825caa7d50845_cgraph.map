@@ -1,0 +1,20 @@
+<map id="mavlink_test_attitude_quaternion" name="mavlink_test_attitude_quaternion">
+<area shape="rect" id="node2" href="$mavlink__msg__attitude__quaternion_8h.html#adfcfe4594d7fc77ffea003fecb92ce25" title="Encode a attitude_quaternion struct. " alt="" coords="205,33,355,74"/>
+<area shape="rect" id="node3" href="$mavlink__msg__attitude__quaternion_8h.html#a1cb29b75b97d3f63b0727701284b1c62" title="Pack a attitude_quaternion message. " alt="" coords="439,5,588,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__attitude__quaternion_8h.html#a36343235c9c134808c36f39218ff3c10" title="Decode a attitude_quaternion message into a struct. " alt="" coords="205,317,355,358"/>
+<area shape="rect" id="node14" href="$mavlink__msg__attitude__quaternion_8h.html#acae4243f569b92829bf2523dccc4d6c4" title="Pack a attitude_quaternion message on a channel. " alt="" coords="201,382,359,423"/>
+<area shape="rect" id="node16" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="204,447,356,489"/>
+<area shape="rect" id="node17" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="201,513,359,554"/>
+<area shape="rect" id="node18" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="223,604,337,631"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="667,12,842,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__attitude__quaternion_8h.html#a29d8dec9b996c49fbade031059e76d9a" title="Send a attitude_quaternion message. " alt="" coords="439,69,588,125"/>
+<area shape="rect" id="node7" href="$mavlink__msg__attitude__quaternion_8h.html#a25a9d0dca16a4c487e2001c532c2626e" title="Get field q1 from attitude_quaternion message. " alt="" coords="439,149,588,190"/>
+<area shape="rect" id="node8" href="$mavlink__msg__attitude__quaternion_8h.html#a526049c5671e3fb4888fcf773b976c69" title="Get field q2 from attitude_quaternion message. " alt="" coords="439,214,588,255"/>
+<area shape="rect" id="node9" href="$mavlink__msg__attitude__quaternion_8h.html#a254c30f2d2db728ef41e98d80e2e673b" title="Get field q3 from attitude_quaternion message. " alt="" coords="439,279,588,321"/>
+<area shape="rect" id="node10" href="$mavlink__msg__attitude__quaternion_8h.html#a523915aface858e6917f503b83c475da" title="Get field q4 from attitude_quaternion message. " alt="" coords="439,345,588,386"/>
+<area shape="rect" id="node11" href="$mavlink__msg__attitude__quaternion_8h.html#a8befefa5ee383cce7e98181cf24df5c7" title="Get field rollspeed from attitude_quaternion message. " alt="" coords="427,410,600,451"/>
+<area shape="rect" id="node12" href="$mavlink__msg__attitude__quaternion_8h.html#afbfadd91044c4e22ee11c175a1dbeac9" title="Get field pitchspeed from attitude_quaternion message. " alt="" coords="421,475,605,517"/>
+<area shape="rect" id="node13" href="$mavlink__msg__attitude__quaternion_8h.html#a9d3af21e1107b86e7c80fc14e78cec25" title="Get field yawspeed from attitude_quaternion message. " alt="" coords="423,541,603,582"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="408,607,619,633"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="441,657,585,684"/>
+</map>

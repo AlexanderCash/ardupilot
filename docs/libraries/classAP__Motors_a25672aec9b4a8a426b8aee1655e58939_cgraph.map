@@ -1,0 +1,4 @@
+<map id="AP_Motors::get_batt_voltage_filt" name="AP_Motors::get_batt_voltage_filt">
+<area shape="rect" id="node2" href="$classLowPassFilterFloat.html#a26e58fd86bce9a357a94ee6afdf6e94d" title="LowPassFilterFloat::get" alt="" coords="197,12,357,39"/>
+<area shape="rect" id="node3" href="$classDigitalLPF.html#ae897c24f1bbe856fa98bb90949ae99c8" title="DigitalLPF::get" alt="" coords="405,12,515,39"/>
+</map>

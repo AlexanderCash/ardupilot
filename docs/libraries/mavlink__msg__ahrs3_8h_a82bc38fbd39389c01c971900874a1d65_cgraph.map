@@ -1,0 +1,4 @@
+<map id="mavlink_msg_ahrs3_encode_chan" name="mavlink_msg_ahrs3_encode_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__ahrs3_8h.html#a91e8b9bf40fc1de19b45cae8b5e5a442" title="Pack a ahrs3 message on a channel. " alt="" coords="277,5,485,32"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="533,5,744,32"/>
+</map>

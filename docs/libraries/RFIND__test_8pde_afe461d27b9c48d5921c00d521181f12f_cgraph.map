@@ -1,0 +1,12 @@
+<map id="loop" name="loop">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="117,5,264,46"/>
+<area shape="rect" id="node3" href="$classRangeFinder.html#a37112967f0252ed7c3fdc42f840761c7" title="RangeFinder::update" alt="" coords="119,71,262,97"/>
+<area shape="rect" id="node10" href="$classRangeFinder.html#a5452cf4387ba889dd206b12375d2e059" title="RangeFinder::status" alt="" coords="121,121,261,148"/>
+<area shape="rect" id="node11" href="$classRangeFinder.html#a451a7507d534024c72faa2d1b734cb3c" title="RangeFinder::distance_cm" alt="" coords="101,172,280,199"/>
+<area shape="rect" id="node4" href="$classAP__RangeFinder__Backend.html#a48e0e33158f03ccc0147fbe8a7b5d970" title="AP_RangeFinder_Backend\l::update" alt="" coords="328,5,507,46"/>
+<area shape="rect" id="node5" href="$classRangeFinder.html#a9a31752438c769ed90299e3a31d01ca0" title="RangeFinder::update\l_pre_arm_check" alt="" coords="346,122,489,163"/>
+<area shape="rect" id="node7" href="$classRangeFinder.html#a48a351902674ea1261e0cb7818bfd785" title="RangeFinder::status" alt="" coords="589,71,729,97"/>
+<area shape="rect" id="node6" href="$classRangeFinder.html#adcd3c63e0d8d7760e364bfd7ee8cd047" title="RangeFinder::pre_arm\l_check" alt="" coords="583,122,734,163"/>
+<area shape="rect" id="node8" href="$classRangeFinder.html#ae793d6a44caf92c7f76f52d73182190f" title="RangeFinder::distance_cm" alt="" coords="569,188,748,215"/>
+<area shape="rect" id="node9" href="$classRangeFinder.html#a6811aa65877c8990957519f6437e8e20" title="RangeFinder::min_distance_cm" alt="" coords="555,239,762,265"/>
+</map>

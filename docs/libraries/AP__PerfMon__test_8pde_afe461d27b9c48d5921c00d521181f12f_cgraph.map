@@ -1,0 +1,12 @@
+<map id="loop" name="loop">
+<area shape="rect" id="node2" href="$AP__PerfMon__test_8pde.html#a5d290a2418c38de1ffb5a68892afd7bf" title="testFn" alt="" coords="173,24,232,50"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="599,16,745,58"/>
+<area shape="rect" id="node5" href="$classAP__PerfMon.html#aac40c63619a0ae2e26f27100f23dba3e" title="AP_PerfMon::DisplayAndClear" alt="" coords="101,176,304,202"/>
+<area shape="rect" id="node4" href="$AP__PerfMon__test_8pde.html#ac8d35f696588359f7bccd25c70b75e5c" title="testFn2" alt="" coords="416,24,483,50"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="797,219,944,260"/>
+<area shape="rect" id="node7" href="$classAP__PerfMon.html#a8ec00aed03b87f42dea000040d1ddcc6" title="AP_PerfMon::DisplayResults" alt="" coords="353,226,546,253"/>
+<area shape="rect" id="node11" href="$classAP__PerfMon.html#abe8059b11d945544a3bc49a743a14635" title="AP_PerfMon::ClearAll" alt="" coords="374,336,525,362"/>
+<area shape="rect" id="node8" href="$classAP__PerfMon.html#a96002a72a44a8e668eab2168b1e6c6ee" title="AP_PerfMon::stop" alt="" coords="607,226,737,253"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1UARTDriver.html#acc37de01cc945aa1b798937d41fb65db" title="AP_HAL::UARTDriver\l::set_blocking_writes" alt="" coords="595,278,749,319"/>
+<area shape="rect" id="node10" href="$classAP__PerfMon.html#a9d97e1982346161614d1b24bfc139f68" title="AP_PerfMon::start" alt="" coords="607,344,737,370"/>
+</map>

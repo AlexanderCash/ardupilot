@@ -1,0 +1,9 @@
+<map id="mavlink_msg_command_long_encode" name="mavlink_msg_command_long_encode">
+<area shape="rect" id="node2" href="$classAP__Camera.html#a57bca3faf48ab4baa3052f4480b69747" title="AP_Camera::configure_cmd" alt="" coords="219,5,405,32"/>
+<area shape="rect" id="node3" href="$classAP__Camera.html#a8c38ae3e667768f0564aed16722453f3" title="AP_Camera::control_cmd" alt="" coords="457,107,629,133"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#a73c6c6692680b0b05f6782f6411a00e4" title="mavlink_test_command_long" alt="" coords="217,56,407,83"/>
+<area shape="rect" id="node7" href="$classAP__Camera.html#a74372e2b8e5d3cd3b464f2ef417cb0f6" title="AP_Camera::trigger_pic" alt="" coords="231,157,393,184"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="466,56,619,83"/>
+<area shape="rect" id="node6" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="678,56,794,83"/>
+<area shape="rect" id="node8" href="$classAP__Camera.html#a27664cf70d78d5af17d66a3d715048db" title="decode MavLink that controls camera " alt="" coords="457,157,629,184"/>
+</map>

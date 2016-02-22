@@ -1,0 +1,8 @@
+<map id="libraries/AP_HAL_AVR/Scheduler.h" name="libraries/AP_HAL_AVR/Scheduler.h">
+<area shape="rect" id="node2" href="$AP__HAL__AVR__private_8h.html" title="libraries/AP_HAL_AVR\l/AP_HAL_AVR_private.h" alt="" coords="127,97,296,138"/>
+<area shape="rect" id="node5" href="$AP__HAL__AVR_2Scheduler_8cpp.html" title="libraries/AP_HAL_AVR\l/Scheduler.cpp" alt="" coords="321,97,479,138"/>
+<area shape="rect" id="node6" href="$Scheduler__Timer_8cpp.html" title="libraries/AP_HAL_AVR\l/Scheduler_Timer.cpp" alt="" coords="503,97,660,138"/>
+<area shape="rect" id="node7" href="$AP__HAL__AVR_2Semaphores_8cpp.html" title="libraries/AP_HAL_AVR\l/Semaphores.cpp" alt="" coords="684,97,841,138"/>
+<area shape="rect" id="node3" href="$HAL__AVR__APM1__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM1_Class.cpp" alt="" coords="5,187,200,229"/>
+<area shape="rect" id="node4" href="$HAL__AVR__APM2__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM2_Class.cpp" alt="" coords="225,187,420,229"/>
+</map>

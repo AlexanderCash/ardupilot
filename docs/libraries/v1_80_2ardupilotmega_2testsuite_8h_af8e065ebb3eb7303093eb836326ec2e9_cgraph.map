@@ -1,0 +1,21 @@
+<map id="mavlink_test_limits_status" name="mavlink_test_limits_status">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#ad230e399f35e3ed097c06b1277c9ed85" title="Encode a limits_status struct into a message. " alt="" coords="201,58,338,99"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#ae741b5957a1dbc9021e0b35ec6a0b01d" title="Pack a limits_status message. " alt="" coords="434,5,571,46"/>
+<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a6880765445b737e8c5a5fea4929e67be" title="Decode a limits_status message into a struct. " alt="" coords="201,331,338,373"/>
+<area shape="rect" id="node15" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a407b39409cb2527e7eb186a4124ed53f" title="Pack a limits_status message on a channel. " alt="" coords="201,397,338,438"/>
+<area shape="rect" id="node17" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="193,462,345,503"/>
+<area shape="rect" id="node18" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="190,527,349,569"/>
+<area shape="rect" id="node19" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="212,651,327,677"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="657,12,831,39"/>
+<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a76491efd1b4cee8f28913e9d118b3c22" title="Send a limits_status message. " alt="" coords="421,70,585,111"/>
+<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a422a91e75f608ffa9a574af4bbd2d58b" title="Get field last_trigger from limits_status message. " alt="" coords="422,135,583,177"/>
+<area shape="rect" id="node8" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#ae6dbe3d9f7d818fb3ee96bb433d2a559" title="Get field last_action from limits_status message. " alt="" coords="423,201,583,242"/>
+<area shape="rect" id="node9" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#ad4bdf42519a8114537026318ec02149f" title="Get field last_recovery from limits_status message. " alt="" coords="415,266,590,307"/>
+<area shape="rect" id="node10" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a0fff3f0834bd999c57c34abe0af1f828" title="Get field last_clear from limits_status message. " alt="" coords="426,331,579,373"/>
+<area shape="rect" id="node11" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#abf73bec81c95100594538fe8db695cbc" title="Get field breach_count from limits_status message. " alt="" coords="415,397,590,438"/>
+<area shape="rect" id="node12" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a0415762c31979f3bab99cd80bec96400" title="Get field mods_enabled from limits_status message. " alt="" coords="412,462,593,503"/>
+<area shape="rect" id="node13" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a4909738e8709b6f4fd1cc80cf690f585" title="Get field mods_required from limits_status message. " alt="" coords="411,527,594,569"/>
+<area shape="rect" id="node14" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a3bd4ba2be74ac32b8580cf001b019f46" title="Get field mods_triggered from limits_status message. " alt="" coords="409,593,596,634"/>
+<area shape="rect" id="node16" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="397,659,608,685"/>
+<area shape="rect" id="node20" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="431,709,575,736"/>
+</map>

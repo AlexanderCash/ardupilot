@@ -1,0 +1,4 @@
+<map id="NavEKF::getVehicleArmStatus" name="NavEKF::getVehicleArmStatus">
+<area shape="rect" id="node2" href="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b" title="NavEKF::performArmingChecks" alt="" coords="256,5,467,32"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="515,31,666,57"/>
+</map>

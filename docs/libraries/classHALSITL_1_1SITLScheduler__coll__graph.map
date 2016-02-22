@@ -1,0 +1,41 @@
+<map id="HALSITL::SITLScheduler" name="HALSITL::SITLScheduler">
+<area shape="rect" id="node6" href="$classHALSITL_1_1SITL__State.html" title="HALSITL::SITL_State" alt="" coords="1322,716,1473,743"/>
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html" title="AP_HAL::Scheduler" alt="" coords="628,823,767,849"/>
+<area shape="rect" id="node3" href="$classfastdelegate_1_1FastDelegate0.html" title="fastdelegate::FastDelegate0\l\&lt; RetType \&gt;" alt="" coords="604,874,791,915"/>
+<area shape="rect" id="node4" href="$classfastdelegate_1_1detail_1_1ClosurePtr.html" title="fastdelegate::detail\l::ClosurePtr\&lt; GenericMemFn,\l StaticFunctionPtr, UnvoidStatic\lFunctionPtr \&gt;" alt="" coords="264,859,475,930"/>
+<area shape="rect" id="node5" href="$classfastdelegate_1_1DelegateMemento.html" title="fastdelegate::DelegateMemento" alt="" coords="6,881,213,908"/>
+<area shape="rect" id="node7" href="$classVectorN.html" title="VectorN\&lt; HALSITL::SITL\l_State::readings_baro,\l baro_buffer_length \&gt;" alt="" coords="947,971,1119,1027"/>
+<area shape="rect" id="node8" href="$structHALSITL_1_1SITL__State_1_1readings__baro.html" title="HALSITL::SITL_State\l::readings_baro" alt="" coords="622,1005,773,1046"/>
+<area shape="rect" id="node9" href="$classVectorN.html" title="VectorN\&lt; HALSITL::SITL\l_State::readings_mag,\l mag_buffer_length \&gt;" alt="" coords="947,749,1119,805"/>
+<area shape="rect" id="node10" href="$structHALSITL_1_1SITL__State_1_1readings__mag.html" title="HALSITL::SITL_State\l::readings_mag" alt="" coords="622,757,773,798"/>
+<area shape="rect" id="node11" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="311,421,427,448"/>
+<area shape="rect" id="node24" href="$classAP__InertialSensor.html" title="AP_InertialSensor" alt="" coords="970,135,1097,161"/>
+<area shape="rect" id="node29" href="$classAircraft.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="1001,633,1065,660"/>
+<area shape="rect" id="node30" href="$classMatrix3.html" title="Matrix3\&lt; float \&gt;" alt="" coords="640,548,755,575"/>
+<area shape="rect" id="node37" href="$classCompass.html" title="Compass" alt="" coords="994,313,1073,340"/>
+<area shape="rect" id="node39" href="$structCompass_1_1mag__state.html" title="Compass::mag_state" alt="" coords="624,123,771,149"/>
+<area shape="rect" id="node12" href="$classAP__Baro.html" title="AP_Baro" alt="" coords="996,417,1071,444"/>
+<area shape="rect" id="node18" href="$classAP__Baro__Backend.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="1331,432,1463,459"/>
+<area shape="rect" id="node13" href="$structAP__Baro_1_1sensor.html" title="AP_Baro::sensor" alt="" coords="637,447,758,473"/>
+<area shape="rect" id="node14" href="$classDerivativeFilter.html" title="DerivativeFilter\&lt; float, 7 \&gt;" alt="" coords="610,69,785,96"/>
+<area shape="rect" id="node15" href="$classFilterWithBuffer.html" title="FilterWithBuffer\&lt; float,\l FILTER_SIZE \&gt;" alt="" coords="292,57,447,98"/>
+<area shape="rect" id="node16" href="$classFilter.html" title="Filter\&lt; float \&gt;" alt="" coords="59,64,159,91"/>
+<area shape="rect" id="node17" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="622,396,773,423"/>
+<area shape="rect" id="node19" href="$classOpticalFlow.html" title="OpticalFlow" alt="" coords="988,1064,1079,1091"/>
+<area shape="rect" id="node35" href="$classSITL.html" title="SITL" alt="" coords="1008,512,1059,539"/>
+<area shape="rect" id="node22" href="$classOpticalFlow__backend.html" title="OpticalFlow_backend" alt="" coords="1324,1064,1471,1091"/>
+<area shape="rect" id="node20" href="$structOpticalFlow_1_1OpticalFlow__state.html" title="OpticalFlow::OpticalFlow\l_state" alt="" coords="613,1070,781,1111"/>
+<area shape="rect" id="node21" href="$structVector2.html" title="Vector2\&lt; float \&gt;" alt="" coords="311,1077,427,1104"/>
+<area shape="rect" id="node23" href="$structOpticalFlow_1_1AP__OpticalFlow__Flags.html" title="OpticalFlow::AP_OpticalFlow\l_Flags" alt="" coords="601,1135,794,1177"/>
+<area shape="rect" id="node25" href="$classAP__InertialSensor__Backend.html" title="AP_InertialSensor_Backend" alt="" coords="1305,135,1490,161"/>
+<area shape="rect" id="node26" href="$classDataFlash__Class.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="636,12,759,39"/>
+<area shape="rect" id="node27" href="$structLogStructure.html" title="LogStructure" alt="" coords="321,5,417,32"/>
+<area shape="rect" id="node28" href="$structHALSITL_1_1SITL__State_1_1gps__data.html" title="HALSITL::SITL_State\l::gps_data" alt="" coords="958,685,1109,726"/>
+<area shape="rect" id="node31" href="$structLocation.html" title="Location" alt="" coords="662,705,733,732"/>
+<area shape="rect" id="node32" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="292,705,447,732"/>
+<area shape="rect" id="node33" href="$classVectorN.html" title="VectorN\&lt; HALSITL::SITL\l_State::readings_wind,\l wind_buffer_length \&gt;" alt="" coords="947,887,1119,943"/>
+<area shape="rect" id="node34" href="$structHALSITL_1_1SITL__State_1_1readings__wind.html" title="HALSITL::SITL_State\l::readings_wind" alt="" coords="622,939,773,981"/>
+<area shape="rect" id="node36" href="$structsitl__fdm.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="663,497,731,524"/>
+<area shape="rect" id="node38" href="$classAP__Compass__Backend.html" title="AP_Compass_Backend" alt="" coords="1317,292,1478,319"/>
+<area shape="rect" id="node40" href="$classVector3.html" title="Vector3\&lt; int16_t \&gt;" alt="" coords="304,123,435,149"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="airspeed_ratio_update" name="airspeed_ratio_update">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#a4721e9a79d9611e1f693d4850c07edc0" title="AP_Airspeed::enabled" alt="" coords="227,5,378,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="AP_GPS::status" alt="" coords="243,56,362,83"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="221,107,385,133"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#a1027b15b91e0af1dbfe8b999a88c8a25" title="AP_Airspeed::get_airspeed" alt="" coords="213,157,393,184"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a8b36acdc5098b3f77e28ec640b438fbd" title="AP_GPS::velocity" alt="" coords="239,208,367,235"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#ae64261b4d45f14e71139b6df8c856eb4" title="AP_Airspeed::update\l_calibration" alt="" coords="230,259,375,301"/>
+<area shape="rect" id="node8" href="$GCS__Mavlink_8pde.html#a1f174dff59cce047804f6f1d5e9c83d6" title="gcs_send_airspeed_calibration" alt="" coords="203,325,403,352"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="488,300,624,327"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#af11fb91add08f3c0ed721fdb9d6bea17" title="AP_Airspeed::log_mavlink_send" alt="" coords="451,351,661,377"/>
+</map>

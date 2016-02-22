@@ -1,0 +1,24 @@
+<map id="AP_Baro::get_altitude" name="AP_Baro::get_altitude">
+<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#abc81c3711f55857cc308a45ff01abdee" title="HALSITL::SITL_State\l::_simulator_output" alt="" coords="229,115,379,157"/>
+<area shape="rect" id="node9" href="$classAP__Baro.html#a0115c37618652051c1f6efd072fcc74b" title="AP_Baro::get_EAS2TAS" alt="" coords="221,181,387,208"/>
+<area shape="rect" id="node11" href="$classAP__AHRS__DCM.html#ac8f908b8d8551b3201a104d03a5c31b7" title="AP_AHRS_DCM::get_position" alt="" coords="203,232,405,259"/>
+<area shape="rect" id="node12" href="$classDataFlash__Class.html#a2f676bab8be41d66e21fd820454d73c1" title="DataFlash_Class::Log\l_Write_Baro" alt="" coords="228,283,380,325"/>
+<area shape="rect" id="node13" href="$BARO__generic_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="515,459,562,485"/>
+<area shape="rect" id="node14" href="$classNavEKF.html#a87c71e92e35c460ff8f026333dc1e813" title="NavEKF::readHgtData" alt="" coords="227,349,381,376"/>
+<area shape="rect" id="node21" href="$classAP__Baro.html#a51144302ade095d22cafe8fa4928fd29" title="AP_Baro::update" alt="" coords="243,459,365,485"/>
+<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="926,65,1077,106"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1SITL__State.html#af9bfcaa8ed54183483f647e508c85ab8" title="HALSITL::SITL_State\l::_fdm_input" alt="" coords="463,57,614,98"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="1150,65,1301,106"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="1349,65,1520,106"/>
+<area shape="rect" id="node6" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1568,65,1739,106"/>
+<area shape="rect" id="node8" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="687,6,838,47"/>
+<area shape="rect" id="node10" href="$classAP__Baro.html#ab313ca72951292ae6d6f6a06ec21d123" title="AP_Baro::get_air_density\l_ratio" alt="" coords="453,174,624,215"/>
+<area shape="rect" id="node15" href="$classNavEKF.html#a469538f4ff5dd6886d8db2be0acd3b48" title="NavEKF::ResetHeight" alt="" coords="462,291,615,317"/>
+<area shape="rect" id="node16" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="684,174,841,215"/>
+<area shape="rect" id="node17" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="684,342,841,383"/>
+<area shape="rect" id="node20" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="902,291,1101,317"/>
+<area shape="rect" id="node18" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="1150,265,1301,292"/>
+<area shape="rect" id="node19" href="$classNavEKF.html#a74882eb98d3c69065b640829154a500c" title="NavEKF::FuseVelPosNED" alt="" coords="673,291,853,317"/>
+<area shape="rect" id="node22" href="$classAP__Baro.html#aead101a2ea48cacf195ea157e8b5c7da" title="AP_Baro::calibrate" alt="" coords="473,509,604,536"/>
+<area shape="rect" id="node23" href="$BARO__generic_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="735,509,790,536"/>
+</map>

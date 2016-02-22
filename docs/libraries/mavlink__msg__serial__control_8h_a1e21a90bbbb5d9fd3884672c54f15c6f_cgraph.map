@@ -1,0 +1,6 @@
+<map id="mavlink_msg_serial_control_encode" name="mavlink_msg_serial_control_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__serial__control_8h.html#a7f7e386f5adec53e196367d332269f11" title="Pack a serial_control message. " alt="" coords="193,49,330,90"/>
+<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a78cf8b010c1768f8be4b9caa34aba0dc" title="_mav_put_uint8_t_array" alt="" coords="386,5,547,32"/>
+<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="603,31,743,57"/>
+<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="379,107,554,133"/>
+</map>

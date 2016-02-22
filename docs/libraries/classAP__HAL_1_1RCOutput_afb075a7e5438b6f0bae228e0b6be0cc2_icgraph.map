@@ -1,0 +1,4 @@
+<map id="AP_HAL::RCOutput::force_safety_off" name="AP_HAL::RCOutput::force_safety_off">
+<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a001892196c464a9141c7ce8deca870f9" title="GCS_MAVLINK::handle\l_set_mode" alt="" coords="232,5,395,46"/>
+<area shape="rect" id="node3" href="$classAP__BoardConfig.html#a53de1d2c0a124ff0d6e3455126237bb5" title="AP_BoardConfig::init" alt="" coords="241,71,385,97"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AP_HAL::Storage" name="AP_HAL::Storage">
+<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVREEPROMStorage.html" title="AP_HAL_AVR::AVREEPROMStorage" alt="" coords="182,5,429,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEStorage.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEStorage" alt="" coords="218,57,393,98"/>
+<area shape="rect" id="node4" href="$classEmpty_1_1EmptyStorage.html" title="Empty::EmptyStorage" alt="" coords="230,123,381,149"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITLEEPROMStorage.html" title="HALSITL::SITLEEPROMStorage" alt="" coords="198,173,413,200"/>
+<area shape="rect" id="node6" href="$classLinux_1_1LinuxStorage.html" title="Linux::LinuxStorage" alt="" coords="237,224,374,251"/>
+<area shape="rect" id="node8" href="$classPX4_1_1PX4Storage.html" title="PX4::PX4Storage" alt="" coords="243,275,368,301"/>
+<area shape="rect" id="node9" href="$classVRBRAIN_1_1VRBRAINStorage.html" title="VRBRAIN::VRBRAINStorage" alt="" coords="207,325,404,352"/>
+<area shape="rect" id="node7" href="$classLinux_1_1LinuxStorage__FRAM.html" title="Linux::LinuxStorage_FRAM" alt="" coords="478,224,661,251"/>
+</map>

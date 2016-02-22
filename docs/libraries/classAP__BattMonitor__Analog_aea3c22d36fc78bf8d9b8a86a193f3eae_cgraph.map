@@ -1,0 +1,6 @@
+<map id="AP_BattMonitor_Analog::read" name="AP_BattMonitor_Analog::read">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogSource.html#add563a28e58fdd4af48ed983bbbecec8" title="AP_HAL::AnalogSource\l::set_pin" alt="" coords="216,5,379,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1AnalogSource.html#a97f02eb815fd2f568df7b927d6f6b559" title="AP_HAL::AnalogSource\l::voltage_average" alt="" coords="216,70,379,111"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html#a94dc19b1a82878c886697ff062377fe7" title="has_current &#45; returns true if battery monitor instance provides current info " alt="" coords="226,135,369,177"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="224,201,371,242"/>
+</map>

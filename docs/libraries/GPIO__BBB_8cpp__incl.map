@@ -1,0 +1,30 @@
+<map id="libraries/AP_HAL_Linux/GPIO_BBB.cpp" name="libraries/AP_HAL_Linux/GPIO_BBB.cpp">
+<area shape="rect" id="node2" href="$AP__HAL_8h.html" title="AP_HAL.h" alt="" coords="901,395,984,421"/>
+<area shape="rect" id="node29" href="$Linux_2GPIO_8h.html" title="GPIO.h" alt="" coords="839,96,905,123"/>
+<area shape="rect" id="node5" href="$AP__HAL__Namespace_8h.html" title="AP_HAL_Namespace.h" alt="" coords="1027,843,1188,869"/>
+<area shape="rect" id="node8" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="145,768,276,795"/>
+<area shape="rect" id="node9" href="$AP__HAL__Macros_8h.html" title="AP_HAL_Macros.h" alt="" coords="1546,469,1680,496"/>
+<area shape="rect" id="node10" href="$UARTDriver_8h.html" title="UARTDriver.h" alt="" coords="749,544,853,571"/>
+<area shape="rect" id="node11" href="$BetterStream_8h.html" title="utility/BetterStream.h" alt="" coords="641,619,785,645"/>
+<area shape="rect" id="node13" href="$Stream_8h.html" title="Stream.h" alt="" coords="823,693,896,720"/>
+<area shape="rect" id="node14" href="$Print_8h.html" title="Print.h" alt="" coords="807,768,867,795"/>
+<area shape="rect" id="node18" href="$I2CDriver_8h.html" title="I2CDriver.h" alt="" coords="541,768,629,795"/>
+<area shape="rect" id="node19" href="$SPIDriver_8h.html" title="SPIDriver.h" alt="" coords="1567,544,1657,571"/>
+<area shape="rect" id="node20" href="$AnalogIn_8h.html" title="AnalogIn.h" alt="" coords="1082,544,1165,571"/>
+<area shape="rect" id="node21" href="$Storage_8h.html" title="Storage.h" alt="" coords="983,619,1061,645"/>
+<area shape="rect" id="node22" href="$GPIO_8h.html" title="GPIO.h" alt="" coords="1124,693,1191,720"/>
+<area shape="rect" id="node23" href="$RCInput_8h.html" title="RCInput.h" alt="" coords="1292,544,1373,571"/>
+<area shape="rect" id="node24" href="$RCOutput_8h.html" title="RCOutput.h" alt="" coords="1399,544,1491,571"/>
+<area shape="rect" id="node25" href="$Scheduler_8h.html" title="Scheduler.h" alt="" coords="169,619,260,645"/>
+<area shape="rect" id="node26" href="$Semaphores_8h.html" title="Semaphores.h" alt="" coords="1265,469,1372,496"/>
+<area shape="rect" id="node27" href="$Util_8h.html" title="Util.h" alt="" coords="512,619,565,645"/>
+<area shape="rect" id="node28" href="$HAL_8h.html" title="HAL.h" alt="" coords="1081,469,1139,496"/>
+<area shape="rect" id="node7" href="$FastDelegate_8h.html" title="utility/FastDelegate.h" alt="" coords="1035,917,1181,944"/>
+<area shape="rect" id="node16" href="$AP__Progmem_8h.html" title="AP_Progmem.h" alt="" coords="335,693,449,720"/>
+<area shape="rect" id="node17" href="$AP__Progmem__Identity_8h.html" title="AP_Progmem_Identity.h" alt="" coords="301,768,464,795"/>
+<area shape="rect" id="node30" href="$AP__HAL__Linux_8h.html" title="AP_HAL_Linux.h" alt="" coords="724,245,847,272"/>
+<area shape="rect" id="node34" href="$GPIO__BBB_8h.html" title="GPIO_BBB.h" alt="" coords="734,171,833,197"/>
+<area shape="rect" id="node31" href="$HAL__Linux__Class_8h.html" title="HAL_Linux_Class.h" alt="" coords="716,320,855,347"/>
+<area shape="rect" id="node33" href="$AP__HAL__Linux__Main_8h.html" title="AP_HAL_Linux_Main.h" alt="" coords="535,320,692,347"/>
+<area shape="rect" id="node32" href="$AP__HAL__Linux__Namespace_8h.html" title="AP_HAL_Linux_Namespace.h" alt="" coords="678,395,876,421"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AP_Relay::toggle" name="AP_Relay::toggle">
+<area shape="rect" id="node2" href="$classAP__ServoRelayEvents.html#a97e7a71ad2ed00b9b4ceb20bc617be4c" title="AP_ServoRelayEvents\l::do_set_relay" alt="" coords="179,5,335,46"/>
+<area shape="rect" id="node3" href="$classAP__ServoRelayEvents.html#abae99d08dbec323313058baebc468f0e" title="AP_ServoRelayEvents\l::update_events" alt="" coords="179,70,335,111"/>
+<area shape="rect" id="node4" href="$classAP__ServoRelayEvents.html#af3cde3623c5f0fa9368aa46eb85f916e" title="AP_ServoRelayEvents\l::do_repeat_servo" alt="" coords="385,37,541,78"/>
+<area shape="rect" id="node5" href="$classAP__ServoRelayEvents.html#a7bc553c3358ab805cc1ff315ca60ff97" title="AP_ServoRelayEvents\l::do_repeat_relay" alt="" coords="385,102,541,143"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mavlink_msg_system_time_decode" name="mavlink_msg_system_time_decode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__system__time_8h.html#a1e6dd51a2a45e6c60f773460578c5d18" title="Send a system_time message. " alt="" coords="203,5,381,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__system__time_8h.html#a730e89a1276a73d084a66b0274431bf8" title="Get field time_boot_ms from system_time message. " alt="" coords="208,70,376,111"/>
+</map>

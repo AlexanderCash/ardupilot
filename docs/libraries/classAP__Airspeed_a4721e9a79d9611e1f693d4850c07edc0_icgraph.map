@@ -1,0 +1,5 @@
+<map id="AP_Airspeed::enabled" name="AP_Airspeed::enabled">
+<area shape="rect" id="node2" href="$classAP__Arming.html#a2b7ca6e3c7517feca088b28d45f2fc61" title="AP_Arming::airspeed\l_checks" alt="" coords="206,5,351,46"/>
+<area shape="rect" id="node3" href="$classAP__Arming.html#a73c03baf7f22b7124a2ac9e9286a850a" title="AP_Arming::pre_arm\l_checks" alt="" coords="401,5,543,46"/>
+<area shape="rect" id="node4" href="$classAP__Arming.html#a47b859d9929a736df2f08a1cad03efcb" title="AP_Arming::arm" alt="" coords="593,12,711,39"/>
+</map>

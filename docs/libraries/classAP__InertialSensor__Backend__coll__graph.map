@@ -1,0 +1,7 @@
+<map id="AP_InertialSensor_Backend" name="AP_InertialSensor_Backend">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html" title="AP_InertialSensor" alt="" coords="213,229,339,256"/>
+<area shape="rect" id="node3" href="$classDataFlash__Class.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="215,96,337,123"/>
+<area shape="rect" id="node4" href="$structLogStructure.html" title="LogStructure" alt="" coords="228,5,324,32"/>
+<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="362,96,512,123"/>
+<area shape="rect" id="node6" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="626,96,741,123"/>
+</map>

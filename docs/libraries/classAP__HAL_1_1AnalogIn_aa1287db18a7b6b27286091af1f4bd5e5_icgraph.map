@@ -1,0 +1,11 @@
+<map id="AP_HAL::AnalogIn::channel" name="AP_HAL::AnalogIn::channel">
+<area shape="rect" id="node2" href="$classAP__BattMonitor__Analog.html#a5429534a064ce70fa2d061e1db62e9b8" title="Constructor. " alt="" coords="249,5,418,46"/>
+<area shape="rect" id="node3" href="$classAP__RangeFinder__analog.html#a04bfb7df1a0952c471040ca4c885fdb1" title="AP_RangeFinder_analog\l::AP_RangeFinder_analog" alt="" coords="246,70,421,111"/>
+<area shape="rect" id="node4" href="$classAP__Airspeed__Analog.html#a378d85fdc155c83dcee1858040712904" title="AP_Airspeed_Analog\l::init" alt="" coords="261,135,406,177"/>
+<area shape="rect" id="node7" href="$examples_2AnalogIn_2AnalogIn_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="306,201,361,228"/>
+<area shape="rect" id="node8" href="$classAP__HAL__AVR_1_1ADCSource.html#a2377e307aa7e56c344ad59bcd9a5d2c5" title="AP_HAL_AVR::ADCSource\l::voltage_average" alt="" coords="240,253,427,294"/>
+<area shape="rect" id="node9" href="$classAP__HAL__AVR_1_1ADCSource.html#a4fc59be8a234a9b23511b5f1feaf0dc2" title="AP_HAL_AVR::ADCSource\l::voltage_latest" alt="" coords="240,318,427,359"/>
+<area shape="rect" id="node5" href="$classAP__Airspeed.html#a7499575104f24c6502e1148c353d9637" title="AP_Airspeed::init" alt="" coords="511,143,633,169"/>
+<area shape="rect" id="node6" href="$Airspeed_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="718,143,773,169"/>
+<area shape="rect" id="node10" href="$classAP__HAL__AVR_1_1AVRAnalogIn.html#a57f3cc3accfa7f97af33382e9cdec748" title="AP_HAL_AVR::AVRAnalogIn\l::board_voltage" alt="" coords="475,318,669,359"/>
+</map>

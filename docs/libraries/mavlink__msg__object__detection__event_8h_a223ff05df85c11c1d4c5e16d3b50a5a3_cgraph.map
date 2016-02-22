@@ -1,0 +1,10 @@
+<map id="mavlink_msg_object_detection_event_decode" name="mavlink_msg_object_detection_event_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__object__detection__event_8h.html#ac17c50f16be625b17993831522238faf" title="Send a object_detection_event message. " alt="" coords="228,5,407,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__object__detection__event_8h.html#a621a070a4b0adf5fcd31b2978014847c" title="Get field object_id from object_detection_event message. " alt="" coords="244,69,391,125"/>
+<area shape="rect" id="node4" href="$mavlink__msg__object__detection__event_8h.html#a8dea82524c64e88357e3c94bdf417cbd" title="Get field type from object_detection_event message. " alt="" coords="228,149,407,190"/>
+<area shape="rect" id="node5" href="$mavlink__msg__object__detection__event_8h.html#a52d3864083104b338008879693128886" title="Get field name from object_detection_event message. " alt="" coords="225,214,410,255"/>
+<area shape="rect" id="node7" href="$mavlink__msg__object__detection__event_8h.html#a7308167488e744bb9cc7a40813b982b0" title="Get field quality from object_detection_event message. " alt="" coords="244,279,391,335"/>
+<area shape="rect" id="node8" href="$mavlink__msg__object__detection__event_8h.html#a4d624017a63c2a0c07cb2ab6b16dd116" title="Get field bearing from object_detection_event message. " alt="" coords="244,359,391,415"/>
+<area shape="rect" id="node9" href="$mavlink__msg__object__detection__event_8h.html#a71685e2d0f8b616ea98954bda238e9a0" title="Get field distance from object_detection_event message. " alt="" coords="244,439,391,495"/>
+<area shape="rect" id="node6" href="$v0_89_2protocol_8h.html#a12ebb16564718cc14d12b46458bbb290" title="_MAV_RETURN_char_array" alt="" coords="459,221,650,248"/>
+</map>

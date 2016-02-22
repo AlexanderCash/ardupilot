@@ -1,0 +1,10 @@
+<map id="AP_Compass_AK8963::_update" name="AP_Compass_AK8963::_update">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="241,5,388,46"/>
+<area shape="rect" id="node3" href="$classAK8963__Backend.html#ad2cd3f29886b2c4f540b20d7f7eeed00" title="AK8963_Backend::sem\l_take_nonblocking" alt="" coords="235,70,394,111"/>
+<area shape="rect" id="node4" href="$classAP__Compass__AK8963.html#ab5e882d7275a1eac566cf788500630a0" title="AP_Compass_AK8963::\l_start_conversion" alt="" coords="233,135,397,177"/>
+<area shape="rect" id="node7" href="$classAP__Compass__AK8963.html#a1e775fbd8e39a296e39c2bfc39752489" title="AP_Compass_AK8963::\l_collect_samples" alt="" coords="233,201,397,242"/>
+<area shape="rect" id="node9" href="$classAK8963__Backend.html#affd60671ad1e97dc80e53256df54b64b" title="AK8963_Backend::sem_give" alt="" coords="219,267,410,293"/>
+<area shape="rect" id="node5" href="$classAP__Compass__AK8963.html#a284b46032df979528cc672066ebf1861" title="AP_Compass_AK8963::\l_backend_init" alt="" coords="459,81,623,122"/>
+<area shape="rect" id="node6" href="$classAK8963__Backend.html#a765059affcdbc1fe2f147bb6ecd249c1" title="AK8963_Backend::write" alt="" coords="460,147,623,173"/>
+<area shape="rect" id="node8" href="$classAP__Compass__AK8963.html#a5ac6e35d4f16f9fd08be98cdb71d6c9d" title="AP_Compass_AK8963::\lread_raw" alt="" coords="459,201,623,242"/>
+</map>

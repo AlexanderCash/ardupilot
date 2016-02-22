@@ -1,0 +1,6 @@
+<map id="mavlink_msg_fence_status_decode" name="mavlink_msg_fence_status_decode">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__status_8h.html#a8515484d02aa8bb08ca4b1a79b0c5ba5" title="Get field breach_time from fence_status message. " alt="" coords="235,5,416,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__status_8h.html#aa746d6378c19280196a8adc48bef999e" title="Get field breach_count from fence_status message. " alt="" coords="235,70,416,111"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__status_8h.html#a74dffd4849223a6a48dc4b22c2c396e7" title="Send a fence_status message. " alt="" coords="235,135,416,177"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__status_8h.html#a9997f28aa1d636c00ae1de98cdf0baa1" title="Get field breach_type from fence_status message. " alt="" coords="235,201,416,242"/>
+</map>

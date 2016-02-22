@@ -1,0 +1,11 @@
+<map id="AP_InertialSensor_Flymaple::gyro_sample_available" name="AP_InertialSensor_Flymaple::gyro_sample_available">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Flymaple.html#a32d60b04ff0fb6a80961502d8f9dad12" title="AP_InertialSensor_Flymaple\l::_accumulate" alt="" coords="240,155,427,197"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="493,5,638,46"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="475,71,655,97"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="492,122,639,163"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="493,187,638,229"/>
+<area shape="rect" id="node7" href="$classLowPassFilter2pVector3f.html#aacd220c14267ceb451d02cad92799f6b" title="LowPassFilter2pVector3f\l::apply" alt="" coords="481,253,649,294"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="476,319,655,345"/>
+<area shape="rect" id="node8" href="$classDigitalBiquadFilter.html#abcce28ce01f1fe8a084a16f163848f69" title="DigitalBiquadFilter\l::apply" alt="" coords="704,253,832,294"/>
+<area shape="rect" id="node9" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="880,260,944,287"/>
+</map>

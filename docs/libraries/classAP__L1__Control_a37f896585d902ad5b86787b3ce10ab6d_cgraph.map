@@ -1,0 +1,4 @@
+<map id="AP_L1_Control::nav_roll_cd" name="AP_L1_Control::nav_roll_cd">
+<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="211,5,279,32"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="192,56,299,83"/>
+</map>

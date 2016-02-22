@@ -1,0 +1,15 @@
+<map id="AC_AttitudeControl_Heli::rate_bf_to_motor_roll_pitch" name="AC_AttitudeControl_Heli::rate_bf_to_motor_roll_pitch">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a73669ea2a3cea5b5348915f7a333f840" title="AP_AHRS::get_gyro" alt="" coords="234,5,377,32"/>
+<area shape="rect" id="node3" href="$classAC__PID.html#ac267330f1299f011febcaaba47994af7" title="AC_PID::set_input_filter_all" alt="" coords="213,56,397,83"/>
+<area shape="rect" id="node6" href="$classAC__PID.html#a45e183de590c9318ecbb975a4d613646" title="AC_PID::get_p" alt="" coords="250,107,361,133"/>
+<area shape="rect" id="node7" href="$classAC__PID.html#a323cc8c9ff563d631b9bdc4d3a42e2b1" title="AC_PID::get_d" alt="" coords="250,157,361,184"/>
+<area shape="rect" id="node8" href="$classAC__PID.html#a0fc275cae5ff46799af85af551c65870" title="AC_PID::get_integrator" alt="" coords="226,208,385,235"/>
+<area shape="rect" id="node9" href="$classAC__PID.html#a2d5bf9811a78c93a396ec1e37ae6fa0a" title="AC_PID::get_i" alt="" coords="471,221,577,248"/>
+<area shape="rect" id="node10" href="$classLowPassFilterFloat.html#a2e489f7f440c90e1ed442a70a72bc52d" title="LowPassFilterFloat\l::apply" alt="" coords="238,310,373,351"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="651,348,757,375"/>
+<area shape="rect" id="node13" href="$classAP__Motors.html#aabc740887f6b01772a458d87d6c1e857" title="AP_Motors::set_roll" alt="" coords="237,427,374,453"/>
+<area shape="rect" id="node14" href="$classAP__Motors.html#acb9898fdadb4a283fc6d2e0689962d60" title="AP_Motors::set_pitch" alt="" coords="231,477,379,504"/>
+<area shape="rect" id="node4" href="$classAC__PID.html#ac12ffbd4fd053c6152d403b69e07b8e1" title="AC_PID::get_filt_alpha" alt="" coords="446,95,602,121"/>
+<area shape="rect" id="node5" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="672,159,736,185"/>
+<area shape="rect" id="node11" href="$classDigitalLPF.html#aec513ab9bc5165163c6ec87692f804e8" title="DigitalLPF::apply" alt="" coords="463,321,585,348"/>
+</map>

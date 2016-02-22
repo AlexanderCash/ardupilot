@@ -1,0 +1,9 @@
+<map id="AP_Camera::configure_cmd" name="AP_Camera::configure_cmd">
+<area shape="rect" id="node2" href="$mavlink__msg__command__long_8h.html#a4b9ea1702839a5a09d44775799a24ec8" title="Encode a command_long struct. " alt="" coords="244,5,407,46"/>
+<area shape="rect" id="node5" href="$classGCS__MAVLINK.html#a928edfeb8ca8d1656eca3e0c176d49a7" title="GCS_MAVLINK::send_to\l_components" alt="" coords="240,70,411,111"/>
+<area shape="rect" id="node3" href="$mavlink__msg__command__long_8h.html#ab5b46496ad411ef946e4a10b43d3d025" title="Pack a command_long message. " alt="" coords="459,5,621,46"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="670,12,845,39"/>
+<area shape="rect" id="node6" href="$classMAVLink__routing.html#ace8e55f8db025f01d4309de699de5460" title="MAVLink_routing::send\l_to_components" alt="" coords="461,70,619,111"/>
+<area shape="rect" id="node7" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="689,77,825,104"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="894,77,1071,104"/>
+</map>

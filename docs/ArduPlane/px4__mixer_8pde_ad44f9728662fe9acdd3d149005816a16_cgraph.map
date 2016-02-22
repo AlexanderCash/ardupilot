@@ -1,0 +1,11 @@
+<map id="setup_failsafe_mixing" name="setup_failsafe_mixing">
+<area shape="rect" id="node2" href="$px4__mixer_8pde.html#aceeb68821a28b15ebc4e8317810a463d" title="create_mixer_file" alt="" coords="203,199,325,225"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a9c60b41a2854338f60e26fdf95b4b044" title="RC_Channel::rc_channel" alt="" coords="379,275,547,301"/>
+<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#a869e1086eb9bdf12f46595e49c8f2915" title="RCMapper::throttle" alt="" coords="396,325,529,352"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="209,376,319,403"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel__aux.html#aaf15d56ff0c0d8f47ca0f97b155622f4" title="RC_Channel_aux::channel\l_function" alt="" coords="373,57,552,98"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#ab0fcd136c54ad131dd3d40816264bcba" title="RCMapper::pitch" alt="" coords="402,123,523,149"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#a4cecd4df7849415b9d4afc63c1dc9919" title="RCMapper::yaw" alt="" coords="404,173,521,200"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#af0d2e2d369f3574ed0a43bb80745572c" title="RCMapper::roll" alt="" coords="407,224,518,251"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="376,5,549,32"/>
+</map>

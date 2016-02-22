@@ -1,0 +1,25 @@
+<map id="test_mag" name="test_mag">
+<area shape="rect" id="node2" href="$setup_8pde.html#a886b74c9f77aa3e207dcd3cbf0adac72" title="print_enabled" alt="" coords="423,129,521,156"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="186,53,289,80"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html#ae4b75a61c52e28221d8fb2b2d4c35ca3" title="AP_HAL::BetterStream\l::println_P" alt="" coords="158,104,317,146"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a1c1615be1a6d7e70eba56724b52f917a" title="AP_AHRS::init" alt="" coords="182,170,293,197"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a173037d951bbea36035e119e57c63120" title="AP_AHRS::set_fly_forward" alt="" coords="146,221,329,248"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a0c704197dcd0cb2fc210ddc8f8aff3d1" title="AP_AHRS::set_wind_estimation" alt="" coords="131,272,343,298"/>
+<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a6902570304ec8a9d38c57e5b053e6d0a" title="AP_AHRS::set_compass" alt="" coords="152,322,323,349"/>
+<area shape="rect" id="node9" href="$setup_8pde.html#afa7955d7bdbfeebe4e27bc388a2281b8" title="report_compass" alt="" coords="180,373,295,400"/>
+<area shape="rect" id="node11" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#a6ef45f63ac177793bf38270cef8228cb" title="Compass::get_offsets" alt="" coords="397,424,547,450"/>
+<area shape="rect" id="node13" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="161,474,313,501"/>
+<area shape="rect" id="node14" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#ab7eaf00b45361ca1c55149781c10bb82" title="AP_AHRS_DCM::reset" alt="" coords="157,525,317,552"/>
+<area shape="rect" id="node15" href="$test_8pde.html#a618dc4c6523c81ea0e57cd8c7c14012b" title="print_hit_enter" alt="" coords="185,576,289,602"/>
+<area shape="rect" id="node16" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="152,626,323,653"/>
+<area shape="rect" id="node17" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#a2593e947a6c8a4937dccd2d367158b74" title="Compass::read" alt="" coords="182,677,293,704"/>
+<area shape="rect" id="node18" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#ace965389535aa2f3599f21b9f825d2b7" title="AP_AHRS_DCM::get_dcm\l_matrix" alt="" coords="147,728,328,770"/>
+<area shape="rect" id="node19" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#aeef734d2cd69c8c0c3efa182ec7f80bb" title="Compass::calculate\l_heading" alt="" coords="168,794,307,835"/>
+<area shape="rect" id="node20" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#aebf060fcb30f98e8d2c158750efa3b10" title="Compass::learn_offsets" alt="" coords="157,860,318,886"/>
+<area shape="rect" id="node21" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#ae998984ada93f9cee4ea1e5671df9171" title="Compass::healthy" alt="" coords="173,910,301,937"/>
+<area shape="rect" id="node22" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#aa1f44c7920bbd147fa2e58bfedd3c4bb" title="Compass::get_field" alt="" coords="170,961,305,988"/>
+<area shape="rect" id="node23" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#aec935e3ce7fb13099565b27693547d09" title="wrap_360_cd" alt="" coords="188,1012,287,1038"/>
+<area shape="rect" id="node24" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classCompass.html#a95f3b4686f214914703c321c9c8e9df2" title="Compass::save_offsets" alt="" coords="157,1062,318,1089"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html#a5b0d9d566418c7baa2ae7437fe1eae01" title="AP_HAL::BetterStream\l::print_P" alt="" coords="393,307,551,348"/>
+<area shape="rect" id="node12" href="$setup_8pde.html#a6e743a637a45663d659643a181a7290c" title="print_blanks" alt="" coords="426,373,518,400"/>
+</map>

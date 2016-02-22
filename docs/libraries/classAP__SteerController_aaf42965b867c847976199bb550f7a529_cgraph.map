@@ -1,0 +1,8 @@
+<map id="AP_SteerController::get_steering_out_rate" name="AP_SteerController::get_steering_out_rate">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="219,5,365,46"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a4fe7afbe3deb970c4708f4821b029842" title="AP_AHRS::groundspeed" alt="" coords="209,71,375,97"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a73669ea2a3cea5b5348915f7a333f840" title="AP_AHRS::get_gyro" alt="" coords="221,121,363,148"/>
+<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="239,172,345,199"/>
+<area shape="rect" id="node4" href="$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="Query GPS status. " alt="" coords="447,45,566,72"/>
+<area shape="rect" id="node5" href="$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="425,96,589,123"/>
+</map>

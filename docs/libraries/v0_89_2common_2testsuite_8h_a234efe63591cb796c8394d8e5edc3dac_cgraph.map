@@ -1,0 +1,14 @@
+<map id="mavlink_test_debug" name="mavlink_test_debug">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__debug_8h.html#a58eca113a377402ea6785d326e50f60e" title="Encode a debug struct into a message. " alt="" coords="202,5,393,32"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__debug_8h.html#abbf57a83d1ddcba5c08d3378925f22c1" title="Pack a debug message. " alt="" coords="468,5,644,32"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__debug_8h.html#a758c41a18df8c12a2aa309170f1ebc08" title="Decode a debug message into a struct. " alt="" coords="202,107,393,133"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__debug_8h.html#a64edfadac6f01d9d99ab3da408e2ff43" title="Pack a debug message on a channel. " alt="" coords="192,157,403,184"/>
+<area shape="rect" id="node10" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="221,209,373,250"/>
+<area shape="rect" id="node11" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="218,274,377,315"/>
+<area shape="rect" id="node12" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="240,340,355,367"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="710,5,885,32"/>
+<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__debug_8h.html#a5e02a5c225746738425866bde69cf9ea" title="Send a debug message. " alt="" coords="461,56,651,83"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__debug_8h.html#af7471d7ffa485f1951ba39881b3b5c25" title="Get field value from debug message. " alt="" coords="473,107,639,149"/>
+<area shape="rect" id="node9" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="451,173,661,200"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="484,340,628,367"/>
+</map>

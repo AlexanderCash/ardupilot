@@ -1,0 +1,13 @@
+<map id="mavlink_msg_rc_channels_scaled_decode" name="mavlink_msg_rc_channels_scaled_decode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#a8b168a8694a530aafc6cfdde420d98a1" title="Send a rc_channels_scaled message. " alt="" coords="229,5,411,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#a31f8cd110ffc2337f5ec5e7b72d27509" title="Get field chan1_scaled from rc_channels_scaled message. " alt="" coords="231,70,409,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#a89f6918b90e63c8cfb3f267e964be590" title="Get field chan2_scaled from rc_channels_scaled message. " alt="" coords="231,135,409,177"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#a5e3551a501c459a76f53093af1424e88" title="Get field chan3_scaled from rc_channels_scaled message. " alt="" coords="231,201,409,242"/>
+<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#a6cbfe34017f586b86b4f22ff9dcc5930" title="Get field chan4_scaled from rc_channels_scaled message. " alt="" coords="231,266,409,307"/>
+<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#aa20ca2ce0c302c25f800b21f80c34425" title="Get field chan5_scaled from rc_channels_scaled message. " alt="" coords="231,331,409,373"/>
+<area shape="rect" id="node8" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#aad755ec05a67bf98bfb5811e9db04345" title="Get field chan6_scaled from rc_channels_scaled message. " alt="" coords="231,397,409,438"/>
+<area shape="rect" id="node9" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#af91463d71b4e901ac4eda31d951c04e6" title="Get field chan7_scaled from rc_channels_scaled message. " alt="" coords="231,462,409,503"/>
+<area shape="rect" id="node10" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#aae2d70ed993628e0939c9f4a1c38f9ef" title="Get field chan8_scaled from rc_channels_scaled message. " alt="" coords="231,527,409,569"/>
+<area shape="rect" id="node11" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#a2002e842e62c1d25959a9d5e24494cc9" title="Get field port from rc_channels_scaled message. " alt="" coords="232,593,408,634"/>
+<area shape="rect" id="node12" href="$v1_80_2common_2mavlink__msg__rc__channels__scaled_8h.html#a5d9c6791e29ec8c087c472f31e502a13" title="Get field rssi from rc_channels_scaled message. " alt="" coords="232,658,408,699"/>
+</map>

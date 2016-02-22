@@ -1,0 +1,13 @@
+<map id="HALSITL::SITL_State::_gps_nmea_checksum" name="HALSITL::SITL_State::_gps_nmea_checksum">
+<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#ad29648c657450527a406dbb960b8e99e" title="HALSITL::SITL_State\l::_gps_nmea_printf" alt="" coords="219,38,370,79"/>
+<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a6fbf43e4ff50fcbe816353ed94dd6274" title="HALSITL::SITL_State\l::_update_gps_nmea" alt="" coords="419,38,570,79"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a09b6857a6f87a51390d4e045cb671207" title="HALSITL::SITL_State\l::_update_gps" alt="" coords="619,38,770,79"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#a431cc90b2798830af85bcd65d0dade9f" title="HALSITL::SITL_State\l::_sitl_setup" alt="" coords="819,5,970,46"/>
+<area shape="rect" id="node9" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="819,70,970,111"/>
+<area shape="rect" id="node6" href="$classHALSITL_1_1SITL__State.html#a5211ba971055052489d9817c3388c4c2" title="HALSITL::SITL_State\l::_parse_command_line" alt="" coords="1019,5,1179,46"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="1237,5,1387,46"/>
+<area shape="rect" id="node8" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="1477,12,1585,39"/>
+<area shape="rect" id="node10" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="1023,70,1174,111"/>
+<area shape="rect" id="node11" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="1227,70,1397,111"/>
+<area shape="rect" id="node12" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1445,70,1616,111"/>
+</map>

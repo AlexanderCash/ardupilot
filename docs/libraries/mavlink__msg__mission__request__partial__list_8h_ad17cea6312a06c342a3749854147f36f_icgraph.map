@@ -1,0 +1,6 @@
+<map id="mavlink_msg_mission_request_partial_list_pack_chan" name="mavlink_msg_mission_request_partial_list_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__mission__request__partial__list_8h.html#ab8c52ffb77b263686ff3b2eb312b60dc" title="Encode a mission_request_partial_list struct on a channel. " alt="" coords="206,5,357,61"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#ad9479b95e6a9f9da016bbec341a8bc40" title="mavlink_test_mission\l_request_partial_list" alt="" coords="207,85,355,126"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="406,92,559,119"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="609,92,725,119"/>
+</map>

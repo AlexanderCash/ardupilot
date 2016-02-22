@@ -1,0 +1,10 @@
+<map id="AP_InertialSensor_LSM9DS0::_dump_registers" name="AP_InertialSensor_LSM9DS0::_dump_registers">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a29b84f87f40b331b6922da5d8b57d9f0" title="AP_HAL::UARTDriver\l::println_P" alt="" coords="269,5,422,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM9DS0.html#a9471a5e1bd8764e4b66b071017e6885c" title="AP_InertialSensor_LSM9DS0\l::_register_read_g" alt="" coords="248,70,443,111"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="270,201,421,228"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__LSM9DS0.html#ab9f65816db245bc851eee9ef4548295e" title="AP_InertialSensor_LSM9DS0\l::_register_read_xm" alt="" coords="248,135,443,177"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="491,103,669,145"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="717,201,859,228"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="505,227,655,253"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="907,201,1051,228"/>
+</map>

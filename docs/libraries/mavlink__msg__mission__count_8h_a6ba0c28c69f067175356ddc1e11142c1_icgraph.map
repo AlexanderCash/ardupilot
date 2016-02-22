@@ -1,0 +1,6 @@
+<map id="mavlink_msg_mission_count_pack" name="mavlink_msg_mission_count_pack">
+<area shape="rect" id="node2" href="$mavlink__msg__mission__count_8h.html#ae95dc5e02cc6a3536899775840f2a49a" title="Encode a mission_count struct. " alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a5ffb874cea70e3f06fc2210b89734f0a" title="mavlink_test_mission\l_count" alt="" coords="406,34,554,75"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="603,41,757,68"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="806,41,922,68"/>
+</map>

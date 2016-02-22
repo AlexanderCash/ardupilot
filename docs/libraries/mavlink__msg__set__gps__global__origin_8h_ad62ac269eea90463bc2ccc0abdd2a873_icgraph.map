@@ -1,0 +1,6 @@
+<map id="mavlink_msg_set_gps_global_origin_get_longitude" name="mavlink_msg_set_gps_global_origin_get_longitude">
+<area shape="rect" id="node2" href="$mavlink__msg__set__gps__global__origin_8h.html#a6b41237f4b986f8e38281ea993773ff7" title="Decode a set_gps_global_origin message into a struct. " alt="" coords="240,5,392,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#ad3c9e2a48bb124261840d7e65a9ad1b7" title="mavlink_test_set_gps\l_global_origin" alt="" coords="440,5,589,46"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="638,12,791,39"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="841,12,957,39"/>
+</map>

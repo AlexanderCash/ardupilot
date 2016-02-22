@@ -1,0 +1,5 @@
+<map id="mavlink_msg_gps_global_origin_decode" name="mavlink_msg_gps_global_origin_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__gps__global__origin_8h.html#adc6292cef4f8437e53bc85f89a49e692" title="Send a gps_global_origin message. " alt="" coords="221,5,389,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gps__global__origin_8h.html#acf5ab68ce7212c80be377104eba464b8" title="Get field longitude from gps_global_origin message. " alt="" coords="221,70,389,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__gps__global__origin_8h.html#a08a7f1e517b66010beb754a83e14cb3d" title="Get field altitude from gps_global_origin message. " alt="" coords="221,135,389,177"/>
+</map>

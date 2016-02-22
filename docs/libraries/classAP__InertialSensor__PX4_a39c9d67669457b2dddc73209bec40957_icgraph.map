@@ -1,0 +1,6 @@
+<map id="AP_InertialSensor_PX4::AP_InertialSensor_PX4" name="AP_InertialSensor_PX4::AP_InertialSensor_PX4">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__PX4.html#a7e0a8d5f569f58343aa4d2c1c217a3bc" title="AP_InertialSensor_PX4\l::detect" alt="" coords="222,5,381,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="430,5,565,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="613,12,765,39"/>
+<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="814,12,869,39"/>
+</map>

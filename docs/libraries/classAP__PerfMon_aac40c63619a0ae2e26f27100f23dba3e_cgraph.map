@@ -1,0 +1,8 @@
+<map id="AP_PerfMon::DisplayAndClear" name="AP_PerfMon::DisplayAndClear">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="701,42,848,83"/>
+<area shape="rect" id="node3" href="$classAP__PerfMon.html#a8ec00aed03b87f42dea000040d1ddcc6" title="AP_PerfMon::DisplayResults" alt="" coords="257,78,450,105"/>
+<area shape="rect" id="node7" href="$classAP__PerfMon.html#abe8059b11d945544a3bc49a743a14635" title="AP_PerfMon::ClearAll" alt="" coords="278,158,429,185"/>
+<area shape="rect" id="node4" href="$classAP__PerfMon.html#a96002a72a44a8e668eab2168b1e6c6ee" title="AP_PerfMon::stop" alt="" coords="511,49,641,76"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1UARTDriver.html#acc37de01cc945aa1b798937d41fb65db" title="AP_HAL::UARTDriver\l::set_blocking_writes" alt="" coords="499,100,653,142"/>
+<area shape="rect" id="node6" href="$classAP__PerfMon.html#a9d97e1982346161614d1b24bfc139f68" title="AP_PerfMon::start" alt="" coords="511,166,641,193"/>
+</map>

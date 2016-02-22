@@ -1,0 +1,20 @@
+digraph "NavEKF::readHgtData"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="NavEKF::readHgtData",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_Baro::get_last_update",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Baro.html#aae5b3ae28aca807eb20b722a04685061"];
+  Node2 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_Baro::get_altitude",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Baro.html#a984b4dbc11e276e832467253590da933"];
+  Node3 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="NavEKF::RecallStates",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a46acab5de021fea9824f4b5bed04e3e9"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="NavEKF::getTakeoffExpected",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a3108596d21f107f9b35517900bb82569"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="constrain_float",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20"];
+}

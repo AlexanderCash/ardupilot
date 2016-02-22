@@ -1,0 +1,15 @@
+<map id="AP_Mission::complete" name="AP_Mission::complete">
+<area shape="rect" id="node2" href="$classAP__Mission.html#ac79a188f81816b3ddfe045b6a0feb6d1" title="AP_Mission::set_current_cmd" alt="" coords="208,447,405,473"/>
+<area shape="rect" id="node7" href="$classAP__Mission.html#a3b4234e58e34ed5c83d8c6b9ce2718c9" title="AP_Mission::start" alt="" coords="243,168,370,195"/>
+<area shape="rect" id="node14" href="$classAP__Mission.html#ad27b4531fa652b277bd9300b60ca4493" title="AP_Mission::update" alt="" coords="237,295,376,321"/>
+<area shape="rect" id="node3" href="$AP__Mission__test_8pde.html#a184ed3ddbf16eecc3c9176074098c125" title="run_set_current_cmd_test" alt="" coords="453,295,627,321"/>
+<area shape="rect" id="node4" href="$AP__Mission__test_8pde.html#a940853f9fdd2bd926e8521828b2ee749" title="run_set_current_cmd\l_while_stopped_test" alt="" coords="675,342,819,383"/>
+<area shape="rect" id="node5" href="$classAPM__OBC.html#abcd546549be8688ab9cd0c46147dc077" title="APM_OBC::check" alt="" coords="475,497,605,524"/>
+<area shape="rect" id="node6" href="$classGCS__MAVLINK.html#ad4e76e7f27bc999e806416e24aa10f26" title="GCS_MAVLINK::handle\l_mission_set_current" alt="" coords="459,549,621,590"/>
+<area shape="rect" id="node8" href="$classAP__Mission.html#af7b8e9db68a2a858e2ecca8d57c2722e" title="AP_Mission::resume" alt="" coords="469,92,611,119"/>
+<area shape="rect" id="node9" href="$classAP__Mission.html#a90117c1ac074049b9f4247cebdf370a5" title="start_or_resume &#45; if MIS_AUTORESTART=0 this will call resume(), otherwise it will call start() ..." alt="" coords="675,5,819,46"/>
+<area shape="rect" id="node10" href="$AP__Mission__test_8pde.html#a13b076b46de100742c7bab1a8f5c0661" title="run_resume_test" alt="" coords="687,92,806,119"/>
+<area shape="rect" id="node11" href="$AP__Mission__test_8pde.html#a52918e058fa06c68b87cc74205dda142" title="run_mission_test" alt="" coords="479,244,601,271"/>
+<area shape="rect" id="node13" href="$AP__Mission__test_8pde.html#a6f9b146691fc508edb7ff3c6be2c3dfc" title="run_replace_cmd_test" alt="" coords="465,193,615,220"/>
+<area shape="rect" id="node12" href="$AP__Mission__test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="723,244,770,271"/>
+</map>

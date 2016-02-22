@@ -1,0 +1,15 @@
+<map id="Quaternion::get_euler_roll" name="Quaternion::get_euler_roll">
+<area shape="rect" id="node2" href="$classQuaternion.html#ab3049efa36b211699ca03ea53970f0fd" title="Quaternion::to_euler" alt="" coords="224,144,363,171"/>
+<area shape="rect" id="node3" href="$eulers_8pde.html#a288b88e3267221134f72a170d9895cef" title="test_quaternion" alt="" coords="439,31,550,57"/>
+<area shape="rect" id="node6" href="$eulers_8pde.html#ada3aa00f3fc83688f3bb0c2c847b7e50" title="test_conversion" alt="" coords="437,93,552,120"/>
+<area shape="rect" id="node8" href="$classNavEKF.html#af00a144845ea0078be28516c5d584c78" title="NavEKF::getEulerAngles" alt="" coords="411,195,579,221"/>
+<area shape="rect" id="node9" href="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117" title="NavEKF::alignYawGPS" alt="" coords="627,157,789,184"/>
+<area shape="rect" id="node14" href="$classSmallEKF.html#ae2c255211cb334adf89bbc53468b0f29" title="SmallEKF::getDebug" alt="" coords="422,245,567,272"/>
+<area shape="rect" id="node4" href="$eulers_8pde.html#a1e4ca41feae51e8f6dc923cde8d1ad39" title="test_quaternion_eulers" alt="" coords="631,5,785,32"/>
+<area shape="rect" id="node5" href="$eulers_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="915,56,970,83"/>
+<area shape="rect" id="node7" href="$eulers_8pde.html#ac5851b63c32809e725e1fadbec137224" title="test_conversions" alt="" coords="647,107,769,133"/>
+<area shape="rect" id="node13" href="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b" title="NavEKF::performArmingChecks" alt="" coords="837,213,1048,240"/>
+<area shape="rect" id="node10" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="845,147,1040,189"/>
+<area shape="rect" id="node11" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="1096,147,1253,189"/>
+<area shape="rect" id="node12" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="1099,213,1250,240"/>
+</map>

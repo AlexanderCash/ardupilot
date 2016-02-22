@@ -1,0 +1,4 @@
+<map id="crc_accumulate" name="crc_accumulate">
+<area shape="rect" id="node2" href="$v1_80_2checksum_8h.html#abcbaa800e8fcbcdf9bb48168657fbefd" title="Accumulate the X.25 CRC by adding an array of bytes. " alt="" coords="168,5,323,32"/>
+<area shape="rect" id="node3" href="$v1_80_2checksum_8h.html#ab4264eb7b9e22aabb5cc3191bce35f4c" title="Calculates the X.25 checksum on a byte buffer. " alt="" coords="196,56,295,83"/>
+</map>

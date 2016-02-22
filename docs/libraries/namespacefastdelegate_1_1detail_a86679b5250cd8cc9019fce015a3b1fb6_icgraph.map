@@ -1,0 +1,5 @@
+<map id="fastdelegate::detail::horrible_cast" name="fastdelegate::detail::horrible_cast">
+<area shape="rect" id="node2" href="$classfastdelegate_1_1detail_1_1ClosurePtr.html#a8d2f367401d7e337b1f51dad1c4340f3" title="fastdelegate::detail\l::ClosurePtr\&lt; GenericMemFn,\l StaticFunctionPtr, UnvoidStatic\lFunctionPtr \&gt;::bindstaticfunc" alt="" coords="196,5,407,75"/>
+<area shape="rect" id="node3" href="$structfastdelegate_1_1detail_1_1SimplifyMemFunc_3_01SINGLE__MEMFUNCPTR__SIZE_01_4.html#a23f6cbd22be286e1d12571171cf1e7ba" title="fastdelegate::detail\l::SimplifyMemFunc\&lt; SINGLE\l_MEMFUNCPTR_SIZE \&gt;::Convert" alt="" coords="187,100,415,156"/>
+<area shape="rect" id="node4" href="$classfastdelegate_1_1detail_1_1ClosurePtr.html#abfb17efc87529bd72988edbe50ea6e9d" title="fastdelegate::detail\l::ClosurePtr\&lt; GenericMemFn,\l StaticFunctionPtr, UnvoidStatic\lFunctionPtr \&gt;::GetStaticFunction" alt="" coords="194,181,409,251"/>
+</map>

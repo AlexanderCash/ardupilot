@@ -1,0 +1,18 @@
+<map id="mavlink_msg_hil_state_quaternion_decode" name="mavlink_msg_hil_state_quaternion_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__hil__state__quaternion_8h.html#a3b1863c8646daa5938210de8a07f71ef" title="Send a hil_state_quaternion message. " alt="" coords="215,5,396,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__hil__state__quaternion_8h.html#a0ddc81330a98d52eb60081ad2ba4b802" title="Get field attitude_quaternion from hil_state_quaternion message. " alt="" coords="223,69,387,125"/>
+<area shape="rect" id="node4" href="$mavlink__msg__hil__state__quaternion_8h.html#a7d72bb92ff4040dd2fe510de4176cb77" title="Get field rollspeed from hil_state_quaternion message. " alt="" coords="219,149,392,190"/>
+<area shape="rect" id="node5" href="$mavlink__msg__hil__state__quaternion_8h.html#a7b8255c11407377caab8cfa1bf2a8ee7" title="Get field pitchspeed from hil_state_quaternion message. " alt="" coords="213,214,397,255"/>
+<area shape="rect" id="node6" href="$mavlink__msg__hil__state__quaternion_8h.html#a7e27f504b76cd832eeab550155da0247" title="Get field yawspeed from hil_state_quaternion message. " alt="" coords="215,279,395,321"/>
+<area shape="rect" id="node7" href="$mavlink__msg__hil__state__quaternion_8h.html#abb7f40176d1567fe78dde7f8e5276ca1" title="Get field lat from hil_state_quaternion message. " alt="" coords="228,345,383,386"/>
+<area shape="rect" id="node8" href="$mavlink__msg__hil__state__quaternion_8h.html#aa00ba23a16d7f6023e8ad05404352aff" title="Get field lon from hil_state_quaternion message. " alt="" coords="228,410,383,451"/>
+<area shape="rect" id="node9" href="$mavlink__msg__hil__state__quaternion_8h.html#ae3d432855cb90fefdba4d02aca37810f" title="Get field alt from hil_state_quaternion message. " alt="" coords="228,475,383,517"/>
+<area shape="rect" id="node10" href="$mavlink__msg__hil__state__quaternion_8h.html#ab23f346e6cb1be1abb17ecfbe31af599" title="Get field vx from hil_state_quaternion message. " alt="" coords="228,541,383,582"/>
+<area shape="rect" id="node11" href="$mavlink__msg__hil__state__quaternion_8h.html#af7cbe7616bedc4741d7cb3db05a41632" title="Get field vy from hil_state_quaternion message. " alt="" coords="228,606,383,647"/>
+<area shape="rect" id="node12" href="$mavlink__msg__hil__state__quaternion_8h.html#ad90fecf529c78635ee2a6f90ab946f04" title="Get field vz from hil_state_quaternion message. " alt="" coords="228,671,383,713"/>
+<area shape="rect" id="node13" href="$mavlink__msg__hil__state__quaternion_8h.html#adaa0a9958e5f2bce7567ecf2aa483033" title="Get field ind_airspeed from hil_state_quaternion message. " alt="" coords="208,737,403,778"/>
+<area shape="rect" id="node14" href="$mavlink__msg__hil__state__quaternion_8h.html#ae8aeb909e656eaf7ba506cdad4f30ff6" title="Get field true_airspeed from hil_state_quaternion message. " alt="" coords="228,801,383,857"/>
+<area shape="rect" id="node15" href="$mavlink__msg__hil__state__quaternion_8h.html#ae3124aa2fb165f1cbf3591ea8a17d7d5" title="Get field xacc from hil_state_quaternion message. " alt="" coords="228,881,383,922"/>
+<area shape="rect" id="node16" href="$mavlink__msg__hil__state__quaternion_8h.html#a9d728cf60b73b801e7408b329daff6aa" title="Get field yacc from hil_state_quaternion message. " alt="" coords="228,946,383,987"/>
+<area shape="rect" id="node17" href="$mavlink__msg__hil__state__quaternion_8h.html#a53d402dcb144954358f57cd50d198531" title="Get field zacc from hil_state_quaternion message. " alt="" coords="228,1011,383,1053"/>
+</map>

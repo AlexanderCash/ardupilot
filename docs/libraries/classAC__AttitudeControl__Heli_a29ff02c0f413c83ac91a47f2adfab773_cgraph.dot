@@ -1,0 +1,36 @@
+digraph "AC_AttitudeControl_Heli::rate_bf_to_motor_roll_pitch"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AC_AttitudeControl\l_Heli::rate_bf_to_motor\l_roll_pitch",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_AHRS::get_gyro",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__AHRS.html#a73669ea2a3cea5b5348915f7a333f840"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AC_PID::set_input_filter_all",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAC__PID.html#ac267330f1299f011febcaaba47994af7"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="AC_PID::get_filt_alpha",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAC__PID.html#ac12ffbd4fd053c6152d403b69e07b8e1"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="is_zero",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="AC_PID::get_p",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAC__PID.html#a45e183de590c9318ecbb975a4d613646"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="AC_PID::get_d",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAC__PID.html#a323cc8c9ff563d631b9bdc4d3a42e2b1"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="AC_PID::get_integrator",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAC__PID.html#a0fc275cae5ff46799af85af551c65870"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="AC_PID::get_i",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAC__PID.html#a2d5bf9811a78c93a396ec1e37ae6fa0a"];
+  Node9 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="LowPassFilterFloat\l::apply",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLowPassFilterFloat.html#a2e489f7f440c90e1ed442a70a72bc52d"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="DigitalLPF::apply",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classDigitalLPF.html#aec513ab9bc5165163c6ec87692f804e8"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="constrain_float",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="AP_Motors::set_roll",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Motors.html#aabc740887f6b01772a458d87d6c1e857"];
+  Node1 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="AP_Motors::set_pitch",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__Motors.html#acb9898fdadb4a283fc6d2e0689962d60"];
+}

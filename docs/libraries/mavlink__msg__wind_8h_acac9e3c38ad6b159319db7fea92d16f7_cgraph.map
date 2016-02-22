@@ -1,0 +1,5 @@
+<map id="mavlink_msg_wind_decode" name="mavlink_msg_wind_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__wind_8h.html#a6ff24f746800dd3f6f8da8309ff9af9b" title="Send a wind message. " alt="" coords="238,5,397,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__wind_8h.html#aa9bcfca072624f76708720f52f40340f" title="Get field speed from wind message. " alt="" coords="238,70,397,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__wind_8h.html#ab7521575e756b3610643fba71b8aee8d" title="Get field speed_z from wind message. " alt="" coords="238,135,397,177"/>
+</map>

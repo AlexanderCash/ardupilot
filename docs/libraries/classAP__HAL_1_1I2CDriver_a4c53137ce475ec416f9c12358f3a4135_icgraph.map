@@ -1,0 +1,4 @@
+<map id="AP_HAL::I2CDriver::readRegistersMultiple" name="AP_HAL::I2CDriver::readRegistersMultiple">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__L3G4200D.html#a098ecca44fb9347a42c12de1abdbc777" title="AP_InertialSensor_L3G4200\lD::_accumulate" alt="" coords="203,5,389,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__L3G4200D.html#ab760fee272b11822568d94d55734d2f2" title="AP_InertialSensor_L3G4200\lD::_init_sensor" alt="" coords="437,5,624,46"/>
+</map>

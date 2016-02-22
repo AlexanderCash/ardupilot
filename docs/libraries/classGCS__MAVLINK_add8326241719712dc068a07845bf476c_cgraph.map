@@ -1,0 +1,39 @@
+<map id="GCS_MAVLINK::handle_log_message" name="GCS_MAVLINK::handle_log_message">
+<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a1c015f2ab464807939761ac7d7889bd4" title="GCS_MAVLINK::handle\l_log_request_list" alt="" coords="216,227,379,269"/>
+<area shape="rect" id="node15" href="$classGCS__MAVLINK.html#a9685f685665e932079522a281086b581" title="GCS_MAVLINK::handle\l_log_request_data" alt="" coords="216,410,379,451"/>
+<area shape="rect" id="node30" href="$classGCS__MAVLINK.html#a0d016fb5a643a1d95356ae9e0d70d02e" title="GCS_MAVLINK::handle\l_log_request_erase" alt="" coords="216,807,379,849"/>
+<area shape="rect" id="node35" href="$classGCS__MAVLINK.html#adcb66a1a94e45e154f033efb8e12e501" title="GCS_MAVLINK::handle\l_log_request_end" alt="" coords="216,954,379,995"/>
+<area shape="rect" id="node3" href="$mavlink__msg__log__request__list_8h.html#a68242537155ded2de5f02f66500395e3" title="Decode a log_request_list message into a struct. " alt="" coords="431,110,604,151"/>
+<area shape="rect" id="node8" href="$classDataFlash__Class.html#a7e1d845c4e7c798b62ad37126979dd2a" title="DataFlash_Class::get\l_num_logs" alt="" coords="443,293,592,334"/>
+<area shape="rect" id="node9" href="$classDataFlash__Class.html#a3c1526855286c72b24756566c51767cb" title="DataFlash_Class::find\l_last_log" alt="" coords="441,227,593,269"/>
+<area shape="rect" id="node10" href="$classGCS__MAVLINK.html#add5099b4e743990e0e0de5bc607660e6" title="GCS_MAVLINK::handle\l_log_send_listing" alt="" coords="671,331,833,373"/>
+<area shape="rect" id="node4" href="$mavlink__msg__log__request__list_8h.html#a8ab34027a517ae30f89372b2b7aa603d" title="Get field start from log_request_list message. " alt="" coords="665,135,839,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__log__request__list_8h.html#ace1cabd76cdf3fee90b1fdd947b1d742" title="Get field end from log_request_list message. " alt="" coords="665,201,839,242"/>
+<area shape="rect" id="node6" href="$mavlink__msg__log__request__list_8h.html#ad7f54a7b637017ae3e9224d555d26d54" title="Send a log_request_list message. " alt="" coords="665,5,839,46"/>
+<area shape="rect" id="node7" href="$mavlink__msg__log__request__list_8h.html#ad3d66e99a97876cbe6a7697d845157a9" title="Get field target_component from log_request_list message. " alt="" coords="661,70,843,111"/>
+<area shape="rect" id="node11" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="933,280,1069,307"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="928,331,1075,373"/>
+<area shape="rect" id="node14" href="$classDataFlash__Class.html#ab6f46ba4dc11aaabaa562938aa772d3c" title="DataFlash_Class::get\l_log_info" alt="" coords="927,214,1076,255"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="1155,280,1333,307"/>
+<area shape="rect" id="node16" href="$mavlink__msg__log__request__data_8h.html#aa77236e323926ff3f421322ec81922f4" title="Decode a log_request_data message into a struct. " alt="" coords="431,677,604,718"/>
+<area shape="rect" id="node22" href="$classDataFlash__Class.html#a01a5bf59393244b18644f8afa0d55271" title="DataFlash_Class::get\l_log_boundaries" alt="" coords="443,475,592,517"/>
+<area shape="rect" id="node23" href="$classGCS__MAVLINK.html#af4f36c08fe81ee49ab53b1626d8da8ec" title="GCS_MAVLINK::handle\l_log_send" alt="" coords="436,410,599,451"/>
+<area shape="rect" id="node17" href="$mavlink__msg__log__request__data_8h.html#aa13c11727a64f191d1dd3c42ecd4c03b" title="Get field ofs from log_request_data message. " alt="" coords="665,775,839,817"/>
+<area shape="rect" id="node18" href="$mavlink__msg__log__request__data_8h.html#aa2e10ffaa89c8683292de56dfdea88c8" title="Get field count from log_request_data message. " alt="" coords="665,841,839,882"/>
+<area shape="rect" id="node19" href="$mavlink__msg__log__request__data_8h.html#aa0a69472513d6274b428a2e1c881868f" title="Get field id from log_request_data message. " alt="" coords="665,579,839,621"/>
+<area shape="rect" id="node20" href="$mavlink__msg__log__request__data_8h.html#a9a68144cd3d11e5c21faea1a3bced62e" title="Send a log_request_data message. " alt="" coords="665,645,839,686"/>
+<area shape="rect" id="node21" href="$mavlink__msg__log__request__data_8h.html#a1234a00f78251fe9077ac48b8aa0289c" title="Get field target_component from log_request_data message. " alt="" coords="657,710,847,751"/>
+<area shape="rect" id="node24" href="$classAP__HAL_1_1GPIO.html#ab0ea67003249493b7efc0528410b9be6" title="AP_HAL::GPIO::usb_connected" alt="" coords="896,528,1107,555"/>
+<area shape="rect" id="node25" href="$classGCS__MAVLINK.html#a6cdd32aa5f870bf03ffdd6aa79d5fa93" title="GCS_MAVLINK::have_flow\l_control" alt="" coords="660,514,844,555"/>
+<area shape="rect" id="node27" href="$classGCS__MAVLINK.html#a85823a47df8b14becd807722f9f90b80" title="GCS_MAVLINK::handle\l_log_send_data" alt="" coords="671,397,833,438"/>
+<area shape="rect" id="node26" href="$classAP__HAL_1_1UARTDriver.html#acb3d1e747568bdfdd996f06974b53aeb" title="AP_HAL::UARTDriver\l::get_flow_control" alt="" coords="925,579,1078,621"/>
+<area shape="rect" id="node28" href="$classDataFlash__Class.html#add67de1b2a7fe506c88b36ccc7b0e06c" title="DataFlash_Class::get\l_log_data" alt="" coords="927,462,1076,503"/>
+<area shape="rect" id="node29" href="$v0_89_2protocol_8h.html#a4cf2070546d162dc12b7e93ccac50ba1" title="_mav_finalize_message\l_chan_send" alt="" coords="920,397,1083,438"/>
+<area shape="rect" id="node31" href="$mavlink__msg__log__erase_8h.html#a1c511819bca66a24e5b66df15d265649" title="Decode a log_erase message into a struct. " alt="" coords="436,906,599,947"/>
+<area shape="rect" id="node34" href="$classDataFlash__Class.html#a8e4f6c9fc9e78712f446b94ffaa9cc69" title="DataFlash_Class::EraseAll" alt="" coords="427,815,607,841"/>
+<area shape="rect" id="node32" href="$mavlink__msg__log__erase_8h.html#a9ceb78d6683be034e40df6778bf5548f" title="Send a log_erase message. " alt="" coords="671,906,833,947"/>
+<area shape="rect" id="node33" href="$mavlink__msg__log__erase_8h.html#ad4e2e408568343966f459f19191e488a" title="Get field target_component from log_erase message. " alt="" coords="671,971,833,1013"/>
+<area shape="rect" id="node36" href="$mavlink__msg__log__request__end_8h.html#ace858d2cf5d6f44a3c5ea547a0525be6" title="Decode a log_request_end message into a struct. " alt="" coords="431,1037,604,1078"/>
+<area shape="rect" id="node37" href="$mavlink__msg__log__request__end_8h.html#a50db82f0dddb1868e4e4cdfa68106153" title="Send a log_request_end message. " alt="" coords="665,1037,839,1078"/>
+<area shape="rect" id="node38" href="$mavlink__msg__log__request__end_8h.html#a9a60f7d55a41077c0757d5122f98eda1" title="Get field target_component from log_request_end message. " alt="" coords="659,1102,845,1143"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="AP_InertialSensor_HIL::detect" name="AP_InertialSensor_HIL::detect">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__HIL.html#a9acde39917b18c364e43399f5265480a" title="AP_InertialSensor_HIL\l::AP_InertialSensor_HIL" alt="" coords="208,5,371,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__HIL.html#a4b07d4eaf8ae80cb603617a33843afca" title="AP_InertialSensor_HIL\l::_init_sensor" alt="" coords="212,70,367,111"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#addd35f196d6b741c06453716f7bd9091" title="AP_InertialSensor::\lregister_gyro" alt="" coords="419,5,554,46"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#abcc47a3b7a03a08178904fd0aec0ee96" title="AP_InertialSensor::\lregister_accel" alt="" coords="419,70,554,111"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#af26d20af4d59052beb786e684fdd4e65" title="AP_InertialSensor::\lset_hil_mode" alt="" coords="419,135,554,177"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="603,38,749,79"/>
+</map>

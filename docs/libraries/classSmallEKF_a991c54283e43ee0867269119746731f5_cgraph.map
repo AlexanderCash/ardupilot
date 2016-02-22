@@ -1,0 +1,12 @@
+<map id="SmallEKF::calcMagHeadingInnov" name="SmallEKF::calcMagHeadingInnov">
+<area shape="rect" id="node2" href="$classNavEKF.html#ad418b75ceae3dde42f8c588b7e88abb4" title="NavEKF::healthy" alt="" coords="265,56,388,83"/>
+<area shape="rect" id="node7" href="$classNavEKF.html#a1bccd4b8bcc129f2daabf04b02a44bf3" title="NavEKF::getMagNED" alt="" coords="251,107,403,133"/>
+<area shape="rect" id="node8" href="$classNavEKF.html#add08a20902184b616da1e9f79efcbc5f" title="NavEKF::getMagXYZ" alt="" coords="252,157,401,184"/>
+<area shape="rect" id="node9" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="277,208,377,235"/>
+<area shape="rect" id="node10" href="$classAP__AHRS.html#adf808841de62499bc8c388fc798d47f1" title="AP_AHRS::get_compass" alt="" coords="241,259,412,285"/>
+<area shape="rect" id="node11" href="$classCompass.html#a5051de1d15ee203600422235ab93c88c" title="Compass::get_declination" alt="" coords="240,309,413,336"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#ab71619ef68ba5d8b11f68ef4f31a65c2" title="NavEKF::getFilterFaults" alt="" coords="461,31,624,57"/>
+<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="523,81,562,108"/>
+<area shape="rect" id="node4" href="$classQuaternion.html#aa3036ce97bb5a7394a2d65edecd8f1ab" title="Quaternion::is_nan" alt="" coords="672,5,803,32"/>
+<area shape="rect" id="node5" href="$classVector3.html#a076ee3d40e645623b54650cca5ae6df7" title="Vector3::is_nan" alt="" coords="681,56,794,83"/>
+</map>

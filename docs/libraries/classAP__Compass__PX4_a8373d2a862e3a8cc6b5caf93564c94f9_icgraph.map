@@ -1,0 +1,8 @@
+<map id="AP_Compass_PX4::accumulate" name="AP_Compass_PX4::accumulate">
+<area shape="rect" id="node2" href="$classAP__Compass__PX4.html#a107c003aea3eff458ade1c3f263d0600" title="AP_Compass_PX4::init" alt="" coords="268,5,428,32"/>
+<area shape="rect" id="node7" href="$classAP__Compass__PX4.html#a4e20dea88905e71e94524c33a95ff76c" title="AP_Compass_PX4::read" alt="" coords="264,56,432,83"/>
+<area shape="rect" id="node3" href="$classAP__Compass__PX4.html#a31f9519f4a0c078771749e2bce1dd988" title="AP_Compass_PX4::detect" alt="" coords="480,5,659,32"/>
+<area shape="rect" id="node4" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="707,5,899,32"/>
+<area shape="rect" id="node5" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="947,5,1050,32"/>
+<area shape="rect" id="node6" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1099,5,1154,32"/>
+</map>

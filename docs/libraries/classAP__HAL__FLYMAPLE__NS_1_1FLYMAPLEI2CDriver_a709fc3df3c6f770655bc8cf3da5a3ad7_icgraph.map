@@ -1,0 +1,8 @@
+<map id="AP_HAL_FLYMAPLE_NS::FLYMAPLEI2CDriver::_transfer" name="AP_HAL_FLYMAPLE_NS::FLYMAPLEI2CDriver::_transfer">
+<area shape="rect" id="node2" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#acba2295be2782906ec23c07cea4e618c" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver::read" alt="" coords="230,5,418,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#a46c3373a00a7bb3a157a9cb6bd3bf2fa" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::readRegisters" alt="" coords="237,69,411,125"/>
+<area shape="rect" id="node5" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#a1b5a6d66062a0e479f100f7fa2fb6452" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::write" alt="" coords="237,149,411,205"/>
+<area shape="rect" id="node6" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#a0446ba9165b99a59fcd4920414965443" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::writeRegisters" alt="" coords="237,229,411,285"/>
+<area shape="rect" id="node4" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#ae5c5682733ec6a790bf2abca43df16b0" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::readRegister" alt="" coords="467,69,642,125"/>
+<area shape="rect" id="node7" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEI2CDriver.html#a81e8f6dcdffff7dd89f6c8b87b71f53b" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEI2CDriver\l::writeRegister" alt="" coords="467,229,642,285"/>
+</map>

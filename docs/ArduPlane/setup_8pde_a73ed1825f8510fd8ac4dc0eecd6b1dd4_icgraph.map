@@ -1,0 +1,4 @@
+<map id="print_gyro_offsets" name="print_gyro_offsets">
+<area shape="rect" id="node2" href="$setup_8pde.html#a8ab04b308707332fe838099238ef003e" title="report_ins" alt="" coords="182,5,261,32"/>
+<area shape="rect" id="node3" href="$setup_8pde.html#a40e71bdd3cbd0d9cbfa15e392d10f87c" title="setup_accel_scale" alt="" coords="309,5,440,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="AP_InertialSensor_Backend::update" name="AP_InertialSensor_Backend::update">
+<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a2ab4e9e49af5ae38f38d3818fde2b675" title="AP_InertialSensor::\lupdate" alt="" coords="241,187,375,229"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a8744303832541bef0025d9698468938c" title="AP_InertialSensor::\l_init_gyro" alt="" coords="442,27,577,69"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor.html#a9a2e96ead5ec6958cc5428807318ee6b" title="AP_InertialSensor::\lcalibrate_accel" alt="" coords="442,93,577,134"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor.html#ad87496184e3c6a775a10b3b5eb069cd9" title="AP_InertialSensor::\lcalibrate_trim" alt="" coords="442,158,577,199"/>
+<area shape="rect" id="node11" href="$Scheduler__test_8pde.html#a3cf73151d42c13ac8b583345fa287ac5" title="ins_update" alt="" coords="467,224,552,251"/>
+<area shape="rect" id="node12" href="$INS__generic_8pde.html#a660cca8a647c714961d509a29a019e8a" title="run_test" alt="" coords="684,227,753,253"/>
+<area shape="rect" id="node13" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="424,325,595,352"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="643,5,795,32"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor.html#a424609d1eb3dc8473040c9e6f87771ad" title="AP_InertialSensor::\linit_gyro" alt="" coords="651,57,786,98"/>
+<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="843,5,898,32"/>
+<area shape="rect" id="node8" href="$INS__generic_8pde.html#a5f96ea11224723731b4efa6cf4f1237b" title="run_calibration" alt="" coords="665,140,772,167"/>
+<area shape="rect" id="node9" href="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="847,183,894,209"/>
+<area shape="rect" id="node14" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="695,325,742,352"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="mavlink_msg_sim_state_decode" name="mavlink_msg_sim_state_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__sim__state_8h.html#a7cc1ee197aecf57a26ffdaea6deb4e4a" title="Send a sim_state message. " alt="" coords="216,5,379,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__sim__state_8h.html#a7f13505f6f0fc3be591bb08f51b62d91" title="Get field q2 from sim_state message. " alt="" coords="216,70,379,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__sim__state_8h.html#af8171b0168cd8c51f95cd834454952fc" title="Get field q3 from sim_state message. " alt="" coords="216,135,379,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__sim__state_8h.html#acc416d5c84d117b1701c8b2a5da252cc" title="Get field q4 from sim_state message. " alt="" coords="216,201,379,242"/>
+<area shape="rect" id="node6" href="$mavlink__msg__sim__state_8h.html#a50e9d5aa980673fb092a8167b14f9f38" title="Get field roll from sim_state message. " alt="" coords="216,266,379,307"/>
+<area shape="rect" id="node7" href="$mavlink__msg__sim__state_8h.html#ac854f46bc0984c41345f330b6fb62a99" title="Get field pitch from sim_state message. " alt="" coords="216,331,379,373"/>
+<area shape="rect" id="node8" href="$mavlink__msg__sim__state_8h.html#a562de2a86a1d48149aaa2479504128ec" title="Get field yaw from sim_state message. " alt="" coords="216,397,379,438"/>
+<area shape="rect" id="node9" href="$mavlink__msg__sim__state_8h.html#aedd3e7dc3bca089a945d1df1eb825bdb" title="Get field xacc from sim_state message. " alt="" coords="216,462,379,503"/>
+<area shape="rect" id="node10" href="$mavlink__msg__sim__state_8h.html#ac036991b9d5452686ff7eaca51f6b71e" title="Get field yacc from sim_state message. " alt="" coords="216,527,379,569"/>
+<area shape="rect" id="node11" href="$mavlink__msg__sim__state_8h.html#a887b7b53bcdcde7670941da5d52ac0df" title="Get field zacc from sim_state message. " alt="" coords="216,593,379,634"/>
+<area shape="rect" id="node12" href="$mavlink__msg__sim__state_8h.html#a9854735c044182f64288307b8f5aaf11" title="Get field xgyro from sim_state message. " alt="" coords="216,658,379,699"/>
+<area shape="rect" id="node13" href="$mavlink__msg__sim__state_8h.html#a3d1dfd589231e3321a0d2cbe90f5f51b" title="Get field ygyro from sim_state message. " alt="" coords="216,723,379,765"/>
+<area shape="rect" id="node14" href="$mavlink__msg__sim__state_8h.html#a7b6c7315140d6b7c7954af75c063264a" title="Get field zgyro from sim_state message. " alt="" coords="216,789,379,830"/>
+<area shape="rect" id="node15" href="$mavlink__msg__sim__state_8h.html#a722571e90ac94d7b980f25f5945a40c1" title="Get field lat from sim_state message. " alt="" coords="216,854,379,895"/>
+<area shape="rect" id="node16" href="$mavlink__msg__sim__state_8h.html#a3e708bec1f785a44ebb999c6b265ba38" title="Get field lon from sim_state message. " alt="" coords="216,919,379,961"/>
+<area shape="rect" id="node17" href="$mavlink__msg__sim__state_8h.html#a2c29c0ddbd722c3f2720d11ef1e8394a" title="Get field alt from sim_state message. " alt="" coords="216,985,379,1026"/>
+<area shape="rect" id="node18" href="$mavlink__msg__sim__state_8h.html#a2f8abad39ff3ff28754dc56bb8e7767e" title="Get field std_dev_horz from sim_state message. " alt="" coords="216,1050,379,1091"/>
+<area shape="rect" id="node19" href="$mavlink__msg__sim__state_8h.html#a860e80e0ee12edc21004671243cbe42a" title="Get field std_dev_vert from sim_state message. " alt="" coords="216,1115,379,1157"/>
+<area shape="rect" id="node20" href="$mavlink__msg__sim__state_8h.html#a030a9f8597fbf7bd08516f3af93c0655" title="Get field vn from sim_state message. " alt="" coords="216,1181,379,1222"/>
+<area shape="rect" id="node21" href="$mavlink__msg__sim__state_8h.html#aa24b7988b196d5222942904d23739966" title="Get field ve from sim_state message. " alt="" coords="216,1246,379,1287"/>
+<area shape="rect" id="node22" href="$mavlink__msg__sim__state_8h.html#aa7c73ed8a060b5f32a10ea0b0d2ac322" title="Get field vd from sim_state message. " alt="" coords="216,1311,379,1353"/>
+</map>

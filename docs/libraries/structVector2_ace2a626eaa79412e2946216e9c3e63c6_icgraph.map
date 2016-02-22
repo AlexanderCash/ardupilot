@@ -1,0 +1,9 @@
+<map id="Vector2::normalize" name="Vector2::normalize">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a34c0a28db3bc87426f69e34e5949bd8b" title="AP_AHRS::update_trig" alt="" coords="421,5,579,32"/>
+<area shape="rect" id="node5" href="$classAP__L1__Control.html#a9052f01ea019fb51432d3104cce0b6e8" title="AP_L1_Control::update\l_waypoint" alt="" coords="200,51,357,93"/>
+<area shape="rect" id="node6" href="$classAP__AHRS__DCM.html#a5a98cf4f7346879e60a0f977757a6634" title="AP_AHRS_DCM::yaw_error\l_compass" alt="" coords="185,117,373,158"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="829,55,1000,81"/>
+<area shape="rect" id="node4" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1049,55,1095,81"/>
+<area shape="rect" id="node7" href="$classAP__AHRS__DCM.html#a101f2aaddcc7e97e690924d4e9d7a191" title="AP_AHRS_DCM::drift\l_correction_yaw" alt="" coords="423,85,577,126"/>
+<area shape="rect" id="node8" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="627,81,781,122"/>
+</map>

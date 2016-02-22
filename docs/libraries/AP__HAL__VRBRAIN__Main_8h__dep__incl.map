@@ -1,0 +1,23 @@
+<map id="libraries/AP_HAL_VRBRAIN/AP_HAL_VRBRAIN_Main.h" name="libraries/AP_HAL_VRBRAIN/AP_HAL_VRBRAIN_Main.h">
+<area shape="rect" id="node2" href="$AP__HAL__VRBRAIN_8h.html" title="libraries/AP_HAL_VRBRAIN\l/AP_HAL_VRBRAIN.h" alt="" coords="634,97,824,138"/>
+<area shape="rect" id="node3" href="$AP__Compass__test_8pde.html" title="libraries/AP_Compass\l/examples/AP_Compass\l_test/AP_Compass_test.pde" alt="" coords="5,187,195,243"/>
+<area shape="rect" id="node4" href="$VRBRAIN_2AnalogIn_8h.html" title="libraries/AP_HAL_VRBRAIN\l/AnalogIn.h" alt="" coords="701,194,891,235"/>
+<area shape="rect" id="node6" href="$HAL__VRBRAIN__Class_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/HAL_VRBRAIN_Class.cpp" alt="" coords="486,298,676,339"/>
+<area shape="rect" id="node7" href="$AP__HAL__VRBRAIN_2Scheduler_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/Scheduler.cpp" alt="" coords="1130,298,1320,339"/>
+<area shape="rect" id="node8" href="$HAL__VRBRAIN__Class_8h.html" title="libraries/AP_HAL_VRBRAIN\l/HAL_VRBRAIN_Class.h" alt="" coords="434,194,624,235"/>
+<area shape="rect" id="node9" href="$VRBRAIN_2GPIO_8h.html" title="libraries/AP_HAL_VRBRAIN\l/GPIO.h" alt="" coords="219,194,409,235"/>
+<area shape="rect" id="node11" href="$VRBRAIN_2UARTDriver_8h.html" title="libraries/AP_HAL_VRBRAIN\l/UARTDriver.h" alt="" coords="1874,194,2064,235"/>
+<area shape="rect" id="node19" href="$VRBRAIN_2RCInput_8h.html" title="libraries/AP_HAL_VRBRAIN\l/RCInput.h" alt="" coords="915,194,1105,235"/>
+<area shape="rect" id="node21" href="$VRBRAIN_2RCOutput_8h.html" title="libraries/AP_HAL_VRBRAIN\l/RCOutput.h" alt="" coords="1130,194,1320,235"/>
+<area shape="rect" id="node5" href="$AP__HAL__VRBRAIN_2AnalogIn_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/AnalogIn.cpp" alt="" coords="701,298,891,339"/>
+<area shape="rect" id="node10" href="$AP__HAL__VRBRAIN_2GPIO_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/GPIO.cpp" alt="" coords="219,298,409,339"/>
+<area shape="rect" id="node12" href="$examples_2RCInput_2RCInput_8pde.html" title="libraries/AP_HAL/examples\l/RCInput/RCInput.pde" alt="" coords="2174,298,2356,339"/>
+<area shape="rect" id="node13" href="$RCInputToRCOutput_8pde.html" title="libraries/AP_HAL/examples\l/RCInputToRCOutput/RCInputToRCOutput.pde" alt="" coords="2381,298,2683,339"/>
+<area shape="rect" id="node14" href="$RCOutput_8pde.html" title="libraries/AP_HAL/examples\l/RCOutput/RCOutput.pde" alt="" coords="2707,298,2889,339"/>
+<area shape="rect" id="node15" href="$UART__test_8pde.html" title="libraries/AP_HAL/examples\l/UART_test/UART_test.pde" alt="" coords="2915,298,3101,339"/>
+<area shape="rect" id="node16" href="$VRBRAIN_2UARTDriver_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/UARTDriver.cpp" alt="" coords="1559,298,1749,339"/>
+<area shape="rect" id="node17" href="$VRBRAIN_2Util_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/Util.cpp" alt="" coords="1774,298,1964,339"/>
+<area shape="rect" id="node18" href="$RC__Channel_8pde.html" title="libraries/RC_Channel\l/examples/RC_Channel\l/RC_Channel.pde" alt="" coords="1989,291,2149,347"/>
+<area shape="rect" id="node20" href="$AP__HAL__VRBRAIN_2RCInput_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/RCInput.cpp" alt="" coords="915,298,1105,339"/>
+<area shape="rect" id="node22" href="$AP__HAL__VRBRAIN_2RCOutput_8cpp.html" title="libraries/AP_HAL_VRBRAIN\l/RCOutput.cpp" alt="" coords="1345,298,1535,339"/>
+</map>

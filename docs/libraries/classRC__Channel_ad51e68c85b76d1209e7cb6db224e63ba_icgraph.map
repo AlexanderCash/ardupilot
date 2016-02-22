@@ -1,0 +1,17 @@
+<map id="RC_Channel::set_range" name="RC_Channel::set_range">
+<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#a783736842493d797e15a43a8746b0eea" title="AP_MotorsHeli::init\l_swash" alt="" coords="235,99,370,141"/>
+<area shape="rect" id="node10" href="$classRC__Channel__aux.html#a39d6000a07de2819dd8888980f5b6773" title="RC_Channel_aux::move\l_servo" alt="" coords="220,165,385,206"/>
+<area shape="rect" id="node14" href="$AP__Motors__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="275,231,330,257"/>
+<area shape="rect" id="node15" href="$classRC__Channel__aux.html#a4f62563746d0fb95dcf49532728f3d00" title="RC_Channel_aux::update\l_aux_servo_function" alt="" coords="217,282,389,323"/>
+<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#aecd9fdd0ac06f1ab94da6ca46a9a1551" title="AP_MotorsHeli::Init" alt="" coords="455,48,591,75"/>
+<area shape="rect" id="node4" href="$classAP__MotorsHeli.html#a50457b8a60a8486755d6673c6631d2d8" title="AP_MotorsHeli::move\l_swash" alt="" coords="447,99,598,141"/>
+<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#a85918ee9be140eee1738ca2898fc6513" title="AP_MotorsHeli::output\l_armed_stabilizing" alt="" coords="671,70,825,111"/>
+<area shape="rect" id="node9" href="$classAP__MotorsHeli.html#a42fa16716c5bd1f3e06f89c3f0579672" title="AP_MotorsHeli::output_min" alt="" coords="657,136,839,163"/>
+<area shape="rect" id="node6" href="$classAP__MotorsHeli.html#af02bef1b954fa23247b9940113c9a59a" title="AP_MotorsHeli::output\l_armed_not_stabilizing" alt="" coords="888,5,1043,46"/>
+<area shape="rect" id="node7" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title="AP_MotorsHeli::output\l_armed_zero_throttle" alt="" coords="888,70,1043,111"/>
+<area shape="rect" id="node8" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title="AP_MotorsHeli::output\l_disarmed" alt="" coords="888,135,1043,177"/>
+<area shape="rect" id="node11" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity " alt="" coords="453,165,593,192"/>
+<area shape="rect" id="node12" href="$classAP__Mount__Servo.html#aa03d61822081680668287a8519d658fd" title="move_servo &#45; moves servo with the given id to the specified angle. all angles are in degrees * 10 ..." alt="" coords="441,217,605,258"/>
+<area shape="rect" id="node13" href="$classAP__Mount__Servo.html#a8f4caa1ed68b0062d25e60c42b333995" title="AP_Mount_Servo::update" alt="" coords="663,224,833,251"/>
+<area shape="rect" id="node16" href="$classRC__Channel__aux.html#a94bef65abca366d677d6d0a2c31af9c1" title="Should be called after the the servo functions have been initialized. " alt="" coords="437,282,608,323"/>
+</map>

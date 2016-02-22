@@ -1,0 +1,14 @@
+<map id="test_passed_waypoint" name="test_passed_waypoint">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="207,5,358,32"/>
+<area shape="rect" id="node6" href="$location_8pde.html#a117c49dcd63a2274afc6c2e413e9fa9e" title="location_from_point" alt="" coords="215,56,350,83"/>
+<area shape="rect" id="node7" href="$AP__Math_8h.html#ab6cd880d070717b4c3cc7a7278768e72" title="location_passed_point" alt="" coords="207,107,358,133"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="206,158,359,199"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="619,12,760,39"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="414,44,565,71"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="808,12,952,39"/>
+<area shape="rect" id="node8" href="$location_8cpp.html#ab0ccbafe7e2809759eea8d45d23e4ba0" title="location_path_proportion" alt="" coords="408,107,571,133"/>
+<area shape="rect" id="node9" href="$location_8cpp.html#a527b26472ed6f2e0c141e109a0722a0a" title="location_diff" alt="" coords="643,88,735,115"/>
+<area shape="rect" id="node12" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="670,139,709,165"/>
+<area shape="rect" id="node10" href="$location_8cpp.html#ad2368c582f3e0c135e2a74772f4db61a" title="longitude_scale" alt="" coords="824,88,936,115"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="1000,88,1107,115"/>
+</map>

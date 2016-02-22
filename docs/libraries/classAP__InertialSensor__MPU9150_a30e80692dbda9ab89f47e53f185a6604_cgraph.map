@@ -1,0 +1,15 @@
+<map id="AP_InertialSensor_MPU9150::update" name="AP_InertialSensor_MPU9150::update">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ae7d4952721abae16479fef1f0ca37145" title="AP_HAL::Scheduler::\lsuspend_timer_procs" alt="" coords="268,5,415,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a7c51e7d405211cac2090dbd456223ef7" title="AP_HAL::Scheduler::\lresume_timer_procs" alt="" coords="268,70,415,111"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__Backend.html#a10257ab5a8662aede73d89e32174e46e" title="AP_InertialSensor_Backend\l::_publish_accel" alt="" coords="249,135,434,177"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__Backend.html#a510108cffcd83c9afd8e37d63c4d3cf9" title="AP_InertialSensor_Backend\l::_publish_gyro" alt="" coords="249,201,434,242"/>
+<area shape="rect" id="node9" href="$classAP__InertialSensor__Backend.html#aa7fdfb9c9f28d883fbb109e13ded7f0f" title="AP_InertialSensor_Backend\l::_accel_filter_cutoff" alt="" coords="249,266,434,307"/>
+<area shape="rect" id="node10" href="$classAP__InertialSensor__MPU9150.html#ab3866dd1e3527673f3aece3794eafd43" title="AP_InertialSensor_MPU9150\l::_set_accel_filter_frequency" alt="" coords="245,331,437,373"/>
+<area shape="rect" id="node13" href="$classAP__InertialSensor__Backend.html#a9c376bd62d2a8e0262f887c6188d0af9" title="AP_InertialSensor_Backend\l::_gyro_filter_cutoff" alt="" coords="249,397,434,438"/>
+<area shape="rect" id="node14" href="$classAP__InertialSensor__MPU9150.html#a11920de68c6ceee367d640799239bb32" title="AP_InertialSensor_MPU9150\l::_set_gyro_filter_frequency" alt="" coords="245,462,437,503"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__Backend.html#a12e2c1d206fcd62c683165312c836a50" title="AP_InertialSensor_Backend\l::_rotate_and_correct_accel" alt="" coords="486,135,671,177"/>
+<area shape="rect" id="node6" href="$classVector3.html#a53d5701ae2db9492944550927279b7b8" title="Vector3::rotate" alt="" coords="731,176,839,203"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__Backend.html#a6b5d3fdd263b6737d8116257d2ea05c4" title="AP_InertialSensor_Backend\l::_rotate_and_correct_gyro" alt="" coords="486,201,671,242"/>
+<area shape="rect" id="node11" href="$classLowPassFilter2p.html#a354e914d7d8979e54134c3077ee8359a" title="LowPassFilter2p::set\l_cutoff_frequency" alt="" coords="506,397,651,438"/>
+<area shape="rect" id="node12" href="$classDigitalBiquadFilter.html#a24c076203eb25a5744c867093da51d83" title="DigitalBiquadFilter\l::compute_params" alt="" coords="720,397,851,438"/>
+</map>

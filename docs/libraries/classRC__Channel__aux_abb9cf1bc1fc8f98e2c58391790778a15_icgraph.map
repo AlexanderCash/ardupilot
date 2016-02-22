@@ -1,0 +1,4 @@
+<map id="RC_Channel_aux::set_radio_to_min" name="RC_Channel_aux::set_radio_to_min">
+<area shape="rect" id="node2" href="$classAC__Sprayer.html#a71a675a6a42fdf667bf3739a0390b8ce" title="enable &#45; allows sprayer to be enabled/disabled. Note: this does not update the eeprom saved value ..." alt="" coords="207,5,345,32"/>
+<area shape="rect" id="node3" href="$classAC__Sprayer.html#a332a61acb7bfa9b5055a1bf4095e5573" title="update &#45; adjusts servo positions based on speed and requested quantity " alt="" coords="206,56,346,83"/>
+</map>

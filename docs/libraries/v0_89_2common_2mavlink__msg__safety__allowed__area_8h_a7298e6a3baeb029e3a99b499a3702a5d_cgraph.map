@@ -1,0 +1,9 @@
+<map id="mavlink_msg_safety_allowed_area_decode" name="mavlink_msg_safety_allowed_area_decode">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#a7e67176ef92bcfde51824b59ca2f54a0" title="Send a safety_allowed_area message. " alt="" coords="208,5,379,46"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#a7da848f412b93422335110f2af6409a0" title="Get field p1x from safety_allowed_area message. " alt="" coords="214,70,373,111"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#a5985f6ee8f1bb6988a6a69a0d8f79efa" title="Get field p1y from safety_allowed_area message. " alt="" coords="214,135,373,177"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#a6bf678d0068ca89ce527365cb4394263" title="Get field p1z from safety_allowed_area message. " alt="" coords="214,201,373,242"/>
+<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#a023efae9c42172a55f0129768630e6ca" title="Get field p2x from safety_allowed_area message. " alt="" coords="214,266,373,307"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#abaa576cf077c6179ae3a1a385a164420" title="Get field p2y from safety_allowed_area message. " alt="" coords="214,331,373,373"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__safety__allowed__area_8h.html#aeb7c4bf8480455620231e8d7810ccb4a" title="Get field p2z from safety_allowed_area message. " alt="" coords="214,397,373,438"/>
+</map>

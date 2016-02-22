@@ -1,0 +1,5 @@
+<map id="Linux::LinuxStorage::_storage_create" name="Linux::LinuxStorage::_storage_create">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxStorage.html#a39c46a72fd5c4229af9c3ed5763628ab" title="Linux::LinuxStorage\l::_storage_open" alt="" coords="193,38,330,79"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxStorage.html#aedbd09470717c39a43f4ce5302e0a51d" title="Linux::LinuxStorage\l::read_block" alt="" coords="379,5,517,46"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxStorage.html#acdd821cdbb317b54aa79078c28e13204" title="Linux::LinuxStorage\l::write_block" alt="" coords="379,70,517,111"/>
+</map>

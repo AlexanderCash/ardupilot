@@ -1,0 +1,22 @@
+<map id="RangeFinder::init" name="RangeFinder::init">
+<area shape="rect" id="node2" href="$classRangeFinder.html#a7f7f9dce880eb37d53df67cba39bdda9" title="RangeFinder::detect\l_instance" alt="" coords="177,478,317,519"/>
+<area shape="rect" id="node3" href="$classAP__RangeFinder__PulsedLightLRF.html#a12f05561023eacee38730a22aeaef09c" title="AP_RangeFinder_PulsedLight\lLRF::detect" alt="" coords="366,242,562,283"/>
+<area shape="rect" id="node13" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a63b2fdab67041f94c16928e1764871b2" title="AP_RangeFinder_MaxsonarI2\lCXL::detect" alt="" coords="366,412,562,454"/>
+<area shape="rect" id="node18" href="$classAP__RangeFinder__PX4.html#a5a3dda8e68d91d1c70177b6e903ab4de" title="AP_RangeFinder_PX4\l::detect" alt="" coords="387,478,541,519"/>
+<area shape="rect" id="node20" href="$classAP__RangeFinder__PX4__PWM.html#a55a5489f43240f0e64b7a1e01f964daa" title="AP_RangeFinder_PX4\l_PWM::detect" alt="" coords="387,543,541,584"/>
+<area shape="rect" id="node21" href="$classAP__RangeFinder__analog.html#a32053b2456e3c97ac33ef34577d5668f" title="AP_RangeFinder_analog\l::detect" alt="" coords="381,608,547,650"/>
+<area shape="rect" id="node4" href="$classAP__RangeFinder__PulsedLightLRF.html#aeb01c92de42ba4e384ef2a3cbc84f51f" title="AP_RangeFinder_PulsedLight\lLRF::start_reading" alt="" coords="857,46,1053,87"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="636,282,783,323"/>
+<area shape="rect" id="node10" href="$classAP__RangeFinder__PulsedLightLRF.html#a51ff133034bca6db07bbf0792e3df4c2" title="AP_RangeFinder_PulsedLight\lLRF::get_reading" alt="" coords="611,176,807,218"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="1119,208,1265,250"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="1102,409,1282,436"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="1119,46,1265,87"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="1103,321,1281,348"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="882,176,1027,218"/>
+<area shape="rect" id="node12" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="881,111,1028,152"/>
+<area shape="rect" id="node14" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a51188886a94d87fc3ebb795c0b40f0e4" title="AP_RangeFinder_MaxsonarI2\lCXL::start_reading" alt="" coords="857,496,1053,538"/>
+<area shape="rect" id="node16" href="$classAP__RangeFinder__MaxsonarI2CXL.html#a43b8ffc54c0ed66221d0bb61c3e181e9" title="AP_RangeFinder_MaxsonarI2\lCXL::get_reading" alt="" coords="611,412,807,454"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1I2CDriver.html#a31721a0154b78760595785506d92f38e" title="AP_HAL::I2CDriver::\lwrite" alt="" coords="1119,496,1265,538"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1I2CDriver.html#a223decf0fed4d81b10e740411026e2f3" title="AP_HAL::I2CDriver::read" alt="" coords="869,445,1040,472"/>
+<area shape="rect" id="node19" href="$classAP__RangeFinder__PX4.html#a5a9cdef8412cd21caaad6b59a3a61956" title="AP_RangeFinder_PX4\l::open_driver" alt="" coords="633,530,786,571"/>
+</map>

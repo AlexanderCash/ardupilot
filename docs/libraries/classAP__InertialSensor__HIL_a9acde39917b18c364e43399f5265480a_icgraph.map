@@ -1,0 +1,6 @@
+<map id="AP_InertialSensor_HIL::AP_InertialSensor_HIL" name="AP_InertialSensor_HIL::AP_InertialSensor_HIL">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__HIL.html#abf98ef11debee955ccdc346e87ee520a" title="AP_InertialSensor_HIL\l::detect" alt="" coords="216,5,371,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="419,5,554,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="603,12,755,39"/>
+<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="803,12,858,39"/>
+</map>

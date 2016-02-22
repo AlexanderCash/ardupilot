@@ -1,0 +1,11 @@
+<map id="libraries/AP_HAL_AVR/SPIDevices.h" name="libraries/AP_HAL_AVR/SPIDevices.h">
+<area shape="rect" id="node2" href="$AVR_2SPIDriver_8h.html" title="libraries/AP_HAL_AVR\l/SPIDriver.h" alt="" coords="241,97,399,138"/>
+<area shape="rect" id="node6" href="$SPIDeviceManager__APM1_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDeviceManager_APM1.cpp" alt="" coords="5,187,211,229"/>
+<area shape="rect" id="node7" href="$SPIDeviceManager__APM2_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDeviceManager_APM2.cpp" alt="" coords="429,187,635,229"/>
+<area shape="rect" id="node8" href="$SPIDevice__SPI0_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI0.cpp" alt="" coords="473,97,631,138"/>
+<area shape="rect" id="node9" href="$SPIDevice__SPI2_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI2.cpp" alt="" coords="655,97,812,138"/>
+<area shape="rect" id="node10" href="$SPIDevice__SPI3_8cpp.html" title="libraries/AP_HAL_AVR\l/SPIDevice_SPI3.cpp" alt="" coords="836,97,993,138"/>
+<area shape="rect" id="node3" href="$AP__HAL__AVR__private_8h.html" title="libraries/AP_HAL_AVR\l/AP_HAL_AVR_private.h" alt="" coords="235,187,404,229"/>
+<area shape="rect" id="node4" href="$HAL__AVR__APM1__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM1_Class.cpp" alt="" coords="111,278,307,319"/>
+<area shape="rect" id="node5" href="$HAL__AVR__APM2__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM2_Class.cpp" alt="" coords="331,278,527,319"/>
+</map>

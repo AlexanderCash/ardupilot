@@ -1,0 +1,46 @@
+digraph "fastdelegate::detail::ClosurePtr::GetStaticFunction"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="fastdelegate::detail\l::ClosurePtr::GetStaticFunction",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="fastdelegate::FastDelegate0\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate0.html#a230eee9ac96d1007493492802c6b6ec2"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="fastdelegate::FastDelegate0\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate0.html#acf2df2704cbe82aa94d39ab1330ed944"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="fastdelegate::FastDelegate1\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate1.html#aff83178ddfdbc2e77729ea522ff1f72f"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="fastdelegate::FastDelegate1\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate1.html#a21a4f4526b757dfdf998b39822ea61e8"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="fastdelegate::FastDelegate2\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate2.html#a4d42360e461360356c286d38bd7d5d55"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="fastdelegate::FastDelegate2\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate2.html#ab1918db8f802d3cee0407d340e9f7dd7"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="fastdelegate::FastDelegate3\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate3.html#ac30f7e893f1e510ae6d158a9635e0c6d"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="fastdelegate::FastDelegate3\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate3.html#a26746ce78d3b02301e4df9c3a3808b18"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="fastdelegate::FastDelegate4\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate4.html#a5b962de2324a3b035e3298d35b9421cf"];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="fastdelegate::FastDelegate4\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate4.html#a88533dd4a6657c1c2bb2879ed56e127e"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="fastdelegate::FastDelegate5\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate5.html#afc7177e86fd9ec7ee4195610787241c1"];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="fastdelegate::FastDelegate5\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate5.html#a10b6067757f1b28561d9ebef59bd43a4"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="fastdelegate::FastDelegate6\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate6.html#a616c84cbbb2d31a07f5b6378fe7e2e81"];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="fastdelegate::FastDelegate6\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate6.html#a38307d42a1b8d232b1a7191f69dc6ce4"];
+  Node1 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="fastdelegate::FastDelegate7\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate7.html#a0d7b0239b5f7421df789b4f8fead6078"];
+  Node16 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="fastdelegate::FastDelegate7\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate7.html#a4bb3e259225ebf657fdd327d4c372409"];
+  Node1 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="fastdelegate::FastDelegate8\l::InvokeStaticFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate8.html#ad99c394033657c0af021d5587af7434b"];
+  Node18 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="fastdelegate::FastDelegate8\l::bind",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate8.html#ada2e3de28f6be04ef684877801443207"];
+  Node1 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="fastdelegate::detail\l::ClosurePtr\< GenericMemFn,\l StaticFunctionPtr, UnvoidStatic\lFunctionPtr \>::IsEqualToStaticFuncPtr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1detail_1_1ClosurePtr.html#a02688d9a3cc770adf1cb7ef9ed4a0e45"];
+}

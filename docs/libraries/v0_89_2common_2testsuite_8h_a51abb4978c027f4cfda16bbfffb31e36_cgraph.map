@@ -1,0 +1,17 @@
+<map id="mavlink_test_statustext" name="mavlink_test_statustext">
+<area shape="rect" id="node2" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="937,110,1077,137"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#a54dd8cc12a7c61017a3754fb9e85d8a2" title="Encode a statustext struct into a message. " alt="" coords="217,51,381,92"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#af24eace2f47c304dacbde60900e5f78d" title="Pack a statustext message. " alt="" coords="430,56,629,82"/>
+<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#a57ade2fe340446fd25ed425c070d0082" title="Decode a statustext message into a struct. " alt="" coords="217,238,381,279"/>
+<area shape="rect" id="node11" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#a5abf3793ed13f3be65abc47dcf371312" title="Pack a statustext message on a channel. " alt="" coords="447,107,611,148"/>
+<area shape="rect" id="node13" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="223,355,375,396"/>
+<area shape="rect" id="node14" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="219,420,378,462"/>
+<area shape="rect" id="node15" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="241,486,356,513"/>
+<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#a64bb3513b0bb1439774f99bc2f27c38b" title="_mav_put_int8_t_array" alt="" coords="705,85,860,112"/>
+<area shape="rect" id="node6" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="695,34,870,61"/>
+<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#a965c672802dc7e09ed8d4a10242e8d22" title="Send a statustext message. " alt="" coords="447,172,611,214"/>
+<area shape="rect" id="node9" href="$v0_89_2common_2mavlink__msg__statustext_8h.html#af906e0a9c9a9822470edc85ef1474c2d" title="Get field text from statustext message. " alt="" coords="447,238,611,279"/>
+<area shape="rect" id="node10" href="$v0_89_2protocol_8h.html#a376f7eb3a7e5c20aac470d3571efdf00" title="_MAV_RETURN_int8_t\l_array" alt="" coords="702,238,863,279"/>
+<area shape="rect" id="node12" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="677,186,888,213"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="457,486,601,513"/>
+</map>

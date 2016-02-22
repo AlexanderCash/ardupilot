@@ -1,0 +1,12 @@
+digraph "AP_HAL_AVR::AVRUARTDriver::write"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="AP_HAL_AVR::AVRUARTDriver\l::write",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="AP_HAL_AVR::AVRUARTDriver\l::write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRUARTDriver.html#ad8d1a8e5904929bc99f6d5dac49d68d1"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="AP_HAL_AVR::AVRUARTDriver\l::txspace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__HAL__AVR_1_1AVRUARTDriver.html#acd4c22c8b250b56759b1d85a6dab3383"];
+}

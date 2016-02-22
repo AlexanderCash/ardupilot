@@ -1,0 +1,18 @@
+digraph "Linux::LinuxRCInput::_process_sbus_pulse"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Linux::LinuxRCInput\l::_process_sbus_pulse",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Linux::LinuxRCInput\l::_process_rc_pulse",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxRCInput.html#a4c7b9d3b8575c8ccd3c17b696d4ee32e"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Linux::LinuxRCInput\l_Navio::_timer_tick",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxRCInput__Navio.html#a59c2db95c339a99f051fb26426c2cf50"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Linux::LinuxRCInput\l_ZYNQ::_timer_tick",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxRCInput__ZYNQ.html#a33625c99a8cc5db604ef5b8a4aa9fddd"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Linux::LinuxRCInput\l_PRU::_timer_tick",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxRCInput__PRU.html#a1e30e9faaee05771f4f1d60af53a1171"];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Linux::LinuxRCInput\l_AioPRU::_timer_tick",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLinux_1_1LinuxRCInput__AioPRU.html#aa08cf9bc4bcbfcf2bdd8c388554c7a0c"];
+}

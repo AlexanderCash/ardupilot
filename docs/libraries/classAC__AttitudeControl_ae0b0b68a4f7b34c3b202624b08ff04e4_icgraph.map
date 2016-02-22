@@ -1,0 +1,5 @@
+<map id="AC_AttitudeControl::update_ef_roll_angle_and_error" name="AC_AttitudeControl::update_ef_roll_angle_and_error">
+<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#afbe614d708bc9de386fda48ee3c65069" title="AC_AttitudeControl\l::angle_ef_roll_pitch\l_rate_ef_yaw_smooth" alt="" coords="207,5,358,61"/>
+<area shape="rect" id="node3" href="$classAC__AttitudeControl.html#a716b26f41dfc5cf956b360affd045946" title="AC_AttitudeControl\l::rate_bf_roll_pitch_yaw" alt="" coords="203,85,363,126"/>
+<area shape="rect" id="node4" href="$classAC__AttitudeControl.html#a2f434d94c7265c3e09c0c7555ec92efb" title="AC_AttitudeControl\l::rate_ef_roll_pitch_yaw" alt="" coords="203,150,363,191"/>
+</map>

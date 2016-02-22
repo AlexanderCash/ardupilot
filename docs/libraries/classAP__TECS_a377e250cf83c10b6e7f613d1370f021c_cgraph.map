@@ -1,0 +1,11 @@
+<map id="AP_TECS::update_50hz" name="AP_TECS::update_50hz">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="245,5,392,46"/>
+<area shape="rect" id="node3" href="$classAP__AHRS.html#a964855631b6a020e36e3913f51d448d7" title="AP_AHRS::get_velocity_NED" alt="" coords="219,71,418,97"/>
+<area shape="rect" id="node4" href="$classAP__AHRS.html#ac6c4f4776a5d95c91dae7a17faf1a824" title="AP_AHRS::get_relative\l_position_NED" alt="" coords="239,122,399,163"/>
+<area shape="rect" id="node5" href="$classAP__AHRS.html#a0e47a93df7643a4545db6b1350727436" title="AP_AHRS::get_accel_ef" alt="" coords="235,188,402,215"/>
+<area shape="rect" id="node6" href="$classAP__AHRS.html#a208790b5f85df72d0f5a1d94b7225beb" title="AP_AHRS::get_dcm_matrix" alt="" coords="225,239,412,265"/>
+<area shape="rect" id="node7" href="$classAP__AHRS.html#a14398c5d2ae68bbe1c67482a91909ad9" title="AP_AHRS::get_ins" alt="" coords="251,289,386,316"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor.html#a0f63a4a0e6fc84d6ab9519bc4b254055" title="AP_InertialSensor::\lget_accel" alt="" coords="251,341,386,382"/>
+<area shape="rect" id="node9" href="$classAverageFilter.html#a1393e1329a54418471a8aac648fa716f" title="AverageFilter::apply" alt="" coords="249,407,388,433"/>
+<area shape="rect" id="node10" href="$classFilterWithBuffer.html#aae753aef534f178a80c4833e6b3f7639" title="FilterWithBuffer::apply" alt="" coords="467,407,619,433"/>
+</map>

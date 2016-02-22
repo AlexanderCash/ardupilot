@@ -1,0 +1,5 @@
+<map id="AP_AHRS::set_compass" name="AP_AHRS::set_compass">
+<area shape="rect" id="node2" href="$classAP__AHRS.html#a14804b801de65ce6d904c804b4795657" title="AP_AHRS::set_orientation" alt="" coords="224,45,403,72"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor.html#ac2b205f3b51b656ed1373b48d1524db6" title="AP_InertialSensor::\lset_board_orientation" alt="" coords="451,5,597,46"/>
+<area shape="rect" id="node4" href="$classCompass.html#a9b827b915597e590ea05fab467e676b0" title="Compass::set_board\l_orientation" alt="" coords="453,70,595,111"/>
+</map>

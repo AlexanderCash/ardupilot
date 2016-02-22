@@ -1,0 +1,7 @@
+<map id="AP_HAL_AVR::AVRScheduler" name="AP_HAL_AVR::AVRScheduler">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html" title="AP_HAL::Scheduler" alt="" coords="616,5,755,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRTimer.html" title="AP_HAL_AVR::AVRTimer" alt="" coords="597,56,774,83"/>
+<area shape="rect" id="node4" href="$classfastdelegate_1_1FastDelegate0.html" title="fastdelegate::FastDelegate0\l\&lt; RetType \&gt;" alt="" coords="592,107,779,149"/>
+<area shape="rect" id="node5" href="$classfastdelegate_1_1detail_1_1ClosurePtr.html" title="fastdelegate::detail\l::ClosurePtr\&lt; GenericMemFn,\l StaticFunctionPtr, UnvoidStatic\lFunctionPtr \&gt;" alt="" coords="264,93,475,163"/>
+<area shape="rect" id="node6" href="$classfastdelegate_1_1DelegateMemento.html" title="fastdelegate::DelegateMemento" alt="" coords="6,115,213,141"/>
+</map>

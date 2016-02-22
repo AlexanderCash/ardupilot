@@ -1,0 +1,28 @@
+digraph "SmallEKF::calcMagHeadingInnov"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="SmallEKF::calcMagHeading\lInnov",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="NavEKF::healthy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ad418b75ceae3dde42f8c588b7e88abb4"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="NavEKF::getFilterFaults",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#ab71619ef68ba5d8b11f68ef4f31a65c2"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Quaternion::is_nan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classQuaternion.html#aa3036ce97bb5a7394a2d65edecd8f1ab"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Vector3::is_nan",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector3.html#a076ee3d40e645623b54650cca5ae6df7"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="sq",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="NavEKF::getMagNED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#a1bccd4b8bcc129f2daabf04b02a44bf3"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="NavEKF::getMagXYZ",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classNavEKF.html#add08a20902184b616da1e9f79efcbc5f"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Vector3::zero",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="AP_AHRS::get_compass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classAP__AHRS.html#adf808841de62499bc8c388fc798d47f1"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Compass::get_declination",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classCompass.html#a5051de1d15ee203600422235ab93c88c"];
+}

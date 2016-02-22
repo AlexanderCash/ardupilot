@@ -1,0 +1,15 @@
+<map id="AP_InertialSensor::get_gyro_offsets" name="AP_InertialSensor::get_gyro_offsets">
+<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#a9f7ecf8cafc351952b5a22863fbeeda6" title="HALSITL::SITL_State\l::_update_ins" alt="" coords="214,67,365,109"/>
+<area shape="rect" id="node11" href="$INS__generic_8pde.html#a7ce25a66dfb0588303cff586275c40b4" title="display_offsets_and\l_scaling" alt="" coords="220,133,359,174"/>
+<area shape="rect" id="node14" href="$classGCS__MAVLINK.html#a9be36dca60e21921c38bda4abf54e98a" title="GCS_MAVLINK::send_sensor\l_offsets" alt="" coords="190,198,389,239"/>
+<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a431cc90b2798830af85bcd65d0dade9f" title="HALSITL::SITL_State\l::_sitl_setup" alt="" coords="438,5,589,46"/>
+<area shape="rect" id="node7" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="438,70,589,111"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a5211ba971055052489d9817c3388c4c2" title="HALSITL::SITL_State\l::_parse_command_line" alt="" coords="637,5,797,46"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="855,5,1006,46"/>
+<area shape="rect" id="node6" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="1095,12,1203,39"/>
+<area shape="rect" id="node8" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="642,70,793,111"/>
+<area shape="rect" id="node9" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="845,70,1016,111"/>
+<area shape="rect" id="node10" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1064,70,1235,111"/>
+<area shape="rect" id="node12" href="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="490,139,537,165"/>
+<area shape="rect" id="node13" href="$INS__generic_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="486,189,541,216"/>
+</map>

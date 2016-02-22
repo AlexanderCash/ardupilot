@@ -1,0 +1,6 @@
+<map id="mavlink_msg_debug_get_ind" name="mavlink_msg_debug_get_ind">
+<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__debug_8h.html#a758c41a18df8c12a2aa309170f1ebc08" title="Decode a debug message into a struct. " alt="" coords="246,5,437,32"/>
+<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#a234efe63591cb796c8394d8e5edc3dac" title="mavlink_test_debug" alt="" coords="485,5,624,32"/>
+<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="673,5,826,32"/>
+<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="875,5,991,32"/>
+</map>

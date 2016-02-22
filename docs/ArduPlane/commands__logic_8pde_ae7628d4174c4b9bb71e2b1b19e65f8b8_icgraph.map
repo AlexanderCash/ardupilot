@@ -1,0 +1,5 @@
+<map id="do_within_distance" name="do_within_distance">
+<area shape="rect" id="node2" href="$commands__logic_8pde.html#a1a8c657acb9efa7a54b0b2a74025ec11" title="start_command" alt="" coords="187,31,299,57"/>
+<area shape="rect" id="node3" href="$commands__logic_8pde.html#a0430a022cdb46cf93cef509c17cd6b1f" title="start_command_callback" alt="" coords="347,5,514,32"/>
+<area shape="rect" id="node4" href="$commands__logic_8pde.html#a8cc2b5f231ed49f1dd33e7500f0351c0" title="exit_mission_callback" alt="" coords="355,56,506,83"/>
+</map>

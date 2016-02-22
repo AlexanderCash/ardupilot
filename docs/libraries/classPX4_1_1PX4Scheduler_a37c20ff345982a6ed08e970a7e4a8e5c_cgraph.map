@@ -1,0 +1,8 @@
+<map id="PX4::PX4Scheduler::_timer_thread" name="PX4::PX4Scheduler::_timer_thread">
+<area shape="rect" id="node2" href="$classPX4_1_1PX4Scheduler.html#a8d7101f4a778832002c949fe32c99000" title="PX4::PX4Scheduler::\ldelay_microseconds_semaphore" alt="" coords="201,5,413,46"/>
+<area shape="rect" id="node3" href="$classPX4_1_1PX4Scheduler.html#a51201caa7b46b5f10cadce7c074e79d8" title="PX4::PX4Scheduler::\l_run_timers" alt="" coords="233,70,380,111"/>
+<area shape="rect" id="node4" href="$classPX4_1_1PX4Scheduler.html#a6fe23525a6373a0921c25d2e6cbedeb5" title="PX4::PX4Scheduler::\lmillis" alt="" coords="233,135,380,177"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="230,201,383,242"/>
+<area shape="rect" id="node5" href="$classPX4_1_1PX4Scheduler.html#a8d902fd7ad4f7a2323b4baf28e142717" title="PX4::PX4Scheduler::\lmillis64" alt="" coords="461,135,608,177"/>
+<area shape="rect" id="node6" href="$classPX4_1_1PX4Scheduler.html#a822ec9075d8069255612c44a55373872" title="PX4::PX4Scheduler::\lmicros64" alt="" coords="656,135,803,177"/>
+</map>

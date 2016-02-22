@@ -1,0 +1,12 @@
+<map id="swap_uint32" name="swap_uint32">
+<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#a9fb09ac6e1f2c4f6749c8df363387f01" title="HALSITL::SITL_State\l::_update_gps_mtk" alt="" coords="150,38,301,79"/>
+<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a09b6857a6f87a51390d4e045cb671207" title="HALSITL::SITL_State\l::_update_gps" alt="" coords="350,38,501,79"/>
+<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a431cc90b2798830af85bcd65d0dade9f" title="HALSITL::SITL_State\l::_sitl_setup" alt="" coords="550,5,701,46"/>
+<area shape="rect" id="node8" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="550,70,701,111"/>
+<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#a5211ba971055052489d9817c3388c4c2" title="HALSITL::SITL_State\l::_parse_command_line" alt="" coords="749,5,909,46"/>
+<area shape="rect" id="node6" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="967,5,1118,46"/>
+<area shape="rect" id="node7" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="1207,12,1315,39"/>
+<area shape="rect" id="node9" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="754,70,905,111"/>
+<area shape="rect" id="node10" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="957,70,1128,111"/>
+<area shape="rect" id="node11" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1176,70,1347,111"/>
+</map>

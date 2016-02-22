@@ -1,0 +1,8 @@
+<map id="mavlink_msg_v2_extension_decode" name="mavlink_msg_v2_extension_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__v2__extension_8h.html#a67ef307a3464a51614b66175caa34d4c" title="Get field message_type from v2_extension message. " alt="" coords="238,5,421,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__v2__extension_8h.html#a0df17ad8bfdcf6eb75dfa2feeb9e9d1e" title="Send a v2_extension message. " alt="" coords="238,70,421,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__v2__extension_8h.html#a8b5278f51f4e434a4987b48e3866655b" title="Get field target_system from v2_extension message. " alt="" coords="238,135,421,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__v2__extension_8h.html#a235a37ec3f3c80c6e8a7d66e342ce61a" title="Get field target_component from v2_extension message. " alt="" coords="238,201,421,242"/>
+<area shape="rect" id="node6" href="$mavlink__msg__v2__extension_8h.html#ac6d4f2a9d931409fa93e22180cfacd05" title="Get field payload from v2_extension message. " alt="" coords="238,266,421,307"/>
+<area shape="rect" id="node7" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="469,266,637,307"/>
+</map>

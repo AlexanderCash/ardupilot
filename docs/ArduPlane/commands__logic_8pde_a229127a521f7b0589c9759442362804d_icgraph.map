@@ -1,0 +1,9 @@
+<map id="loiter_set_direction_wp" name="loiter_set_direction_wp">
+<area shape="rect" id="node2" href="$commands__logic_8pde.html#a1769fe2481ba28461900e5954063eb18" title="do_loiter_time" alt="" coords="222,5,325,32"/>
+<area shape="rect" id="node6" href="$commands__logic_8pde.html#a2e24f379f14dd5bfb86ae893263ce6bf" title="do_loiter_to_alt" alt="" coords="218,56,329,83"/>
+<area shape="rect" id="node7" href="$commands__logic_8pde.html#aa0fea363439d7ec45bbf48ac18160e70" title="do_loiter_turns" alt="" coords="220,107,327,133"/>
+<area shape="rect" id="node8" href="$commands__logic_8pde.html#a3751b06085ca9bc386a931cd9425a626" title="do_loiter_unlimited" alt="" coords="208,157,339,184"/>
+<area shape="rect" id="node3" href="$commands__logic_8pde.html#a1a8c657acb9efa7a54b0b2a74025ec11" title="start_command" alt="" coords="387,81,499,108"/>
+<area shape="rect" id="node4" href="$commands__logic_8pde.html#a0430a022cdb46cf93cef509c17cd6b1f" title="start_command_callback" alt="" coords="547,56,714,83"/>
+<area shape="rect" id="node5" href="$commands__logic_8pde.html#a8cc2b5f231ed49f1dd33e7500f0351c0" title="exit_mission_callback" alt="" coords="555,107,706,133"/>
+</map>

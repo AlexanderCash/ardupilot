@@ -1,0 +1,9 @@
+<map id="AP_InertialSensor_Backend::_publish_gyro" name="AP_InertialSensor_Backend::_publish_gyro">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Oilpan.html#a9ba8adc462a45a52f31c8698d48dfc93" title="AP_InertialSensor_Oilpan\l::update" alt="" coords="251,5,421,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Flymaple.html#a980c93918fa051ba687babfd0ed617f8" title="AP_InertialSensor_Flymaple\l::update" alt="" coords="243,70,429,111"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__MPU9150.html#a30e80692dbda9ab89f47e53f185a6604" title="AP_InertialSensor_MPU9150\l::update" alt="" coords="240,135,432,177"/>
+<area shape="rect" id="node5" href="$classAP__InertialSensor__L3G4200D.html#a18e419a13e12842e69295b3bca26acca" title="AP_InertialSensor_L3G4200\lD::update" alt="" coords="243,201,429,242"/>
+<area shape="rect" id="node6" href="$classAP__InertialSensor__MPU9250.html#ad04b4e02cc8ba4a6da1d6132b8276f50" title="AP_InertialSensor_MPU9250\l::update" alt="" coords="240,266,432,307"/>
+<area shape="rect" id="node7" href="$classAP__InertialSensor__PX4.html#a56c271f4293b88db34537b7a11e63157" title="AP_InertialSensor_PX4\l::update" alt="" coords="257,331,415,373"/>
+<area shape="rect" id="node8" href="$classAP__InertialSensor__MPU6000.html#a8c628f9e98b7ebd116337e3f21418e0a" title="AP_InertialSensor_MPU6000\l::update" alt="" coords="240,397,432,438"/>
+</map>

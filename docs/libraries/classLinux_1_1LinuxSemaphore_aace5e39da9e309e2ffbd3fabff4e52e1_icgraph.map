@@ -1,0 +1,9 @@
+<map id="Linux::LinuxSemaphore::give" name="Linux::LinuxSemaphore::give">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxScheduler.html#a8ce627229b5357fc187d2829a551d8a5" title="Linux::LinuxScheduler\l::_run_io" alt="" coords="214,70,365,111"/>
+<area shape="rect" id="node6" href="$classLinux_1_1LinuxScheduler.html#ab6c47de85c733b200bd687a4be4235f2" title="Linux::LinuxScheduler\l::_run_timers" alt="" coords="214,135,365,177"/>
+<area shape="rect" id="node8" href="$classLinux_1_1LinuxScheduler.html#ad4b5aa2d58c068d6717fab7f5e3f4c3a" title="Linux::LinuxScheduler\l::resume_timer_procs" alt="" coords="214,201,365,242"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxScheduler.html#a1df8eefe812e9771393d66dac35e0d1c" title="Linux::LinuxScheduler\l::_io_thread" alt="" coords="414,5,565,46"/>
+<area shape="rect" id="node5" href="$classLinux_1_1LinuxScheduler.html#a0de23bdddc54c2c0288291b2bd2114b9" title="Linux::LinuxScheduler\l::stop_clock" alt="" coords="414,70,565,111"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxScheduler.html#a9b85c92d0c6cb394981442d0744bbc91" title="Linux::LinuxScheduler\l::init" alt="" coords="614,70,765,111"/>
+<area shape="rect" id="node7" href="$classLinux_1_1LinuxScheduler.html#a85f014765f99e48c2e7f14563dfc9a00" title="Linux::LinuxScheduler\l::_timer_thread" alt="" coords="414,135,565,177"/>
+</map>

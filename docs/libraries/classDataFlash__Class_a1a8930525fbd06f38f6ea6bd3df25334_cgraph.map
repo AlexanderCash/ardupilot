@@ -1,0 +1,9 @@
+<map id="DataFlash_Class::Log_Write_Current" name="DataFlash_Class::Log_Write_Current">
+<area shape="rect" id="node2" href="$classAP__BattMonitor.html#a08b53e709a3bd620196721e561afb6f3" title="AP_BattMonitor::voltage2" alt="" coords="221,5,392,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="233,57,380,98"/>
+<area shape="rect" id="node4" href="$classAP__BattMonitor.html#ab5789eb7d45ec25b685adfaaf9167284" title="voltage &#45; returns battery voltage in millivolts " alt="" coords="225,123,389,149"/>
+<area shape="rect" id="node5" href="$classAP__BattMonitor.html#af73075a42b0aa50dca77e16625fb1122" title="current_amps &#45; returns the instantaneous current draw in amperes " alt="" coords="206,173,407,200"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1AnalogIn.html#a84c87bc57f06182afc85725cafe22698" title="AP_HAL::AnalogIn::board\l_voltage" alt="" coords="221,225,393,266"/>
+<area shape="rect" id="node7" href="$classAP__BattMonitor.html#a5744db673ce4cbaffe3da159451c3d5f" title="current_total_mah &#45; returns total current drawn since start&#45;up in amp&#45;hours " alt="" coords="225,290,388,331"/>
+<area shape="rect" id="node8" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="209,356,404,383"/>
+</map>

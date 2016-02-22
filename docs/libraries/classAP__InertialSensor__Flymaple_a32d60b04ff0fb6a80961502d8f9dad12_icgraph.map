@@ -1,0 +1,4 @@
+<map id="AP_InertialSensor_Flymaple::_accumulate" name="AP_InertialSensor_Flymaple::_accumulate">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__Flymaple.html#acabcad15c670bdc2abd47717f2aa247d" title="AP_InertialSensor_Flymaple\l::accel_sample_available" alt="" coords="240,5,427,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__Flymaple.html#a230a816a3d10d0f4a2e6135eca4a8613" title="AP_InertialSensor_Flymaple\l::gyro_sample_available" alt="" coords="240,70,427,111"/>
+</map>

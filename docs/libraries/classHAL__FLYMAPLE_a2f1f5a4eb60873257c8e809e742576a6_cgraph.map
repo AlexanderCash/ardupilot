@@ -1,0 +1,11 @@
+<map id="HAL_FLYMAPLE::init" name="HAL_FLYMAPLE::init">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a73404760256b0274f21958e334bb3f41" title="AP_HAL::Scheduler::init" alt="" coords="218,5,382,32"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title="AP_HAL::UARTDriver\l::begin" alt="" coords="223,57,377,98"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1RCInput.html#ac493ee76044b9dc2f5e46f4e8a6f317e" title="AP_HAL::RCInput::init" alt="" coords="223,123,377,149"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1RCOutput.html#a5c4d35014aa28bd529e18fed0525638c" title="AP_HAL::RCOutput::init" alt="" coords="217,173,383,200"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1SPIDeviceManager.html#a81271f8b80957303d0bf0341d97fdaeb" title="AP_HAL::SPIDeviceManager\l::init" alt="" coords="203,225,397,266"/>
+<area shape="rect" id="node7" href="$classAP__HAL_1_1I2CDriver.html#ac20689a83fe43d22229ea3111bdaf26d" title="AP_HAL::I2CDriver::\lbegin" alt="" coords="227,290,373,331"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1I2CDriver.html#a555e94982ec704b7538adcf87aae2080" title="AP_HAL::I2CDriver::\lsetTimeout" alt="" coords="227,355,373,397"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1AnalogIn.html#a050b6e10dc6caf8b5ca2e594345e0e06" title="AP_HAL::AnalogIn::init" alt="" coords="221,421,379,448"/>
+<area shape="rect" id="node10" href="$classAP__HAL_1_1Storage.html#ab6482299a2d726448cd95e17cf0eae84" title="AP_HAL::Storage::init" alt="" coords="225,472,375,499"/>
+</map>

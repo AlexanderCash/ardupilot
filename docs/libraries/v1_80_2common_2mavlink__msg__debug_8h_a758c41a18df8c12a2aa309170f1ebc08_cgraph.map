@@ -1,0 +1,5 @@
+<map id="mavlink_msg_debug_decode" name="mavlink_msg_debug_decode">
+<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__debug_8h.html#ac1f31e8d3d83bd823b265ab6e9622341" title="Send a debug message. " alt="" coords="258,5,425,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__debug_8h.html#af7471d7ffa485f1951ba39881b3b5c25" title="Get field value from debug message. " alt="" coords="258,70,425,111"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__debug_8h.html#a5e02a5c225746738425866bde69cf9ea" title="Get field ind from debug message. " alt="" coords="246,136,437,163"/>
+</map>

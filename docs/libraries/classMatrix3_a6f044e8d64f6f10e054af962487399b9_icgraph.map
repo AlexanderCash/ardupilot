@@ -1,0 +1,12 @@
+<map id="Matrix3::rotate" name="Matrix3::rotate">
+<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#acc7f8beea93c6ddd74f162c6816ad7a6" title="AP_AHRS_DCM::matrix\l_update" alt="" coords="161,5,327,46"/>
+<area shape="rect" id="node5" href="$eulers_8pde.html#a399d6b75c71672b952b356e8ad32ff9f" title="test_matrix_rotate" alt="" coords="181,71,307,97"/>
+<area shape="rect" id="node7" href="$rotations_8pde.html#acaec71463457149487901c616be1c74d" title="test_rotation_accuracy" alt="" coords="167,121,321,148"/>
+<area shape="rect" id="node9" href="$classHelicopter.html#a679e4dbbeca418ad17aa98aafdc99385" title="Helicopter::update" alt="" coords="180,172,308,199"/>
+<area shape="rect" id="node10" href="$classRover.html#a1b444db0b18db7f90dfb59e493ab5e29" title="Rover::update" alt="" coords="192,223,296,249"/>
+<area shape="rect" id="node11" href="$classMultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="MultiCopter::update" alt="" coords="176,273,312,300"/>
+<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="376,12,547,39"/>
+<area shape="rect" id="node4" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="595,12,642,39"/>
+<area shape="rect" id="node6" href="$eulers_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="434,71,489,97"/>
+<area shape="rect" id="node8" href="$rotations_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="434,121,489,148"/>
+</map>

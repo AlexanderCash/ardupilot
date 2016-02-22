@@ -1,0 +1,14 @@
+<map id="AC_PosControl::set_target_to_stopping_point_xy" name="AC_PosControl::set_target_to_stopping_point_xy">
+<area shape="rect" id="node2" href="$classAC__PosControl.html#ac4f923c39399266568b9ae9419a0596f" title="AC_PosControl::calc\l_leash_length_xy" alt="" coords="193,63,338,105"/>
+<area shape="rect" id="node5" href="$classAC__PosControl.html#a4054e2d2dc53b9b0c2fd26898781af89" title="AC_PosControl::get\l_stopping_point_xy" alt="" coords="196,217,335,258"/>
+<area shape="rect" id="node3" href="$classAC__PosControl.html#a92e0998be57c8a917a7a7514c542e314" title="calc_leash_length &#45; calculates the horizontal leash length given a maximum speed, acceleration and po..." alt="" coords="411,5,557,46"/>
+<area shape="rect" id="node4" href="$classAC__P.html#a9378b33d8cfb4bf2417880c038f1b7a2" title="AC_P::kP" alt="" coords="443,71,525,97"/>
+<area shape="rect" id="node6" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title="AP_InertialNav::get\l_position" alt="" coords="416,122,552,163"/>
+<area shape="rect" id="node7" href="$classAP__InertialNav.html#a5bfad40c8a4e0ca98aa09c80e17c4ff5" title="AP_InertialNav::get\l_velocity" alt="" coords="416,187,552,229"/>
+<area shape="rect" id="node8" href="$classAC__PosControl.html#ad6864eaa25734c3908f5a77da3499a60" title="AC_PosControl::is_active_xy" alt="" coords="387,253,581,280"/>
+<area shape="rect" id="node10" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="434,304,534,331"/>
+<area shape="rect" id="node12" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="452,355,516,381"/>
+<area shape="rect" id="node13" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="431,405,537,432"/>
+<area shape="rect" id="node9" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="629,242,776,283"/>
+<area shape="rect" id="node11" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="683,308,722,335"/>
+</map>

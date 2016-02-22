@@ -1,0 +1,6 @@
+<map id="mavlink_msg_position_target_decode" name="mavlink_msg_position_target_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__position__target_8h.html#ac66d4f8ad7ba9a860df772e19aa829f0" title="Send a position_target message. " alt="" coords="206,5,357,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__position__target_8h.html#a91d095bb2e265ba5babd41908a640ad7" title="Get field y from position_target message. " alt="" coords="206,70,357,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__position__target_8h.html#a01a6d9db695a19aed0bfa04513c0cceb" title="Get field z from position_target message. " alt="" coords="206,135,357,177"/>
+<area shape="rect" id="node5" href="$mavlink__msg__position__target_8h.html#a0c2d39cfe3926b4c90cba6b088ab5aca" title="Get field yaw from position_target message. " alt="" coords="206,201,357,242"/>
+</map>

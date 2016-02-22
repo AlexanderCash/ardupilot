@@ -1,0 +1,6 @@
+<map id="mavlink_msg_gimbal_reset_get_target_system" name="mavlink_msg_gimbal_reset_get_target_system">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__reset_8h.html#aa22ceb9482418d73a340b20d4b548c0b" title="Decode a gimbal_reset message into a struct. " alt="" coords="227,5,371,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#af945a142dc4e1060e3e7382a1e31a167" title="mavlink_test_gimbal\l_reset" alt="" coords="419,5,560,46"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="608,12,792,39"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="841,12,957,39"/>
+</map>

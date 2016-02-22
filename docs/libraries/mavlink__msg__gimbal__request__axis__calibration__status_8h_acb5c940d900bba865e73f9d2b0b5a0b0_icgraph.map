@@ -1,0 +1,6 @@
+<map id="mavlink_msg_gimbal_request_axis_calibration_status_get_target_system" name="mavlink_msg_gimbal_request_axis_calibration_status_get_target_system">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__request__axis__calibration__status_8h.html#ab70475175f9a55c8ff864a3ec1e69677" title="Decode a gimbal_request_axis_calibration_status message into a struct. " alt="" coords="235,4,405,60"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#af7192583e36220690e8ae1e599efb329" title="mavlink_test_gimbal\l_request_axis_calibration\l_status" alt="" coords="454,4,623,60"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="672,19,856,45"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="905,19,1021,45"/>
+</map>

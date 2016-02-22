@@ -1,0 +1,6 @@
+<map id="PX4::PX4Scheduler" name="PX4::PX4Scheduler">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html" title="AP_HAL::Scheduler" alt="" coords="616,5,755,32"/>
+<area shape="rect" id="node3" href="$classfastdelegate_1_1FastDelegate0.html" title="fastdelegate::FastDelegate0\l\&lt; RetType \&gt;" alt="" coords="592,57,779,98"/>
+<area shape="rect" id="node4" href="$classfastdelegate_1_1detail_1_1ClosurePtr.html" title="fastdelegate::detail\l::ClosurePtr\&lt; GenericMemFn,\l StaticFunctionPtr, UnvoidStatic\lFunctionPtr \&gt;" alt="" coords="264,42,475,113"/>
+<area shape="rect" id="node5" href="$classfastdelegate_1_1DelegateMemento.html" title="fastdelegate::DelegateMemento" alt="" coords="6,64,213,91"/>
+</map>

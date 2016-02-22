@@ -1,0 +1,6 @@
+<map id="mavlink_msg_set_position_target_global_int_get_afy" name="mavlink_msg_set_position_target_global_int_get_afy">
+<area shape="rect" id="node2" href="$mavlink__msg__set__position__target__global__int_8h.html#a2a84e5f08e0870109173fabe8fab2f8f" title="Decode a set_position_target_global_int message into a struct. " alt="" coords="229,5,405,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#aa76ba07ce729ea25a88f7204b5358e83" title="mavlink_test_set_position\l_target_global_int" alt="" coords="453,5,627,46"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="675,12,829,39"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="878,12,994,39"/>
+</map>

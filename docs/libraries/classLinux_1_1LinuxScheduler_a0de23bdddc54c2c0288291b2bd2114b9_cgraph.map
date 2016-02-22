@@ -1,0 +1,8 @@
+<map id="Linux::LinuxScheduler::stop_clock" name="Linux::LinuxScheduler::stop_clock">
+<area shape="rect" id="node2" href="$classLinux_1_1LinuxScheduler.html#a8ce627229b5357fc187d2829a551d8a5" title="Linux::LinuxScheduler\l::_run_io" alt="" coords="206,103,357,145"/>
+<area shape="rect" id="node3" href="$classLinux_1_1LinuxSemaphore.html#aeb67a6316045bb520884a0e1518faf60" title="Linux::LinuxSemaphore\l::take" alt="" coords="406,70,565,111"/>
+<area shape="rect" id="node7" href="$classLinux_1_1LinuxSemaphore.html#aace5e39da9e309e2ffbd3fabff4e52e1" title="Linux::LinuxSemaphore\l::give" alt="" coords="406,135,565,177"/>
+<area shape="rect" id="node4" href="$classLinux_1_1LinuxSemaphore.html#a95fab6c6751022e98592f3d2f1a031e2" title="Linux::LinuxSemaphore\l::take_nonblocking" alt="" coords="614,5,773,46"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#acfe178fdca7f8d9b22a939b3aac1a84f" title="AP_HAL::Scheduler::\lmicros64" alt="" coords="620,70,767,111"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#a78c4f1b1f192ac1c99544b6cc8f099b0" title="AP_HAL::Scheduler::\ldelay_microseconds" alt="" coords="620,135,767,177"/>
+</map>

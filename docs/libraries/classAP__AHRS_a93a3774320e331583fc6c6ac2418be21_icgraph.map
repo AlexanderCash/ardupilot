@@ -1,0 +1,9 @@
+<map id="AP_AHRS::get_trim" name="AP_AHRS::get_trim">
+<area shape="rect" id="node2" href="$classNavEKF.html#af00a144845ea0078be28516c5d584c78" title="NavEKF::getEulerAngles" alt="" coords="221,40,389,67"/>
+<area shape="rect" id="node8" href="$classNavEKF.html#a6a04a684cec578f919586066d0784103" title="NavEKF::getRotationBodyToNED" alt="" coords="195,91,416,117"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117" title="NavEKF::alignYawGPS" alt="" coords="465,15,626,41"/>
+<area shape="rect" id="node7" href="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b" title="NavEKF::performArmingChecks" alt="" coords="675,71,885,97"/>
+<area shape="rect" id="node4" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="683,5,877,46"/>
+<area shape="rect" id="node5" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="933,5,1091,46"/>
+<area shape="rect" id="node6" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="937,71,1087,97"/>
+</map>

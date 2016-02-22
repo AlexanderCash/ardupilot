@@ -1,0 +1,17 @@
+<map id="setup_landing_glide_slope" name="setup_landing_glide_slope">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a224e7b94333df3a15a18499026474ac9" title="get_bearing_cd" alt="" coords="218,5,329,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="225,56,321,83"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a4fe7afbe3deb970c4708f4821b029842" title="AP_AHRS::groundspeed" alt="" coords="190,107,357,133"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#acdec9eb799a7f640130a28deee68d81e" title="AP_SpdHgtControl::get\l_land_sinkrate" alt="" coords="194,158,353,199"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ab0e06d28afb9d14043e1938af277396c" title="location_update" alt="" coords="217,224,330,251"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ab0ccbafe7e2809759eea8d45d23e4ba0" title="location_path_proportion" alt="" coords="192,275,355,301"/>
+<area shape="rect" id="node8" href="$altitude_8pde.html#a959640f9ebe33459ea8eb28205de7bcc" title="set_target_altitude\l_proportion" alt="" coords="209,326,338,367"/>
+<area shape="rect" id="node15" href="$altitude_8pde.html#a07cefa9abd921adeca207556fbc4bc84" title="constrain_target_altitude\l_location" alt="" coords="191,417,355,458"/>
+<area shape="rect" id="node9" href="$altitude_8pde.html#a6357f669f6ecbbb7cfde5ba94be1e19c" title="set_target_altitude\l_location" alt="" coords="418,191,547,233"/>
+<area shape="rect" id="node10" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="429,257,536,284"/>
+<area shape="rect" id="node11" href="$altitude_8pde.html#ab8083dab6dcaeff9d8150fe04c47185d" title="change_target_altitude" alt="" coords="406,308,559,335"/>
+<area shape="rect" id="node12" href="$altitude_8pde.html#a26e99e43b17681e3716fef6a71de06b7" title="calc_altitude_error_cm" alt="" coords="406,359,559,385"/>
+<area shape="rect" id="node14" href="$altitude_8pde.html#a9a2ab83d5bfa356d6e99cc7f6c7869cd" title="set_offset_altitude\l_location" alt="" coords="418,410,547,451"/>
+<area shape="rect" id="node13" href="$altitude_8pde.html#aad5da768a7e757989110fe2d704427b9" title="adjusted_altitude_cm" alt="" coords="609,359,754,385"/>
+<area shape="rect" id="node16" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#af85c1f082ddabb5487c6f524d8b538ce" title="constrain_int32" alt="" coords="427,476,538,503"/>
+</map>

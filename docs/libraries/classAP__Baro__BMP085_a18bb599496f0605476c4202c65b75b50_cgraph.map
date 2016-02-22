@@ -1,0 +1,5 @@
+<map id="AP_Baro_BMP085::ReadPress" name="AP_Baro_BMP085::ReadPress">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="259,5,405,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="259,70,405,111"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#a687bb56361cf0ee839b4df36cf756952" title="AP_HAL::I2CDriver::\lsetHighSpeed" alt="" coords="259,135,405,177"/>
+</map>

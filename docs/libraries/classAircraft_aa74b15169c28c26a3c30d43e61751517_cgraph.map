@@ -1,0 +1,7 @@
+<map id="Aircraft::Aircraft" name="Aircraft::Aircraft">
+<area shape="rect" id="node2" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="174,5,309,32"/>
+<area shape="rect" id="node3" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="209,56,273,83"/>
+<area shape="rect" id="node4" href="$classAircraft.html#a85f55e83de0fd7927c5de0cdfa217ed1" title="Aircraft::set_speedup" alt="" coords="168,107,315,133"/>
+<area shape="rect" id="node5" href="$classAircraft.html#ab85a736e17e250991abe1a1c9d77a645" title="Aircraft::setup_frame_time" alt="" coords="363,107,539,133"/>
+<area shape="rect" id="node6" href="$classAircraft.html#a54eb1a4b4dfdfbfd3e73cba819f55815" title="Aircraft::get_wall\l_time_us" alt="" coords="587,99,707,141"/>
+</map>

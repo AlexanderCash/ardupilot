@@ -1,0 +1,19 @@
+<map id="AP_Mount_Alexmos" name="AP_Mount_Alexmos">
+<area shape="rect" id="node2" href="$classAP__Mount__Backend.html" title="AP_Mount_Backend" alt="" coords="968,227,1109,253"/>
+<area shape="rect" id="node3" href="$classAP__Mount.html" title="AP_Mount" alt="" coords="1341,147,1424,173"/>
+<area shape="rect" id="node4" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="963,44,1114,71"/>
+<area shape="rect" id="node5" href="$structAP__Mount_1_1mount__state.html" title="AP_Mount::mount_state" alt="" coords="584,160,747,187"/>
+<area shape="rect" id="node6" href="$structAP__Mount_1_1gimbal__params.html" title="AP_Mount::gimbal_params" alt="" coords="243,175,421,201"/>
+<area shape="rect" id="node7" href="$structLocation.html" title="Location" alt="" coords="297,109,367,136"/>
+<area shape="rect" id="node8" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="5,109,160,136"/>
+<area shape="rect" id="node9" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="607,272,723,299"/>
+<area shape="rect" id="node10" href="$unionAP__Mount__Alexmos_1_1alexmos__parameters.html" title="AP_Mount_Alexmos::alexmos\l_parameters" alt="" coords="939,455,1138,497"/>
+<area shape="rect" id="node11" href="$structAP__Mount__Alexmos_1_1alexmos__version.html" title="AP_Mount_Alexmos::alexmos\l_version" alt="" coords="566,521,765,562"/>
+<area shape="rect" id="node12" href="$structAP__Mount__Alexmos_1_1alexmos__params.html" title="AP_Mount_Alexmos::alexmos\l_params" alt="" coords="566,586,765,627"/>
+<area shape="rect" id="node13" href="$structAP__Mount__Alexmos_1_1alexmos__angles__speed.html" title="AP_Mount_Alexmos::alexmos\l_angles_speed" alt="" coords="566,390,765,431"/>
+<area shape="rect" id="node14" href="$structAP__Mount__Alexmos_1_1alexmos__angles.html" title="AP_Mount_Alexmos::alexmos\l_angles" alt="" coords="566,455,765,497"/>
+<area shape="rect" id="node15" href="$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="962,365,1115,392"/>
+<area shape="rect" id="node16" href="$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="586,339,745,365"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="271,339,393,365"/>
+<area shape="rect" id="node18" href="$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="29,339,137,365"/>
+</map>

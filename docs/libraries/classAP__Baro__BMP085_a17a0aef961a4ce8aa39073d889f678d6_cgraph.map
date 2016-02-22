@@ -1,0 +1,14 @@
+<map id="AP_Baro_BMP085::accumulate" name="AP_Baro_BMP085::accumulate">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="291,5,437,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="274,71,454,97"/>
+<area shape="rect" id="node4" href="$classAP__Baro__BMP085.html#a0ec56f9abd3f65696fe3d75209079685" title="AP_Baro_BMP085::ReadTemp" alt="" coords="263,121,465,148"/>
+<area shape="rect" id="node7" href="$classAP__Baro__BMP085.html#a18bb599496f0605476c4202c65b75b50" title="AP_Baro_BMP085::ReadPress" alt="" coords="262,172,466,199"/>
+<area shape="rect" id="node9" href="$classAP__Baro__BMP085.html#a488126e28b54146b71039c5354583688" title="AP_Baro_BMP085::Calculate" alt="" coords="267,355,461,381"/>
+<area shape="rect" id="node10" href="$classAP__Baro__BMP085.html#a1d67783c485f23ca9c80a97bd5722c21" title="AP_Baro_BMP085::Command\l_ReadTemp" alt="" coords="265,223,463,265"/>
+<area shape="rect" id="node12" href="$classAP__Baro__BMP085.html#a3e1a7692b1f37a05939ba7c42bc63fc8" title="AP_Baro_BMP085::Command\l_ReadPress" alt="" coords="265,289,463,330"/>
+<area shape="rect" id="node13" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="275,405,453,432"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="515,93,661,134"/>
+<area shape="rect" id="node6" href="$classAP__HAL_1_1I2CDriver.html#a687bb56361cf0ee839b4df36cf756952" title="AP_HAL::I2CDriver::\lsetHighSpeed" alt="" coords="515,158,661,199"/>
+<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="515,223,661,265"/>
+<area shape="rect" id="node11" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="515,289,661,330"/>
+</map>

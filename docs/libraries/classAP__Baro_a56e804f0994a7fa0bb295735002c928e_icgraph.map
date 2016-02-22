@@ -1,0 +1,9 @@
+<map id="AP_Baro::get_ground_temperature" name="AP_Baro::get_ground_temperature">
+<area shape="rect" id="node2" href="$classAP__Baro.html#ac46bc3a53717630410a48a1c1a5f2444" title="AP_Baro::get_altitude\l_difference" alt="" coords="200,29,349,70"/>
+<area shape="rect" id="node3" href="$classAPM__OBC.html#a208f90315a886e5688d8f425425afad8" title="APM_OBC::check_altlimit" alt="" coords="398,11,573,37"/>
+<area shape="rect" id="node5" href="$classAP__Baro.html#a51144302ade095d22cafe8fa4928fd29" title="AP_Baro::update" alt="" coords="425,61,546,88"/>
+<area shape="rect" id="node4" href="$classAPM__OBC.html#abcd546549be8688ab9cd0c46147dc077" title="APM_OBC::check" alt="" coords="621,11,752,37"/>
+<area shape="rect" id="node6" href="$classAP__Baro.html#aead101a2ea48cacf195ea157e8b5c7da" title="AP_Baro::calibrate" alt="" coords="621,61,752,88"/>
+<area shape="rect" id="node8" href="$BARO__generic_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="663,112,710,139"/>
+<area shape="rect" id="node7" href="$BARO__generic_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="801,61,855,88"/>
+</map>

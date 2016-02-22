@@ -1,0 +1,6 @@
+<map id="mavlink_msg_scaled_imu3_pack_chan" name="mavlink_msg_scaled_imu3_pack_chan">
+<area shape="rect" id="node2" href="$mavlink__msg__scaled__imu3_8h.html#ada00af04ad6be131006aa58a822ca137" title="Encode a scaled_imu3 struct on a channel. " alt="" coords="213,5,357,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#aa484a0fca5a8853d1b857a4e00d9c912" title="mavlink_test_scaled_imu3" alt="" coords="197,71,373,97"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="422,71,575,97"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="625,71,741,97"/>
+</map>

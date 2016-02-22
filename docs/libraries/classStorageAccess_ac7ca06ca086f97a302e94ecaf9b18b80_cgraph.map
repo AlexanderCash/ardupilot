@@ -1,0 +1,6 @@
+<map id="StorageAccess::read_uint16" name="StorageAccess::read_uint16">
+<area shape="rect" id="node2" href="$classStorageAccess.html#ab2a8575d541549a15645edc360fdaa91" title="StorageAccess::read\l_block" alt="" coords="197,49,341,90"/>
+<area shape="rect" id="node3" href="$AP__Progmem__Identity_8h.html#a9fc333349fa71fdc21a2d5152c5e23a2" title="pgm_read_word" alt="" coords="412,5,527,32"/>
+<area shape="rect" id="node4" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="414,56,525,83"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title="AP_HAL::Storage::read\l_block" alt="" coords="390,107,549,149"/>
+</map>

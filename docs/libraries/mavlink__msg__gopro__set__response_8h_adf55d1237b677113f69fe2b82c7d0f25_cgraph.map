@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gopro_set_response_decode" name="mavlink_msg_gopro_set_response_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__gopro__set__response_8h.html#a3b3dbcf404f3f24261670da91d92a56b" title="Send a gopro_set_response message. " alt="" coords="216,5,379,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__gopro__set__response_8h.html#a9468090249536c756c68b07c58417bcc" title="Get field result from gopro_set_response message. " alt="" coords="216,70,379,111"/>
+</map>

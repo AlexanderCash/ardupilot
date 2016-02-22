@@ -1,0 +1,20 @@
+<map id="mavlink_test_radio_status" name="mavlink_test_radio_status">
+<area shape="rect" id="node2" href="$mavlink__msg__radio__status_8h.html#aed385b9b0ff8e87f0b429878b9c9c52e" title="Encode a radio_status struct. " alt="" coords="185,23,362,65"/>
+<area shape="rect" id="node3" href="$mavlink__msg__radio__status_8h.html#a723f98680c5dc1a40afbe43065dcc0fc" title="Pack a radio_status message. " alt="" coords="411,5,623,32"/>
+<area shape="rect" id="node6" href="$mavlink__msg__radio__status_8h.html#a807646c9822f39b78b4c0f1df3063633" title="Decode a radio_status message into a struct. " alt="" coords="185,293,362,334"/>
+<area shape="rect" id="node14" href="$mavlink__msg__radio__status_8h.html#aa0241dc9570dabb03dab140e6f1671c4" title="Pack a radio_status message on a channel. " alt="" coords="185,367,362,409"/>
+<area shape="rect" id="node16" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="197,433,349,474"/>
+<area shape="rect" id="node17" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="194,498,353,539"/>
+<area shape="rect" id="node18" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="216,581,331,608"/>
+<area shape="rect" id="node4" href="$Derivative_8pde.html#a430ab649ea04b609ea794c746bfee4ba" title="noise" alt="" coords="733,285,787,312"/>
+<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="673,5,847,32"/>
+<area shape="rect" id="node7" href="$mavlink__msg__radio__status_8h.html#afd00162ff2818ce04d69e4f4e5afcff3" title="Get field rxerrors from radio_status message. " alt="" coords="429,57,606,98"/>
+<area shape="rect" id="node8" href="$mavlink__msg__radio__status_8h.html#a63a23b873f7d345778cffd5c3c6639dd" title="Get field fixed from radio_status message. " alt="" coords="429,122,606,163"/>
+<area shape="rect" id="node9" href="$mavlink__msg__radio__status_8h.html#abeaffebbc89cbd1445c5a141c833b5be" title="Send a radio_status message. " alt="" coords="429,187,606,229"/>
+<area shape="rect" id="node10" href="$mavlink__msg__radio__status_8h.html#adf040d5c81bae9265eda71200d864080" title="Get field remrssi from radio_status message. " alt="" coords="429,253,606,294"/>
+<area shape="rect" id="node11" href="$mavlink__msg__radio__status_8h.html#abc4c7ece3b481318c3559401b912571f" title="Get field txbuf from radio_status message. " alt="" coords="429,318,606,359"/>
+<area shape="rect" id="node12" href="$mavlink__msg__radio__status_8h.html#ab578809eb68793e9448857ffb50cad59" title="Get field noise from radio_status message. " alt="" coords="429,383,606,425"/>
+<area shape="rect" id="node13" href="$mavlink__msg__radio__status_8h.html#afc53fb249908c05b0283fcea9430ad55" title="Get field remnoise from radio_status message. " alt="" coords="429,449,606,490"/>
+<area shape="rect" id="node15" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="412,565,623,592"/>
+<area shape="rect" id="node19" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="445,616,589,643"/>
+</map>

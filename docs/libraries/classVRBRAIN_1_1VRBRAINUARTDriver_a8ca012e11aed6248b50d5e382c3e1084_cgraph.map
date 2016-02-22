@@ -1,0 +1,4 @@
+<map id="VRBRAIN::VRBRAINUARTDriver::begin" name="VRBRAIN::VRBRAINUARTDriver::begin">
+<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="281,5,428,46"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="278,70,431,111"/>
+</map>

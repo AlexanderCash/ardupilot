@@ -1,0 +1,5 @@
+<map id="AP_Limit_Module" name="AP_Limit_Module">
+<area shape="rect" id="node2" href="$classAP__Limit__Altitude.html" title="AP_Limit_Altitude" alt="" coords="5,80,131,107"/>
+<area shape="rect" id="node3" href="$classAP__Limit__Geofence.html" title="AP_Limit_Geofence" alt="" coords="156,80,295,107"/>
+<area shape="rect" id="node4" href="$classAP__Limit__GPSLock.html" title="AP_Limit_GPSLock" alt="" coords="319,80,457,107"/>
+</map>

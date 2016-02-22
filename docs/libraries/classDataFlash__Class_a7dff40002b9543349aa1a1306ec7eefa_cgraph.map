@@ -1,0 +1,8 @@
+<map id="DataFlash_Class::Log_Write_Compass" name="DataFlash_Class::Log_Write_Compass">
+<area shape="rect" id="node2" href="$classCompass.html#aa1f44c7920bbd147fa2e58bfedd3c4bb" title="Return the current field as a Vector3f. " alt="" coords="235,5,370,32"/>
+<area shape="rect" id="node3" href="$classCompass.html#a6ef45f63ac177793bf38270cef8228cb" title="Compass::get_offsets" alt="" coords="227,56,378,83"/>
+<area shape="rect" id="node4" href="$classCompass.html#a7eacebe38cd31859f7b5af7d90ff79ed" title="Compass::get_motor\l_offsets" alt="" coords="231,107,375,149"/>
+<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="229,173,376,214"/>
+<area shape="rect" id="node6" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="205,239,400,265"/>
+<area shape="rect" id="node7" href="$classCompass.html#a7bc9b45433e47cbd2632578388882135" title="Compass::get_count" alt="" coords="231,289,374,316"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AP_Compass_AK8963_MPU9250::read_raw" name="AP_Compass_AK8963_MPU9250::read_raw">
+<area shape="rect" id="node2" href="$classAK8963__Backend.html#a1c70a496cb1e61179d40dfa09319d09c" title="AK8963_Backend::read" alt="" coords="275,5,434,32"/>
+<area shape="rect" id="node3" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="323,56,387,83"/>
+</map>

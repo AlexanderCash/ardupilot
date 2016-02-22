@@ -1,0 +1,4 @@
+<map id="mavlink_msg_gimbal_reset_encode" name="mavlink_msg_gimbal_reset_encode">
+<area shape="rect" id="node2" href="$mavlink__msg__gimbal__reset_8h.html#aa4abe9ec0d71a98ce4f26a435277920e" title="Pack a gimbal_reset message. " alt="" coords="197,5,341,46"/>
+<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="390,12,565,39"/>
+</map>

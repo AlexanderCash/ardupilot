@@ -1,0 +1,5 @@
+<map id="AP_InertialSensor_MPU9150::mpu_set_int_latched" name="AP_InertialSensor_MPU9150::mpu_set_int_latched">
+<area shape="rect" id="node2" href="$classAP__InertialSensor__MPU9150.html#a6e1dbb9ed5a2d759db59071da683b0fc" title="Turn specific sensors on/off. sensors can contain a combination of the following flags: &#160;&#160;INV_X_GYRO..." alt="" coords="245,5,437,46"/>
+<area shape="rect" id="node3" href="$classAP__InertialSensor__MPU9150.html#a5d916ede262de822fd6ab45c93e036ae" title="AP_InertialSensor_MPU9150\l::_init_sensor" alt="" coords="485,5,677,46"/>
+<area shape="rect" id="node4" href="$classAP__InertialSensor__MPU9150.html#a5ccaed9383c0dd4ba0450d690f2284b7" title="AP_InertialSensor_MPU9150\l::detect" alt="" coords="725,5,917,46"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="AP_Frsky_Telem::frsky_send_byte" name="AP_Frsky_Telem::frsky_send_byte">
+<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#afe38aef110ae61ac57ade254bd16691c" title="AP_Frsky_Telem::frsky\l_send_data" alt="" coords="445,561,605,602"/>
+<area shape="rect" id="node25" href="$classAP__Frsky__Telem.html#a862bffa9935d5bc96fbefc109a72b815" title="AP_Frsky_Telem::frsky\l_send_sport_prim" alt="" coords="225,561,385,602"/>
+<area shape="rect" id="node26" href="$classAP__Frsky__Telem.html#af2c16df1732396e1cfdee12c24e55fcc" title="AP_Frsky_Telem::send_crc" alt="" coords="213,627,397,653"/>
+<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a5c99ae573c49681827d1f0fac19d19c5" title="AP_Frsky_Telem::send\l_gps_sats" alt="" coords="674,658,833,699"/>
+<area shape="rect" id="node8" href="$classAP__Frsky__Telem.html#a6e3bf6b4cf2a0765096a9d53a91e8cbc" title="AP_Frsky_Telem::send_mode" alt="" coords="654,724,853,751"/>
+<area shape="rect" id="node9" href="$classAP__Frsky__Telem.html#a981d99d03010f7afec3668ada68a7c5c" title="AP_Frsky_Telem::send\l_baro_alt_m" alt="" coords="674,775,833,817"/>
+<area shape="rect" id="node10" href="$classAP__Frsky__Telem.html#a448c7ce8a7d8a9a65fd68499d0ea3c53" title="AP_Frsky_Telem::send\l_baro_alt_cm" alt="" coords="674,841,833,882"/>
+<area shape="rect" id="node11" href="$classAP__Frsky__Telem.html#a1a425103dc6bf3e4d297daac6a38e883" title="AP_Frsky_Telem::send\l_batt_remain" alt="" coords="674,5,833,46"/>
+<area shape="rect" id="node12" href="$classAP__Frsky__Telem.html#a77864d6974af601953f89d686c451a7a" title="AP_Frsky_Telem::send\l_batt_volts" alt="" coords="674,906,833,947"/>
+<area shape="rect" id="node13" href="$classAP__Frsky__Telem.html#a11a137274c7f15ba7a1b25f97be8ed45" title="AP_Frsky_Telem::send\l_current" alt="" coords="674,971,833,1013"/>
+<area shape="rect" id="node14" href="$classAP__Frsky__Telem.html#ad987f9e6a19776c416341283e926f401" title="AP_Frsky_Telem::send\l_heading" alt="" coords="674,1037,833,1078"/>
+<area shape="rect" id="node15" href="$classAP__Frsky__Telem.html#a547ce33ee1d188ffd5b55a810ac7cb16" title="AP_Frsky_Telem::send\l_gps_lat_dd" alt="" coords="674,1102,833,1143"/>
+<area shape="rect" id="node16" href="$classAP__Frsky__Telem.html#ae9ebe916bfe4651b1984aa17c74b78ec" title="AP_Frsky_Telem::send\l_gps_lat_mm" alt="" coords="674,70,833,111"/>
+<area shape="rect" id="node17" href="$classAP__Frsky__Telem.html#a50df3ed5d0f82b47c70c83218dd94ce7" title="AP_Frsky_Telem::send\l_gps_lat_ns" alt="" coords="674,135,833,177"/>
+<area shape="rect" id="node18" href="$classAP__Frsky__Telem.html#a6c4652019d519b117b89eede85f4687f" title="AP_Frsky_Telem::send\l_gps_lon_dd" alt="" coords="674,201,833,242"/>
+<area shape="rect" id="node19" href="$classAP__Frsky__Telem.html#a3730b83dfa0719ce915824e2825c459a" title="AP_Frsky_Telem::send\l_gps_lon_mm" alt="" coords="674,266,833,307"/>
+<area shape="rect" id="node20" href="$classAP__Frsky__Telem.html#ab192bbcc570ffb6023f30600332246a8" title="AP_Frsky_Telem::send\l_gps_lon_ew" alt="" coords="674,331,833,373"/>
+<area shape="rect" id="node21" href="$classAP__Frsky__Telem.html#ad663f997efe09516f3a7e49a91ac2c54" title="AP_Frsky_Telem::send\l_gps_speed_meter" alt="" coords="674,397,833,438"/>
+<area shape="rect" id="node22" href="$classAP__Frsky__Telem.html#a87043476bc6257ee8a2b53dc25065e53" title="AP_Frsky_Telem::send\l_gps_speed_cm" alt="" coords="674,462,833,503"/>
+<area shape="rect" id="node23" href="$classAP__Frsky__Telem.html#ab9803cdc54ad47b4610ac3d3b412cce4" title="AP_Frsky_Telem::send\l_gps_alt_meter" alt="" coords="674,527,833,569"/>
+<area shape="rect" id="node24" href="$classAP__Frsky__Telem.html#a2c6f5f8d5f185acf480aef56e6eb0915" title="AP_Frsky_Telem::send\l_gps_alt_cm" alt="" coords="674,593,833,634"/>
+<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#ae386d05deadb794547df5a4e22edcc8a" title="AP_Frsky_Telem::send\l_hub_frame" alt="" coords="917,531,1075,573"/>
+<area shape="rect" id="node6" href="$classAP__Frsky__Telem.html#a89ada57d816dfa4246726c17aa7fd32f" title="AP_Frsky_Telem::sport_tick" alt="" coords="902,600,1090,627"/>
+<area shape="rect" id="node5" href="$classAP__Frsky__Telem.html#a9c09b9a14c083f48e845d81484de9c0e" title="AP_Frsky_Telem::send\l_frames" alt="" coords="1139,531,1298,573"/>
+<area shape="rect" id="node7" href="$classAP__Frsky__Telem.html#a081d1787f8ec08ca8c489fb5dc86393c" title="AP_Frsky_Telem::init" alt="" coords="1145,600,1293,627"/>
+</map>

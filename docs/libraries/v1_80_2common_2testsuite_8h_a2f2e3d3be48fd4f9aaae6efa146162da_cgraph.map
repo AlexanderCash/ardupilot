@@ -1,0 +1,15 @@
+<map id="mavlink_test_mission_set_current" name="mavlink_test_mission_set_current">
+<area shape="rect" id="node2" href="$mavlink__msg__mission__set__current_8h.html#ac12b2563edfe056b6c95bfe5dacc614c" title="Encode a mission_set_current struct. " alt="" coords="210,7,361,49"/>
+<area shape="rect" id="node3" href="$mavlink__msg__mission__set__current_8h.html#a000f0914a6d21c96cd3a344a51333f97" title="Pack a mission_set_current message. " alt="" coords="446,5,597,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__mission__set__current_8h.html#ac8cddccfd33b1caa65fd61a0fc86758f" title="Decode a mission_set_current message into a struct. " alt="" coords="210,139,361,181"/>
+<area shape="rect" id="node9" href="$mavlink__msg__mission__set__current_8h.html#a7a89302174b46cb6649964d97e06e835" title="Pack a mission_set_current message on a channel. " alt="" coords="203,205,367,246"/>
+<area shape="rect" id="node11" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="209,270,361,311"/>
+<area shape="rect" id="node12" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="206,335,365,377"/>
+<area shape="rect" id="node13" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="228,401,343,428"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="675,12,850,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__mission__set__current_8h.html#a1fbbd84397bb4488e992cc4aab02f4e4" title="Get field seq from mission_set_current message. " alt="" coords="446,70,597,111"/>
+<area shape="rect" id="node7" href="$mavlink__msg__mission__set__current_8h.html#a8f8267540cc78d6a887bc7ac91a9a908" title="Send a mission_set_current message. " alt="" coords="442,135,601,191"/>
+<area shape="rect" id="node8" href="$mavlink__msg__mission__set__current_8h.html#a4e6f75dab7034b548ad8b744d4771a1d" title="Get field target_component from mission_set_current message. " alt="" coords="442,215,601,271"/>
+<area shape="rect" id="node10" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="416,295,627,321"/>
+<area shape="rect" id="node14" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="449,401,593,428"/>
+</map>

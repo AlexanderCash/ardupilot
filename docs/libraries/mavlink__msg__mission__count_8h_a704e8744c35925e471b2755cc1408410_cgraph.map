@@ -1,0 +1,5 @@
+<map id="mavlink_msg_mission_count_decode" name="mavlink_msg_mission_count_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__mission__count_8h.html#ac24950577c77d9cbaa2a37441c2b7fc7" title="Get field count from mission_count message. " alt="" coords="229,5,379,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__mission__count_8h.html#a500da310e43c813a47ee71e2387b8a0a" title="Send a mission_count message. " alt="" coords="216,70,392,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__mission__count_8h.html#a0f68825d53753bf9db735c8b4902390c" title="Get field target_component from mission_count message. " alt="" coords="205,135,403,177"/>
+</map>

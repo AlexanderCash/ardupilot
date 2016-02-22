@@ -1,0 +1,9 @@
+<map id="AP_AutoTune::save_gains" name="AP_AutoTune::save_gains">
+<area shape="rect" id="node2" href="$classAP__AutoTune.html#aeddf254d10081d997137a08585ca7f31" title="AP_AutoTune::save_float\l_if_changed" alt="" coords="235,30,405,71"/>
+<area shape="rect" id="node8" href="$classAP__AutoTune.html#a7b5cf04b738143f385c5a79228ca989a" title="AP_AutoTune::save_int16\l_if_changed" alt="" coords="233,95,407,137"/>
+<area shape="rect" id="node3" href="$classAP__AutoTune.html#a1c95b6055ee1b2333fbe753e2a9fa66d" title="AP_AutoTune::log_param\l_change" alt="" coords="456,63,627,105"/>
+<area shape="rect" id="node4" href="$classDataFlash__Class.html#ad15905fd635a59cc510a7781a9c4f3d9" title="DataFlash_Class::logging\l_started" alt="" coords="675,5,847,46"/>
+<area shape="rect" id="node5" href="$AP__Progmem__AVR_8h.html#a00eef44be35a92b1ef4067ea49bea7a3" title="strncpy_P" alt="" coords="721,71,802,97"/>
+<area shape="rect" id="node6" href="$classDataFlash__Class.html#a488ee9ba241f827fcb979dbccfdab76d" title="DataFlash_Class::Log\l_Write_Parameter" alt="" coords="685,122,837,163"/>
+<area shape="rect" id="node7" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="896,129,1091,156"/>
+</map>

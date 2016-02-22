@@ -1,0 +1,4 @@
+<map id="setup_erase" name="setup_erase">
+<area shape="rect" id="node2" href="$setup_8pde.html#a3277947ab2ecb2cae9c63b311ea174a3" title="zero_eeprom" alt="" coords="147,5,245,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classStorageManager.html#af6dead579a63672ea7e879fcf2747b0b" title="StorageManager::erase" alt="" coords="293,5,451,32"/>
+</map>

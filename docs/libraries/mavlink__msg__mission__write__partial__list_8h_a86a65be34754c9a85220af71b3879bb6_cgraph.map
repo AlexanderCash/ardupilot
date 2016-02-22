@@ -1,0 +1,6 @@
+<map id="mavlink_msg_mission_write_partial_list_decode" name="mavlink_msg_mission_write_partial_list_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__mission__write__partial__list_8h.html#a76f10d39b8ec8d98ab13da4419d9fee2" title="Get field start_index from mission_write_partial_list message. " alt="" coords="210,5,361,61"/>
+<area shape="rect" id="node3" href="$mavlink__msg__mission__write__partial__list_8h.html#aa122ff1ffd63d8500f155ab0189bb575" title="Get field end_index from mission_write_partial_list message. " alt="" coords="210,85,361,141"/>
+<area shape="rect" id="node4" href="$mavlink__msg__mission__write__partial__list_8h.html#a87d1b4f913c43c842dbea35d2596350a" title="Send a mission_write_partial_list message. " alt="" coords="210,165,361,221"/>
+<area shape="rect" id="node5" href="$mavlink__msg__mission__write__partial__list_8h.html#a756c4a889c90b0a9e939a5ef6e723fb7" title="Get field target_component from mission_write_partial_list message. " alt="" coords="206,245,365,301"/>
+</map>

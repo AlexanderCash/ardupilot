@@ -1,0 +1,5 @@
+<map id="mavlink_msg_fence_fetch_point_decode" name="mavlink_msg_fence_fetch_point_decode">
+<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__fetch__point_8h.html#ae17ef65d3985229237950c129e50c903" title="Send a fence_fetch_point message. " alt="" coords="239,5,414,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__fetch__point_8h.html#a5c5c1144561179bbe878489599f15b8e" title="Get field target_component from fence_fetch_point message. " alt="" coords="230,70,423,111"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2mavlink__msg__fence__fetch__point_8h.html#a667a13746c51b97917980f33be90c459" title="Get field idx from fence_fetch_point message. " alt="" coords="239,135,414,177"/>
+</map>

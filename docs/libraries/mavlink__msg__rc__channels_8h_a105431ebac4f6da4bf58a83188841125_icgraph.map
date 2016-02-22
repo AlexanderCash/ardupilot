@@ -1,0 +1,6 @@
+<map id="mavlink_msg_rc_channels_pack" name="mavlink_msg_rc_channels_pack">
+<area shape="rect" id="node2" href="$mavlink__msg__rc__channels_8h.html#a470dd3ef50abf8596414078a77d0c483" title="Encode a rc_channels struct. " alt="" coords="264,5,440,46"/>
+<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a75e11f3411ba6456611bf3110a4a84a0" title="mavlink_test_rc_channels" alt="" coords="488,41,661,68"/>
+<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="710,41,863,68"/>
+<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="913,41,1029,68"/>
+</map>

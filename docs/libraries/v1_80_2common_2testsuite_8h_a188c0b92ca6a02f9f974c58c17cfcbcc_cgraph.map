@@ -1,0 +1,26 @@
+<map id="mavlink_test_position_target_global_int" name="mavlink_test_position_target_global_int">
+<area shape="rect" id="node2" href="$mavlink__msg__position__target__global__int_8h.html#a29e08519dc9ff12d38d60c052d0c4ccb" title="Encode a position_target_global_int struct. " alt="" coords="213,85,387,126"/>
+<area shape="rect" id="node3" href="$mavlink__msg__position__target__global__int_8h.html#ac9c0a31e703601ddbf29993a0f23d0d8" title="Pack a position_target_global_int message. " alt="" coords="471,5,630,46"/>
+<area shape="rect" id="node5" href="$mavlink__msg__position__target__global__int_8h.html#ab707a60bdb3eaa426014c3a8ac22cad3" title="Decode a position_target_global_int message into a struct. " alt="" coords="213,538,387,579"/>
+<area shape="rect" id="node20" href="$mavlink__msg__position__target__global__int_8h.html#a630f81a89fec0b1ef652a83ba5576989" title="Pack a position_target_global_int message on a channel. " alt="" coords="203,603,397,645"/>
+<area shape="rect" id="node22" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="224,669,376,710"/>
+<area shape="rect" id="node23" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="221,734,379,775"/>
+<area shape="rect" id="node24" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="243,944,357,971"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="705,12,879,39"/>
+<area shape="rect" id="node6" href="$mavlink__msg__position__target__global__int_8h.html#acbe83631d6e00ff4c6c321e44f432cae" title="Send a position_target_global_int message. " alt="" coords="475,69,626,125"/>
+<area shape="rect" id="node7" href="$mavlink__msg__position__target__global__int_8h.html#adae03fda80a94e9e2f7538c646014e64" title="Get field lat_int from position_target_global_int message. " alt="" coords="475,149,626,205"/>
+<area shape="rect" id="node8" href="$mavlink__msg__position__target__global__int_8h.html#a6e80d12cfc94f670b0da917c63871239" title="Get field lon_int from position_target_global_int message. " alt="" coords="475,229,626,285"/>
+<area shape="rect" id="node9" href="$mavlink__msg__position__target__global__int_8h.html#a57ee948d60c5be3dbe55a640f69b82cd" title="Get field alt from position_target_global_int message. " alt="" coords="465,309,636,350"/>
+<area shape="rect" id="node10" href="$mavlink__msg__position__target__global__int_8h.html#a6045bc6eb379931072c4bf77564ae02f" title="Get field vx from position_target_global_int message. " alt="" coords="465,374,636,415"/>
+<area shape="rect" id="node11" href="$mavlink__msg__position__target__global__int_8h.html#a0c8ce8cc6d62a27df6af8b40c7266006" title="Get field vy from position_target_global_int message. " alt="" coords="465,439,636,481"/>
+<area shape="rect" id="node12" href="$mavlink__msg__position__target__global__int_8h.html#a60c9cf862ef58d5c0e7dec5496daf833" title="Get field vz from position_target_global_int message. " alt="" coords="465,505,636,546"/>
+<area shape="rect" id="node13" href="$mavlink__msg__position__target__global__int_8h.html#aa246eb11a1b8e707e89038e273f0edc4" title="Get field afx from position_target_global_int message. " alt="" coords="463,570,638,611"/>
+<area shape="rect" id="node14" href="$mavlink__msg__position__target__global__int_8h.html#ae8125c1cd07dd62d9d9cff3dd674c72b" title="Get field afy from position_target_global_int message. " alt="" coords="463,635,638,677"/>
+<area shape="rect" id="node15" href="$mavlink__msg__position__target__global__int_8h.html#a078f9c78c0c75be7d2125c2e6e3a5c41" title="Get field afz from position_target_global_int message. " alt="" coords="463,701,638,742"/>
+<area shape="rect" id="node16" href="$mavlink__msg__position__target__global__int_8h.html#a35970fc5a24314376e72e8798cf69184" title="Get field yaw from position_target_global_int message. " alt="" coords="461,766,641,807"/>
+<area shape="rect" id="node17" href="$mavlink__msg__position__target__global__int_8h.html#ae7d24dc7cf576502bef1615accef74d7" title="Get field yaw_rate from position_target_global_int message. " alt="" coords="475,831,626,887"/>
+<area shape="rect" id="node18" href="$mavlink__msg__position__target__global__int_8h.html#afa51a2f05fcaa9a43ceab23d47eb21e4" title="Get field type_mask from position_target_global_int message. " alt="" coords="475,911,626,967"/>
+<area shape="rect" id="node19" href="$mavlink__msg__position__target__global__int_8h.html#a2878558b8358801471d6229d064e34ba" title="Get field coordinate_frame from position_target_global_int message. " alt="" coords="475,991,626,1047"/>
+<area shape="rect" id="node21" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="445,1071,656,1097"/>
+<area shape="rect" id="node25" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="479,1121,623,1148"/>
+</map>

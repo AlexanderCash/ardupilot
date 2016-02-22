@@ -1,0 +1,6 @@
+<map id="AP_Camera::relay_pic" name="AP_Camera::relay_pic">
+<area shape="rect" id="node2" href="$classAP__Relay.html#a8f00e5559174917b795ef84472822e53" title="AP_Relay::on" alt="" coords="213,31,315,57"/>
+<area shape="rect" id="node5" href="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="209,81,319,108"/>
+<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="368,5,539,32"/>
+<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="378,56,529,83"/>
+</map>

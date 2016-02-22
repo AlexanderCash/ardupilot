@@ -1,0 +1,18 @@
+<map id="mavlink_test_fence_point" name="mavlink_test_fence_point">
+<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a45ec8565bb89bffedc024736bce14386" title="Encode a fence_point struct into a message. " alt="" coords="189,19,363,61"/>
+<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a197e58a642ce1fc252d8593b4317d5e5" title="Pack a fence_point message. " alt="" coords="412,5,620,32"/>
+<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a18f96cb1ef50339584d81e1ec71927e1" title="Decode a fence_point message into a struct. " alt="" coords="189,201,363,242"/>
+<area shape="rect" id="node12" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a574eeb42cc9470c365d63c6ab7821cbf" title="Pack a fence_point message on a channel. " alt="" coords="189,266,363,307"/>
+<area shape="rect" id="node14" href="$v0_89_2mavlink__helpers_8h.html#afea0a9befa84822fd62c2899ea0d849e" title="Pack a message to send it over a serial byte stream. " alt="" coords="200,331,352,373"/>
+<area shape="rect" id="node15" href="$v0_89_2protocol_8h.html#aa86c08f27aabb7a2e12a67f189f590c8" title="Get the required buffer size for this message. " alt="" coords="197,397,355,438"/>
+<area shape="rect" id="node16" href="$GCS__MAVLink_8h.html#ab753873a1ee10adedd0ce246311468f8" title="comm_send_ch" alt="" coords="219,475,333,501"/>
+<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="670,5,845,32"/>
+<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a3b63f03e7038e7c519cee1dd0c699cfd" title="Send a fence_point message. " alt="" coords="429,57,603,98"/>
+<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a73d7dab2563fc83c10c668c3e60ccc7d" title="Get field target_component from fence_point message. " alt="" coords="429,122,603,163"/>
+<area shape="rect" id="node8" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a66ef4b7cfbf122990f4f396d7b6f5877" title="Get field idx from fence_point message. " alt="" coords="429,187,603,229"/>
+<area shape="rect" id="node9" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#afffe62aec9770cba9aaee085c2d8dde6" title="Get field count from fence_point message. " alt="" coords="429,253,603,294"/>
+<area shape="rect" id="node10" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#ab3ed5ee81f4c726ba006b8df72c186d1" title="Get field lat from fence_point message. " alt="" coords="429,318,603,359"/>
+<area shape="rect" id="node11" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#afc5c1af8d24505bdaa84860be6e64d3c" title="Get field lng from fence_point message. " alt="" coords="429,383,603,425"/>
+<area shape="rect" id="node13" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="411,449,621,476"/>
+<area shape="rect" id="node17" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="444,500,588,527"/>
+</map>

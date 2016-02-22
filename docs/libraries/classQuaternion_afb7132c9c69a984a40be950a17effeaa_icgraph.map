@@ -1,0 +1,23 @@
+<map id="Quaternion::rotation_matrix" name="Quaternion::rotation_matrix">
+<area shape="rect" id="node2" href="$classNavEKF.html#afd23b087248e7c8bb5b65f834ba9544e" title="NavEKF::calcQuatAndField\lStates" alt="" coords="209,110,391,151"/>
+<area shape="rect" id="node9" href="$classQuaternion.html#a20c1310cb43b19ab1fdcbde038d1e508" title="Quaternion::earth_to_body" alt="" coords="213,378,387,405"/>
+<area shape="rect" id="node12" href="$classNavEKF.html#a6a04a684cec578f919586066d0784103" title="NavEKF::getRotationBodyToNED" alt="" coords="189,176,411,202"/>
+<area shape="rect" id="node13" href="$classSmallEKF.html#ae356bfb153c3c9a735fbb5f072440f3a" title="SmallEKF::predictStates" alt="" coords="217,328,383,354"/>
+<area shape="rect" id="node15" href="$classNavEKF.html#aba3fd29d5b5e57944f4bd7977d9ff5a0" title="NavEKF::quat2Tbn" alt="" coords="233,277,367,304"/>
+<area shape="rect" id="node16" href="$eulers_8pde.html#ada3aa00f3fc83688f3bb0c2c847b7e50" title="test_conversion" alt="" coords="243,480,357,506"/>
+<area shape="rect" id="node18" href="$eulers_8pde.html#a288b88e3267221134f72a170d9895cef" title="test_quaternion" alt="" coords="245,226,355,253"/>
+<area shape="rect" id="node20" href="$classQuaternion.html#a2cba2e666aac0dce55ca4701a287d49c" title="Quaternion::to_vector312" alt="" coords="216,429,384,456"/>
+<area shape="rect" id="node21" href="$classNavEKF.html#a6718baa569eff65fb4e317ecf5426598" title="NavEKF::UpdateStrapdownEquationsNED" alt="" coords="670,26,941,53"/>
+<area shape="rect" id="node22" href="$classNavEKF.html#ad193e5aab03041673d4cfad9f7a2a6ba" title="NavEKF::writeOptFlowMeas" alt="" coords="205,530,395,557"/>
+<area shape="rect" id="node3" href="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117" title="NavEKF::alignYawGPS" alt="" coords="459,168,621,194"/>
+<area shape="rect" id="node5" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="989,184,1147,226"/>
+<area shape="rect" id="node7" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="461,51,619,92"/>
+<area shape="rect" id="node8" href="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b" title="NavEKF::performArmingChecks" alt="" coords="700,104,911,130"/>
+<area shape="rect" id="node4" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="708,155,903,196"/>
+<area shape="rect" id="node6" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="993,104,1143,130"/>
+<area shape="rect" id="node10" href="$eulers_8pde.html#a97831e3cea863b581f8e989164514a25" title="test_frame_transforms" alt="" coords="463,378,617,405"/>
+<area shape="rect" id="node11" href="$eulers_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="778,404,833,430"/>
+<area shape="rect" id="node14" href="$classSmallEKF.html#a2085035fbcf013282be948f977080cf9" title="SmallEKF::RunEKF" alt="" coords="471,328,609,354"/>
+<area shape="rect" id="node17" href="$eulers_8pde.html#ac5851b63c32809e725e1fadbec137224" title="test_conversions" alt="" coords="479,480,601,506"/>
+<area shape="rect" id="node19" href="$eulers_8pde.html#a1e4ca41feae51e8f6dc923cde8d1ad39" title="test_quaternion_eulers" alt="" coords="463,273,617,300"/>
+</map>

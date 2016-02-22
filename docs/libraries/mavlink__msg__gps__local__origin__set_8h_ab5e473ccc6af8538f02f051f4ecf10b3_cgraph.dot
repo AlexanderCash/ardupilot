@@ -1,0 +1,14 @@
+digraph "mavlink_msg_gps_local_origin_set_decode"
+{
+ // INTERACTIVE_SVG=YES
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="mavlink_msg_gps_local\l_origin_set_decode",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="mavlink_msg_gps_local\l_origin_set_get_latitude",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__gps__local__origin__set_8h.html#a5f2b1aa6b7be09bdc157deb25fa70bf4",tooltip="Send a gps_local_origin_set message. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="mavlink_msg_gps_local\l_origin_set_get_longitude",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__gps__local__origin__set_8h.html#ad21b7f65e5e7d249b7cb24e0427c71df",tooltip="Get field longitude from gps_local_origin_set message. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="mavlink_msg_gps_local\l_origin_set_get_altitude",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$mavlink__msg__gps__local__origin__set_8h.html#a0d5035a55d216cea19548563eba89121",tooltip="Get field altitude from gps_local_origin_set message. "];
+}

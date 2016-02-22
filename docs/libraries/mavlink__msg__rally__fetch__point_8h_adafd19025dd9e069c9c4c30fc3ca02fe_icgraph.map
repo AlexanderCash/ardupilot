@@ -1,0 +1,6 @@
+<map id="mavlink_msg_rally_fetch_point_get_idx" name="mavlink_msg_rally_fetch_point_get_idx">
+<area shape="rect" id="node2" href="$mavlink__msg__rally__fetch__point_8h.html#ad216fb767c8e5ed427893a0284ed4130" title="Decode a rally_fetch_point message into a struct. " alt="" coords="222,5,389,46"/>
+<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a17e11758f2dd53c7e53a42c9c3720cbd" title="mavlink_test_rally\l_fetch_point" alt="" coords="438,5,565,46"/>
+<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="613,12,797,39"/>
+<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="846,12,962,39"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="set_control_channels" name="set_control_channels">
+<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a9c60b41a2854338f60e26fdf95b4b044" title="RC_Channel::rc_channel" alt="" coords="211,5,379,32"/>
+<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#a4cecd4df7849415b9d4afc63c1dc9919" title="RCMapper::yaw" alt="" coords="236,56,353,83"/>
+<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#af0d2e2d369f3574ed0a43bb80745572c" title="RCMapper::roll" alt="" coords="239,107,350,133"/>
+<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#ab0fcd136c54ad131dd3d40816264bcba" title="RCMapper::pitch" alt="" coords="234,157,355,184"/>
+<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRCMapper.html#a869e1086eb9bdf12f46595e49c8f2915" title="RCMapper::throttle" alt="" coords="228,208,361,235"/>
+<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a68fd99b7a3bf4283c8b500b49f511821" title="RC_Channel::set_angle" alt="" coords="214,259,375,285"/>
+<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#aededf89cac3010c297fcef7e8b38e99a" title="AP_Arming::is_armed" alt="" coords="220,309,369,336"/>
+<area shape="rect" id="node9" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Arming.html#a4701a9f5154ee86ca4e108ff1f56ed60" title="AP_Arming::arming_required" alt="" coords="201,360,389,387"/>
+</map>

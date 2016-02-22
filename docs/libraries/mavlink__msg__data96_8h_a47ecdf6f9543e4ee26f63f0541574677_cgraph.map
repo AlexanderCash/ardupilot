@@ -1,0 +1,6 @@
+<map id="mavlink_msg_data96_decode" name="mavlink_msg_data96_decode">
+<area shape="rect" id="node2" href="$mavlink__msg__data96_8h.html#a9e77c477d2a084fb2c544b126ec54afc" title="Send a data96 message. " alt="" coords="201,5,346,46"/>
+<area shape="rect" id="node3" href="$mavlink__msg__data96_8h.html#a7e75c2b40db46ebbd657faca5574fd80" title="Get field len from data96 message. " alt="" coords="201,70,346,111"/>
+<area shape="rect" id="node4" href="$mavlink__msg__data96_8h.html#a7b1112f965170c6fefb7de702525fc70" title="Get field data from data96 message. " alt="" coords="201,135,346,177"/>
+<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="395,135,563,177"/>
+</map>

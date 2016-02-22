@@ -1,0 +1,12 @@
+<map id="OreoLED_PX4::handle_led_control" name="OreoLED_PX4::handle_led_control">
+<area shape="rect" id="node2" href="$mavlink__msg__led__control_8h.html#ace6f762506b5dc5f5da219abe4577399" title="Decode a led_control message into a struct. " alt="" coords="215,167,385,209"/>
+<area shape="rect" id="node10" href="$classOreoLED__PX4.html#ab6a4705d012289abbebb81baf1b4bee1" title="OreoLED_PX4::send_bytes" alt="" coords="209,233,391,260"/>
+<area shape="rect" id="node11" href="$classOreoLED__PX4.html#ad6e87dbe026c0b2861938c9a8d4b6571" title="OreoLED_PX4::set_macro" alt="" coords="211,284,389,311"/>
+<area shape="rect" id="node3" href="$mavlink__msg__led__control_8h.html#a1b64f5bf87726ac32b21e038fd2e0662" title="Send a led_control message. " alt="" coords="441,5,610,46"/>
+<area shape="rect" id="node4" href="$mavlink__msg__led__control_8h.html#abd6207b1a7abbf12295283e558b5293d" title="Get field target_component from led_control message. " alt="" coords="441,70,610,111"/>
+<area shape="rect" id="node5" href="$mavlink__msg__led__control_8h.html#a91902171f874c86bcf02bf85e770746a" title="Get field instance from led_control message. " alt="" coords="441,135,610,177"/>
+<area shape="rect" id="node6" href="$mavlink__msg__led__control_8h.html#a1da0adc88358dd9794f53133b9527a0e" title="Get field pattern from led_control message. " alt="" coords="441,201,610,242"/>
+<area shape="rect" id="node7" href="$mavlink__msg__led__control_8h.html#a74ab405ada8b727cbe2e6c23428d118c" title="Get field custom_len from led_control message. " alt="" coords="441,266,610,307"/>
+<area shape="rect" id="node8" href="$mavlink__msg__led__control_8h.html#a3f246e516a8139f713d776899b463764" title="Get field custom_bytes from led_control message. " alt="" coords="441,331,610,373"/>
+<area shape="rect" id="node9" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="659,331,827,373"/>
+</map>
