@@ -21,7 +21,7 @@ static void do_digicam_control(const AP_Mission::Mission_Command& cmd);
 #endif
 
 //static bool verify_align_path ();
-static void do_align_path(const AP_Mission::Mission_Command& cmd);
+static void do_align_path(const AP_Mission::Mission_Command& cmd);  
 
 /********************************************************************************/
 // Command Event Handlers
