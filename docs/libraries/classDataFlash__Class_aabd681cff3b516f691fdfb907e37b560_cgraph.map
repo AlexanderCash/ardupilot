@@ -1,9 +1,0 @@
-<map id="DataFlash_Class::Log_Write_Parameters" name="DataFlash_Class::Log_Write_Parameters">
-<area shape="rect" id="node2" href="$classAP__Param.html#adc0c44f152f0e3cbb12703b2a58d8f6b" title="AP_Param::first" alt="" coords="228,5,343,32"/>
-<area shape="rect" id="node3" href="$classAP__Param.html#a8cf8477edefdb6a0b2173d8229894173" title="AP_Param::next_scalar" alt="" coords="205,56,365,83"/>
-<area shape="rect" id="node6" href="$classDataFlash__Class.html#a488ee9ba241f827fcb979dbccfdab76d" title="DataFlash_Class::Log\l_Write_Parameter" alt="" coords="209,107,361,149"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="212,173,359,214"/>
-<area shape="rect" id="node4" href="$classAP__Param.html#ae329f47d0829a6ca578562fbec2d7383" title="AP_Param::next" alt="" coords="451,56,570,83"/>
-<area shape="rect" id="node5" href="$classAP__Param.html#aa08d36b650929da8d030137ca3dda5b2" title="AP_Param::next_group" alt="" coords="656,56,813,83"/>
-<area shape="rect" id="node7" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="413,115,608,141"/>
-</map>

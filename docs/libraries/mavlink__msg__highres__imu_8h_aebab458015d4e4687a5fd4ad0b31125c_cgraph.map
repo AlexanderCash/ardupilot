@@ -1,4 +1,0 @@
-<map id="mavlink_msg_highres_imu_encode_chan" name="mavlink_msg_highres_imu_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__highres__imu_8h.html#a015fc1498f54e7792bff4dff0e1338f8" title="Pack a highres_imu message on a channel. " alt="" coords="203,5,351,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="400,12,611,39"/>
-</map>

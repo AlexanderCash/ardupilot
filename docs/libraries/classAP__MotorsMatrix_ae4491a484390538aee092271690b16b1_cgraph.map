@@ -1,9 +1,0 @@
-<map id="AP_MotorsMatrix::Init" name="AP_MotorsMatrix::Init">
-<area shape="rect" id="node2" href="$classAP__Motors.html#a2a3aa0f8b2981b440f6542da1f4b1ecf" title="AP_Motors::Init" alt="" coords="227,5,341,32"/>
-<area shape="rect" id="node3" href="$classAP__MotorsMatrix.html#adc76d6e0dd5087aaaa6b48993544167c" title="AP_MotorsMatrix::setup\l_motors" alt="" coords="203,57,365,98"/>
-<area shape="rect" id="node6" href="$classAP__MotorsMatrix.html#a4ccbbe0d2641a973f7140b5c8ba7724e" title="AP_MotorsMatrix::set\l_update_rate" alt="" coords="209,122,359,163"/>
-<area shape="rect" id="node4" href="$classAP__MotorsMatrix.html#a83b97780f780b3ca40d588c7ee27e94a" title="AP_MotorsMatrix::remove\l_all_motors" alt="" coords="423,57,598,98"/>
-<area shape="rect" id="node5" href="$classAP__MotorsMatrix.html#a586b776b1ea64bb0590a50997d17dcb1" title="AP_MotorsMatrix::remove\l_motor" alt="" coords="657,57,831,98"/>
-<area shape="rect" id="node7" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="455,125,566,152"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1RCOutput.html#ae7903398aa18e2472dd34081e626dcb7" title="AP_HAL::RCOutput::set_freq" alt="" coords="413,176,608,203"/>
-</map>

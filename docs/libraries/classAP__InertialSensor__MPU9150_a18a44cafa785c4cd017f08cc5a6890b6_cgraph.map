@@ -1,4 +1,0 @@
-<map id="AP_InertialSensor_MPU9150::mpu_reset_fifo" name="AP_InertialSensor_MPU9150::mpu_reset_fifo">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="246,5,391,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="245,70,392,111"/>
-</map>

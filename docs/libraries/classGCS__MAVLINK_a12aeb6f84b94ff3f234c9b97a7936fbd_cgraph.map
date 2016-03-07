@@ -1,5 +1,0 @@
-<map id="GCS_MAVLINK::send_ahrs" name="GCS_MAVLINK::send_ahrs">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a6876435645c1049077f33f225ab828f7" title="AP_AHRS::get_gyro_drift" alt="" coords="242,5,414,32"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#abfedb071fb724826675bbe3186eeb9e3" title="AP_AHRS::get_error_rp" alt="" coords="247,56,409,83"/>
-<area shape="rect" id="node4" href="$classAP__AHRS.html#a59edf40450602da4baf379205af17867" title="AP_AHRS::get_error_yaw" alt="" coords="241,107,415,133"/>
-</map>

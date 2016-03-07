@@ -1,4 +1,0 @@
-<map id="NavEKF::readAirSpdData" name="NavEKF::readAirSpdData">
-<area shape="rect" id="node2" href="$classNavEKF.html#a49295ac247658724f852cbec8be83398" title="NavEKF::SelectTasFusion" alt="" coords="227,5,405,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="454,5,605,32"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="AC_PosControl::is_active_z" name="AC_PosControl::is_active_z">
-<area shape="rect" id="node2" href="$classAC__PosControl.html#a20ac6348cbb9a1ac803c626c91ec93e5" title="get_stopping_point_z &#45; calculates stopping point based on current position, velocity, vehicle acceleration " alt="" coords="240,77,379,118"/>
-<area shape="rect" id="node3" href="$classAC__WPNav.html#a2b69b65d22efd7793a6f081678f9b8a1" title="AC_WPNav::set_spline\l_destination" alt="" coords="454,5,615,46"/>
-<area shape="rect" id="node4" href="$classAC__PosControl.html#a51caffd56dd27f42595df30f63cd1eaa" title="set_target_to_stopping_point_z &#45; sets altitude target to reasonable stopping altitude in cm above hom..." alt="" coords="465,69,604,125"/>
-<area shape="rect" id="node6" href="$classAC__WPNav.html#aac204111a3f01e04d5b8165f03db223e" title="set_wp_destination waypoint using position vector (distance from home in cm) " alt="" coords="427,149,642,176"/>
-<area shape="rect" id="node5" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title="AC_Circle::init" alt="" coords="691,84,797,111"/>
-</map>

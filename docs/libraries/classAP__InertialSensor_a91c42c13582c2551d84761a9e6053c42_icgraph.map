@@ -1,6 +1,0 @@
-<map id="AP_InertialSensor::_calibrate_update_matrices" name="AP_InertialSensor::_calibrate_update_matrices">
-<area shape="rect" id="node2" href="$classAP__InertialSensor.html#aa445a0a0669422f3c3d7ae999f0136ce" title="AP_InertialSensor::\l_calibrate_accel" alt="" coords="235,5,370,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a9a2e96ead5ec6958cc5428807318ee6b" title="AP_InertialSensor::\lcalibrate_accel" alt="" coords="419,5,554,46"/>
-<area shape="rect" id="node4" href="$INS__generic_8pde.html#a5f96ea11224723731b4efa6cf4f1237b" title="run_calibration" alt="" coords="603,12,709,39"/>
-<area shape="rect" id="node5" href="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="758,12,805,39"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="loop" name="loop">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="102,5,253,32"/>
-<area shape="rect" id="node3" href="$RCInputTest_8pde.html#a5999816e9ebc39f73990547f97b835d9" title="multiread" alt="" coords="140,56,215,83"/>
-<area shape="rect" id="node5" href="$RCInputTest_8pde.html#a92fb606e5f456a9e87e133c23f3e5239" title="individualread" alt="" coords="127,107,228,133"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="104,158,251,199"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="301,56,464,83"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1RCInput.html#a0b019ac5120129c29cdb239576694a85" title="AP_HAL::RCInput::new\l_input" alt="" coords="301,107,464,149"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_v2_extension_encode" name="mavlink_msg_v2_extension_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__v2__extension_8h.html#a30561532f2ff8548cb8706706f71323e" title="Pack a v2_extension message. " alt="" coords="237,56,456,83"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a78cf8b010c1768f8be4b9caa34aba0dc" title="_mav_put_uint8_t_array" alt="" coords="511,5,673,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="729,31,869,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="505,107,679,133"/>
-</map>

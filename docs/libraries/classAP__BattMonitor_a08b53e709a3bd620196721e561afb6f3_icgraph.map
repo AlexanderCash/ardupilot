@@ -1,4 +1,0 @@
-<map id="AP_BattMonitor::voltage2" name="AP_BattMonitor::voltage2">
-<area shape="rect" id="node2" href="$classDataFlash__Class.html#a1a8930525fbd06f38f6ea6bd3df25334" title="DataFlash_Class::Log\l_Write_Current" alt="" coords="252,5,404,46"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#ae2890f1cb94266ce3c1626144478a8b5" title="GCS_MAVLINK::send_battery2" alt="" coords="225,71,431,97"/>
-</map>

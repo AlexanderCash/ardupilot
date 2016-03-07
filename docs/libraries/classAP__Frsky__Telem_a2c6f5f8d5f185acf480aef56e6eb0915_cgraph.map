@@ -1,9 +1,0 @@
-<map id="AP_Frsky_Telem::send_gps_alt_cm" name="AP_Frsky_Telem::send_gps_alt_cm">
-<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#afe38aef110ae61ac57ade254bd16691c" title="AP_Frsky_Telem::frsky\l_send_data" alt="" coords="213,89,373,130"/>
-<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a862bffa9935d5bc96fbefc109a72b815" title="AP_Frsky_Telem::frsky\l_send_sport_prim" alt="" coords="433,5,593,46"/>
-<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#a109c8dfca27209e83eebed4b056d292c" title="AP_Frsky_Telem::frsky\l_send_byte" alt="" coords="653,73,813,114"/>
-<area shape="rect" id="node7" href="$classAP__Frsky__Telem.html#ac0f341af90790860103093f10c7359d7" title="AP_Frsky_Telem::frsky\l_send_hub_startstop" alt="" coords="653,147,813,189"/>
-<area shape="rect" id="node8" href="$classAP__Frsky__Telem.html#af2c16df1732396e1cfdee12c24e55fcc" title="AP_Frsky_Telem::send_crc" alt="" coords="421,121,605,148"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="880,143,1024,169"/>
-<area shape="rect" id="node6" href="$classAP__Frsky__Telem.html#a276d82db4184b09f3c21934ed9a715b6" title="AP_Frsky_Telem::calc_crc" alt="" coords="862,80,1042,107"/>
-</map>

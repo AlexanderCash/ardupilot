@@ -1,9 +1,0 @@
-<map id="AP_HAL::AnalogIn::init" name="AP_HAL::AnalogIn::init">
-<area shape="rect" id="node2" href="$classHAL__Linux.html#a4cd7be623bd42aaaa4253ec74b89ca38" title="HAL_Linux::init" alt="" coords="231,5,342,32"/>
-<area shape="rect" id="node3" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="233,56,341,83"/>
-<area shape="rect" id="node4" href="$classHAL__AVR__APM1.html#a240163745580c3161b1690fc6f643b67" title="HAL_AVR_APM1::init" alt="" coords="211,107,362,133"/>
-<area shape="rect" id="node5" href="$classHAL__AVR__APM2.html#ac32e2a2c80ae57587bfc9a96a04287fc" title="HAL_AVR_APM2::init" alt="" coords="211,157,362,184"/>
-<area shape="rect" id="node6" href="$classHAL__FLYMAPLE.html#a2f1f5a4eb60873257c8e809e742576a6" title="HAL_FLYMAPLE::init" alt="" coords="212,208,361,235"/>
-<area shape="rect" id="node7" href="$HAL__PX4__Class_8cpp.html#a9bd6e6ad19a651d2c83ab3edb8d51924" title="main_loop" alt="" coords="246,259,327,285"/>
-<area shape="rect" id="node8" href="$classHAL__PX4.html#aa30a8fe0c2c42ede8ced6fc21e1c748a" title="HAL_PX4::init" alt="" coords="411,259,517,285"/>
-</map>

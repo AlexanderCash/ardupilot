@@ -1,5 +1,0 @@
-<map id="display_offsets_and_scaling" name="display_offsets_and_scaling">
-<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a676ecc5140643be71813993fa62bf6f0" title="AP_InertialSensor::\lget_accel_offsets" alt="" coords="193,5,327,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a7dcef05a1ae56c202b01254b1f223b02" title="AP_InertialSensor::\lget_accel_scale" alt="" coords="193,70,327,111"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor.html#a5b17cd4d4b6156fc012976bb5617aa9a" title="AP_InertialSensor::\lget_gyro_offsets" alt="" coords="193,135,327,177"/>
-</map>

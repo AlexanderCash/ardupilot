@@ -1,6 +1,0 @@
-<map id="AK8963_Backend::read" name="AK8963_Backend::read">
-<area shape="rect" id="node2" href="$classAP__Compass__AK8963__MPU9250.html#a16ced00592c72795a3c9ba354996995d" title="AP_Compass_AK8963_MPU9250\l::_dump_registers" alt="" coords="213,5,435,46"/>
-<area shape="rect" id="node3" href="$classAP__Compass__AK8963__MPU9250.html#acf2df60e45b6ff05310c1cf8b535630b" title="AP_Compass_AK8963_MPU9250\l::_register_read" alt="" coords="213,70,435,111"/>
-<area shape="rect" id="node4" href="$classAK8963__Backend.html#a5d9ae70788475cb76dd461a4fc4f81ea" title="AK8963_Backend::read" alt="" coords="245,136,403,163"/>
-<area shape="rect" id="node5" href="$classAP__Compass__AK8963__MPU9250.html#a1e96230890a9e7aac76758584bd01db0" title="AP_Compass_AK8963_MPU9250\l::read_raw" alt="" coords="213,187,435,229"/>
-</map>

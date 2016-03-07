@@ -1,6 +1,0 @@
-<map id="mavlink_msg_data16_encode" name="mavlink_msg_data16_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__data16_8h.html#af70b470f7ae9ad196e81b24c1e3f2b40" title="Pack a data16 message. " alt="" coords="201,56,381,83"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a78cf8b010c1768f8be4b9caa34aba0dc" title="_mav_put_uint8_t_array" alt="" coords="437,5,598,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="654,31,794,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="430,107,605,133"/>
-</map>

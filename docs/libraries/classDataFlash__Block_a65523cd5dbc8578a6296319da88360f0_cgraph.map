@@ -1,7 +1,0 @@
-<map id="DataFlash_Block::get_log_data_raw" name="DataFlash_Block::get_log_data_raw">
-<area shape="rect" id="node2" href="$classDataFlash__Block.html#a7e3413fd597032d4f4692129d2c5d076" title="DataFlash_Block::StartRead" alt="" coords="205,31,395,57"/>
-<area shape="rect" id="node6" href="$classDataFlash__Block.html#abd37ab617316f3e981e6a36639388af2" title="DataFlash_Block::ReadBlock" alt="" coords="203,81,397,108"/>
-<area shape="rect" id="node3" href="$classDataFlash__Block.html#a5adc35354a63752dc3c855b18e83c175" title="DataFlash_Block::WaitReady" alt="" coords="453,5,648,32"/>
-<area shape="rect" id="node4" href="$classDataFlash__Block.html#a0bc13dd2c8ec2d928e3409c431fb1430" title="DataFlash_Block::PageToBuffer" alt="" coords="445,56,656,83"/>
-<area shape="rect" id="node5" href="$classDataFlash__Block.html#a4ba0e8bf9f8028d04422e8688efff2c2" title="DataFlash_Block::BlockRead" alt="" coords="453,107,648,133"/>
-</map>

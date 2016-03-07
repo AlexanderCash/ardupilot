@@ -1,4 +1,0 @@
-<map id="AP_Baro::get_calibration_temperature" name="AP_Baro::get_calibration_temperature">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="236,5,383,46"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#a08986d0a15b5b74601f505c9ffb258c2" title="AP_Baro::get_temperature" alt="" coords="221,95,397,121"/>
-</map>

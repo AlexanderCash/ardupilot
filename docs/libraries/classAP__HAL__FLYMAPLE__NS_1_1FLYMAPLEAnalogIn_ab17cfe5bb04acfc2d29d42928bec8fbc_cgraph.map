@@ -1,9 +1,0 @@
-<map id="AP_HAL_FLYMAPLE_NS::FLYMAPLEAnalogIn::_timer_event" name="AP_HAL_FLYMAPLE_NS::FLYMAPLEAnalogIn::_timer_event">
-<area shape="rect" id="node2" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogSource.html#a8fb1372346f13e75a7d2731daeab487f" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogSource\l::new_sample" alt="" coords="230,5,410,61"/>
-<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogSource.html#aec39c0595cf7aaf3e1f7a349c74d0579" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogSource\l::stop_read" alt="" coords="230,85,410,141"/>
-<area shape="rect" id="node7" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogSource.html#a6ef82686b073a411432ef5fc46978abd" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogSource\l::setup_read" alt="" coords="230,165,410,221"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a9671bdb28184ecdf95959ff3d6b5b4bb" title="AP_HAL::GPIO::analogPinTo\lDigitalPin" alt="" coords="459,63,653,105"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="471,129,641,156"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="481,180,631,207"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="483,231,629,273"/>
-</map>

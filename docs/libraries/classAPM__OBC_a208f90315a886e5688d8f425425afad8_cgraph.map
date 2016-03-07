@@ -1,9 +1,0 @@
-<map id="APM_OBC::check_altlimit" name="APM_OBC::check_altlimit">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="244,5,391,46"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#aae5b3ae28aca807eb20b722a04685061" title="AP_Baro::get_last_update" alt="" coords="230,95,405,121"/>
-<area shape="rect" id="node4" href="$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="Query GPS status. " alt="" coords="258,145,377,172"/>
-<area shape="rect" id="node5" href="$classAP__GPS.html#a2ca8a9bad47faad1baeb09e124979022" title="AP_GPS::location" alt="" coords="253,196,381,223"/>
-<area shape="rect" id="node6" href="$classAP__Baro.html#ac46bc3a53717630410a48a1c1a5f2444" title="AP_Baro::get_altitude\l_difference" alt="" coords="243,247,392,289"/>
-<area shape="rect" id="node8" href="$classAP__Baro.html#aafa0e900262503f0ba84d4cadcf888d7" title="AP_Baro::get_pressure" alt="" coords="239,337,396,364"/>
-<area shape="rect" id="node7" href="$classAP__Baro.html#a56e804f0994a7fa0bb295735002c928e" title="AP_Baro::get_ground\l_temperature" alt="" coords="453,247,600,289"/>
-</map>

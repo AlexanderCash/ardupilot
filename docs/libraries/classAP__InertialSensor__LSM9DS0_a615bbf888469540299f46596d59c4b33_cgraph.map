@@ -1,5 +1,0 @@
-<map id="AP_InertialSensor_LSM9DS0::_initMag" name="AP_InertialSensor_LSM9DS0::_initMag">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__LSM9DS0.html#a00d5b7eb10a58f800f4a0c5b75694f55" title="AP_InertialSensor_LSM9DS0\l::_register_write_xm" alt="" coords="248,5,443,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="272,70,419,111"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="491,5,669,46"/>
-</map>

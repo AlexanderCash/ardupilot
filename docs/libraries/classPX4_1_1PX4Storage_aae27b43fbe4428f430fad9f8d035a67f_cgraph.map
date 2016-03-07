@@ -1,8 +1,0 @@
-<map id="PX4::PX4Storage::write_block" name="PX4::PX4Storage::write_block">
-<area shape="rect" id="node2" href="$classPX4_1_1PX4Storage.html#a02878fb502221c2389d3758bbab18170" title="PX4::PX4Storage::_storage_open" alt="" coords="216,71,435,98"/>
-<area shape="rect" id="node7" href="$classPX4_1_1PX4Storage.html#a6d48abf08286f0607faa89a6815e19d3" title="PX4::PX4Storage::_mark\l_dirty" alt="" coords="241,123,410,164"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="717,64,864,105"/>
-<area shape="rect" id="node4" href="$classPX4_1_1PX4Storage.html#a8877582e882dd9f3786c3e22f12c936b" title="PX4::PX4Storage::_mtd\l_signature" alt="" coords="495,31,657,72"/>
-<area shape="rect" id="node5" href="$classPX4_1_1PX4Storage.html#a6443cc23c118b406165fbed2d56310a0" title="PX4::PX4Storage::_upgrade\l_to_mtd" alt="" coords="483,96,669,137"/>
-<area shape="rect" id="node6" href="$classPX4_1_1PX4Storage.html#a99dc51d1dd4bb37a413027d8b6881fd6" title="PX4::PX4Storage::_mtd\l_write_signature" alt="" coords="495,161,657,203"/>
-</map>

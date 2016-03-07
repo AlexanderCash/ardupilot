@@ -1,4 +1,0 @@
-<map id="mavlink_msg_meminfo_decode" name="mavlink_msg_meminfo_decode">
-<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__meminfo_8h.html#ab4fc5de85ee97eab53a0fee6a6fecc9f" title="Send a meminfo message. " alt="" coords="211,5,367,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2mavlink__msg__meminfo_8h.html#a6b1210e07be6ac39af126f542b06e063" title="Get field freemem from meminfo message. " alt="" coords="211,70,367,111"/>
-</map>

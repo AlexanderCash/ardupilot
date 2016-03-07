@@ -1,8 +1,0 @@
-<map id="AP_Limit_Geofence" name="AP_Limit_Geofence">
-<area shape="rect" id="node2" href="$classAP__Limit__Module.html" title="AP_Limit_Module" alt="" coords="5,96,128,123"/>
-<area shape="rect" id="node3" href="$classStorageAccess.html" title="StorageAccess" alt="" coords="214,96,324,123"/>
-<area shape="rect" id="node4" href="$structVector2.html" title="Vector2\&lt; int32_t \&gt;" alt="" coords="349,96,479,123"/>
-<area shape="rect" id="node5" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="505,96,655,123"/>
-<area shape="rect" id="node6" href="$structLocation.html" title="Location" alt="" coords="769,96,839,123"/>
-<area shape="rect" id="node7" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="727,5,880,32"/>
-</map>

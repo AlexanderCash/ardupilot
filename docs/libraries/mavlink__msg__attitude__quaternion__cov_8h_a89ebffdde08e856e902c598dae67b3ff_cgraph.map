@@ -1,8 +1,0 @@
-<map id="mavlink_msg_attitude_quaternion_cov_decode" name="mavlink_msg_attitude_quaternion_cov_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__attitude__quaternion__cov_8h.html#a09e622d66c4d13e772fdd2e95e68b0de" title="Send a attitude_quaternion_cov message. " alt="" coords="241,5,415,61"/>
-<area shape="rect" id="node3" href="$mavlink__msg__attitude__quaternion__cov_8h.html#a037e18683ae6fa46ab68cec85bf91f71" title="Get field q from attitude_quaternion_cov message. " alt="" coords="250,85,406,126"/>
-<area shape="rect" id="node4" href="$mavlink__msg__attitude__quaternion__cov_8h.html#ae2b31621c12f54524646ffeb706907ac" title="Get field rollspeed from attitude_quaternion_cov message. " alt="" coords="227,150,429,191"/>
-<area shape="rect" id="node5" href="$mavlink__msg__attitude__quaternion__cov_8h.html#a3ed0e6915c1e0cb94bfadf61e33250ae" title="Get field pitchspeed from attitude_quaternion_cov message. " alt="" coords="222,215,434,257"/>
-<area shape="rect" id="node6" href="$mavlink__msg__attitude__quaternion__cov_8h.html#a17f7f1702fd19fb24a41810901da4d7e" title="Get field yawspeed from attitude_quaternion_cov message. " alt="" coords="224,281,432,322"/>
-<area shape="rect" id="node7" href="$mavlink__msg__attitude__quaternion__cov_8h.html#a25a306e1daab8b38471d516db10033c3" title="Get field covariance from attitude_quaternion_cov message. " alt="" coords="222,346,434,387"/>
-</map>

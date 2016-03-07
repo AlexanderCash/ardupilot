@@ -1,7 +1,0 @@
-<map id="mavlink_msg_radio_get_txbuf" name="mavlink_msg_radio_get_txbuf">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__radio_8h.html#ac383b3c9490d8d32fede7e018b7474cc" title="Decode a radio message into a struct. " alt="" coords="214,41,397,68"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a95855cb1b5e848b644d0fdeb1009a031" title="GCS_MAVLINK::handle\l_radio_status" alt="" coords="445,5,608,46"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a475186eaf0e20dc86a0a905641d72a52" title="mavlink_test_radio" alt="" coords="461,71,592,97"/>
-<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="656,71,840,97"/>
-<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="889,71,1005,97"/>
-</map>

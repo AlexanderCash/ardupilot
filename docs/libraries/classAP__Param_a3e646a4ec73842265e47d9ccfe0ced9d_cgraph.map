@@ -1,6 +1,0 @@
-<map id="AP_Param::find" name="AP_Param::find">
-<area shape="rect" id="node2" href="$AP__Progmem__Identity_8h.html#a7c38516a089d1799b00c59fbb0820841" title="strnlen_P" alt="" coords="385,5,463,32"/>
-<area shape="rect" id="node3" href="$AP__Progmem__Identity_8h.html#a975beca2ce546549dfcb4f51d56fe17b" title="strncmp_P" alt="" coords="381,81,467,108"/>
-<area shape="rect" id="node4" href="$classAP__Param.html#a6849f590567b7e1a475fdca7251d7581" title="AP_Param::find_group" alt="" coords="169,43,322,69"/>
-<area shape="rect" id="node5" href="$AP__Progmem__AVR_8h.html#aedeadee36d22b1e01f713f805d1037a1" title="strcasecmp_P" alt="" coords="371,132,477,159"/>
-</map>

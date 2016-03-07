@@ -1,8 +1,0 @@
-<map id="AP_InertialSensor::get_delta_time" name="AP_InertialSensor::get_delta_time">
-<area shape="rect" id="node2" href="$classNavEKF.html#a617e88f0e357eb16d2540f25981e9ee2" title="NavEKF::readIMUData" alt="" coords="195,92,354,119"/>
-<area shape="rect" id="node6" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="189,157,360,184"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="408,5,565,46"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="408,70,565,111"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="411,136,562,163"/>
-<area shape="rect" id="node7" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="463,187,510,213"/>
-</map>

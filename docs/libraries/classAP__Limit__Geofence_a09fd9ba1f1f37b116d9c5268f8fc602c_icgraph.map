@@ -1,7 +1,0 @@
-<map id="AP_Limit_Geofence::fence_total" name="AP_Limit_Geofence::fence_total">
-<area shape="rect" id="node2" href="$classAP__Limit__Geofence.html#a64d8110312a6805ddc3ccd7a80c1b961" title="AP_Limit_Geofence::\lget_fence_point_with_index" alt="" coords="201,38,383,79"/>
-<area shape="rect" id="node6" href="$classAP__Limit__Geofence.html#ac238b7f306d41a97a4748b14402ef8dc" title="AP_Limit_Geofence::\lset_fence_point_with_index" alt="" coords="201,103,383,145"/>
-<area shape="rect" id="node3" href="$classAP__Limit__Geofence.html#a77c37ae99a57f9c81b807ccac09827af" title="AP_Limit_Geofence::\lupdate_boundary" alt="" coords="432,38,579,79"/>
-<area shape="rect" id="node4" href="$classAP__Limit__Geofence.html#a0d67d238f87096c8edbae5442f959d44" title="AP_Limit_Geofence::\lAP_Limit_Geofence" alt="" coords="627,5,773,46"/>
-<area shape="rect" id="node5" href="$classAP__Limit__Geofence.html#afb1a696f2769594a81383413f8931016" title="AP_Limit_Geofence::\ltriggered" alt="" coords="627,70,773,111"/>
-</map>

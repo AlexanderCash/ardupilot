@@ -1,5 +1,0 @@
-<map id="mavlink_msg_power_status_decode" name="mavlink_msg_power_status_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__power__status_8h.html#a93dbe4d744a30b659ff5b4ff5ed8a1c3" title="Send a power_status message. " alt="" coords="237,5,421,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__power__status_8h.html#a9476cc948205ca609be75e541c10047d" title="Get field Vservo from power_status message. " alt="" coords="237,70,421,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__power__status_8h.html#ac2347c71adc403d5fda854233a0631f9" title="Get field flags from power_status message. " alt="" coords="237,135,421,177"/>
-</map>

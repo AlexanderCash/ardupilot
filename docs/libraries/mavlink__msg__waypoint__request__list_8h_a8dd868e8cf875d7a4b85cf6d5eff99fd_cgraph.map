@@ -1,4 +1,0 @@
-<map id="mavlink_msg_waypoint_request_list_encode" name="mavlink_msg_waypoint_request_list_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__waypoint__request__list_8h.html#ab2ba61c6df13ac8a224623f725c4f6c5" title="Pack a waypoint_request_list message. " alt="" coords="214,5,373,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="422,12,597,39"/>
-</map>

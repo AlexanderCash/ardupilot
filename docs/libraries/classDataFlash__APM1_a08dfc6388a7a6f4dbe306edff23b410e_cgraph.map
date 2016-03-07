@@ -1,5 +1,0 @@
-<map id="DataFlash_APM1::_sem_take" name="DataFlash_APM1::_sem_take">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a5eb9be7ed92b52a7eadcfd82072f3bc6" title="AP_HAL::Scheduler::\lin_timerprocess" alt="" coords="268,5,415,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="264,70,419,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="251,136,431,163"/>
-</map>

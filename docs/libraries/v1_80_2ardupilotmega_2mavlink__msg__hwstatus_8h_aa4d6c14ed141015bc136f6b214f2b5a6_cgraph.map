@@ -1,4 +1,0 @@
-<map id="mavlink_msg_hwstatus_decode" name="mavlink_msg_hwstatus_decode">
-<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__hwstatus_8h.html#af14f13f92d2edd3ab753baeea5d18ffb" title="Send a hwstatus message. " alt="" coords="214,5,373,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2mavlink__msg__hwstatus_8h.html#a56af3b78c0b3c32e3468c570006e928c" title="Get field I2Cerr from hwstatus message. " alt="" coords="214,70,373,111"/>
-</map>

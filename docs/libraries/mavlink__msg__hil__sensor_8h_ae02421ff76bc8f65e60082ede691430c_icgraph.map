@@ -1,6 +1,0 @@
-<map id="mavlink_msg_hil_sensor_get_fields_updated" name="mavlink_msg_hil_sensor_get_fields_updated">
-<area shape="rect" id="node2" href="$mavlink__msg__hil__sensor_8h.html#a1a466472a4e34162bd652ba0ff53b29e" title="Decode a hil_sensor message into a struct. " alt="" coords="219,5,384,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#ad8bf9d87adbdf5fc766d2136d46412ca" title="mavlink_test_hil_sensor" alt="" coords="432,12,595,39"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="643,12,797,39"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="846,12,962,39"/>
-</map>

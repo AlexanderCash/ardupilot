@@ -1,5 +1,0 @@
-<map id="mavlink_msg_simstate_pack_chan" name="mavlink_msg_simstate_pack_chan">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a72c094ee0abffd7de05c284888aa8c84" title="mavlink_test_simstate" alt="" coords="211,12,365,39"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="413,12,597,39"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="646,12,762,39"/>
-</map>

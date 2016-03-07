@@ -1,8 +1,0 @@
-<map id="Linux::LinuxStorage_FRAM::_write_enable" name="Linux::LinuxStorage_FRAM::_write_enable">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxStorage__FRAM.html#a4c38ed83df91957981d65f3cdb83a8ff" title="Linux::LinuxStorage\l_FRAM::_register_write" alt="" coords="208,58,368,99"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxStorage__FRAM.html#abe5495ebecf6180c5865f33e9b0de113" title="Linux::LinuxStorage\l_FRAM::open" alt="" coords="417,24,554,66"/>
-<area shape="rect" id="node7" href="$classLinux_1_1LinuxStorage__FRAM.html#a75a8c8d08e28cca6d154e29177c0027b" title="Linux::LinuxStorage\l_FRAM::write" alt="" coords="417,90,554,131"/>
-<area shape="rect" id="node4" href="$classLinux_1_1LinuxStorage__FRAM.html#a4f5c65dff23063e62595c01a997af52c" title="Linux::LinuxStorage\l_FRAM::_storage_create" alt="" coords="603,90,771,131"/>
-<area shape="rect" id="node5" href="$classLinux_1_1LinuxStorage__FRAM.html#a3c8de702b5554324a004ba3da50d7e80" title="Linux::LinuxStorage\l_FRAM::_storage_open" alt="" coords="819,28,979,70"/>
-<area shape="rect" id="node6" href="$classLinux_1_1LinuxStorage__FRAM.html#a95e031b758f4a15f38f6c23c43b91c8f" title="Linux::LinuxStorage\l_FRAM::_timer_tick" alt="" coords="617,24,756,66"/>
-</map>

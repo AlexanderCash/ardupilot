@@ -1,9 +1,0 @@
-<map id="mavlink_msg_local_position_decode" name="mavlink_msg_local_position_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__local__position_8h.html#a992feb31fd38dca8e78c04ba8f912923" title="Send a local_position message. " alt="" coords="241,5,426,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__local__position_8h.html#ae1461fb88d9e485dea456090d6550dc3" title="Get field x from local_position message. " alt="" coords="241,70,426,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__local__position_8h.html#ad80dd7d2160a6802620d9f497da4c1e9" title="Get field y from local_position message. " alt="" coords="241,135,426,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__local__position_8h.html#a80bf81b66e65266708573cec7554e4ae" title="Get field z from local_position message. " alt="" coords="241,201,426,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__local__position_8h.html#a5b302313adda529a4b92017347b43660" title="Get field vx from local_position message. " alt="" coords="241,266,426,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__local__position_8h.html#a8370ca7d71e713feb34015e2fd214613" title="Get field vy from local_position message. " alt="" coords="241,331,426,373"/>
-<area shape="rect" id="node8" href="$mavlink__msg__local__position_8h.html#a8da7850091c5cafa7e9a9b68b632398d" title="Get field vz from local_position message. " alt="" coords="241,397,426,438"/>
-</map>

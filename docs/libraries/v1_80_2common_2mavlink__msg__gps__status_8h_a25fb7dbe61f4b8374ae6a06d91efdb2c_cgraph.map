@@ -1,9 +1,0 @@
-<map id="mavlink_msg_gps_status_decode" name="mavlink_msg_gps_status_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__gps__status_8h.html#a46e630b6ba9cdf45bf6eee11128f835d" title="Send a gps_status message. " alt="" coords="224,5,395,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__gps__status_8h.html#a0606e8042bf697caefb7f8e9ef44c8d3" title="Get field satellite_prn from gps_status message. " alt="" coords="224,70,395,111"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__gps__status_8h.html#a928deb3be859bc008ecd0e47e4ca5b1d" title="Get field satellite_used from gps_status message. " alt="" coords="224,135,395,177"/>
-<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__gps__status_8h.html#aacda1c972d2e5666c44830160249a42a" title="Get field satellite_elevation from gps_status message. " alt="" coords="224,201,395,242"/>
-<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__gps__status_8h.html#a70192016b196a55d28ce63b4be4a029e" title="Get field satellite_azimuth from gps_status message. " alt="" coords="224,266,395,307"/>
-<area shape="rect" id="node8" href="$v1_80_2common_2mavlink__msg__gps__status_8h.html#a4f5e35b7d3079e6c8f3f356fd100a213" title="Get field satellite_snr from gps_status message. " alt="" coords="224,331,395,373"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="443,201,611,242"/>
-</map>

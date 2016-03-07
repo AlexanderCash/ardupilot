@@ -1,8 +1,0 @@
-<map id="ToshibaLED_I2C::hw_init" name="ToshibaLED_I2C::hw_init">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="242,5,387,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="225,71,405,97"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#ac65aabf08fd708f968c44ceadfcb654e" title="AP_HAL::I2CDriver::\lignore_errors" alt="" coords="242,122,387,163"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="242,187,387,229"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1I2CDriver.html#a6b2ba493a18de0727817a54a2a2d0eba" title="AP_HAL::I2CDriver::\lwriteRegisters" alt="" coords="242,253,387,294"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="225,319,404,345"/>
-</map>

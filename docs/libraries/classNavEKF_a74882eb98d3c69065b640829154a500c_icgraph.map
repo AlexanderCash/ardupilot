@@ -1,4 +1,0 @@
-<map id="NavEKF::FuseVelPosNED" name="NavEKF::FuseVelPosNED">
-<area shape="rect" id="node2" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="235,5,434,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="483,5,634,32"/>
-</map>

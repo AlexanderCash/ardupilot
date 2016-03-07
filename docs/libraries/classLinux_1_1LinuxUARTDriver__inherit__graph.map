@@ -1,7 +1,0 @@
-<map id="Linux::LinuxUARTDriver" name="Linux::LinuxUARTDriver">
-<area shape="rect" id="node6" href="$classLinux_1_1LinuxSPIUARTDriver.html" title="Linux::LinuxSPIUARTDriver" alt="" coords="5,379,192,405"/>
-<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="22,229,175,256"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="19,155,177,181"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="37,80,160,107"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="45,5,152,32"/>
-</map>

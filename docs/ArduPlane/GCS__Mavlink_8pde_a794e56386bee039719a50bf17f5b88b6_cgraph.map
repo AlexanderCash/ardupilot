@@ -1,5 +1,0 @@
-<map id="send_nav_controller_output" name="send_nav_controller_output">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#a5dbe6405977f85a617a80eb7484cfa3c" title="AP_Navigation::nav\l_bearing_cd" alt="" coords="212,5,351,46"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#acdb9c5a037fe8707d45ae91138de43eb" title="AP_Navigation::target\l_bearing_cd" alt="" coords="206,70,357,111"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#a926af3126716b139cb7025f433e7700d" title="AP_Navigation::crosstrack\l_error" alt="" coords="192,135,371,177"/>
-</map>

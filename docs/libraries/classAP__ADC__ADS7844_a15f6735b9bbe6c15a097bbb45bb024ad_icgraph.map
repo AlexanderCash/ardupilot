@@ -1,8 +1,0 @@
-<map id="AP_ADC_ADS7844::Init" name="AP_ADC_ADS7844::Init">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__Oilpan.html#ace5a0d60949fbdfd793fcfcd2af9232e" title="AP_InertialSensor_Oilpan\l::_init_sensor" alt="" coords="219,5,389,46"/>
-<area shape="rect" id="node7" href="$AP__ADC__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="277,71,331,97"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__Oilpan.html#a5584e4f2ba880d16e773e83b6836fae7" title="AP_InertialSensor_Oilpan\l::detect" alt="" coords="437,5,608,46"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="657,5,791,46"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="840,12,992,39"/>
-<area shape="rect" id="node6" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1041,12,1095,39"/>
-</map>

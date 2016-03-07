@@ -1,6 +1,0 @@
-<map id="test_wp" name="test_wp">
-<area shape="rect" id="node2" href="$ArduPlane_8pde.html#a4ca9908869f03c8499bb30e8cae3ccc0" title="mission" alt="" coords="188,5,255,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#a3d45d873b8f9e2ebf0d020ce26db957d" title="AP_Mission::num_commands" alt="" coords="123,56,319,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#afa29a34a739b0fc995194412dde6e532" title="AP_Mission::read_cmd\l_from_storage" alt="" coords="143,107,300,149"/>
-<area shape="rect" id="node5" href="$test_8pde.html#a9bc449e20cbdaa3bba6a895902b44d4a" title="test_wp_print" alt="" coords="171,173,271,200"/>
-</map>

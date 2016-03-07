@@ -1,7 +1,0 @@
-<map id="DataFlash_Class::Log_Write_Power" name="DataFlash_Class::Log_Write_Power">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="229,5,376,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1AnalogIn.html#a84c87bc57f06182afc85725cafe22698" title="AP_HAL::AnalogIn::board\l_voltage" alt="" coords="217,70,389,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1AnalogIn.html#aec5bbeb075072b2cc35d2301236c7f45" title="AP_HAL::AnalogIn::servorail\l_voltage" alt="" coords="208,135,397,177"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1AnalogIn.html#ab607b3cdb6819195a05f728589ffaf29" title="AP_HAL::AnalogIn::power\l_status_flags" alt="" coords="215,201,390,242"/>
-<area shape="rect" id="node6" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="205,267,400,293"/>
-</map>

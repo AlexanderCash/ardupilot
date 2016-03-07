@@ -1,6 +1,0 @@
-<map id="mavlink_msg_change_operator_control_encode" name="mavlink_msg_change_operator_control_encode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__change__operator__control_8h.html#acd647d41f415e291aee5d095df74eee3" title="Pack a change_operator_control message. " alt="" coords="224,49,381,90"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a1e87b7f293e127478ca611644a7810b6" title="_mav_put_char_array" alt="" coords="444,5,591,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="654,31,794,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="430,107,605,133"/>
-</map>

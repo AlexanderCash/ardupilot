@@ -1,8 +1,0 @@
-<map id="AP_Compass_AK8963::_dump_registers" name="AP_Compass_AK8963::_dump_registers">
-<area shape="rect" id="node2" href="$classAP__Compass__AK8963.html#acdbf7f9d95111c8c6cf571da0b066bdd" title="AP_Compass_AK8963::init" alt="" coords="219,12,400,39"/>
-<area shape="rect" id="node3" href="$classAP__Compass__AK8963__MPU9250.html#a8f1c4437b09e2fcb6e3b863a9a3c119d" title="AP_Compass_AK8963_MPU9250\l::init" alt="" coords="448,5,669,46"/>
-<area shape="rect" id="node4" href="$classAP__Compass__AK8963__MPU9250.html#a6276a40d516ecd31513c02ecf84a666f" title="AP_Compass_AK8963_MPU9250\l::detect" alt="" coords="717,5,939,46"/>
-<area shape="rect" id="node5" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="987,12,1179,39"/>
-<area shape="rect" id="node6" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="1227,12,1330,39"/>
-<area shape="rect" id="node7" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1379,12,1434,39"/>
-</map>

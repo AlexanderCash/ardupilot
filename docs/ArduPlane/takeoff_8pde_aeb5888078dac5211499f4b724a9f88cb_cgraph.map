@@ -1,7 +1,0 @@
-<map id="auto_takeoff_check" name="auto_takeoff_check">
-<area shape="rect" id="node2" href="$ArduPlane_8pde.html#a7df79fd15233ca04f776c27b69d2e184" title="gcs_send_text_fmt" alt="" coords="205,5,339,32"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="AP_GPS::status" alt="" coords="213,56,331,83"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#a5bb67662b5aafad6a015bd250c9140e1" title="AP_SpdHgtControl::get\l_VXdot" alt="" coords="193,107,351,149"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="190,173,354,200"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a4902306dab46ff02b2296f99eb1f1c9c" title="GCS_MAVLINK::send_message" alt="" coords="403,5,616,32"/>
-</map>

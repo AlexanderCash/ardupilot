@@ -1,5 +1,0 @@
-<map id="AP_HAL_AVR::AVRSemaphore::_take_nonblocking" name="AP_HAL_AVR::AVRSemaphore::_take_nonblocking">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#ac202ac4111fd7f20d25810fc7cb50712" title="AP_HAL_AVR::AVRSemaphore\l::_take_from_mainloop" alt="" coords="264,11,475,53"/>
-<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#ac810fbff0013a3f5ff5265d14ed9345a" title="AP_HAL_AVR::AVRSemaphore\l::take_nonblocking" alt="" coords="523,70,733,111"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRSemaphore.html#a86950f7508da41c1ce6f099f21848f69" title="AP_HAL_AVR::AVRSemaphore\l::take" alt="" coords="523,5,733,46"/>
-</map>

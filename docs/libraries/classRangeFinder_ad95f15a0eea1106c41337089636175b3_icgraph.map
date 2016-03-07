@@ -1,4 +1,0 @@
-<map id="RangeFinder::ground_clearance_cm" name="RangeFinder::ground_clearance_cm">
-<area shape="rect" id="node2" href="$classNavEKF.html#ae4d8e282bc4e67e56179c5dd6861dfe9" title="NavEKF::readRangeFinder" alt="" coords="197,12,376,39"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="425,12,575,39"/>
-</map>

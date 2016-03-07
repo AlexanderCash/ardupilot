@@ -1,6 +1,0 @@
-<map id="loop" name="loop">
-<area shape="rect" id="node2" href="$Failsafe__Board_8pde.html#ac0b5f82e591b53c5f222f81041f13690" title="update_heartbeat" alt="" coords="113,5,236,32"/>
-<area shape="rect" id="node3" href="$Failsafe__Board_8pde.html#a0ced8bc601cd92e74e586e1c14052832" title="set_mux_mode" alt="" coords="297,56,407,83"/>
-<area shape="rect" id="node4" href="$Failsafe__Board_8pde.html#ab11f69b70ab85fee886f6994d15724df" title="set_servos_terminate" alt="" coords="101,107,248,133"/>
-<area shape="rect" id="node5" href="$Failsafe__Board_8pde.html#a8b09f401b40eea6a6e80706aee41e44e" title="set_servos" alt="" coords="309,107,395,133"/>
-</map>

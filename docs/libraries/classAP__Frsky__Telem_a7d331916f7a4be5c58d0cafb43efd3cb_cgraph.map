@@ -1,6 +1,0 @@
-<map id="AP_Frsky_Telem::calc_battery" name="AP_Frsky_Telem::calc_battery">
-<area shape="rect" id="node2" href="$classAP__BattMonitor.html#af18badc88524b2cf400fb43418daa8c9" title="capacity_remaining_pct &#45; returns the % battery capacity remaining (0 ~ 100) " alt="" coords="224,5,395,46"/>
-<area shape="rect" id="node4" href="$classAP__BattMonitor.html#ab5789eb7d45ec25b685adfaaf9167284" title="voltage &#45; returns battery voltage in millivolts " alt="" coords="227,71,391,97"/>
-<area shape="rect" id="node5" href="$classAP__BattMonitor.html#af73075a42b0aa50dca77e16625fb1122" title="current_amps &#45; returns the instantaneous current draw in amperes " alt="" coords="209,121,410,148"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor__Backend.html#a47fe3bc306e5ff449a93b3095fb915bb" title="capacity_remaining_pct &#45; returns the % battery capacity remaining (0 ~ 100) " alt="" coords="459,5,631,46"/>
-</map>

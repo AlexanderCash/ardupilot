@@ -1,6 +1,0 @@
-<map id="mavlink_msg_command_pack" name="mavlink_msg_command_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__command_8h.html#acd0e8f94776ed2b7f3ac0b3e07be96c5" title="Encode a command struct into a message. " alt="" coords="253,5,416,46"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#afbfed3a55505af61f9732280693fb74a" title="mavlink_test_command" alt="" coords="464,41,624,68"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="673,41,826,68"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="875,41,991,68"/>
-</map>

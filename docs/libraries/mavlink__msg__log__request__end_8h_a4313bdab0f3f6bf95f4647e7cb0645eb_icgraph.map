@@ -1,6 +1,0 @@
-<map id="mavlink_msg_log_request_end_pack_chan" name="mavlink_msg_log_request_end_pack_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__log__request__end_8h.html#a52838aeb6023ad9137b8bdf80a3b0b23" title="Encode a log_request_end struct on a channel. " alt="" coords="240,5,413,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a03eac4d01e21192eeed1a41f0fa7944b" title="mavlink_test_log_request_end" alt="" coords="227,71,426,97"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="475,71,629,97"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="678,71,794,97"/>
-</map>

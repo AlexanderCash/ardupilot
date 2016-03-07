@@ -1,8 +1,0 @@
-<map id="AC_AttitudeControl::max_angle_step_bf_roll" name="AC_AttitudeControl::max_angle_step_bf_roll">
-<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#a81707c8a063a129c3025c87687b06b52" title="AC_AttitudeControl\l::max_rate_step_bf_roll" alt="" coords="222,49,381,90"/>
-<area shape="rect" id="node7" href="$classAC__P.html#a9378b33d8cfb4bf2417880c038f1b7a2" title="AC_P::kP" alt="" coords="261,115,342,141"/>
-<area shape="rect" id="node3" href="$classAC__PID.html#ac12ffbd4fd053c6152d403b69e07b8e1" title="AC_PID::get_filt_alpha" alt="" coords="430,5,586,32"/>
-<area shape="rect" id="node5" href="$classAC__PID.html#a071b5199b1b8d526dde58c4ea4609e14" title="AC_PID::kD" alt="" coords="460,56,556,83"/>
-<area shape="rect" id="node6" href="$classAC__PID.html#a98526d0e4aa40c016ba339b41654c5f5" title="AC_PID::kP" alt="" coords="461,107,555,133"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="635,5,699,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_ekf_status_report_pack_chan" name="mavlink_msg_ekf_status_report_pack_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__ekf__status__report_8h.html#a6c2f9d2cfe30045a4c71969cc24e2e42" title="Encode a ekf_status_report struct on a channel. " alt="" coords="222,5,389,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a3e9586d920cc6e7d64be95f014bb7f7f" title="mavlink_test_ekf_status\l_report" alt="" coords="223,70,387,111"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="437,77,621,104"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="670,77,786,104"/>
-</map>

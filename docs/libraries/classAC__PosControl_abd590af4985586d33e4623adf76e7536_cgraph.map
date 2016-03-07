@@ -1,6 +1,0 @@
-<map id="AC_PosControl::init_takeoff" name="AC_PosControl::init_takeoff">
-<area shape="rect" id="node2" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title="AP_InertialNav::get\l_position" alt="" coords="217,5,353,46"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#aa979d20c99f08a96d0f482c1dad50f78" title="freeze_ff_z &#45; used to stop the feed forward being calculated during a known discontinuity ..." alt="" coords="192,71,379,97"/>
-<area shape="rect" id="node4" href="$classAC__PID.html#a0ae837f35a5f8886c192e0400b1c5b4c" title="AC_PID::set_integrator" alt="" coords="206,121,365,148"/>
-<area shape="rect" id="node5" href="$classAP__Motors.html#ad107e8e804ee85fb129cf1646d0f9685" title="AP_Motors::get_throttle_out" alt="" coords="193,172,378,199"/>
-</map>

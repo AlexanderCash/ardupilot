@@ -1,4 +1,0 @@
-<map id="AP_AHRS::get_error_yaw" name="AP_AHRS::get_error_yaw">
-<area shape="rect" id="node2" href="$classDataFlash__Class.html#a100c0458780b38dd0ccc4a7381827b3c" title="DataFlash_Class::Log\l_Write_Attitude" alt="" coords="247,5,399,46"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a12aeb6f84b94ff3f234c9b97a7936fbd" title="GCS_MAVLINK::send_ahrs" alt="" coords="230,71,415,97"/>
-</map>

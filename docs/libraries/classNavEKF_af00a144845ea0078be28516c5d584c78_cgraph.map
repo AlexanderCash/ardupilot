@@ -1,8 +1,0 @@
-<map id="NavEKF::getEulerAngles" name="NavEKF::getEulerAngles">
-<area shape="rect" id="node2" href="$classQuaternion.html#ab3049efa36b211699ca03ea53970f0fd" title="Quaternion::to_euler" alt="" coords="223,64,361,91"/>
-<area shape="rect" id="node7" href="$classAP__AHRS.html#a93a3774320e331583fc6c6ac2418be21" title="AP_AHRS::get_trim" alt="" coords="222,115,362,141"/>
-<area shape="rect" id="node3" href="$classQuaternion.html#a9ae6c42349ddc744022a4a1cf7868eb0" title="Quaternion::get_euler_roll" alt="" coords="415,5,585,32"/>
-<area shape="rect" id="node4" href="$classQuaternion.html#a0bfe50c332309932cd833b83f6524e5f" title="Quaternion::get_euler\l_pitch" alt="" coords="427,57,573,98"/>
-<area shape="rect" id="node6" href="$classQuaternion.html#a35c2a1030832728574363ed8655da625" title="Quaternion::get_euler_yaw" alt="" coords="411,123,589,149"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a2706fd969ad73bc8ef977d964c04f4a3" title="safe_asin" alt="" coords="638,64,717,91"/>
-</map>

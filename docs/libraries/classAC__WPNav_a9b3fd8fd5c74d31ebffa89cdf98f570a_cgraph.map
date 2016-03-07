@@ -1,5 +1,0 @@
-<map id="AC_WPNav::loiter_soften_for_landing" name="AC_WPNav::loiter_soften_for_landing">
-<area shape="rect" id="node2" href="$classAP__InertialNav.html#a39348dd51a8c32fe16d01dfef284e31a" title="AP_InertialNav::get\l_position" alt="" coords="237,5,373,46"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#a1acdd0aec3b36ec2fad0b05cbca0c252" title="set_xy_target in cm from home " alt="" coords="236,70,375,111"/>
-<area shape="rect" id="node4" href="$classAC__PosControl.html#ac150947d527995a72dff6ad0921a1891" title="freeze_ff_xy &#45; used to stop the feed forward being calculated during a known discontinuity ..." alt="" coords="227,135,384,177"/>
-</map>

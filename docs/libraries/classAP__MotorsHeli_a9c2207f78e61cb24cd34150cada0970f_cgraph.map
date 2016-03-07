@@ -1,8 +1,0 @@
-<map id="AP_MotorsHeli::tail_ramp" name="AP_MotorsHeli::tail_ramp">
-<area shape="rect" id="node2" href="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="713,5,823,32"/>
-<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#a2e997a592f2ce30ab89a12a282ea3b23" title="AP_MotorsHeli::write_aux" alt="" coords="225,56,399,83"/>
-<area shape="rect" id="node4" href="$classRC__Channel.html#a5876259d8fb8c1c475322a236bae7819" title="RC_Channel::calc_pwm" alt="" coords="454,56,618,83"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="448,107,624,133"/>
-<area shape="rect" id="node5" href="$classRC__Channel.html#ac50875b55ac524f9d0b2ee50174bd300" title="RC_Channel::range_to_pwm" alt="" coords="673,56,863,83"/>
-<area shape="rect" id="node6" href="$classRC__Channel.html#abcf4a69f7323c85306e8a25b34e929b3" title="RC_Channel::angle_to_pwm" alt="" coords="673,107,863,133"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="mavlink_msg_set_gps_global_origin_encode_chan" name="mavlink_msg_set_gps_global_origin_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__set__gps__global__origin_8h.html#a037e440fc2bbfa62f588a148130089d7" title="Pack a set_gps_global_origin message on a channel. " alt="" coords="240,5,411,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="459,12,669,39"/>
-</map>

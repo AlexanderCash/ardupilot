@@ -1,8 +1,0 @@
-<map id="update_load_factor" name="update_load_factor">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="205,5,281,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="211,56,275,83"/>
-<area shape="rect" id="node4" href="$control__modes_8pde.html#a41df80f4bdf3c12ede2766ec47fa59ae" title="fly_inverted" alt="" coords="198,107,287,133"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#af85c1f082ddabb5487c6f524d8b538ce" title="constrain_int32" alt="" coords="187,157,298,184"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="209,208,277,235"/>
-<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="223,259,262,285"/>
-</map>

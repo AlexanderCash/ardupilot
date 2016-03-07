@@ -1,5 +1,0 @@
-<map id="AP_HAL_AVR::AVRScheduler::_run_timer_procs" name="AP_HAL_AVR::AVRScheduler::_run_timer_procs">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRScheduler.html#a847b3f64f136a829e687812dd176ea66" title="AP_HAL_AVR::AVRScheduler\l::_timer_isr_event" alt="" coords="256,5,459,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRScheduler.html#adabfc5f37cc2641a0fae88c0b8e2a0a0" title="AP_HAL_AVR::AVRScheduler\l::resume_timer_procs" alt="" coords="256,70,459,111"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRScheduler.html#a27b893d5b82c5b004d16836fcea36220" title="AP_HAL_AVR::AVRScheduler\l::init" alt="" coords="507,5,709,46"/>
-</map>

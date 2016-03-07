@@ -1,9 +1,0 @@
-<map id="geofence_stickmixing" name="geofence_stickmixing">
-<area shape="rect" id="node2" href="$Attitude_8pde.html#a14b5cf622d6dbc30bb14c09ef2c6597a" title="stick_mixing_enabled" alt="" coords="203,79,349,105"/>
-<area shape="rect" id="node3" href="$Attitude_8pde.html#a44e944a8ca5cc7235984188d5e3b7a6c" title="calc_nav_yaw_course" alt="" coords="398,24,549,51"/>
-<area shape="rect" id="node7" href="$Attitude_8pde.html#a49889b4d9baf5b8cbad14c404990694d" title="stabilize_stick_mixing\l_direct" alt="" coords="598,71,749,113"/>
-<area shape="rect" id="node8" href="$Attitude_8pde.html#ae92319b4ca282687af5dceb51f0b275d" title="stabilize_stick_mixing_fbw" alt="" coords="797,133,976,160"/>
-<area shape="rect" id="node4" href="$Attitude_8pde.html#a2ee107cf7f9cd5f573d492d760751ddb" title="stabilize_yaw" alt="" coords="623,20,724,47"/>
-<area shape="rect" id="node5" href="$Attitude_8pde.html#a5915bf02c3bd19b57c717c8234369fdd" title="stabilize" alt="" coords="1025,56,1095,83"/>
-<area shape="rect" id="node6" href="$Attitude_8pde.html#aede80974c348fcf7fd493d948cd080df" title="stabilize_training" alt="" coords="827,31,946,57"/>
-</map>

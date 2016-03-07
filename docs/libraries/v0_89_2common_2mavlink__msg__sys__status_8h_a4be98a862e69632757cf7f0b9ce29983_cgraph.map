@@ -1,9 +1,0 @@
-<map id="mavlink_msg_sys_status_decode" name="mavlink_msg_sys_status_decode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a4288007ff745753adda49a6434e2e699" title="Send a sys_status message. " alt="" coords="224,5,395,46"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a677d34da6536d48c057763247f0da851" title="Get field nav_mode from sys_status message. " alt="" coords="224,70,395,111"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a729c0b2626be57e02414d3e90513998f" title="Get field status from sys_status message. " alt="" coords="224,135,395,177"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#aae7c31ca678091587ef13c0e269b4a95" title="Get field load from sys_status message. " alt="" coords="224,201,395,242"/>
-<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#ac566a9cc325a6f13f7aed1bd6cce90f0" title="Get field vbat from sys_status message. " alt="" coords="224,266,395,307"/>
-<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a7f15d40daa20c449354079cf73ecb85a" title="Get field battery_remaining from sys_status message. " alt="" coords="224,331,395,373"/>
-<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#a6ec534b1f734595d50bdc7cb3edfa50a" title="Get field packet_drop from sys_status message. " alt="" coords="224,397,395,438"/>
-</map>

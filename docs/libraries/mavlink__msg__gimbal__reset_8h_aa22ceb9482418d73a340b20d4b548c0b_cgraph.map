@@ -1,4 +1,0 @@
-<map id="mavlink_msg_gimbal_reset_decode" name="mavlink_msg_gimbal_reset_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__reset_8h.html#acec4724c5e73e28503127c6b278354c2" title="Send a gimbal_reset message. " alt="" coords="208,5,381,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__gimbal__reset_8h.html#a97d1e857ffcdb029e954f082d74a8970" title="Get field target_component from gimbal_reset message. " alt="" coords="197,70,392,111"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="NavEKF::resetGyroBias" name="NavEKF::resetGyroBias">
-<area shape="rect" id="node2" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="235,5,335,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#aaef60d20b82acb3930c5866abe3977b4" title="NavEKF::zeroRows" alt="" coords="216,56,355,83"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a755c7075fb0ee5f86cef734ecf83e53a" title="NavEKF::zeroCols" alt="" coords="219,107,351,133"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="266,157,305,184"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="253,208,317,235"/>
-</map>

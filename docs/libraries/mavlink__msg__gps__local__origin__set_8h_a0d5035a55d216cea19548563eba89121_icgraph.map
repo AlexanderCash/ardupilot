@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gps_local_origin_set_get_altitude" name="mavlink_msg_gps_local_origin_set_get_altitude">
-<area shape="rect" id="node2" href="$mavlink__msg__gps__local__origin__set_8h.html#ab5e473ccc6af8538f02f051f4ecf10b3" title="Decode a gps_local_origin_set message into a struct. " alt="" coords="217,5,378,46"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#afa774e282ed97fbe0a1ca4acc7fd9ea6" title="mavlink_test_gps_local\l_origin_set" alt="" coords="427,5,586,46"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="635,12,789,39"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="838,12,954,39"/>
-</map>

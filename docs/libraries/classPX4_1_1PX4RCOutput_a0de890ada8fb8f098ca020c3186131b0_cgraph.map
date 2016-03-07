@@ -1,4 +1,0 @@
-<map id="PX4::PX4RCOutput::_publish_actuators" name="PX4::PX4RCOutput::_publish_actuators">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title="AP_HAL::Util::safety\l_switch_state" alt="" coords="201,5,346,46"/>
-<area shape="rect" id="node3" href="$classPX4_1_1PX4RCOutput.html#adbf4c769f3c87a57bcacf878adebfa8c" title="PX4::PX4RCOutput::\l_arm_actuators" alt="" coords="200,70,347,111"/>
-</map>

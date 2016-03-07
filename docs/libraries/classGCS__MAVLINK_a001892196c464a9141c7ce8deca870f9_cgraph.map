@@ -1,7 +1,0 @@
-<map id="GCS_MAVLINK::handle_set_mode" name="GCS_MAVLINK::handle_set_mode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__set__mode_8h.html#a18ffb48ae51f7128753bb91cc7ced9d8" title="Decode a set_mode message into a struct. " alt="" coords="224,37,387,78"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1RCOutput.html#afb075a7e5438b6f0bae228e0b6be0cc2" title="AP_HAL::RCOutput::force\l_safety_off" alt="" coords="217,102,394,143"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1RCOutput.html#a6852e3aa22747f045dc71972e97d7de6" title="AP_HAL::RCOutput::force\l_safety_on" alt="" coords="217,167,394,209"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__set__mode_8h.html#a0dcfa7dcff34ac1dbb917db83075bf71" title="Send a set_mode message. " alt="" coords="443,5,605,46"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__set__mode_8h.html#ab02239fa63cf6fd14e4010383db7dfab" title="Get field mode from set_mode message. " alt="" coords="443,70,605,111"/>
-</map>

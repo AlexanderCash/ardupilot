@@ -1,8 +1,0 @@
-<map id="AP_InertialSensor_MPU9250::_register_read" name="AP_InertialSensor_MPU9250::_register_read">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__MPU9250.html#a7915f9935d7e94cc17611d0a2927a1c9" title="AP_InertialSensor_MPU9250\l::_hardware_init" alt="" coords="245,5,437,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__MPU9250.html#a1ffc4c3ef07f19632864c3f5de6702ba" title="AP_InertialSensor_MPU9250\l::_init_sensor" alt="" coords="485,34,677,75"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__MPU9250.html#a5870cbd48fb92ada02747afcae3eaa6c" title="AP_InertialSensor_MPU9250\l::detect" alt="" coords="725,34,917,75"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="966,34,1101,75"/>
-<area shape="rect" id="node6" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="1149,41,1301,68"/>
-<area shape="rect" id="node7" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1350,41,1405,68"/>
-</map>

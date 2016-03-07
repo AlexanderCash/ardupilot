@@ -1,4 +1,0 @@
-<map id="mavlink_msg_global_position_int_cov_pack_chan" name="mavlink_msg_global_position_int_cov_pack_chan">
-<area shape="rect" id="node2" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="283,5,423,32"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="248,56,459,83"/>
-</map>

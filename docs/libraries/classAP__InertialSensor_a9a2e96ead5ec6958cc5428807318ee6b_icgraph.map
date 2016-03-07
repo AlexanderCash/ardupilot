@@ -1,4 +1,0 @@
-<map id="AP_InertialSensor::calibrate_accel" name="AP_InertialSensor::calibrate_accel">
-<area shape="rect" id="node2" href="$INS__generic_8pde.html#a5f96ea11224723731b4efa6cf4f1237b" title="run_calibration" alt="" coords="189,12,296,39"/>
-<area shape="rect" id="node3" href="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="345,12,391,39"/>
-</map>

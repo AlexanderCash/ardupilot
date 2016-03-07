@@ -1,5 +1,0 @@
-<map id="AP_BattMonitor_SMBus" name="AP_BattMonitor_SMBus">
-<area shape="rect" id="node3" href="$classAP__BattMonitor__SMBus__I2C.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="5,155,197,181"/>
-<area shape="rect" id="node4" href="$classAP__BattMonitor__SMBus__PX4.html" title="AP_BattMonitor_SMBus_PX4" alt="" coords="222,155,417,181"/>
-<area shape="rect" id="node2" href="$classAP__BattMonitor__Backend.html" title="AP_BattMonitor_Backend" alt="" coords="125,5,296,32"/>
-</map>

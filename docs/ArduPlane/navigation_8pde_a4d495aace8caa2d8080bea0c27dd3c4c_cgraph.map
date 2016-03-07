@@ -1,8 +1,0 @@
-<map id="update_cruise" name="update_cruise">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="AP_GPS::status" alt="" coords="193,5,311,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="170,56,334,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a94caaa8676fecb6c0c4a8a58eea3b106" title="AP_GPS::ground_course_cd" alt="" coords="157,107,347,133"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ab0e06d28afb9d14043e1938af277396c" title="location_update" alt="" coords="195,157,309,184"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="204,208,300,235"/>
-<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#acbff1d37eab53cfb052773759a27148c" title="AP_Navigation::update\l_waypoint" alt="" coords="174,259,330,301"/>
-</map>

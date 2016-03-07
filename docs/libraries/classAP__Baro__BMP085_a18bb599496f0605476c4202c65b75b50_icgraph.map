@@ -1,5 +1,0 @@
-<map id="AP_Baro_BMP085::ReadPress" name="AP_Baro_BMP085::ReadPress">
-<area shape="rect" id="node2" href="$classAP__Baro__BMP085.html#a17a0aef961a4ce8aa39073d889f678d6" title="AP_Baro_BMP085::accumulate" alt="" coords="259,31,466,57"/>
-<area shape="rect" id="node3" href="$AP__Baro__BMP085__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="581,5,627,32"/>
-<area shape="rect" id="node4" href="$classAP__Baro__BMP085.html#a2aa3463e9e908fef68b1f5ab699f1357" title="AP_Baro_BMP085::update" alt="" coords="515,56,693,83"/>
-</map>

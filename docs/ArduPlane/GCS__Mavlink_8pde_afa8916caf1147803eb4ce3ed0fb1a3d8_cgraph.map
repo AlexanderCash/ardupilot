@@ -1,7 +1,0 @@
-<map id="send_location" name="send_location">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="AP_GPS::status" alt="" coords="190,5,309,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a2ce70cc34e62a3f0e5980f56d9a36856" title="AP_GPS::last_fix_time_ms" alt="" coords="158,56,341,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a8b36acdc5098b3f77e28ec640b438fbd" title="AP_GPS::velocity" alt="" coords="185,107,313,133"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a2ca8a9bad47faad1baeb09e124979022" title="AP_GPS::location" alt="" coords="185,157,313,184"/>
-<area shape="rect" id="node6" href="$altitude_8pde.html#aca1d34c92891d51ed07e6d136b5ea532" title="relative_altitude" alt="" coords="193,208,306,235"/>
-</map>

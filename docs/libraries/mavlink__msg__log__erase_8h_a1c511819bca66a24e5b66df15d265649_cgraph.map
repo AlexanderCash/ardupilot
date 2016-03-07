@@ -1,4 +1,0 @@
-<map id="mavlink_msg_log_erase_decode" name="mavlink_msg_log_erase_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__log__erase_8h.html#a9ceb78d6683be034e40df6778bf5548f" title="Send a log_erase message. " alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__log__erase_8h.html#ad4e2e408568343966f459f19191e488a" title="Get field target_component from log_erase message. " alt="" coords="216,70,379,111"/>
-</map>

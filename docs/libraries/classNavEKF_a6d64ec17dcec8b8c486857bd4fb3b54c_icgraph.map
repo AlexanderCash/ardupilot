@@ -1,5 +1,0 @@
-<map id="NavEKF::setWindVelStates" name="NavEKF::setWindVelStates">
-<area shape="rect" id="node2" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="240,34,435,75"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="483,5,640,46"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="486,71,637,97"/>
-</map>

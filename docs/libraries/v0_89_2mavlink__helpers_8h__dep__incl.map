@@ -1,7 +1,0 @@
-<map id="libraries/GCS_MAVLink/include/mavlink/v0.9/mavlink_helpers.h" name="libraries/GCS_MAVLink/include/mavlink/v0.9/mavlink_helpers.h">
-<area shape="rect" id="node2" href="$v0_89_2protocol_8h.html" title="libraries/GCS_MAVLink\l/include/mavlink/v0.9\l/protocol.h" alt="" coords="85,109,244,165"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2ardupilotmega_8h.html" title="MAVLink comm protocol generated from ardupilotmega.xml. " alt="" coords="5,317,208,373"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2common_8h.html" title="MAVLink comm protocol generated from common.xml. " alt="" coords="144,213,303,269"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2mavlink_8h.html" title="MAVLink comm protocol built from ardupilotmega.xml. " alt="" coords="23,421,189,477"/>
-<area shape="rect" id="node6" href="$v0_89_2common_2mavlink_8h.html" title="MAVLink comm protocol built from common.xml. " alt="" coords="232,317,391,373"/>
-</map>

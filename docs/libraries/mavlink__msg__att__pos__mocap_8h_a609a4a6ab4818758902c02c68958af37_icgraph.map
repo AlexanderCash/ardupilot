@@ -1,6 +1,0 @@
-<map id="mavlink_msg_att_pos_mocap_get_x" name="mavlink_msg_att_pos_mocap_get_x">
-<area shape="rect" id="node2" href="$mavlink__msg__att__pos__mocap_8h.html#a8bb2f00236bc3485b985c086a64ccb1f" title="Decode a att_pos_mocap message into a struct. " alt="" coords="203,5,352,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a7bd674b5ebc00f0a503b928263bd2e87" title="mavlink_test_att_pos\l_mocap" alt="" coords="400,5,547,46"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="595,12,749,39"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="798,12,914,39"/>
-</map>

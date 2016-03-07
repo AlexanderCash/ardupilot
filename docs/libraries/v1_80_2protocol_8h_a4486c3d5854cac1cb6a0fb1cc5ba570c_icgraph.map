@@ -1,5 +1,0 @@
-<map id="mav_array_memcpy" name="mav_array_memcpy">
-<area shape="rect" id="node2" href="$v1_80_2protocol_8h.html#a1e87b7f293e127478ca611644a7810b6" title="_mav_put_char_array" alt="" coords="203,5,349,32"/>
-<area shape="rect" id="node3" href="$v1_80_2protocol_8h.html#a64bb3513b0bb1439774f99bc2f27c38b" title="_mav_put_int8_t_array" alt="" coords="199,56,353,83"/>
-<area shape="rect" id="node4" href="$v1_80_2protocol_8h.html#a78cf8b010c1768f8be4b9caa34aba0dc" title="_mav_put_uint8_t_array" alt="" coords="195,107,357,133"/>
-</map>

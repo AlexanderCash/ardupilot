@@ -1,5 +1,0 @@
-<map id="do_erase_logs" name="do_erase_logs">
-<area shape="rect" id="node2" href="$GCS__Mavlink_8pde.html#a6bb153355507cf625bc0de5dfa76c137" title="gcs_send_text_P" alt="" coords="189,5,312,32"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a8e4f6c9fc9e78712f446b94ffaa9cc69" title="DataFlash_Class::EraseAll" alt="" coords="161,56,341,83"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="390,5,589,32"/>
-</map>

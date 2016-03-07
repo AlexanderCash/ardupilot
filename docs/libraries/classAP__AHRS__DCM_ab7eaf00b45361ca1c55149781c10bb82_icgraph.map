@@ -1,7 +1,0 @@
-<map id="AP_AHRS_DCM::reset" name="AP_AHRS_DCM::reset">
-<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#aa7cd5fe913c090673b3dcaa3da9eacb3" title="AP_AHRS_DCM::check\l_matrix" alt="" coords="449,55,615,97"/>
-<area shape="rect" id="node6" href="$classAP__AHRS__DCM.html#ace68e355f57ff433c22fab05ebecd549" title="AP_AHRS_DCM::normalize" alt="" coords="213,113,400,140"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="665,5,818,46"/>
-<area shape="rect" id="node4" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="867,71,1037,97"/>
-<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1086,71,1133,97"/>
-</map>

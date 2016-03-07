@@ -1,5 +1,0 @@
-<map id="startup_INS_ground" name="startup_INS_ground">
-<area shape="rect" id="node2" href="$system_8pde.html#ae45d741f1c48b956c06322f8c4db6c70" title="startup_ground" alt="" coords="193,5,301,32"/>
-<area shape="rect" id="node3" href="$system_8pde.html#adf8053623ae608c96db339992ed2528c" title="init_ardupilot" alt="" coords="350,5,445,32"/>
-<area shape="rect" id="node4" href="$ArduPlane_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="494,5,549,32"/>
-</map>

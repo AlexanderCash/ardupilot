@@ -1,4 +1,0 @@
-<map id="NavEKF::getMagOffsets" name="NavEKF::getMagOffsets">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#adf808841de62499bc8c388fc798d47f1" title="AP_AHRS::get_compass" alt="" coords="221,5,392,32"/>
-<area shape="rect" id="node3" href="$classCompass.html#a6ef45f63ac177793bf38270cef8228cb" title="Compass::get_offsets" alt="" coords="231,56,382,83"/>
-</map>

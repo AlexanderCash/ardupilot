@@ -1,4 +1,0 @@
-<map id="mavlink_msg_set_roll_pitch_yaw_thrust_encode" name="mavlink_msg_set_roll_pitch_yaw_thrust_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__set__roll__pitch__yaw__thrust_8h.html#a6849df2779a085d139e704ae877d4be2" title="Pack a set_roll_pitch_yaw_thrust message. " alt="" coords="232,5,395,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="443,12,618,39"/>
-</map>

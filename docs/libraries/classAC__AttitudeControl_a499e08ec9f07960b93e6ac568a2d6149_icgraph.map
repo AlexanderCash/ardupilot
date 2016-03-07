@@ -1,6 +1,0 @@
-<map id="AC_AttitudeControl::angle_ef_targets" name="AC_AttitudeControl::angle_ef_targets">
-<area shape="rect" id="node2" href="$classAC__WPNav.html#aac5ca2032c77c9c26fbe6e1e095c327e" title="AC_WPNav::set_spline\l_origin_and_destination" alt="" coords="201,5,362,46"/>
-<area shape="rect" id="node4" href="$classAC__WPNav.html#a5b055923b08502c96c71a9e186020b42" title="set_wp_origin_and_destination &#45; set origin and destination waypoints using position vectors (distance..." alt="" coords="190,70,373,111"/>
-<area shape="rect" id="node3" href="$classAC__WPNav.html#a2b69b65d22efd7793a6f081678f9b8a1" title="AC_WPNav::set_spline\l_destination" alt="" coords="449,5,610,46"/>
-<area shape="rect" id="node5" href="$classAC__WPNav.html#aac204111a3f01e04d5b8165f03db223e" title="set_wp_destination waypoint using position vector (distance from home in cm) " alt="" coords="422,77,637,104"/>
-</map>

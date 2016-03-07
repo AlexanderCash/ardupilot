@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor::_calculate_trim" name="AP_InertialSensor::_calculate_trim">
-<area shape="rect" id="node2" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="217,5,317,32"/>
-<area shape="rect" id="node4" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="235,56,299,83"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1UARTDriver.html#a29b84f87f40b331b6922da5d8b57d9f0" title="AP_HAL::UARTDriver\l::println_P" alt="" coords="190,107,343,149"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="233,173,301,200"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="393,5,431,32"/>
-</map>

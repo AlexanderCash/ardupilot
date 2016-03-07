@@ -1,4 +1,0 @@
-<map id="gcs_send_airspeed_calibration" name="gcs_send_airspeed_calibration">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="291,5,427,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#af11fb91add08f3c0ed721fdb9d6bea17" title="AP_Airspeed::log_mavlink_send" alt="" coords="253,56,464,83"/>
-</map>

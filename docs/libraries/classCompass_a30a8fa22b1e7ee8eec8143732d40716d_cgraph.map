@@ -1,7 +1,0 @@
-<map id="Compass::setHIL" name="Compass::setHIL">
-<area shape="rect" id="node2" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="409,64,543,91"/>
-<area shape="rect" id="node3" href="$AP__Math_8h.html#acedd05d9f5ab6f2878991cc684e17c18" title="is_equal" alt="" coords="225,32,295,59"/>
-<area shape="rect" id="node4" href="$classCompass.html#a5051de1d15ee203600422235ab93c88c" title="Compass::get_declination" alt="" coords="389,119,563,145"/>
-<area shape="rect" id="node5" href="$classCompass.html#a0bc30e897c2c0c412120e1b1337bd1cb" title="Compass::_setup_earth\l_field" alt="" coords="179,83,341,125"/>
-<area shape="rect" id="node6" href="$classMatrix3.html#a3705734aec6b67d729011cd792d7398a" title="Matrix3::mul_transpose" alt="" coords="181,200,339,227"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="OpticalFlow_backend::_update_frontend" name="OpticalFlow_backend::_update_frontend">
-<area shape="rect" id="node2" href="$classOpticalFlow.html#a03fd2db14c3efc228551e702303d59f8" title="OpticalFlow::setHIL" alt="" coords="205,12,344,39"/>
-<area shape="rect" id="node8" href="$classAP__OpticalFlow__PX4.html#a7dd61e7b2db436c10012fc17c378d4ac" title="AP_OpticalFlow_PX4\l::update" alt="" coords="201,63,349,105"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a37c3534ef88c31b2d57f0aee8018d6ed" title="HALSITL::SITL_State\l::_update_flow" alt="" coords="398,5,549,46"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="598,5,749,46"/>
-<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="798,5,949,46"/>
-<area shape="rect" id="node6" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="997,5,1168,46"/>
-<area shape="rect" id="node7" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1216,5,1387,46"/>
-</map>

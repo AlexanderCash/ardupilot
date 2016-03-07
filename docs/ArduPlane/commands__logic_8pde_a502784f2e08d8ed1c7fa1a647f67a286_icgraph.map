@@ -1,4 +1,0 @@
-<map id="verify_takeoff" name="verify_takeoff">
-<area shape="rect" id="node2" href="$commands__logic_8pde.html#a42358652e4033ff08d1056cc4d5bbab8" title="verify_command" alt="" coords="155,5,274,32"/>
-<area shape="rect" id="node3" href="$commands__logic_8pde.html#a072ff1b2f62a15fe354c2405089fd078" title="verify_command_callback" alt="" coords="323,5,496,32"/>
-</map>

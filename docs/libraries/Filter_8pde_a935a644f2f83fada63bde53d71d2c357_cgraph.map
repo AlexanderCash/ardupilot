@@ -1,6 +1,0 @@
-<map id="readTemp" name="readTemp">
-<area shape="rect" id="node2" href="$classAverageFilter.html#a1393e1329a54418471a8aac648fa716f" title="AverageFilter::apply" alt="" coords="141,5,280,32"/>
-<area shape="rect" id="node4" href="$classButter2.html#ae9c22fe8e999d99464536148e0093ca9" title="Butter2::filter" alt="" coords="162,56,259,83"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="134,107,287,149"/>
-<area shape="rect" id="node3" href="$classFilterWithBuffer.html#aae753aef534f178a80c4833e6b3f7639" title="FilterWithBuffer::apply" alt="" coords="336,5,488,32"/>
-</map>

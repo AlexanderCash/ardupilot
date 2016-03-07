@@ -1,6 +1,0 @@
-<map id="disarm_motors" name="disarm_motors">
-<area shape="rect" id="node2" href="$landing_8pde.html#a1df24c8c6568cbc8c72b7406283bf068" title="disarm_if_autoland\l_complete" alt="" coords="163,5,293,46"/>
-<area shape="rect" id="node3" href="$landing_8pde.html#a76d7ac00bf1a68b5db464de185d44847" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="341,12,427,39"/>
-<area shape="rect" id="node4" href="$commands__logic_8pde.html#a42358652e4033ff08d1056cc4d5bbab8" title="verify_command" alt="" coords="475,12,594,39"/>
-<area shape="rect" id="node5" href="$commands__logic_8pde.html#a072ff1b2f62a15fe354c2405089fd078" title="verify_command_callback" alt="" coords="643,12,816,39"/>
-</map>

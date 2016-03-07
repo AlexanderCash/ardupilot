@@ -1,8 +1,0 @@
-<map id="mavlink_msg_manual_control_decode" name="mavlink_msg_manual_control_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__manual__control_8h.html#a3fd9464c63702a8941bf25aae57cae9a" title="Get field x from manual_control message. " alt="" coords="203,5,351,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__manual__control_8h.html#a92b957426c27fa4a4d642f550c393013" title="Get field y from manual_control message. " alt="" coords="203,70,351,111"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__manual__control_8h.html#ae27307850c8a436f55fcab3214641871" title="Get field z from manual_control message. " alt="" coords="203,135,351,177"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__manual__control_8h.html#a64d7f1e67a175df04174b9f9b2092c23" title="Get field r from manual_control message. " alt="" coords="203,201,351,242"/>
-<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__manual__control_8h.html#aca5f980864fe008a6a68f53232655ecb" title="Get field buttons from manual_control message. " alt="" coords="203,266,351,307"/>
-<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__manual__control_8h.html#a6a1acacaac63f367216acc85c174a18a" title="Send a manual_control message. " alt="" coords="203,331,351,373"/>
-</map>

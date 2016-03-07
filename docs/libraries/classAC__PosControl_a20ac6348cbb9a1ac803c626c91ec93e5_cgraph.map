@@ -1,8 +1,0 @@
-<map id="AC_PosControl::get_stopping_point_z" name="AC_PosControl::get_stopping_point_z">
-<area shape="rect" id="node2" href="$classAP__InertialNav.html#ac47da3c171cdcaabb4bc3a2749762461" title="AP_InertialNav::get\l_altitude" alt="" coords="217,5,353,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialNav.html#a0bfe83fb80c4340b39987b25c26659b6" title="AP_InertialNav::get\l_velocity_z" alt="" coords="217,70,353,111"/>
-<area shape="rect" id="node4" href="$classAC__PosControl.html#aeaaab19261649e644c0c83b471a0325c" title="AC_PosControl::is_active_z" alt="" coords="192,136,379,163"/>
-<area shape="rect" id="node6" href="$classAC__P.html#a9378b33d8cfb4bf2417880c038f1b7a2" title="AC_P::kP" alt="" coords="245,187,326,213"/>
-<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="232,237,339,264"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="427,129,573,170"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="libraries/AP_HAL_AVR/memcheck.h" name="libraries/AP_HAL_AVR/memcheck.h">
-<area shape="rect" id="node2" href="$AVR_2Util_8h.html" title="libraries/AP_HAL_AVR\l/Util.h" alt="" coords="133,103,291,145"/>
-<area shape="rect" id="node6" href="$ArduCopterLibs_8pde.html" title="libraries/AP_HAL_AVR\l/examples/ArduCopterLibs\l/ArduCopterLibs.pde" alt="" coords="315,96,491,152"/>
-<area shape="rect" id="node7" href="$ArduPlaneLibs_8pde.html" title="libraries/AP_HAL_AVR\l/examples/ArduPlaneLibs\l/ArduPlaneLibs.pde" alt="" coords="515,96,685,152"/>
-<area shape="rect" id="node8" href="$AP__HAL__AVR_2Scheduler_8cpp.html" title="libraries/AP_HAL_AVR\l/Scheduler.cpp" alt="" coords="709,103,867,145"/>
-<area shape="rect" id="node3" href="$AP__HAL__AVR__private_8h.html" title="libraries/AP_HAL_AVR\l/AP_HAL_AVR_private.h" alt="" coords="127,201,296,242"/>
-<area shape="rect" id="node4" href="$HAL__AVR__APM1__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM1_Class.cpp" alt="" coords="5,291,200,333"/>
-<area shape="rect" id="node5" href="$HAL__AVR__APM2__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM2_Class.cpp" alt="" coords="225,291,420,333"/>
-</map>

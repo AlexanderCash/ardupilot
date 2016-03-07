@@ -1,7 +1,0 @@
-<map id="libraries/AP_HAL_AVR/AnalogIn.h" name="libraries/AP_HAL_AVR/AnalogIn.h">
-<area shape="rect" id="node2" href="$AnalogIn__ADC_8cpp.html" title="libraries/AP_HAL_AVR\l/AnalogIn_ADC.cpp" alt="" coords="5,97,163,138"/>
-<area shape="rect" id="node3" href="$AnalogIn__Common_8cpp.html" title="libraries/AP_HAL_AVR\l/AnalogIn_Common.cpp" alt="" coords="187,97,349,138"/>
-<area shape="rect" id="node4" href="$AP__HAL__AVR__private_8h.html" title="libraries/AP_HAL_AVR\l/AP_HAL_AVR_private.h" alt="" coords="374,97,543,138"/>
-<area shape="rect" id="node5" href="$HAL__AVR__APM1__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM1_Class.cpp" alt="" coords="250,187,445,229"/>
-<area shape="rect" id="node6" href="$HAL__AVR__APM2__Class_8cpp.html" title="libraries/AP_HAL_AVR\l/HAL_AVR_APM2_Class.cpp" alt="" coords="470,187,665,229"/>
-</map>

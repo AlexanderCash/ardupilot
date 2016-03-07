@@ -1,5 +1,0 @@
-<map id="MAVLink_routing::learn_route" name="MAVLink_routing::learn_route">
-<area shape="rect" id="node2" href="$classMAVLink__routing.html#a474038c8ab695c57e23fb6fec4664947" title="MAVLink_routing::check\l_and_forward" alt="" coords="211,23,375,65"/>
-<area shape="rect" id="node3" href="$routing_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="483,5,530,32"/>
-<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#a7d8788ed53976a200971612229fe2533" title="GCS_MAVLINK::update" alt="" coords="425,56,589,83"/>
-</map>

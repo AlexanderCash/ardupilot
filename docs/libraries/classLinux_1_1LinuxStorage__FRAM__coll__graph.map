@@ -1,6 +1,0 @@
-<map id="Linux::LinuxStorage_FRAM" name="Linux::LinuxStorage_FRAM">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxStorage.html" title="Linux::LinuxStorage" alt="" coords="5,83,141,109"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Storage.html" title="AP_HAL::Storage" alt="" coords="10,5,136,32"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="167,83,313,109"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="337,83,516,109"/>
-</map>

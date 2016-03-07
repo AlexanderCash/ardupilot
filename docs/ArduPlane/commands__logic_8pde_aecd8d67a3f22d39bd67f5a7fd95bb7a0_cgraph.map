@@ -1,9 +1,0 @@
-<map id="verify_loiter_to_alt" name="verify_loiter_to_alt">
-<area shape="rect" id="node2" href="$navigation_8pde.html#a2307c8ad7ff975923da6fbe17c1c28fc" title="update_loiter" alt="" coords="216,12,312,39"/>
-<area shape="rect" id="node4" href="$ArduPlane_8pde.html#a4ca9908869f03c8499bb30e8cae3ccc0" title="mission" alt="" coords="231,63,297,89"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#a992b76c57b3c0066ae4187d16befc97a" title="AP_Mission::get_next\l_nav_cmd" alt="" coords="189,114,339,155"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#a9961af5da3cb696b3c533d504794de49" title="AP_Mission::get_current\l_nav_index" alt="" coords="181,179,347,221"/>
-<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a224e7b94333df3a15a18499026474ac9" title="get_bearing_cd" alt="" coords="209,245,319,272"/>
-<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a35821002985a8e3e526c8ccad9bb9934" title="wrap_180_cd" alt="" coords="215,296,313,323"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#a97a9971938227d8e88c267b33e841e0d" title="AP_Navigation::update\l_loiter" alt="" coords="395,5,551,46"/>
-</map>

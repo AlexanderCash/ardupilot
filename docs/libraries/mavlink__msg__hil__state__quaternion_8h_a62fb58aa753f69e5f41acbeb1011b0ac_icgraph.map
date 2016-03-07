@@ -1,6 +1,0 @@
-<map id="mavlink_msg_hil_state_quaternion_pack_chan" name="mavlink_msg_hil_state_quaternion_pack_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__hil__state__quaternion_8h.html#a5b6ac43c8f7a31f517c128e9603fc297" title="Encode a hil_state_quaternion struct on a channel. " alt="" coords="213,5,387,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a32d633b27cf11c6e93320ff53199a622" title="mavlink_test_hil_state\l_quaternion" alt="" coords="224,70,376,111"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="435,77,589,104"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="638,77,754,104"/>
-</map>

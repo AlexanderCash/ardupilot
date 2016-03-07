@@ -1,9 +1,0 @@
-<map id="AP_Mount_Backend" name="AP_Mount_Backend">
-<area shape="rect" id="node2" href="$classAP__Mount.html" title="AP_Mount" alt="" coords="285,368,367,395"/>
-<area shape="rect" id="node3" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="5,277,155,304"/>
-<area shape="rect" id="node4" href="$structAP__Mount_1_1mount__state.html" title="AP_Mount::mount_state" alt="" coords="472,187,635,213"/>
-<area shape="rect" id="node5" href="$structAP__Mount_1_1gimbal__params.html" title="AP_Mount::gimbal_params" alt="" coords="464,96,643,123"/>
-<area shape="rect" id="node6" href="$structLocation.html" title="Location" alt="" coords="309,96,379,123"/>
-<area shape="rect" id="node7" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="267,5,420,32"/>
-<area shape="rect" id="node8" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="331,187,447,213"/>
-</map>

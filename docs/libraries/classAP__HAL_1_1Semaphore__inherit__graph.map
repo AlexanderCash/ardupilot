@@ -1,6 +1,0 @@
-<map id="AP_HAL::Semaphore" name="AP_HAL::Semaphore">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRSemaphore.html" title="AP_HAL_AVR::AVRSemaphore" alt="" coords="200,5,411,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLESemaphore.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLESemaphore" alt="" coords="218,57,393,98"/>
-<area shape="rect" id="node4" href="$classEmpty_1_1EmptySemaphore.html" title="Empty::EmptySemaphore" alt="" coords="219,123,391,149"/>
-<area shape="rect" id="node5" href="$classLinux_1_1LinuxSemaphore.html" title="Linux::LinuxSemaphore" alt="" coords="226,173,385,200"/>
-</map>

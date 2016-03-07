@@ -1,9 +1,0 @@
-<map id="mavlink_msg_data_transmission_handshake_decode" name="mavlink_msg_data_transmission_handshake_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__data__transmission__handshake_8h.html#ac0c3bcf553e25f4c74af6b254a9c84ce" title="Get field size from data_transmission_handshake message. " alt="" coords="267,5,479,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__data__transmission__handshake_8h.html#acc0f8e01e860584cbb06302092ef76d9" title="Get field width from data_transmission_handshake message. " alt="" coords="267,70,479,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__data__transmission__handshake_8h.html#a9548bcc83244cd65ce861b4475dbec1b" title="Get field height from data_transmission_handshake message. " alt="" coords="267,135,479,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__data__transmission__handshake_8h.html#a5170bb055c8c05e8253eeb6056241eca" title="Get field packets from data_transmission_handshake message. " alt="" coords="267,201,479,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__data__transmission__handshake_8h.html#a1cbb63acef29b887e795ac10ca16e665" title="Send a data_transmission_handshake message. " alt="" coords="267,266,479,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__data__transmission__handshake_8h.html#a4edf6f7a2a633b610fd88db04c7bd014" title="Get field payload from data_transmission_handshake message. " alt="" coords="267,331,479,373"/>
-<area shape="rect" id="node8" href="$mavlink__msg__data__transmission__handshake_8h.html#a055ce0a42f818b3aa456e8c8a2eb9320" title="Get field jpg_quality from data_transmission_handshake message. " alt="" coords="267,397,479,438"/>
-</map>

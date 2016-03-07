@@ -1,6 +1,0 @@
-<map id="RC_Channel::get_limit_pwm" name="RC_Channel::get_limit_pwm">
-<area shape="rect" id="node2" href="$classAPM__OBC.html#acfedfcd0f28b1d53b722766e321b534e" title="APM_OBC::check_crash\l_plane" alt="" coords="667,54,837,95"/>
-<area shape="rect" id="node3" href="$classRC__Channel__aux.html#a987891f25f46d7795db08233cf68d81b" title="RC_Channel_aux::set\l_servo_failsafe" alt="" coords="243,29,394,70"/>
-<area shape="rect" id="node4" href="$classAPM__OBC.html#adf90097b54be3e9ffbf21f675e411b6c" title="APM_OBC::setup_failsafe" alt="" coords="443,61,619,88"/>
-<area shape="rect" id="node5" href="$classRC__Channel__aux.html#a51ae109c0c7a23ad9735a8571ac9ee95" title="RC_Channel_aux::set\l_servo_limit" alt="" coords="455,125,606,166"/>
-</map>

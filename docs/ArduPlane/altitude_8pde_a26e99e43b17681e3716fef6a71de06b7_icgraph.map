@@ -1,7 +1,0 @@
-<map id="calc_altitude_error_cm" name="calc_altitude_error_cm">
-<area shape="rect" id="node2" href="$altitude_8pde.html#a230a2b6b692dbf6886b1ce524376f88f" title="adjust_altitude_target" alt="" coords="621,14,768,41"/>
-<area shape="rect" id="node3" href="$altitude_8pde.html#a959640f9ebe33459ea8eb28205de7bcc" title="set_target_altitude\l_proportion" alt="" coords="234,27,363,68"/>
-<area shape="rect" id="node5" href="$navigation_8pde.html#a0b5c9dfeecbab7c8b57eb2b62cdda33c" title="update_fbwb_speed_height" alt="" coords="209,118,389,145"/>
-<area shape="rect" id="node4" href="$landing_8pde.html#ad4c51ac657cf5884a07f0eb547b8c135" title="setup_landing_glide\l_slope" alt="" coords="437,65,573,107"/>
-<area shape="rect" id="node6" href="$ArduPlane_8pde.html#a1353a77e19a7028fda60ee8706f0879d" title="update_flight_mode" alt="" coords="438,131,573,158"/>
-</map>

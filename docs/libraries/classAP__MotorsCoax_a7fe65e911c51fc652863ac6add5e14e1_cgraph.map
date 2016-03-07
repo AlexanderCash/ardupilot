@@ -1,4 +1,0 @@
-<map id="AP_MotorsCoax::enable" name="AP_MotorsCoax::enable">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1RCOutput.html#a25196bb820266d4afcae14d0acdb7e1c" title="AP_HAL::RCOutput::enable_ch" alt="" coords="219,5,426,32"/>
-<area shape="rect" id="node3" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="267,56,378,83"/>
-</map>

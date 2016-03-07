@@ -1,5 +1,0 @@
-<map id="RangeFinder::distance_cm" name="RangeFinder::distance_cm">
-<area shape="rect" id="node2" href="$RFIND__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="298,5,345,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#ae4d8e282bc4e67e56179c5dd6861dfe9" title="NavEKF::readRangeFinder" alt="" coords="232,56,411,83"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="459,56,610,83"/>
-</map>

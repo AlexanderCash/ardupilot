@@ -1,4 +1,0 @@
-<map id="GCS_MAVLINK::send_ahrs2" name="GCS_MAVLINK::send_ahrs2">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#ab58e7d00d7e434949abca436144b58e4" title="AP_AHRS::get_secondary\l_attitude" alt="" coords="245,5,424,46"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#aec9ab602135d16cd05aa0376842d2779" title="AP_AHRS::get_secondary\l_position" alt="" coords="245,70,424,111"/>
-</map>

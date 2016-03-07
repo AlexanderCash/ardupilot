@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gopro_get_response_pack" name="mavlink_msg_gopro_get_response_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__gopro__get__response_8h.html#ab1f4b318c6277c00b11d5c813ac67215" title="Encode a gopro_get_response struct. " alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a07a1b75d6c59fb265c43d36811c4a91f" title="mavlink_test_gopro\l_get_response" alt="" coords="427,34,562,75"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="611,41,795,68"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="843,41,959,68"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="mavlink_update_checksum" name="mavlink_update_checksum">
-<area shape="rect" id="node2" href="$v1_80_2mavlink__helpers_8h.html#a0e22b58900ea14d70bff3aadb38dbb3d" title="mavlink_frame_char\l_buffer" alt="" coords="235,5,373,46"/>
-<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#ad91e8323cefc65965574c09e72365d7d" title="mavlink_parse_char" alt="" coords="235,71,373,97"/>
-<area shape="rect" id="node3" href="$v1_80_2mavlink__helpers_8h.html#ab9ea03db8cd45ce94b64b508b087ebe6" title="mavlink_frame_char" alt="" coords="435,12,573,39"/>
-<area shape="rect" id="node4" href="$v1_80_2mavlink__helpers_8h.html#ad91e8323cefc65965574c09e72365d7d" title="mavlink_parse_char" alt="" coords="635,12,773,39"/>
-<area shape="rect" id="node6" href="$simplegcs_8h.html#a0e026fc9b23210373846b25cc141486d" title="simplegcs_update" alt="" coords="441,67,567,93"/>
-<area shape="rect" id="node8" href="$classGCS__MAVLINK.html#a7d8788ed53976a200971612229fe2533" title="GCS_MAVLINK::update" alt="" coords="422,117,586,144"/>
-<area shape="rect" id="node7" href="$GCS__Console_2examples_2Console_2Console_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="681,67,727,93"/>
-</map>

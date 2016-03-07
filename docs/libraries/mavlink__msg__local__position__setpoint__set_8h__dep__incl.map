@@ -1,6 +1,0 @@
-<map id="libraries/GCS_MAVLink/include/mavlink/v0.9/common/mavlink_msg_local_position_setpoint_set.h" name="libraries/GCS_MAVLink/include/mavlink/v0.9/common/mavlink_msg_local_position_setpoint_set.h">
-<area shape="rect" id="node2" href="$v0_89_2common_2common_8h.html" title="MAVLink comm protocol generated from common.xml. " alt="" coords="129,125,288,181"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2ardupilotmega_8h.html" title="MAVLink comm protocol generated from ardupilotmega.xml. " alt="" coords="5,229,208,285"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2mavlink_8h.html" title="MAVLink comm protocol built from common.xml. " alt="" coords="232,229,391,285"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2mavlink_8h.html" title="MAVLink comm protocol built from ardupilotmega.xml. " alt="" coords="23,333,189,389"/>
-</map>

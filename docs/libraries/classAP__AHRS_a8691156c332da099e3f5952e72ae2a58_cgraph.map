@@ -1,4 +1,0 @@
-<map id="AP_AHRS::airspeed_sensor_enabled" name="AP_AHRS::airspeed_sensor_enabled">
-<area shape="rect" id="node2" href="$classAP__Airspeed.html#a6162295b433e3a863c0d4b9086b19014" title="AP_Airspeed::use" alt="" coords="254,5,381,32"/>
-<area shape="rect" id="node3" href="$classAP__Airspeed.html#acddaade777fa87d5b8c904c79be01204" title="AP_Airspeed::healthy" alt="" coords="243,56,391,83"/>
-</map>

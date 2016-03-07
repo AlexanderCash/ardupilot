@@ -1,4 +1,0 @@
-<map id="NavEKF::getGyroBias" name="NavEKF::getGyroBias">
-<area shape="rect" id="node2" href="$classNavEKF.html#a9c6fa0fb0aea35417db85255fdea98c9" title="NavEKF::detectOptFlowTakeoff" alt="" coords="206,5,415,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#ad193e5aab03041673d4cfad9f7a2a6ba" title="NavEKF::writeOptFlowMeas" alt="" coords="464,5,653,32"/>
-</map>

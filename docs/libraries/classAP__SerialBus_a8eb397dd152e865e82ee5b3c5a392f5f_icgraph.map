@@ -1,6 +1,0 @@
-<map id="AP_SerialBus::read_24bits" name="AP_SerialBus::read_24bits">
-<area shape="rect" id="node2" href="$classAP__Baro__MS5611.html#a754a45cd1e595ebd27fc4516341f3528" title="AP_Baro_MS5611::_timer" alt="" coords="189,35,363,61"/>
-<area shape="rect" id="node3" href="$classAP__Baro__MS5611.html#ab150f02d7a128f50c583578a411ed34d" title="AP_Baro_MS5611::accumulate" alt="" coords="411,5,615,32"/>
-<area shape="rect" id="node5" href="$classAP__Baro__MS5611.html#a5e36586ae33638288843d7bc9ba5c607" title="AP_Baro_MS5611::AP\l_Baro_MS5611" alt="" coords="436,57,591,98"/>
-<area shape="rect" id="node4" href="$classAP__Baro__MS5611.html#aaabf16d34651abefbe5a9c81f1eb7016" title="AP_Baro_MS5611::update" alt="" coords="664,5,840,32"/>
-</map>

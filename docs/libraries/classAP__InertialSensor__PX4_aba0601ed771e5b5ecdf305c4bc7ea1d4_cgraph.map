@@ -1,4 +1,0 @@
-<map id="AP_InertialSensor_PX4::_get_accel_sample" name="AP_InertialSensor_PX4::_get_accel_sample">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__Backend.html#a2cdef50b6bc6bb491aecd4642cb5e483" title="AP_InertialSensor_Backend\l::get_dataflash" alt="" coords="218,5,403,46"/>
-<area shape="rect" id="node3" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="213,71,408,97"/>
-</map>

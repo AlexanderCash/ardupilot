@@ -1,9 +1,0 @@
-<map id="mavlink_msg_manual_setpoint_decode" name="mavlink_msg_manual_setpoint_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__manual__setpoint_8h.html#a46d17db5376ef9354cdd4e481c7e07ed" title="Send a manual_setpoint message. " alt="" coords="203,5,392,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__manual__setpoint_8h.html#a63935b74b5d218e76c48f4f4417f479d" title="Get field roll from manual_setpoint message. " alt="" coords="223,70,371,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__manual__setpoint_8h.html#aa331043bef24e3ad7a9a9c4158925e16" title="Get field pitch from manual_setpoint message. " alt="" coords="223,135,371,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__manual__setpoint_8h.html#aceef7f2e4ef94dabbe18f4fd946ccddf" title="Get field yaw from manual_setpoint message. " alt="" coords="223,201,371,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__manual__setpoint_8h.html#a90d5f466ae1d1971335f74985869c91f" title="Get field thrust from manual_setpoint message. " alt="" coords="223,266,371,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__manual__setpoint_8h.html#a3403f756b9ba807d27bcb087e56f7dc6" title="Get field mode_switch from manual_setpoint message. " alt="" coords="205,331,389,373"/>
-<area shape="rect" id="node8" href="$mavlink__msg__manual__setpoint_8h.html#a9ed8618cfa15dff780a6067039864bec" title="Get field manual_override_switch from manual_setpoint message. " alt="" coords="223,396,372,452"/>
-</map>

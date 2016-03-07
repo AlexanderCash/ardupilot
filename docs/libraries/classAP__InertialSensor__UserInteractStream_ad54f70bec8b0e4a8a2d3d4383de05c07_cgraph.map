@@ -1,5 +1,0 @@
-<map id="AP_InertialSensor_UserInteractStream::blocking_read" name="AP_InertialSensor_UserInteractStream::blocking_read">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Stream.html#ae687e48f5689af94d66fb88822923e12" title="AP_HAL::Stream::available" alt="" coords="262,5,445,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="280,57,427,98"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Stream.html#ae42ff362cc2a7e527c22f92a3740c2ac" title="AP_HAL::Stream::read" alt="" coords="275,123,431,149"/>
-</map>

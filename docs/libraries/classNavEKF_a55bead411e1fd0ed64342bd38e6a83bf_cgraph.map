@@ -1,8 +1,0 @@
-<map id="NavEKF::FuseSideslip" name="NavEKF::FuseSideslip">
-<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="627,41,666,67"/>
-<area shape="rect" id="node3" href="$classQuaternion.html#a48e6bafb249c895ed25f29dc9170e11e" title="Quaternion::normalize" alt="" coords="231,41,380,67"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#a3d1ab5eacbcc3b4e98187dff6a4f32bb" title="NavEKF::ForceSymmetry" alt="" coords="219,91,392,118"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#abfa9617589db799ff0a405e34550f0dd" title="NavEKF::ConstrainVariances" alt="" coords="208,142,403,169"/>
-<area shape="rect" id="node4" href="$classQuaternion.html#a6f5e82dd828c59392a3133d6d5877f39" title="Quaternion::length" alt="" coords="451,41,579,67"/>
-<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="461,142,568,169"/>
-</map>

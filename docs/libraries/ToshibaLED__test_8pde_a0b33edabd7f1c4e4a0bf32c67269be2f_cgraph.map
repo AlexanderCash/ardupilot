@@ -1,8 +1,0 @@
-<map id="loop" name="loop">
-<area shape="rect" id="node2" href="$classRGBLed.html#ab945365164159e3bce17c7fe88e83afc" title="RGBLed::update" alt="" coords="115,31,234,57"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="101,82,248,123"/>
-<area shape="rect" id="node3" href="$classRGBLed.html#af10a43a5611b3646d0414456e9addcae" title="RGBLed::update_colours" alt="" coords="296,5,464,32"/>
-<area shape="rect" id="node5" href="$classRGBLed.html#ac226b0a197dc8535b9a12fa43ac3eb57" title="RGBLed::set_rgb" alt="" coords="319,56,441,83"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#ab0ea67003249493b7efc0528410b9be6" title="AP_HAL::GPIO::usb_connected" alt="" coords="512,5,723,32"/>
-<area shape="rect" id="node6" href="$classRGBLed.html#af048bc2b0da82e9599945910aac07aa6" title="RGBLed::hw_set_rgb" alt="" coords="544,56,691,83"/>
-</map>

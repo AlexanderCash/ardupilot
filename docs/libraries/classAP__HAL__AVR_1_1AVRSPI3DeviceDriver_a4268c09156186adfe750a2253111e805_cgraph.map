@@ -1,5 +1,0 @@
-<map id="AP_HAL_AVR::AVRSPI3DeviceDriver::init" name="AP_HAL_AVR::AVRSPI3DeviceDriver::init">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRDigitalSource.html#ad516134dcd958df7476e9b1a9928cf70" title="AP_HAL_AVR::AVRDigitalSource\l::mode" alt="" coords="270,5,493,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="296,71,467,97"/>
-<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRDigitalSource.html#aa065a455fc3c86c97d8479373e88eadd" title="AP_HAL_AVR::AVRDigitalSource\l::write" alt="" coords="270,122,493,163"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Linux::LinuxSPIDeviceManager::init" name="Linux::LinuxSPIDeviceManager::init">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="509,5,656,46"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxSPIDeviceDriver.html#aa907674903f474b4db19e20f478c2a61" title="Linux::LinuxSPIDeviceDriver\l::init" alt="" coords="259,63,450,105"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a4e8955091af056240f447b68b76725bb" title="AP_HAL::GPIO::channel" alt="" coords="499,71,666,97"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1DigitalSource.html#af16b96dab1499f30659a1fd892df6c2d" title="AP_HAL::DigitalSource\l::mode" alt="" coords="503,122,662,163"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1DigitalSource.html#a43392c05a7dae030a78dd1c4800bf5fe" title="AP_HAL::DigitalSource\l::write" alt="" coords="503,187,662,229"/>
-</map>

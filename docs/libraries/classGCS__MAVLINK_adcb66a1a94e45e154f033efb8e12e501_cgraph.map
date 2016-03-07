@@ -1,5 +1,0 @@
-<map id="GCS_MAVLINK::handle_log_request_end" name="GCS_MAVLINK::handle_log_request_end">
-<area shape="rect" id="node2" href="$mavlink__msg__log__request__end_8h.html#ace858d2cf5d6f44a3c5ea547a0525be6" title="Decode a log_request_end message into a struct. " alt="" coords="216,38,389,79"/>
-<area shape="rect" id="node3" href="$mavlink__msg__log__request__end_8h.html#a50db82f0dddb1868e4e4cdfa68106153" title="Send a log_request_end message. " alt="" coords="444,5,617,46"/>
-<area shape="rect" id="node4" href="$mavlink__msg__log__request__end_8h.html#a9a60f7d55a41077c0757d5122f98eda1" title="Get field target_component from log_request_end message. " alt="" coords="437,70,624,111"/>
-</map>

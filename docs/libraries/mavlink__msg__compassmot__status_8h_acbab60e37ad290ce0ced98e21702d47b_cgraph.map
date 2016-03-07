@@ -1,8 +1,0 @@
-<map id="mavlink_msg_compassmot_status_decode" name="mavlink_msg_compassmot_status_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__compassmot__status_8h.html#a4d82bfd4954c4f790d680f728b24a103" title="Get field current from compassmot_status message. " alt="" coords="240,5,421,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__compassmot__status_8h.html#af12f6e9cfa74dc0124e6cfe676fa3365" title="Get field CompensationX from compassmot_status message. " alt="" coords="235,70,426,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__compassmot__status_8h.html#a12c93b68ef7139f43bbbbe6fd4675b4d" title="Get field CompensationY from compassmot_status message. " alt="" coords="235,135,426,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__compassmot__status_8h.html#af4bc29b817467d6fd79cea32e9a0db4a" title="Get field CompensationZ from compassmot_status message. " alt="" coords="236,201,425,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__compassmot__status_8h.html#a33ffeb6822c058d42b43c7287fc6b7fb" title="Send a compassmot_status message. " alt="" coords="240,266,421,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__compassmot__status_8h.html#a3342a599f789672af097c35e6c344a8d" title="Get field interference from compassmot_status message. " alt="" coords="240,331,421,373"/>
-</map>

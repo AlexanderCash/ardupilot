@@ -1,7 +1,0 @@
-<map id="AP_MotorsTri::Init" name="AP_MotorsTri::Init">
-<area shape="rect" id="node2" href="$classAP__Motors.html#a2a3aa0f8b2981b440f6542da1f4b1ecf" title="AP_Motors::Init" alt="" coords="226,5,339,32"/>
-<area shape="rect" id="node3" href="$classAP__MotorsTri.html#a45d195e2abd378c68e225c528e7d6bce" title="AP_MotorsTri::set_update_rate" alt="" coords="181,56,384,83"/>
-<area shape="rect" id="node6" href="$classRC__Channel__aux.html#ae2d90edd68bfa74648a4ed8743b27b3e" title="RC_Channel_aux::disable\l_aux_channel" alt="" coords="195,107,370,149"/>
-<area shape="rect" id="node4" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="474,31,585,57"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1RCOutput.html#ae7903398aa18e2472dd34081e626dcb7" title="AP_HAL::RCOutput::set_freq" alt="" coords="432,81,627,108"/>
-</map>

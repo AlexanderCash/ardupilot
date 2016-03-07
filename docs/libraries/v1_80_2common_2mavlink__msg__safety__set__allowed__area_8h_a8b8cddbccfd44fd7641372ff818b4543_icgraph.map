@@ -1,3 +1,0 @@
-<map id="mavlink_msg_safety_set_allowed_area_get_target_component" name="mavlink_msg_safety_set_allowed_area_get_target_component">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__safety__set__allowed__area_8h.html#a34ca7293aaf04fa288a6655dabfaf8e4" title="Decode a safety_set_allowed_area message into a struct. " alt="" coords="208,11,387,53"/>
-</map>

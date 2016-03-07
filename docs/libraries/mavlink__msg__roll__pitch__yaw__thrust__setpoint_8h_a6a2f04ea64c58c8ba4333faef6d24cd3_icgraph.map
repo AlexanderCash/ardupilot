@@ -1,6 +1,0 @@
-<map id="mavlink_msg_roll_pitch_yaw_thrust_setpoint_get_time_us" name="mavlink_msg_roll_pitch_yaw_thrust_setpoint_get_time_us">
-<area shape="rect" id="node2" href="$mavlink__msg__roll__pitch__yaw__thrust__setpoint_8h.html#a68b7458d2ed21b3ad6d6291201767405" title="Decode a roll_pitch_yaw_thrust_setpoint message into a struct. " alt="" coords="224,11,419,53"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#a0f54660704d47e05015932f13eb4f9eb" title="mavlink_test_roll_pitch\l_yaw_thrust_setpoint" alt="" coords="467,11,621,53"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="670,19,823,45"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="873,19,989,45"/>
-</map>

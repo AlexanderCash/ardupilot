@@ -1,5 +1,0 @@
-<map id="AP_InertialSensor::get_delta_velocity" name="AP_InertialSensor::get_delta_velocity">
-<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a9a2e96ead5ec6958cc5428807318ee6b" title="AP_InertialSensor::\lcalibrate_accel" alt="" coords="190,5,325,46"/>
-<area shape="rect" id="node3" href="$INS__generic_8pde.html#a5f96ea11224723731b4efa6cf4f1237b" title="run_calibration" alt="" coords="373,12,480,39"/>
-<area shape="rect" id="node4" href="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="529,12,575,39"/>
-</map>

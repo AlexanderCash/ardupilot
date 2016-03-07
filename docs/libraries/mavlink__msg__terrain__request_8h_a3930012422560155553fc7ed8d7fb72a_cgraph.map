@@ -1,6 +1,0 @@
-<map id="mavlink_msg_terrain_request_decode" name="mavlink_msg_terrain_request_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__terrain__request_8h.html#a93d48f5de3a75b0ef2e68fa7c01b39a7" title="Get field mask from terrain_request message. " alt="" coords="215,5,358,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__terrain__request_8h.html#a2ab50ddcb5215fa848f4f729b3a0ef7f" title="Send a terrain_request message. " alt="" coords="215,70,358,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__terrain__request_8h.html#afb7194a08cafee81237bfd8222555c58" title="Get field lon from terrain_request message. " alt="" coords="215,135,358,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__terrain__request_8h.html#aaef50a0aaea156273cf162b7274976bd" title="Get field grid_spacing from terrain_request message. " alt="" coords="198,201,375,242"/>
-</map>

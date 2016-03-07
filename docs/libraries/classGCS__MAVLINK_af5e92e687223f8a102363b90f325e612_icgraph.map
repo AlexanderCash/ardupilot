@@ -1,5 +1,0 @@
-<map id="GCS_MAVLINK::reset_cli_timeout" name="GCS_MAVLINK::reset_cli_timeout">
-<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#afaf4b53bc2f64b4fb6bd1fe729b2cef3" title="GCS_MAVLINK::init" alt="" coords="209,31,351,57"/>
-<area shape="rect" id="node3" href="$routing_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="466,5,521,32"/>
-<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#a0680c93d81d7de3273931c5bccc890f5" title="GCS_MAVLINK::setup_uart" alt="" coords="400,56,587,83"/>
-</map>

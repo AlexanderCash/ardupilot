@@ -1,7 +1,0 @@
-<map id="DerivativeFilter::update" name="DerivativeFilter::update">
-<area shape="rect" id="node2" href="$Derivative_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="249,5,295,32"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#a51144302ade095d22cafe8fa4928fd29" title="AP_Baro::update" alt="" coords="211,56,333,83"/>
-<area shape="rect" id="node4" href="$classAP__Baro.html#aead101a2ea48cacf195ea157e8b5c7da" title="AP_Baro::calibrate" alt="" coords="381,31,512,57"/>
-<area shape="rect" id="node6" href="$BARO__generic_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="423,81,470,108"/>
-<area shape="rect" id="node5" href="$BARO__generic_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="561,31,615,57"/>
-</map>

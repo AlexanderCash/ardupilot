@@ -1,4 +1,0 @@
-<map id="takeoff_tail_hold" name="takeoff_tail_hold">
-<area shape="rect" id="node2" href="$GCS__Mavlink_8pde.html#a6bb153355507cf625bc0de5dfa76c137" title="gcs_send_text_P" alt="" coords="171,5,293,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="342,5,541,32"/>
-</map>

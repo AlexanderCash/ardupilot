@@ -1,6 +1,0 @@
-<map id="mavlink_msg_auth_key_pack" name="mavlink_msg_auth_key_pack">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__auth__key_8h.html#adaf9e1697df71f53ddd3fd70dcecde40" title="Encode a auth_key struct into a message. " alt="" coords="249,5,407,46"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#ac41de322ef84bfa78d7d47669873f708" title="mavlink_test_auth_key" alt="" coords="457,41,613,68"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="662,41,815,68"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="865,41,981,68"/>
-</map>

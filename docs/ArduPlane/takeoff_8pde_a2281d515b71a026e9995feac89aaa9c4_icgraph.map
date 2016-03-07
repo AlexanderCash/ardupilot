@@ -1,4 +1,0 @@
-<map id="takeoff_calc_pitch" name="takeoff_calc_pitch">
-<area shape="rect" id="node2" href="$ArduPlane_8pde.html#ab3877ebcfdd6fb99ff7500ad24f2ebd1" title="handle_auto_mode" alt="" coords="181,5,312,32"/>
-<area shape="rect" id="node3" href="$ArduPlane_8pde.html#a1353a77e19a7028fda60ee8706f0879d" title="update_flight_mode" alt="" coords="361,5,495,32"/>
-</map>

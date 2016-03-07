@@ -1,6 +1,0 @@
-<map id="AP_HAL_AVR::ADCSource::ADCSource" name="AP_HAL_AVR::ADCSource::ADCSource">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1ADCSource.html#a5bc7d73cf6a329536f95a6cad8f9069e" title="AP_HAL_AVR::ADCSource\l::set_pin" alt="" coords="240,63,427,105"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#a9671bdb28184ecdf95959ff3d6b5b4bb" title="AP_HAL::GPIO::analogPinTo\lDigitalPin" alt="" coords="475,5,669,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="487,71,657,97"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="497,121,647,148"/>
-</map>

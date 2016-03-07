@@ -1,7 +1,0 @@
-<map id="stick_mix_channel" name="stick_mix_channel">
-<area shape="rect" id="node2" href="$Attitude_8pde.html#a44e944a8ca5cc7235984188d5e3b7a6c" title="calc_nav_yaw_course" alt="" coords="185,17,335,43"/>
-<area shape="rect" id="node6" href="$Attitude_8pde.html#a49889b4d9baf5b8cbad14c404990694d" title="stabilize_stick_mixing\l_direct" alt="" coords="385,65,535,107"/>
-<area shape="rect" id="node3" href="$Attitude_8pde.html#a2ee107cf7f9cd5f573d492d760751ddb" title="stabilize_yaw" alt="" coords="409,14,511,41"/>
-<area shape="rect" id="node4" href="$Attitude_8pde.html#a5915bf02c3bd19b57c717c8234369fdd" title="stabilize" alt="" coords="753,22,823,49"/>
-<area shape="rect" id="node5" href="$Attitude_8pde.html#aede80974c348fcf7fd493d948cd080df" title="stabilize_training" alt="" coords="585,22,703,49"/>
-</map>

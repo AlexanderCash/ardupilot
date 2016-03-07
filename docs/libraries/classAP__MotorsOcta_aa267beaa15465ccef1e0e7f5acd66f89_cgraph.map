@@ -1,8 +1,0 @@
-<map id="AP_MotorsOcta::setup_motors" name="AP_MotorsOcta::setup_motors">
-<area shape="rect" id="node2" href="$classAP__MotorsMatrix.html#adc76d6e0dd5087aaaa6b48993544167c" title="AP_MotorsMatrix::setup\l_motors" alt="" coords="208,5,371,46"/>
-<area shape="rect" id="node5" href="$classAP__MotorsMatrix.html#a96211b4b9a24e1abc125892780815b32" title="AP_MotorsMatrix::add\l_motor" alt="" coords="213,70,365,111"/>
-<area shape="rect" id="node6" href="$classAP__MotorsMatrix.html#a7845148fb3e5acb078d0dc121d75470b" title="AP_MotorsMatrix::add\l_motor_raw" alt="" coords="213,135,365,177"/>
-<area shape="rect" id="node3" href="$classAP__MotorsMatrix.html#a83b97780f780b3ca40d588c7ee27e94a" title="AP_MotorsMatrix::remove\l_all_motors" alt="" coords="419,5,594,46"/>
-<area shape="rect" id="node4" href="$classAP__MotorsMatrix.html#a586b776b1ea64bb0590a50997d17dcb1" title="AP_MotorsMatrix::remove\l_motor" alt="" coords="643,5,818,46"/>
-<area shape="rect" id="node7" href="$classRC__Channel__aux.html#ae2d90edd68bfa74648a4ed8743b27b3e" title="RC_Channel_aux::disable\l_aux_channel" alt="" coords="419,135,594,177"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gimbal_request_axis_calibration_pack" name="mavlink_msg_gimbal_request_axis_calibration_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__request__axis__calibration_8h.html#a621ee4379386ee6e1d6001fc2b3e39d1" title="Encode a gimbal_request_axis_calibration struct. " alt="" coords="259,5,429,61"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#aa74d479532145cd1912aa671effdf873" title="mavlink_test_gimbal\l_request_axis_calibration" alt="" coords="478,46,647,87"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="696,53,880,80"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="929,53,1045,80"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="ToshibaLED_PX4::hw_init" name="ToshibaLED_PX4::hw_init">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="239,5,393,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a51a2227b617f47e9638d7feb6cfdaba4" title="AP_HAL::Scheduler::\lregister_io_process" alt="" coords="243,70,389,111"/>
-<area shape="rect" id="node4" href="$classToshibaLED__PX4.html#a20bcc1206bc171389e90a9f9d71eeaa0" title="ToshibaLED_PX4::update\l_timer" alt="" coords="229,135,403,177"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_attitude_quaternion_cov_get_rollspeed" name="mavlink_msg_attitude_quaternion_cov_get_rollspeed">
-<area shape="rect" id="node2" href="$mavlink__msg__attitude__quaternion__cov_8h.html#a89ebffdde08e856e902c598dae67b3ff" title="Decode a attitude_quaternion_cov message into a struct. " alt="" coords="257,5,423,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a4f2aaa46069f729b9e49c792c443a799" title="mavlink_test_attitude\l_quaternion_cov" alt="" coords="472,5,619,46"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="667,12,821,39"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="870,12,986,39"/>
-</map>

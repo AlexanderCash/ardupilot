@@ -1,8 +1,0 @@
-<map id="AP_Camera::update_location" name="AP_Camera::update_location">
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="261,5,325,32"/>
-<area shape="rect" id="node3" href="$AP__Math_8h.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="245,56,341,83"/>
-<area shape="rect" id="node4" href="$location_8cpp.html#ad2368c582f3e0c135e2a74772f4db61a" title="longitude_scale" alt="" coords="389,31,501,57"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="395,81,495,108"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="549,31,656,57"/>
-<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="583,81,622,108"/>
-</map>

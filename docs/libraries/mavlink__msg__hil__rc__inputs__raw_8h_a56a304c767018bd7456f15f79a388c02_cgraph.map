@@ -1,4 +1,0 @@
-<map id="mavlink_msg_hil_rc_inputs_raw_encode_chan" name="mavlink_msg_hil_rc_inputs_raw_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__hil__rc__inputs__raw_8h.html#afcb12c2086d511d90a1275d6ec74203e" title="Pack a hil_rc_inputs_raw message on a channel. " alt="" coords="229,5,392,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="440,12,651,39"/>
-</map>

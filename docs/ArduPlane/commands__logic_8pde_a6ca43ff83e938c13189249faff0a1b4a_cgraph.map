@@ -1,6 +1,0 @@
-<map id="log_picture" name="log_picture">
-<area shape="rect" id="node2" href="$GCS__Mavlink_8pde.html#a52733528836bdd250b5ead3d6e8370b9" title="gcs_send_message" alt="" coords="139,5,277,32"/>
-<area shape="rect" id="node4" href="$system_8pde.html#aca07afa008c681903526cfdc27045584" title="should_log" alt="" coords="166,56,250,83"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a4902306dab46ff02b2296f99eb1f1c9c" title="GCS_MAVLINK::send_message" alt="" coords="325,5,539,32"/>
-<area shape="rect" id="node5" href="$Log_8pde.html#a05e0c1cc917db97ee71cc05c205c2095" title="start_logging" alt="" coords="384,56,480,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_Param::erase_all" name="AP_Param::erase_all">
-<area shape="rect" id="node2" href="$classAP__Param.html#a6522413a505d2cc1fec14e2a735bb4ac" title="AP_Param::eeprom_write\l_check" alt="" coords="421,49,592,90"/>
-<area shape="rect" id="node7" href="$classAP__Param.html#a78d8d68e7edc6732df3c3fdc81dc0869" title="AP_Param::write_sentinal" alt="" coords="200,81,373,108"/>
-<area shape="rect" id="node3" href="$classStorageAccess.html#aa527b50188a7138b173defe07b9b7bf6" title="StorageAccess::write\l_block" alt="" coords="640,49,787,90"/>
-<area shape="rect" id="node4" href="$AP__Progmem__Identity_8h.html#a9fc333349fa71fdc21a2d5152c5e23a2" title="pgm_read_word" alt="" coords="859,5,973,32"/>
-<area shape="rect" id="node5" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="861,56,971,83"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Storage.html#a9de79ab93ea4374bd3d1583e28620d2e" title="AP_HAL::Storage::write\l_block" alt="" coords="835,107,997,149"/>
-</map>

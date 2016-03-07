@@ -1,6 +1,0 @@
-<map id="PX4::PX4UARTDriver::try_initialise" name="PX4::PX4UARTDriver::try_initialise">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="211,5,357,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title="AP_HAL::Util::safety\l_switch_state" alt="" coords="211,70,357,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Util.html#a973ee89f8eee7af3a4d2a3eb700cbf3c" title="AP_HAL::Util::get_soft\l_armed" alt="" coords="206,135,362,177"/>
-<area shape="rect" id="node5" href="$classPX4_1_1PX4UARTDriver.html#a8eced50889d2c31d1e6095c4c7aef8b4" title="PX4::PX4UARTDriver\l::begin" alt="" coords="208,201,360,242"/>
-</map>

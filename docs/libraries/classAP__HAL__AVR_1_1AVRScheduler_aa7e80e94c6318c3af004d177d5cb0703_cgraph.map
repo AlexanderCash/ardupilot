@@ -1,6 +1,0 @@
-<map id="AP_HAL_AVR::AVRScheduler::micros64" name="AP_HAL_AVR::AVRScheduler::micros64">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRScheduler.html#a125993bbe3e940d26f751457abb5f3f0" title="AP_HAL_AVR::AVRScheduler\l::millis" alt="" coords="256,5,459,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRScheduler.html#ad8d0adfba5bebd008309cfede379e8ef" title="AP_HAL_AVR::AVRScheduler\l::micros" alt="" coords="256,70,459,111"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRTimer.html#a7b8ef489608ffa2f7132573a8dfdf515" title="AP_HAL_AVR::AVRTimer\l::millis" alt="" coords="507,5,685,46"/>
-<area shape="rect" id="node5" href="$classAP__HAL__AVR_1_1AVRTimer.html#ac78c6bce763ee5a6b21a8ea77431f382" title="AP_HAL_AVR::AVRTimer\l::micros" alt="" coords="507,70,685,111"/>
-</map>

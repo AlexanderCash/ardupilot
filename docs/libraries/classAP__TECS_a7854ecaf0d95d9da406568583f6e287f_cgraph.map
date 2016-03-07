@@ -1,8 +1,0 @@
-<map id="AP_TECS::_update_pitch" name="AP_TECS::_update_pitch">
-<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="268,5,375,32"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a8691156c332da099e3f5952e72ae2a58" title="AP_AHRS::airspeed_sensor\l_enabled" alt="" coords="227,57,415,98"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="287,123,355,149"/>
-<area shape="rect" id="node7" href="$classAP__TECS.html#a10c1bce8067ade79dfebc3c8ad4b0e42" title="AP_TECS::timeConstant" alt="" coords="237,173,406,200"/>
-<area shape="rect" id="node4" href="$classAP__Airspeed.html#a6162295b433e3a863c0d4b9086b19014" title="AP_Airspeed::use" alt="" coords="475,39,602,65"/>
-<area shape="rect" id="node5" href="$classAP__Airspeed.html#acddaade777fa87d5b8c904c79be01204" title="AP_Airspeed::healthy" alt="" coords="465,89,613,116"/>
-</map>

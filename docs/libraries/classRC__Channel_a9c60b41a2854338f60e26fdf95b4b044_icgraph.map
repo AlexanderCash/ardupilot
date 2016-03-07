@@ -1,7 +1,0 @@
-<map id="RC_Channel::rc_channel" name="RC_Channel::rc_channel">
-<area shape="rect" id="node2" href="$classAPM__OBC.html#acfedfcd0f28b1d53b722766e321b534e" title="APM_OBC::check_crash\l_plane" alt="" coords="446,5,615,46"/>
-<area shape="rect" id="node3" href="$classAPM__OBC.html#adf90097b54be3e9ffbf21f675e411b6c" title="APM_OBC::setup_failsafe" alt="" coords="221,41,397,68"/>
-<area shape="rect" id="node4" href="$classAP__ServoRelayEvents.html#abae99d08dbec323313058baebc468f0e" title="AP_ServoRelayEvents\l::update_events" alt="" coords="231,93,387,134"/>
-<area shape="rect" id="node5" href="$classAP__ServoRelayEvents.html#a7bc553c3358ab805cc1ff315ca60ff97" title="AP_ServoRelayEvents\l::do_repeat_relay" alt="" coords="453,81,609,122"/>
-<area shape="rect" id="node6" href="$classAP__ServoRelayEvents.html#af3cde3623c5f0fa9368aa46eb85f916e" title="AP_ServoRelayEvents\l::do_repeat_servo" alt="" coords="453,146,609,187"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="mavlink_msg_local_position_ned_decode" name="mavlink_msg_local_position_ned_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__local__position__ned_8h.html#ac36a5f3f5a6f76851a2f8d28c1366f00" title="Send a local_position_ned message. " alt="" coords="241,5,426,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__local__position__ned_8h.html#a9f7998d7c5ff4127d01a1c14a6bb3b47" title="Get field x from local_position_ned message. " alt="" coords="241,70,426,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__local__position__ned_8h.html#ab0518a08088e549de7b82026d21a577f" title="Get field y from local_position_ned message. " alt="" coords="241,135,426,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__local__position__ned_8h.html#ad78fdc9d23b22f3c984baea99e51a297" title="Get field z from local_position_ned message. " alt="" coords="241,201,426,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__local__position__ned_8h.html#a31a028d9042a9a3dce82d32644b8c959" title="Get field vx from local_position_ned message. " alt="" coords="241,266,426,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__local__position__ned_8h.html#a3332c6a8bacaacfda11fa0fb28502317" title="Get field vy from local_position_ned message. " alt="" coords="241,331,426,373"/>
-<area shape="rect" id="node8" href="$mavlink__msg__local__position__ned_8h.html#acc73f7f5a2b0c3a92b0bcf38ca0c5774" title="Get field vz from local_position_ned message. " alt="" coords="241,397,426,438"/>
-</map>

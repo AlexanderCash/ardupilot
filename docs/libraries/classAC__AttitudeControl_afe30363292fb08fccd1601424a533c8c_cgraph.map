@@ -1,4 +1,0 @@
-<map id="AC_AttitudeControl::relax_bf_rate_controller" name="AC_AttitudeControl::relax_bf_rate_controller">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a73669ea2a3cea5b5348915f7a333f840" title="AP_AHRS::get_gyro" alt="" coords="219,5,362,32"/>
-<area shape="rect" id="node3" href="$classAC__PID.html#aeee26e2bec3de02355b307b2b40ddbaa" title="AC_PID::reset_I" alt="" coords="231,56,350,83"/>
-</map>

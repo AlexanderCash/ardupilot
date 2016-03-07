@@ -1,5 +1,0 @@
-<map id="register_write" name="register_write">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDeviceDriver.html#adcf5550715404a610251a05f19c5d7f7" title="AP_HAL::SPIDeviceDriver\l::cs_assert" alt="" coords="155,5,333,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDeviceDriver.html#ab5464ab7f3f7936ba955e7ac111a8991" title="AP_HAL::SPIDeviceDriver\l::transfer" alt="" coords="155,70,333,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html#ac4f961b121a7f66fb189e63e617d4715" title="AP_HAL::SPIDeviceDriver\l::cs_release" alt="" coords="155,135,333,177"/>
-</map>

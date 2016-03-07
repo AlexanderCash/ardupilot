@@ -1,6 +1,0 @@
-<map id="setup" name="setup">
-<area shape="rect" id="node2" href="$AP__HAL__AVR_2examples_2Storage_2Storage_8pde.html#a29da9175b91a9b8fbadf2499e84c11e3" title="test_write" alt="" coords="122,16,201,43"/>
-<area shape="rect" id="node4" href="$AP__HAL__AVR_2examples_2Storage_2Storage_8pde.html#a8de269f8ce270f47a470b83995bafee0" title="test_readback" alt="" coords="109,71,213,97"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Storage.html#a9de79ab93ea4374bd3d1583e28620d2e" title="AP_HAL::Storage::write\l_block" alt="" coords="261,5,424,46"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title="AP_HAL::Storage::read\l_block" alt="" coords="263,70,422,111"/>
-</map>

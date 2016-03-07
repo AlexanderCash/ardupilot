@@ -1,8 +1,0 @@
-<map id="Log_Write_Sonar" name="Log_Write_Sonar">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRangeFinder.html#a451a7507d534024c72faa2d1b734cb3c" title="RangeFinder::distance_cm" alt="" coords="184,5,363,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRangeFinder.html#a9ff4b63cbaf7e899f3f61488fdce8047" title="RangeFinder::voltage_mv" alt="" coords="188,56,359,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Baro.html#a984b4dbc11e276e832467253590da933" title="AP_Baro::get_altitude" alt="" coords="199,107,348,133"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="191,157,355,184"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#acbef0e8e40f867ca4d8d6c19598dcff5" title="RC_Channel::norm_output" alt="" coords="185,208,362,235"/>
-<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="176,259,371,285"/>
-</map>

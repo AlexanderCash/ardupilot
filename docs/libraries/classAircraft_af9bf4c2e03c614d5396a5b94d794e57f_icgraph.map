@@ -1,6 +1,0 @@
-<map id="Aircraft::update_position" name="Aircraft::update_position">
-<area shape="rect" id="node2" href="$classHelicopter.html#a679e4dbbeca418ad17aa98aafdc99385" title="Helicopter::update" alt="" coords="220,5,348,32"/>
-<area shape="rect" id="node3" href="$classRover.html#a1b444db0b18db7f90dfb59e493ab5e29" title="Rover::update" alt="" coords="232,56,336,83"/>
-<area shape="rect" id="node4" href="$classCRRCSim.html#ab08e79ebbb84fd46e62c3da83f2c650f" title="CRRCSim::update" alt="" coords="218,107,350,133"/>
-<area shape="rect" id="node5" href="$classMultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="MultiCopter::update" alt="" coords="216,157,352,184"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="DataFlash_Block::CardInserted" name="DataFlash_Block::CardInserted">
-<area shape="rect" id="node2" href="$classDataFlash__Block.html#ab782e77f0585c5c7bc4de44eb8b28ad7" title="DataFlash_Block::ShowDeviceInfo" alt="" coords="501,5,728,32"/>
-<area shape="rect" id="node4" href="$classDataFlash__Block.html#ab6f4ad3b53c3b298a4874cf920da3afa" title="DataFlash_Block::WriteBlock" alt="" coords="259,56,453,83"/>
-<area shape="rect" id="node3" href="$DataFlash__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="777,56,831,83"/>
-<area shape="rect" id="node5" href="$classDataFlash__Block.html#a731e8607ad128e986be1236d44e8d196" title="DataFlash_Block::EraseAll" alt="" coords="525,107,704,133"/>
-</map>

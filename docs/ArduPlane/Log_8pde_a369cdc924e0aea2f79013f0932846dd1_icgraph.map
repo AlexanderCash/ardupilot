@@ -1,9 +1,0 @@
-<map id="Log_Write_Airspeed" name="Log_Write_Airspeed">
-<area shape="rect" id="node2" href="$sensors_8pde.html#a0da7ad9d8a02544848606d538eef9364" title="read_airspeed" alt="" coords="193,31,295,57"/>
-<area shape="rect" id="node3" href="$sensors_8pde.html#ad5853cd8e0449f7819eab9c8a589687e" title="zero_airspeed" alt="" coords="345,5,447,32"/>
-<area shape="rect" id="node8" href="$test_8pde.html#a3887e341c3dbf8293230668896ae258b" title="test_airspeed" alt="" coords="515,56,615,83"/>
-<area shape="rect" id="node4" href="$system_8pde.html#a3e0b622be2a9d37ed63e6a11d3d9281a" title="startup_INS_ground" alt="" coords="496,5,635,32"/>
-<area shape="rect" id="node5" href="$system_8pde.html#ae45d741f1c48b956c06322f8c4db6c70" title="startup_ground" alt="" coords="683,5,791,32"/>
-<area shape="rect" id="node6" href="$system_8pde.html#adf8053623ae608c96db339992ed2528c" title="init_ardupilot" alt="" coords="841,5,935,32"/>
-<area shape="rect" id="node7" href="$ArduPlane_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="985,5,1039,32"/>
-</map>

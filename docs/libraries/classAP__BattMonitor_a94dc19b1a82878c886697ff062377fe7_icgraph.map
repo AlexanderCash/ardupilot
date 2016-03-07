@@ -1,3 +1,0 @@
-<map id="AP_BattMonitor::has_current" name="AP_BattMonitor::has_current">
-<area shape="rect" id="node2" href="$classAP__BattMonitor__Analog.html#aea3c22d36fc78bf8d9b8a86a193f3eae" title="Read the battery voltage and current. Should be called at 10hz. " alt="" coords="198,5,359,46"/>
-</map>

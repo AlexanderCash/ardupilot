@@ -1,5 +1,0 @@
-<map id="mavlink_msg_gimbal_erase_firmware_and_config_decode" name="mavlink_msg_gimbal_erase_firmware_and_config_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__erase__firmware__and__config_8h.html#a103f640c5e4f6c9f41ef350ddebf8b18" title="Get field knock from gimbal_erase_firmware_and_config message. " alt="" coords="227,5,373,61"/>
-<area shape="rect" id="node3" href="$mavlink__msg__gimbal__erase__firmware__and__config_8h.html#ac5a6a21d781c498de2318184a77d2ee3" title="Send a gimbal_erase_firmware_and_config message. " alt="" coords="211,85,389,141"/>
-<area shape="rect" id="node4" href="$mavlink__msg__gimbal__erase__firmware__and__config_8h.html#a57321b17e4d6436b7fbc2680038bd1b4" title="Get field target_component from gimbal_erase_firmware_and_config message. " alt="" coords="200,165,400,221"/>
-</map>

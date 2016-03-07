@@ -1,7 +1,0 @@
-<map id="VRBRAIN::VRBRAINScheduler::delay_microseconds_semaphore" name="VRBRAIN::VRBRAINScheduler::delay_microseconds_semaphore">
-<area shape="rect" id="node2" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a4b175d260d414b70bd02a334ad4db6f0" title="VRBRAIN::VRBRAINScheduler\l::_timer_thread" alt="" coords="275,5,485,46"/>
-<area shape="rect" id="node4" href="$classVRBRAIN_1_1VRBRAINScheduler.html#ad6ea2f96c8cf9eeb7e99a7b529fde5e6" title="VRBRAIN::VRBRAINScheduler\l::_uart_thread" alt="" coords="275,70,485,111"/>
-<area shape="rect" id="node5" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a20360f74ca9912d424c5c6800a85efef" title="VRBRAIN::VRBRAINScheduler\l::delay" alt="" coords="275,135,485,177"/>
-<area shape="rect" id="node6" href="$classVRBRAIN_1_1VRBRAINScheduler.html#adb60346f5a91eee3812dfed4ba2fb094" title="VRBRAIN::VRBRAINScheduler\l::delay_microseconds" alt="" coords="275,201,485,242"/>
-<area shape="rect" id="node3" href="$classVRBRAIN_1_1VRBRAINScheduler.html#a588119520d7b68e248e103d32fdf6b2f" title="VRBRAIN::VRBRAINScheduler\l::init" alt="" coords="533,38,744,79"/>
-</map>

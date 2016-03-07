@@ -1,6 +1,0 @@
-<map id="AP_Compass_AK8963_MPU9250::init" name="AP_Compass_AK8963_MPU9250::init">
-<area shape="rect" id="node2" href="$classAP__Compass__AK8963__MPU9250.html#a6276a40d516ecd31513c02ecf84a666f" title="AP_Compass_AK8963_MPU9250\l::detect" alt="" coords="275,5,496,46"/>
-<area shape="rect" id="node3" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="544,12,736,39"/>
-<area shape="rect" id="node4" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="785,12,887,39"/>
-<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="937,12,991,39"/>
-</map>

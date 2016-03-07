@@ -1,9 +1,0 @@
-<map id="setup_glide_slope" name="setup_glide_slope">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#aa825a788804b8dd4cf1e3cfb42960a8b" title="get_distance" alt="" coords="231,5,327,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#ab0ccbafe7e2809759eea8d45d23e4ba0" title="location_path_proportion" alt="" coords="197,56,360,83"/>
-<area shape="rect" id="node4" href="$altitude_8pde.html#adad3de9d7894f9df95075219fef29534" title="above_location_current" alt="" coords="201,107,357,133"/>
-<area shape="rect" id="node5" href="$altitude_8pde.html#a9a2ab83d5bfa356d6e99cc7f6c7869cd" title="set_offset_altitude\l_location" alt="" coords="214,158,343,199"/>
-<area shape="rect" id="node6" href="$altitude_8pde.html#a95be1c235684766d83ed35917071dcad" title="reset_offset_altitude" alt="" coords="209,224,349,251"/>
-<area shape="rect" id="node7" href="$altitude_8pde.html#a9b319158d61a114fe14a8a17bd8203d4" title="adjusted_relative_altitude_cm" alt="" coords="181,275,376,301"/>
-<area shape="rect" id="node8" href="$altitude_8pde.html#aad5da768a7e757989110fe2d704427b9" title="adjusted_altitude_cm" alt="" coords="425,275,570,301"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="rangefinder_height_update" name="rangefinder_height_update">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRangeFinder.html#a451a7507d534024c72faa2d1b734cb3c" title="RangeFinder::distance_cm" alt="" coords="183,5,361,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRangeFinder.html#a5452cf4387ba889dd206b12375d2e059" title="RangeFinder::status" alt="" coords="202,56,342,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#ace965389535aa2f3599f21b9f825d2b7" title="AP_AHRS_DCM::get_dcm\l_matrix" alt="" coords="181,107,363,149"/>
-<area shape="rect" id="node5" href="$altitude_8pde.html#aca1d34c92891d51ed07e6d136b5ea532" title="relative_altitude" alt="" coords="215,173,329,200"/>
-</map>

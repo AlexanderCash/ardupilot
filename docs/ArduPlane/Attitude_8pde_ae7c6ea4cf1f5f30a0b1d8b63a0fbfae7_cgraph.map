@@ -1,6 +1,0 @@
-<map id="stabilize_pitch" name="stabilize_pitch">
-<area shape="rect" id="node2" href="$takeoff_8pde.html#acc3dde892e79448128334f4d83733053" title="takeoff_tail_hold" alt="" coords="168,5,285,32"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__PitchController.html#a705d9814ebad894375332f012dd768df" title="AP_PitchController\l::get_servo_out" alt="" coords="160,57,293,98"/>
-<area shape="rect" id="node3" href="$GCS__Mavlink_8pde.html#a6bb153355507cf625bc0de5dfa76c137" title="gcs_send_text_P" alt="" coords="341,5,464,32"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classGCS__MAVLINK.html#a06e50860e622dcb7f8c492a4a70a0daa" title="GCS_MAVLINK::send_text_P" alt="" coords="513,5,711,32"/>
-</map>

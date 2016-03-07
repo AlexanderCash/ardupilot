@@ -1,5 +1,0 @@
-<map id="AP_InertialSensor_LSM9DS0::_register_write_g" name="AP_InertialSensor_LSM9DS0::_register_write_g">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__LSM9DS0.html#ad6b19fec832a5e306cd96ebb59173385" title="AP_InertialSensor_LSM9DS0\l::_initGyro" alt="" coords="248,5,443,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM9DS0.html#a1ab90ee9f6357f22f78ba8e69f4d2d5d" title="AP_InertialSensor_LSM9DS0\l::_hardware_init" alt="" coords="491,5,685,46"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__LSM9DS0.html#a1047cd97a910ee344c829084b700e10b" title="AP_InertialSensor_LSM9DS0\l::_init_sensor" alt="" coords="733,5,928,46"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="test_passthru" name="test_passthru">
-<area shape="rect" id="node2" href="$test_8pde.html#a618dc4c6523c81ea0e57cd8c7c14012b" title="print_hit_enter" alt="" coords="155,5,259,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html#a5b0d9d566418c7baa2ae7437fe1eae01" title="AP_HAL::BetterStream\l::print_P" alt="" coords="311,70,470,111"/>
-<area shape="rect" id="node4" href="$system_8pde.html#abcaeff7108bec9c2a82f8f5df209c9c6" title="print_comma" alt="" coords="158,107,255,133"/>
-<area shape="rect" id="node5" href="$system_8pde.html#a40d837f6b506f43db1c72320b9917b84" title="servo_write" alt="" coords="162,157,251,184"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#a9c60b41a2854338f60e26fdf95b4b044" title="RC_Channel::rc_channel" alt="" coords="307,157,475,184"/>
-</map>

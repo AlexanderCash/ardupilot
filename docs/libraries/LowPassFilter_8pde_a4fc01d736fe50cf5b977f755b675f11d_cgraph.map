@@ -1,5 +1,0 @@
-<map id="setup" name="setup">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="110,5,263,46"/>
-<area shape="rect" id="node3" href="$classLowPassFilter.html#a5c3c8a444566f57ef2bb95775fe7be5e" title="LowPassFilter::set\l_cutoff_frequency" alt="" coords="121,70,252,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="113,135,260,177"/>
-</map>

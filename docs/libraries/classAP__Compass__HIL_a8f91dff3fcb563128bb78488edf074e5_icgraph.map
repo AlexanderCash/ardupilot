@@ -1,6 +1,0 @@
-<map id="AP_Compass_HIL::AP_Compass_HIL" name="AP_Compass_HIL::AP_Compass_HIL">
-<area shape="rect" id="node2" href="$classAP__Compass__HIL.html#ae4ae94f11b8c05de50076d85fbcef0f1" title="AP_Compass_HIL::detect" alt="" coords="211,12,386,39"/>
-<area shape="rect" id="node3" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="435,12,627,39"/>
-<area shape="rect" id="node4" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="675,12,778,39"/>
-<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="827,12,882,39"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="mavlink_msg_mount_control_pack_chan" name="mavlink_msg_mount_control_pack_chan">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a62c180b5a108381dc8bc7f7a987ea7a3" title="mavlink_test_mount\l_control" alt="" coords="243,5,381,46"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="429,12,613,39"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="662,12,778,39"/>
-</map>

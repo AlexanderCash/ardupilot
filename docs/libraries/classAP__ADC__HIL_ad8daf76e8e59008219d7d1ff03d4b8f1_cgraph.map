@@ -1,4 +1,0 @@
-<map id="AP_ADC_HIL::Init" name="AP_ADC_HIL::Init">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ac2c4230957d5dbd3c2fd104af2794b4f" title="AP_HAL::Scheduler::\lregister_timer_process" alt="" coords="184,5,339,46"/>
-<area shape="rect" id="node3" href="$classAP__ADC__HIL.html#a9c917c24c428d77351b222e0a2a0337e" title="AP_ADC_HIL::read" alt="" coords="193,71,330,97"/>
-</map>

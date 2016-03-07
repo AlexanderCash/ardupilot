@@ -1,6 +1,0 @@
-<map id="VRBRAIN::VRBRAINUARTDriver" name="VRBRAIN::VRBRAINUARTDriver">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html" title="AP_HAL::UARTDriver" alt="" coords="39,229,192,256"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html" title="AP_HAL::BetterStream" alt="" coords="37,155,195,181"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Stream.html" title="AP_HAL::Stream" alt="" coords="55,80,177,107"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html" title="AP_HAL::Print" alt="" coords="62,5,169,32"/>
-</map>

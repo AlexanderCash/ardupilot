@@ -1,7 +1,0 @@
-<map id="Matrix3::mulXY" name="Matrix3::mulXY">
-<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#a5a98cf4f7346879e60a0f977757a6634" title="AP_AHRS_DCM::yaw_error\l_compass" alt="" coords="166,5,354,46"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#a101f2aaddcc7e97e690924d4e9d7a191" title="AP_AHRS_DCM::drift\l_correction_yaw" alt="" coords="403,5,557,46"/>
-<area shape="rect" id="node4" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="606,5,759,46"/>
-<area shape="rect" id="node5" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="808,12,979,39"/>
-<area shape="rect" id="node6" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1027,12,1074,39"/>
-</map>

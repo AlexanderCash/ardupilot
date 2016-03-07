@@ -1,6 +1,0 @@
-<map id="AP_Motors::output_min" name="AP_Motors::output_min">
-<area shape="rect" id="node2" href="$classAP__Motors.html#aa3b9144fbddffce46351e26bec15c5f4" title="AP_Motors::output_armed\l_zero_throttle" alt="" coords="214,5,389,46"/>
-<area shape="rect" id="node3" href="$classAP__Motors.html#a594bb6e631a495fed163cbf92af83525" title="AP_Motors::output" alt="" coords="437,12,568,39"/>
-<area shape="rect" id="node4" href="$AP__Motors__test_8pde.html#a7f47bb79f883994514efee9d8de3ec0c" title="stability_test" alt="" coords="616,12,712,39"/>
-<area shape="rect" id="node5" href="$AP__Motors__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="761,12,807,39"/>
-</map>

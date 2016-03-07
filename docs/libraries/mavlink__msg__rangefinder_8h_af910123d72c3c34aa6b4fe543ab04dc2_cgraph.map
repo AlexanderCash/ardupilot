@@ -1,4 +1,0 @@
-<map id="mavlink_msg_rangefinder_encode_chan" name="mavlink_msg_rangefinder_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__rangefinder_8h.html#a396bad48bc108e95472a46f56a5553c9" title="Pack a rangefinder message on a channel. " alt="" coords="224,5,395,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="443,12,653,39"/>
-</map>

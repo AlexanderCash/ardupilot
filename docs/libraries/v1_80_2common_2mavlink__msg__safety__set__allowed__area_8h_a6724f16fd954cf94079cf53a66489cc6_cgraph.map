@@ -1,4 +1,0 @@
-<map id="mavlink_msg_safety_set_allowed_area_encode_chan" name="mavlink_msg_safety_set_allowed_area_encode_chan">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__safety__set__allowed__area_8h.html#a4a5ad9e128fbcf5aaaf84624d0fb5bb9" title="Pack a safety_set_allowed_area message on a channel. " alt="" coords="269,5,469,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="517,12,728,39"/>
-</map>

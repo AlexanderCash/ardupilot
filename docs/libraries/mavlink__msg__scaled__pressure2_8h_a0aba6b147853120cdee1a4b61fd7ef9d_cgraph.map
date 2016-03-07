@@ -1,4 +1,0 @@
-<map id="mavlink_msg_scaled_pressure2_encode_chan" name="mavlink_msg_scaled_pressure2_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__scaled__pressure2_8h.html#a39d0e17c445fb356bdf35f09419304cf" title="Pack a scaled_pressure2 message on a channel. " alt="" coords="225,5,381,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="429,12,640,39"/>
-</map>

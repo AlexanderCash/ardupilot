@@ -1,9 +1,0 @@
-<map id="NavEKF::getTakeoffExpected" name="NavEKF::getTakeoffExpected">
-<area shape="rect" id="node2" href="$classNavEKF.html#a74882eb98d3c69065b640829154a500c" title="NavEKF::FuseVelPosNED" alt="" coords="657,5,837,32"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#a87c71e92e35c460ff8f026333dc1e813" title="NavEKF::readHgtData" alt="" coords="251,111,405,137"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="886,56,1085,83"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="1134,115,1285,141"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#a469538f4ff5dd6886d8db2be0acd3b48" title="NavEKF::ResetHeight" alt="" coords="454,161,607,188"/>
-<area shape="rect" id="node7" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="668,225,825,266"/>
-<area shape="rect" id="node8" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="668,107,825,149"/>
-</map>

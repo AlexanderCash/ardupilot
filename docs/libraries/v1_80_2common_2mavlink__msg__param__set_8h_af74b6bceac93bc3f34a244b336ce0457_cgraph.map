@@ -1,6 +1,0 @@
-<map id="mavlink_msg_param_set_encode_chan" name="mavlink_msg_param_set_encode_chan">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__param__set_8h.html#a5f06471051fd8f498f1bf747825c524e" title="Pack a param_set message on a channel. " alt="" coords="222,49,389,90"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a1e87b7f293e127478ca611644a7810b6" title="_mav_put_char_array" alt="" coords="469,5,616,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="697,31,837,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="437,107,648,133"/>
-</map>

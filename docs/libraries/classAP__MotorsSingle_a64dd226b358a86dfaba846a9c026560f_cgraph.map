@@ -1,5 +1,0 @@
-<map id="AP_MotorsSingle::output_test" name="AP_MotorsSingle::output_test">
-<area shape="rect" id="node2" href="$classAP__Motors.html#abb781661db2b685644795dfe8f5a655f" title="AP_Motors::armed" alt="" coords="273,5,404,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="251,56,427,83"/>
-<area shape="rect" id="node4" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="283,107,394,133"/>
-</map>

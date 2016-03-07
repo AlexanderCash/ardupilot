@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor_UserInteract_MAVLink::blocking_read" name="AP_InertialSensor_UserInteract_MAVLink::blocking_read">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="281,5,428,46"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a34892e32f5d039c3b977b3798d959645" title="GCS_MAVLINK::set_snoop" alt="" coords="262,71,447,97"/>
-<area shape="rect" id="node4" href="$AP__InertialSensor__UserInteract__MAVLink_8cpp.html#ad36d1be1f8f364b5abdd575820869b11" title="_snoop" alt="" coords="323,121,387,148"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="281,173,428,214"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1UARTDriver.html#a29b84f87f40b331b6922da5d8b57d9f0" title="AP_HAL::UARTDriver\l::println_P" alt="" coords="278,238,431,279"/>
-</map>

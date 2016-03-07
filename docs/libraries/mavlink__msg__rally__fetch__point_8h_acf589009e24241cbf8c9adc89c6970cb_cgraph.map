@@ -1,4 +1,0 @@
-<map id="mavlink_msg_rally_fetch_point_encode_chan" name="mavlink_msg_rally_fetch_point_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__rally__fetch__point_8h.html#aa8908c5c152a47bb847bb03ccffb5065" title="Pack a rally_fetch_point message on a channel. " alt="" coords="222,5,389,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="437,12,648,39"/>
-</map>

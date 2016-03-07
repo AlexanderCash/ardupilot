@@ -1,6 +1,0 @@
-<map id="Linux::LinuxUARTDriver::read" name="Linux::LinuxUARTDriver::read">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxUARTDriver.html#aa1980b215d66416b2110e26ec7e5fd2e" title="Linux::LinuxUARTDriver\l::_read_fd" alt="" coords="219,38,383,79"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxSPIUARTDriver.html#afe73763b08d158386de55f601aa12beb" title="Linux::LinuxSPIUARTDriver\l::_read_fd" alt="" coords="432,5,619,46"/>
-<area shape="rect" id="node4" href="$classLinux_1_1LinuxUARTDriver.html#a896f2b66a62f705e5e953e025cc24636" title="Linux::LinuxUARTDriver\l::_timer_tick" alt="" coords="443,70,607,111"/>
-<area shape="rect" id="node5" href="$classLinux_1_1LinuxSPIUARTDriver.html#ac4b32e65b3c492c093b3b3dae1997bcd" title="Linux::LinuxSPIUARTDriver\l::_timer_tick" alt="" coords="667,70,853,111"/>
-</map>

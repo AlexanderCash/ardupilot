@@ -1,6 +1,0 @@
-<map id="Quaternion::to_euler" name="Quaternion::to_euler">
-<area shape="rect" id="node2" href="$classQuaternion.html#a9ae6c42349ddc744022a4a1cf7868eb0" title="Quaternion::get_euler_roll" alt="" coords="196,5,367,32"/>
-<area shape="rect" id="node3" href="$classQuaternion.html#a0bfe50c332309932cd833b83f6524e5f" title="Quaternion::get_euler\l_pitch" alt="" coords="208,57,355,98"/>
-<area shape="rect" id="node5" href="$classQuaternion.html#a35c2a1030832728574363ed8655da625" title="Quaternion::get_euler_yaw" alt="" coords="193,123,370,149"/>
-<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a2706fd969ad73bc8ef977d964c04f4a3" title="safe_asin" alt="" coords="419,64,498,91"/>
-</map>

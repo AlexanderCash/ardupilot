@@ -1,4 +1,0 @@
-<map id="loiter_angle_update" name="loiter_angle_update">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#acdb9c5a037fe8707d45ae91138de43eb" title="AP_Navigation::target\l_bearing_cd" alt="" coords="190,5,341,46"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a35821002985a8e3e526c8ccad9bb9934" title="wrap_180_cd" alt="" coords="216,71,315,97"/>
-</map>

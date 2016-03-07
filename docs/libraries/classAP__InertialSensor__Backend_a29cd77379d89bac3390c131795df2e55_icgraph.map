@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor_Backend::_set_gyro_error_count" name="AP_InertialSensor_Backend::_set_gyro_error_count">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__PX4.html#a257fdff6435bb9addd12e3ba161c4c12" title="AP_InertialSensor_PX4\l::_new_gyro_sample" alt="" coords="241,70,399,111"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__PX4.html#a86f463cc20f89a9eb4618ed494b3adf9" title="AP_InertialSensor_PX4\l::_get_sample" alt="" coords="449,70,607,111"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__PX4.html#a56c271f4293b88db34537b7a11e63157" title="AP_InertialSensor_PX4\l::update" alt="" coords="661,5,819,46"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor__PX4.html#aff050ebd7dcbe0396ce3f1b983760cda" title="AP_InertialSensor_PX4\l::gyro_sample_available" alt="" coords="659,70,821,111"/>
-<area shape="rect" id="node6" href="$classAP__InertialSensor__PX4.html#a097901ff249f09bdac3af4438e9c2531" title="AP_InertialSensor_PX4\l::accel_sample_available" alt="" coords="656,135,824,177"/>
-</map>

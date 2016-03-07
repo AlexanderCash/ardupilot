@@ -1,8 +1,0 @@
-<map id="NavEKF::ResetHeight" name="NavEKF::ResetHeight">
-<area shape="rect" id="node2" href="$classNavEKF.html#a87c71e92e35c460ff8f026333dc1e813" title="NavEKF::readHgtData" alt="" coords="208,155,363,181"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#aae5b3ae28aca807eb20b722a04685061" title="AP_Baro::get_last_update" alt="" coords="422,29,597,56"/>
-<area shape="rect" id="node4" href="$classAP__Baro.html#a984b4dbc11e276e832467253590da933" title="AP_Baro::get_altitude" alt="" coords="435,104,584,131"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#a46acab5de021fea9824f4b5bed04e3e9" title="NavEKF::RecallStates" alt="" coords="432,155,587,181"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#a3108596d21f107f9b35517900bb82569" title="NavEKF::getTakeoffExpected" alt="" coords="411,205,608,232"/>
-<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="456,256,563,283"/>
-</map>

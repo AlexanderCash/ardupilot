@@ -1,5 +1,0 @@
-<map id="mavlink_msg_mission_ack_decode" name="mavlink_msg_mission_ack_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__ack_8h.html#a5bdbdf804e9b4c52b95d62b620026ff6" title="Send a mission_ack message. " alt="" coords="216,5,381,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__mission__ack_8h.html#a3464f39a8ef4feb464e7db76f5961caf" title="Get field target_component from mission_ack message. " alt="" coords="205,70,392,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__mission__ack_8h.html#a1164cb0f11edab8a987d9b0e942ff1ab" title="Get field type from mission_ack message. " alt="" coords="223,135,374,177"/>
-</map>

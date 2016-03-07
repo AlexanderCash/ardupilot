@@ -1,7 +1,0 @@
-<map id="stabilize_acro" name="stabilize_acro">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#afc6d4a698addb81e496b3e445248f72d" title="AP_AHRS_DCM::get_gyro" alt="" coords="157,5,339,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__RollController.html#a8995f6c95b27e132a6aa49f5fe9512ae" title="AP_RollController::\lget_servo_out" alt="" coords="181,57,315,98"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__RollController.html#a8cf832c8a75c50c1fd4caf4eace7b34f" title="AP_RollController::\lget_rate_out" alt="" coords="181,122,315,163"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__PitchController.html#a705d9814ebad894375332f012dd768df" title="AP_PitchController\l::get_servo_out" alt="" coords="181,187,315,229"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__PitchController.html#ad305f4274a77eaffb5b0dc064cfc31ba" title="AP_PitchController\l::get_rate_out" alt="" coords="181,253,315,294"/>
-</map>

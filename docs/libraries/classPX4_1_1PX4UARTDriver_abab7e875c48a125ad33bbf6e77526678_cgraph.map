@@ -1,8 +1,0 @@
-<map id="PX4::PX4UARTDriver::_read_fd" name="PX4::PX4UARTDriver::_read_fd">
-<area shape="rect" id="node2" href="$classPX4_1_1PX4UARTDriver.html#a0cfa3ca072d0d47a1b4427494d260c3c" title="PX4::PX4UARTDriver\l::read" alt="" coords="205,103,357,145"/>
-<area shape="rect" id="node3" href="$classPX4_1_1PX4UARTDriver.html#a0b4321cec2488d6a8059018d17758084" title="PX4::PX4UARTDriver\l::try_initialise" alt="" coords="405,103,557,145"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="611,5,757,46"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title="AP_HAL::Util::safety\l_switch_state" alt="" coords="611,70,757,111"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Util.html#a973ee89f8eee7af3a4d2a3eb700cbf3c" title="AP_HAL::Util::get_soft\l_armed" alt="" coords="606,135,762,177"/>
-<area shape="rect" id="node7" href="$classPX4_1_1PX4UARTDriver.html#a8eced50889d2c31d1e6095c4c7aef8b4" title="PX4::PX4UARTDriver\l::begin" alt="" coords="608,201,760,242"/>
-</map>

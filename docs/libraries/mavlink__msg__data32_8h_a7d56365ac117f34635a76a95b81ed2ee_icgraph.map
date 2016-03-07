@@ -1,6 +1,0 @@
-<map id="mavlink_msg_data32_pack" name="mavlink_msg_data32_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__data32_8h.html#a8ba3c9a853cb4fd2325d6a568280c482" title="Encode a data32 struct. " alt="" coords="235,5,381,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a2e7f1d6f794ab67065bc6a9376f26946" title="mavlink_test_data32" alt="" coords="430,41,573,68"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="621,41,805,68"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="854,41,970,68"/>
-</map>

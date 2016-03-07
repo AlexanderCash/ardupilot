@@ -1,9 +1,0 @@
-<map id="AP_HAL_AVR::AVRAnalogIn::_timer_event" name="AP_HAL_AVR::AVRAnalogIn::_timer_event">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1ADCSource.html#a633fc4148cb1b8605464d7fe8746dd75" title="AP_HAL_AVR::ADCSource\l::new_sample" alt="" coords="248,5,435,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1ADCSource.html#ab85fa1e4f7b1946ae38b758847e8e785" title="AP_HAL_AVR::ADCSource\l::stop_read" alt="" coords="248,70,435,111"/>
-<area shape="rect" id="node7" href="$classAP__HAL__AVR_1_1ADCSource.html#a22a1b350b96a2501e186c0be7f3f5705" title="AP_HAL_AVR::ADCSource\l::setup_read" alt="" coords="248,135,435,177"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a9671bdb28184ecdf95959ff3d6b5b4bb" title="AP_HAL::GPIO::analogPinTo\lDigitalPin" alt="" coords="483,26,677,67"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="495,92,665,119"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="505,143,655,169"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="507,194,653,235"/>
-</map>

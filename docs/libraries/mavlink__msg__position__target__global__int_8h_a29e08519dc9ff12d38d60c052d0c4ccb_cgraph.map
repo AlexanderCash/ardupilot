@@ -1,4 +1,0 @@
-<map id="mavlink_msg_position_target_global_int_encode" name="mavlink_msg_position_target_global_int_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__position__target__global__int_8h.html#ac9c0a31e703601ddbf29993a0f23d0d8" title="Pack a position_target_global_int message. " alt="" coords="227,5,386,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="435,12,610,39"/>
-</map>

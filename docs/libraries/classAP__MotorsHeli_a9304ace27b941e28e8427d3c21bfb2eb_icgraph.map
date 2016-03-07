@@ -1,7 +1,0 @@
-<map id="AP_MotorsHeli::rotor_ramp" name="AP_MotorsHeli::rotor_ramp">
-<area shape="rect" id="node2" href="$classAP__MotorsHeli.html#a550e49233caad251454b835e0d083187" title="AP_MotorsHeli::rsc\l_control" alt="" coords="235,70,371,111"/>
-<area shape="rect" id="node3" href="$classAP__MotorsHeli.html#a85918ee9be140eee1738ca2898fc6513" title="AP_MotorsHeli::output\l_armed_stabilizing" alt="" coords="419,70,573,111"/>
-<area shape="rect" id="node4" href="$classAP__MotorsHeli.html#af02bef1b954fa23247b9940113c9a59a" title="AP_MotorsHeli::output\l_armed_not_stabilizing" alt="" coords="621,5,776,46"/>
-<area shape="rect" id="node5" href="$classAP__MotorsHeli.html#ad5752cdd84e25803d1889ac66817c221" title="AP_MotorsHeli::output\l_armed_zero_throttle" alt="" coords="621,70,776,111"/>
-<area shape="rect" id="node6" href="$classAP__MotorsHeli.html#a82bbdd9f88cb6a1e2ab13fafddafe639" title="AP_MotorsHeli::output\l_disarmed" alt="" coords="621,135,776,177"/>
-</map>

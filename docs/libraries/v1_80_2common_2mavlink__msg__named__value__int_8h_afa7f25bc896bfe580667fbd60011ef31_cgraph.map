@@ -1,6 +1,0 @@
-<map id="mavlink_msg_named_value_int_decode" name="mavlink_msg_named_value_int_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__named__value__int_8h.html#a34812f8c507639c4fff859985e96dc49" title="Send a named_value_int message. " alt="" coords="238,5,421,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__named__value__int_8h.html#ac837d85b2554f73553f60209eb64d44e" title="Get field value from named_value_int message. " alt="" coords="238,70,421,111"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__named__value__int_8h.html#a3465adb4fd4b09c0c32536f912cce823" title="Get field name from named_value_int message. " alt="" coords="238,135,421,177"/>
-<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#a12ebb16564718cc14d12b46458bbb290" title="_MAV_RETURN_char_array" alt="" coords="470,143,661,169"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="send_wind" name="send_wind">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#a87c2d7092ed7dd44d043f629d74986b5" title="AP_AHRS_DCM::wind_estimate" alt="" coords="139,5,354,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="213,56,281,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classVector3.html#ac1fd5514e368a1e1c2d13f71eda18345" title="Vector3::length" alt="" coords="191,107,302,133"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_Mount_Servo::stabilize" name="AP_Mount_Servo::stabilize">
-<area shape="rect" id="node2" href="$classMatrix3.html#aa8a6a2bce923d8931c017508cb00e24d" title="Matrix3::transpose" alt="" coords="237,5,368,32"/>
-<area shape="rect" id="node3" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="235,56,370,83"/>
-<area shape="rect" id="node4" href="$classMatrix3.html#a893c6a712d52e47dbb7ed2d7a548046e" title="Matrix3::to_euler" alt="" coords="243,107,362,133"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="269,157,337,184"/>
-<area shape="rect" id="node7" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="271,208,335,235"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a2706fd969ad73bc8ef977d964c04f4a3" title="safe_asin" alt="" coords="419,107,498,133"/>
-</map>

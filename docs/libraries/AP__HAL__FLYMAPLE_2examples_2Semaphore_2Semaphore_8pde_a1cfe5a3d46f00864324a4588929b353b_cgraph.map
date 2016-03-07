@@ -1,7 +1,0 @@
-<map id="async_blinker" name="async_blinker">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="169,5,324,46"/>
-<area shape="rect" id="node3" href="$AP__HAL__AVR_2examples_2Semaphore_2Semaphore_8pde.html#ad26eab0db2acba1e252c0f9db67a2551" title="blink_a0" alt="" coords="211,71,282,97"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="157,121,336,148"/>
-<area shape="rect" id="node6" href="$AP__HAL__AVR_2examples_2Semaphore_2Semaphore_8pde.html#acfa4efd9b979fe95ceabbbd93a87e540" title="blink_a1" alt="" coords="211,172,282,199"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="385,121,535,148"/>
-</map>

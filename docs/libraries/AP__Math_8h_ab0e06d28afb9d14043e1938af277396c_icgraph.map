@@ -1,8 +1,0 @@
-<map id="location_update" name="location_update">
-<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#ac8f908b8d8551b3201a104d03a5c31b7" title="AP_AHRS_DCM::get_position" alt="" coords="169,31,370,57"/>
-<area shape="rect" id="node3" href="$classAircraft.html#af9bf4c2e03c614d5396a5b94d794e57f" title="Aircraft::update_position" alt="" coords="188,81,351,108"/>
-<area shape="rect" id="node4" href="$classCRRCSim.html#ab08e79ebbb84fd46e62c3da83f2c650f" title="CRRCSim::update" alt="" coords="421,5,553,32"/>
-<area shape="rect" id="node5" href="$classHelicopter.html#a679e4dbbeca418ad17aa98aafdc99385" title="Helicopter::update" alt="" coords="423,56,551,83"/>
-<area shape="rect" id="node6" href="$classMultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="MultiCopter::update" alt="" coords="419,107,555,133"/>
-<area shape="rect" id="node7" href="$classRover.html#a1b444db0b18db7f90dfb59e493ab5e29" title="Rover::update" alt="" coords="435,157,539,184"/>
-</map>

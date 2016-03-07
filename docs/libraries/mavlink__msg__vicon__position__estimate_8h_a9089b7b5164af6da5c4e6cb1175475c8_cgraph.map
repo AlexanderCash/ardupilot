@@ -1,4 +1,0 @@
-<map id="mavlink_msg_vicon_position_estimate_encode" name="mavlink_msg_vicon_position_estimate_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__vicon__position__estimate_8h.html#afa5006309dded545b96970b918231604" title="Pack a vicon_position_estimate message. " alt="" coords="243,5,432,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="481,12,655,39"/>
-</map>

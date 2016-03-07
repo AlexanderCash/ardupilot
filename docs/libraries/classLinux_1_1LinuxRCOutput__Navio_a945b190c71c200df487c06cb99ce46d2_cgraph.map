@@ -1,6 +1,0 @@
-<map id="Linux::LinuxRCOutput_Navio::disable_ch" name="Linux::LinuxRCOutput_Navio::disable_ch">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxRCOutput__Navio.html#a57cbc6f85845ff31dd4c3538bf9151bf" title="Linux::LinuxRCOutput\l_Navio::write" alt="" coords="206,70,357,111"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="417,5,572,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#a6b2ba493a18de0727817a54a2a2d0eba" title="AP_HAL::I2CDriver::\lwriteRegisters" alt="" coords="422,70,567,111"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="405,136,584,163"/>
-</map>

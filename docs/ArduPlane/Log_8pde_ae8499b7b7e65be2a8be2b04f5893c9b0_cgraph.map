@@ -1,8 +1,0 @@
-<map id="Log_Write_Nav_Tuning" name="Log_Write_Nav_Tuning">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#acdb9c5a037fe8707d45ae91138de43eb" title="AP_Navigation::target\l_bearing_cd" alt="" coords="241,5,391,46"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#a5dbe6405977f85a617a80eb7484cfa3c" title="AP_Navigation::nav\l_bearing_cd" alt="" coords="247,70,385,111"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#ae89e3a7968da5650b306eafaf2d48706" title="AP_Airspeed::get_airspeed_cm" alt="" coords="213,136,419,163"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Baro.html#a984b4dbc11e276e832467253590da933" title="AP_Baro::get_altitude" alt="" coords="241,187,391,213"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="234,237,398,264"/>
-<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="219,288,413,315"/>
-</map>

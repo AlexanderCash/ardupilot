@@ -1,6 +1,0 @@
-<map id="mavlink_msg_radio_decode" name="mavlink_msg_radio_decode">
-<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a95855cb1b5e848b644d0fdeb1009a031" title="GCS_MAVLINK::handle\l_radio_status" alt="" coords="237,5,400,46"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a475186eaf0e20dc86a0a905641d72a52" title="mavlink_test_radio" alt="" coords="253,71,384,97"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="448,71,632,97"/>
-<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="681,71,797,97"/>
-</map>

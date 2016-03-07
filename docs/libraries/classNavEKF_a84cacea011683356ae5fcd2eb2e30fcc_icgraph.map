@@ -1,5 +1,0 @@
-<map id="NavEKF::getFilterStatus" name="NavEKF::getFilterStatus">
-<area shape="rect" id="node2" href="$classNavEKF.html#adc74369bdb7425b717f68eec54aa123f" title="NavEKF::getLLH" alt="" coords="233,5,356,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a90a1fa4f67a09d5af0a6d2a11580269f" title="NavEKF::getPosNED" alt="" coords="219,56,370,83"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#aa397dc742e68d43d9b10bc1e036d4674" title="NavEKF::send_status\l_report" alt="" coords="219,107,370,149"/>
-</map>

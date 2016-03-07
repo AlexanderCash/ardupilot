@@ -1,6 +1,0 @@
-<map id="AP_Airspeed::get_pressure" name="AP_Airspeed::get_pressure">
-<area shape="rect" id="node2" href="$classAP__Airspeed__PX4.html#ad85ff702141a4b835205d9aa1fb4b4f6" title="AP_Airspeed_PX4::get\l_differential_pressure" alt="" coords="243,5,399,46"/>
-<area shape="rect" id="node3" href="$classAP__Airspeed__Analog.html#a33da45ef81801b4971ed1afe3e2183fb" title="AP_Airspeed_Analog\l::get_differential_pressure" alt="" coords="235,70,407,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1AnalogSource.html#add563a28e58fdd4af48ed983bbbecec8" title="AP_HAL::AnalogSource\l::set_pin" alt="" coords="472,37,635,78"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1AnalogSource.html#a0704aad3bf08570c35299a562202ed97" title="AP_HAL::AnalogSource\l::voltage_average_ratiometric" alt="" coords="457,102,650,143"/>
-</map>

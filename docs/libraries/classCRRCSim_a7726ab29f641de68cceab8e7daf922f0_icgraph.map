@@ -1,5 +1,0 @@
-<map id="CRRCSim::send_servos_fixed_wing" name="CRRCSim::send_servos_fixed_wing">
-<area shape="rect" id="node2" href="$classCRRCSim.html#afc2aa7813970f3eeba2585f7fc7db092" title="CRRCSim::send_servos" alt="" coords="222,31,389,57"/>
-<area shape="rect" id="node3" href="$classCRRCSim.html#a372323133793618a7ff4bd13c156e91f" title="CRRCSim::recv_fdm" alt="" coords="437,5,584,32"/>
-<area shape="rect" id="node4" href="$classCRRCSim.html#ab08e79ebbb84fd46e62c3da83f2c650f" title="CRRCSim::update" alt="" coords="633,31,765,57"/>
-</map>

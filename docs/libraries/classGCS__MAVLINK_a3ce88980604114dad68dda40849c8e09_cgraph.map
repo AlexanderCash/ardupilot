@@ -1,6 +1,0 @@
-<map id="GCS_MAVLINK::handle_mission_clear_all" name="GCS_MAVLINK::handle_mission_clear_all">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__clear__all_8h.html#af46080436bdf6f5ee6ccc535fa35e719" title="Decode a mission_clear_all message into a struct. " alt="" coords="217,53,367,94"/>
-<area shape="rect" id="node5" href="$classAP__Mission.html#acfd61ebf8361f71fa75c9088dd8b7e3b" title="AP_Mission::clear" alt="" coords="228,119,356,145"/>
-<area shape="rect" id="node3" href="$mavlink__msg__mission__clear__all_8h.html#ad99d22830d5759f3c814f350ba5f6412" title="Send a mission_clear_all message. " alt="" coords="417,5,567,61"/>
-<area shape="rect" id="node4" href="$mavlink__msg__mission__clear__all_8h.html#aca378d4b568f4980615bf2b0877a4d6c" title="Get field target_component from mission_clear_all message. " alt="" coords="417,85,567,141"/>
-</map>

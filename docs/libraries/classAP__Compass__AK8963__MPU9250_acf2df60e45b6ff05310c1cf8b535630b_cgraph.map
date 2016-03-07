@@ -1,5 +1,0 @@
-<map id="AP_Compass_AK8963_MPU9250::_register_read" name="AP_Compass_AK8963_MPU9250::_register_read">
-<area shape="rect" id="node2" href="$classAK8963__Backend.html#a765059affcdbc1fe2f147bb6ecd249c1" title="AK8963_Backend::write" alt="" coords="275,5,437,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="283,57,429,98"/>
-<area shape="rect" id="node4" href="$classAK8963__Backend.html#a1c70a496cb1e61179d40dfa09319d09c" title="AK8963_Backend::read" alt="" coords="277,123,435,149"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="NavEKF::getRotationBodyToNED" name="NavEKF::getRotationBodyToNED">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a93a3774320e331583fc6c6ac2418be21" title="AP_AHRS::get_trim" alt="" coords="275,5,415,32"/>
-<area shape="rect" id="node3" href="$classQuaternion.html#afb7132c9c69a984a40be950a17effeaa" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="277,57,413,98"/>
-<area shape="rect" id="node4" href="$classMatrix3.html#af6fb286af49f43844ba70cbb80ab2db7" title="Matrix3::rotateXYinv" alt="" coords="275,123,416,149"/>
-</map>

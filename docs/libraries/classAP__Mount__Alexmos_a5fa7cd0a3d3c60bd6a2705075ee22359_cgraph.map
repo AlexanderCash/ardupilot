@@ -1,9 +1,0 @@
-<map id="AP_Mount_Alexmos::init" name="AP_Mount_Alexmos::init">
-<area shape="rect" id="node2" href="$classAP__SerialManager.html#af80d1e798f50bcd4ffcff2f3313e3950" title="AP_SerialManager::find\l_serial" alt="" coords="230,5,389,46"/>
-<area shape="rect" id="node4" href="$classAP__Mount__Alexmos.html#aafa4a3812c9685c396759e297eff6872" title="AP_Mount_Alexmos::get\l_boardinfo" alt="" coords="226,70,393,111"/>
-<area shape="rect" id="node8" href="$classAP__Mount__Alexmos.html#adfaef569475429685fac995ac9f58b9a" title="AP_Mount_Alexmos::read\l_params" alt="" coords="222,135,397,177"/>
-<area shape="rect" id="node3" href="$classAP__SerialManager.html#a0b9318b2cf0f61a6e13d46a125dc038b" title="AP_SerialManager::protocol\l_match" alt="" coords="445,5,629,46"/>
-<area shape="rect" id="node5" href="$classAP__Mount__Alexmos.html#aad80a69937fd3356ed8f2e338bde3605" title="AP_Mount_Alexmos::send\l_command" alt="" coords="449,102,626,143"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="678,84,855,111"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="695,135,839,161"/>
-</map>

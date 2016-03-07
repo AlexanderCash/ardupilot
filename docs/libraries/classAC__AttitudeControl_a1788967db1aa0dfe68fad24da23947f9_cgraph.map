@@ -1,5 +1,0 @@
-<map id="AC_AttitudeControl::sqrt_controller" name="AC_AttitudeControl::sqrt_controller">
-<area shape="rect" id="node2" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="196,5,260,32"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="209,56,247,83"/>
-<area shape="rect" id="node4" href="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="190,107,266,133"/>
-</map>

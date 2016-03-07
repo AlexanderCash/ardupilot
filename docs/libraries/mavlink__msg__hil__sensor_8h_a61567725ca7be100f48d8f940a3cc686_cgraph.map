@@ -1,4 +1,0 @@
-<map id="mavlink_msg_hil_sensor_encode_chan" name="mavlink_msg_hil_sensor_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__hil__sensor_8h.html#a70eff3689ecf8a7fae832a0757423bcd" title="Pack a hil_sensor message on a channel. " alt="" coords="219,5,384,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="432,12,643,39"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="send_attitude" name="send_attitude">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#afc6d4a698addb81e496b3e445248f72d" title="AP_AHRS_DCM::get_gyro" alt="" coords="155,5,336,32"/>
-<area shape="rect" id="node3" href="$compat_8pde.html#a5229e8911d1f7eed10eb978ff088e551" title="millis" alt="" coords="219,56,271,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="213,107,277,133"/>
-</map>

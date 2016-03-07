@@ -1,5 +1,0 @@
-<map id="AP_Compass_HIL::init" name="AP_Compass_HIL::init">
-<area shape="rect" id="node2" href="$classAP__Compass__Backend.html#aee0aed3dcceb809b122d2a0784f44593" title="AP_Compass_Backend\l::register_compass" alt="" coords="211,5,373,46"/>
-<area shape="rect" id="node3" href="$classCompass.html#af1b5ea3ff42b02e04526d4be361a1ca1" title="Compass::register_compass" alt="" coords="421,12,611,39"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="659,5,805,46"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AP_Mission::set_current_cmd" name="AP_Mission::set_current_cmd">
-<area shape="rect" id="node2" href="$classAPM__OBC.html#abcd546549be8688ab9cd0c46147dc077" title="APM_OBC::check" alt="" coords="272,5,403,32"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#ad4e76e7f27bc999e806416e24aa10f26" title="GCS_MAVLINK::handle\l_mission_set_current" alt="" coords="256,57,419,98"/>
-<area shape="rect" id="node4" href="$AP__Mission__test_8pde.html#a184ed3ddbf16eecc3c9176074098c125" title="run_set_current_cmd_test" alt="" coords="251,123,424,149"/>
-<area shape="rect" id="node5" href="$AP__Mission__test_8pde.html#a940853f9fdd2bd926e8521828b2ee749" title="run_set_current_cmd\l_while_stopped_test" alt="" coords="265,174,409,215"/>
-</map>

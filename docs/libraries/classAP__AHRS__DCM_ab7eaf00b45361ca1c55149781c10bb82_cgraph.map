@@ -1,5 +1,0 @@
-<map id="AP_AHRS_DCM::reset" name="AP_AHRS_DCM::reset">
-<area shape="rect" id="node2" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="237,5,337,32"/>
-<area shape="rect" id="node3" href="$classMatrix3.html#a62587bd216436f09f06b9e1330f84bc0" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="219,56,354,83"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="213,107,360,149"/>
-</map>

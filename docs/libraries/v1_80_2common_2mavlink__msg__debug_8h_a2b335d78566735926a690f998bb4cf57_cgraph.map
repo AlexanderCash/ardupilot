@@ -1,4 +1,0 @@
-<map id="mavlink_msg_debug_encode_chan" name="mavlink_msg_debug_encode_chan">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__debug_8h.html#a09f5ee04486a181fb297e4017a8bb036" title="Pack a debug message on a channel. " alt="" coords="280,5,491,32"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="539,5,749,32"/>
-</map>

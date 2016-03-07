@@ -1,4 +1,0 @@
-<map id="mavlink_msg_mission_clear_all_decode" name="mavlink_msg_mission_clear_all_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__clear__all_8h.html#ad99d22830d5759f3c814f350ba5f6412" title="Send a mission_clear_all message. " alt="" coords="206,5,357,61"/>
-<area shape="rect" id="node3" href="$mavlink__msg__mission__clear__all_8h.html#aca378d4b568f4980615bf2b0877a4d6c" title="Get field target_component from mission_clear_all message. " alt="" coords="206,85,357,141"/>
-</map>

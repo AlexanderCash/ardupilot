@@ -1,6 +1,0 @@
-<map id="SmallEKF::readMagData" name="SmallEKF::readMagData">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#adf808841de62499bc8c388fc798d47f1" title="AP_AHRS::get_compass" alt="" coords="231,5,401,32"/>
-<area shape="rect" id="node3" href="$classCompass.html#a97437729a583cd900e4dd1d6d84a4a0e" title="return true if the compass should be used for yaw calculations " alt="" coords="236,56,396,83"/>
-<area shape="rect" id="node4" href="$classCompass.html#a9600516e0dbde9186d3b14b3457af013" title="Compass::last_update_usec" alt="" coords="222,107,410,133"/>
-<area shape="rect" id="node5" href="$classCompass.html#aa1f44c7920bbd147fa2e58bfedd3c4bb" title="Return the current field as a Vector3f. " alt="" coords="249,157,383,184"/>
-</map>

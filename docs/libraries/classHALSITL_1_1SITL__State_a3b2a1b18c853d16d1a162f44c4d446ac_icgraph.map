@@ -1,6 +1,0 @@
-<map id="HALSITL::SITL_State::_setup_fdm" name="HALSITL::SITL_State::_setup_fdm">
-<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#a431cc90b2798830af85bcd65d0dade9f" title="HALSITL::SITL_State\l::_sitl_setup" alt="" coords="206,5,357,46"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a5211ba971055052489d9817c3388c4c2" title="HALSITL::SITL_State\l::_parse_command_line" alt="" coords="405,5,565,46"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="614,5,765,46"/>
-<area shape="rect" id="node5" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="814,12,922,39"/>
-</map>

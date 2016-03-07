@@ -1,4 +1,0 @@
-<map id="mavlink_msg_boot_encode" name="mavlink_msg_boot_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__boot_8h.html#aa061ead3136324c3b1895ba1f30b6f44" title="Pack a boot message. " alt="" coords="235,5,402,32"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="451,5,626,32"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="ToshibaLED_I2C::hw_set_rgb" name="ToshibaLED_I2C::hw_set_rgb">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="218,5,363,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="201,71,381,97"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#a6b2ba493a18de0727817a54a2a2d0eba" title="AP_HAL::I2CDriver::\lwriteRegisters" alt="" coords="218,122,363,163"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="201,188,380,215"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="mavlink_msg_gimbal_report_axis_calibration_status_decode" name="mavlink_msg_gimbal_report_axis_calibration_status_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__report__axis__calibration__status_8h.html#a8eb76b158fe9fcf28bd92ff5c9f857a4" title="Send a gimbal_report_axis_calibration_status message. " alt="" coords="215,5,390,75"/>
-<area shape="rect" id="node3" href="$mavlink__msg__gimbal__report__axis__calibration__status_8h.html#ad3ecd4db4b9a98311e8662fffc115a3c" title="Get field pitch_requires_calibration from gimbal_report_axis_calibration_status message. " alt="" coords="213,99,392,170"/>
-<area shape="rect" id="node4" href="$mavlink__msg__gimbal__report__axis__calibration__status_8h.html#ada53259de06e457c77bdf6f58ab239c4" title="Get field roll_requires_calibration from gimbal_report_axis_calibration_status message. " alt="" coords="219,194,386,265"/>
-</map>

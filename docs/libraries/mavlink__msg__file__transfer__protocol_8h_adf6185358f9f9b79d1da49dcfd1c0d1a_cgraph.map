@@ -1,7 +1,0 @@
-<map id="mavlink_msg_file_transfer_protocol_decode" name="mavlink_msg_file_transfer_protocol_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__file__transfer__protocol_8h.html#a0534d2ac121e6d92c41f46cd4a989cc8" title="Send a file_transfer_protocol message. " alt="" coords="238,5,431,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__file__transfer__protocol_8h.html#af70f59f270211cb4edffff2a390b677d" title="Get field target_system from file_transfer_protocol message. " alt="" coords="239,70,430,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__file__transfer__protocol_8h.html#a156af986b66e9c0dbd4dcf32f82928fd" title="Get field target_component from file_transfer_protocol message. " alt="" coords="229,135,440,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__file__transfer__protocol_8h.html#a36746b27321fc75f71a0a0ac8c9a80a0" title="Get field payload from file_transfer_protocol message. " alt="" coords="247,201,422,242"/>
-<area shape="rect" id="node6" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="488,201,656,242"/>
-</map>

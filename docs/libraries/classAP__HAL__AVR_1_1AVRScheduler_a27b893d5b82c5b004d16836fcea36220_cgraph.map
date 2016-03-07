@@ -1,8 +1,0 @@
-<map id="AP_HAL_AVR::AVRScheduler::init" name="AP_HAL_AVR::AVRScheduler::init">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRTimer.html#ada3395217beb0d79447fc555f94617c7" title="AP_HAL_AVR::AVRTimer\l::init" alt="" coords="269,5,446,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1ISRRegistry.html#a77c06b5fc4e7974bc454523b14eaca50" title="AP_HAL_AVR::ISRRegistry\l::register_signal" alt="" coords="263,70,451,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRScheduler.html#a847b3f64f136a829e687812dd176ea66" title="AP_HAL_AVR::AVRScheduler\l::_timer_isr_event" alt="" coords="256,135,459,177"/>
-<area shape="rect" id="node6" href="$memcheck_8cpp.html#aece0697dd661834c1cfac5c3223edd9f" title="memcheck_init" alt="" coords="302,201,413,228"/>
-<area shape="rect" id="node5" href="$classAP__HAL__AVR_1_1AVRScheduler.html#a5b94a2e926f19bb969cc4d158d7ed1b7" title="AP_HAL_AVR::AVRScheduler\l::_run_timer_procs" alt="" coords="507,135,709,177"/>
-<area shape="rect" id="node7" href="$memcheck_8cpp.html#ad877c822db6b90086c3e74ea35b9d362" title="memcheck_update_stackptr" alt="" coords="515,201,701,228"/>
-</map>

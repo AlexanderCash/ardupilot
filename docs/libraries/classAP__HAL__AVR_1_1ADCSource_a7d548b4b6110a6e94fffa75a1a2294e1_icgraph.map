@@ -1,4 +1,0 @@
-<map id="AP_HAL_AVR::ADCSource::read_latest" name="AP_HAL_AVR::ADCSource::read_latest">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1ADCSource.html#a4fc59be8a234a9b23511b5f1feaf0dc2" title="AP_HAL_AVR::ADCSource\l::voltage_latest" alt="" coords="240,5,427,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRAnalogIn.html#a57f3cc3accfa7f97af33382e9cdec748" title="AP_HAL_AVR::AVRAnalogIn\l::board_voltage" alt="" coords="475,5,669,46"/>
-</map>

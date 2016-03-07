@@ -1,7 +1,0 @@
-<map id="AP_Baro_MS5611::_timer" name="AP_Baro_MS5611::_timer">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="237,5,384,46"/>
-<area shape="rect" id="node3" href="$classAP__SerialBus.html#aa6f2ea7a630df154230bb6dd24adc541" title="AP_SerialBus::sem_take\l_nonblocking" alt="" coords="227,70,395,111"/>
-<area shape="rect" id="node4" href="$classAP__SerialBus.html#a8eb397dd152e865e82ee5b3c5a392f5f" title="AP_SerialBus::read\l_24bits" alt="" coords="243,135,379,177"/>
-<area shape="rect" id="node5" href="$classAP__SerialBus.html#a25f2078ecc0da70d8ace768b52fc4d01" title="AP_SerialBus::write" alt="" coords="241,201,380,228"/>
-<area shape="rect" id="node6" href="$classAP__SerialBus.html#a5f00921cf638834d5d6aabfbed6461f6" title="AP_SerialBus::sem_give" alt="" coords="227,252,394,279"/>
-</map>

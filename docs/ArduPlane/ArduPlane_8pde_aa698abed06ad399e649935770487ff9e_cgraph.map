@@ -1,8 +1,0 @@
-<map id="update_logging1" name="update_logging1">
-<area shape="rect" id="node2" href="$system_8pde.html#aca07afa008c681903526cfdc27045584" title="should_log" alt="" coords="195,5,279,32"/>
-<area shape="rect" id="node4" href="$Log_8pde.html#aa93e7c3a15ee96e36b6b2f3990102eca" title="Log_Write_Attitude" alt="" coords="171,56,304,83"/>
-<area shape="rect" id="node7" href="$Log_8pde.html#ae201b54e784bd7192c20717409953be9" title="Log_Write_IMU" alt="" coords="181,107,294,133"/>
-<area shape="rect" id="node3" href="$Log_8pde.html#a05e0c1cc917db97ee71cc05c205c2095" title="start_logging" alt="" coords="400,5,496,32"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classOpticalFlow.html#adef66cc90d87a9261c9d3454723f9455" title="OpticalFlow::enabled" alt="" coords="376,56,520,83"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classSITL.html#adc9cb04ae0ef3764e4dbf414d58ed9c4" title="SITL::Log_Write_SIMSTATE" alt="" coords="353,107,543,133"/>
-</map>

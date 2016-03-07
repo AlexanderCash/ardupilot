@@ -1,6 +1,0 @@
-<map id="AP_GPS::num_sats" name="AP_GPS::num_sats">
-<area shape="rect" id="node2" href="$classAP__GPS.html#a266ef4a39f7a303fc1905bf7f9e4ed09" title="AP_GPS::send_mavlink\l_gps_raw" alt="" coords="195,5,357,46"/>
-<area shape="rect" id="node4" href="$classAP__GPS.html#afe04427a47ab5e630cb979815abd911e" title="AP_GPS::update" alt="" coords="215,71,337,97"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#aa6f7ccdb5ed30bcce6499dcbf9e6d4ad" title="GCS_MAVLINK::send_gps_raw" alt="" coords="406,12,615,39"/>
-<area shape="rect" id="node5" href="$GPS__AUTO__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="487,71,534,97"/>
-</map>

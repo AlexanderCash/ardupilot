@@ -1,8 +1,0 @@
-<map id="NavEKF::alignMagStateDeclination" name="NavEKF::alignMagStateDeclination">
-<area shape="rect" id="node2" href="$classNavEKF.html#a85b6d179a631d25f34f2560e660aee10" title="NavEKF::use_compass" alt="" coords="289,56,450,83"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#adf808841de62499bc8c388fc798d47f1" title="AP_AHRS::get_compass" alt="" coords="504,5,675,32"/>
-<area shape="rect" id="node5" href="$classCompass.html#a5051de1d15ee203600422235ab93c88c" title="Compass::get_declination" alt="" coords="283,107,456,133"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="319,157,419,184"/>
-<area shape="rect" id="node4" href="$classCompass.html#a97437729a583cd900e4dd1d6d84a4a0e" title="return true if the compass should be used for yaw calculations " alt="" coords="509,56,669,83"/>
-<area shape="rect" id="node7" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="570,157,609,184"/>
-</map>

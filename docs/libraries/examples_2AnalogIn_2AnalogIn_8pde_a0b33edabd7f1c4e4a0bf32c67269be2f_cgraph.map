@@ -1,9 +1,0 @@
-<map id="loop" name="loop">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogSource.html#a97f02eb815fd2f568df7b927d6f6b559" title="AP_HAL::AnalogSource\l::voltage_average" alt="" coords="101,5,264,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="107,71,258,97"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1AnalogSource.html#add563a28e58fdd4af48ed983bbbecec8" title="AP_HAL::AnalogSource\l::set_pin" alt="" coords="101,122,264,163"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="109,187,256,229"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="512,71,653,97"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="313,96,463,123"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="701,71,845,97"/>
-</map>

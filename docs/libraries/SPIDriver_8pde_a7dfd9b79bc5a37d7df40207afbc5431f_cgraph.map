@@ -1,5 +1,0 @@
-<map id="setup" name="setup">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="133,5,280,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDeviceManager.html#ab26a3e8f8b43e59376ce98aafd288452" title="AP_HAL::SPIDeviceManager\l::device" alt="" coords="109,70,304,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="133,135,280,177"/>
-</map>

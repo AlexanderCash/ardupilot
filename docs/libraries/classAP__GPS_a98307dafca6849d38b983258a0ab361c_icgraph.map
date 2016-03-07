@@ -1,4 +1,0 @@
-<map id="AP_GPS::location" name="AP_GPS::location">
-<area shape="rect" id="node2" href="$classAP__GPS.html#a266ef4a39f7a303fc1905bf7f9e4ed09" title="AP_GPS::send_mavlink\l_gps_raw" alt="" coords="181,5,344,46"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#aa6f7ccdb5ed30bcce6499dcbf9e6d4ad" title="GCS_MAVLINK::send_gps_raw" alt="" coords="393,12,602,39"/>
-</map>

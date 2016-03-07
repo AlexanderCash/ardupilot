@@ -1,9 +1,0 @@
-<map id="dump_log" name="dump_log">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a3c1526855286c72b24756566c51767cb" title="DataFlash_Class::find\l_last_log" alt="" coords="167,5,319,46"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a233f1d440d3dff5463896b8669bdd74e" title="DataFlash_Class::DumpPageInfo" alt="" coords="133,71,352,97"/>
-<area shape="rect" id="node4" href="$Log_8pde.html#a452dc7a395702f6ea3d1f84c66484b6f" title="Log_Read" alt="" coords="202,121,283,148"/>
-<area shape="rect" id="node8" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#a01a5bf59393244b18644f8afa0d55271" title="DataFlash_Class::get\l_log_boundaries" alt="" coords="168,173,317,214"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html#ae4b75a61c52e28221d8fb2b2d4c35ca3" title="AP_HAL::BetterStream\l::println_P" alt="" coords="413,49,571,90"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classDataFlash__Class.html#aac4d7d57da2869b1f49f4b8fdd154db9" title="DataFlash_Class::LogRead\lProcess" alt="" coords="401,114,583,155"/>
-<area shape="rect" id="node7" href="$ArduPlane_8pde.html#a8e2b190917683afdbcb82d5ad4ebb4da" title="print_flight_mode" alt="" coords="431,180,553,207"/>
-</map>

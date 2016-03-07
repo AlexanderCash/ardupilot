@@ -1,5 +1,0 @@
-<map id="set_target_altitude_current_adjusted" name="set_target_altitude_current_adjusted">
-<area shape="rect" id="node2" href="$altitude_8pde.html#a97933d190f6688bcfb0e5f6f9df5383c" title="set_target_altitude\l_current" alt="" coords="193,5,322,46"/>
-<area shape="rect" id="node4" href="$altitude_8pde.html#aad5da768a7e757989110fe2d704427b9" title="adjusted_altitude_cm" alt="" coords="185,71,330,97"/>
-<area shape="rect" id="node3" href="$altitude_8pde.html#a95be1c235684766d83ed35917071dcad" title="reset_offset_altitude" alt="" coords="379,12,519,39"/>
-</map>

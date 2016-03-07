@@ -1,5 +1,0 @@
-<map id="init_rc_in" name="init_rc_in">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel.html#ad4e6c8ba69625f57f3e189a8bfbd9e78" title="RC_Channel::set_default\l_dead_zone" alt="" coords="129,5,298,46"/>
-<area shape="rect" id="node3" href="$ArduPlane_8pde.html#a09a0e7f6d4d4d0b49c24280375aa6c04" title="update_aux" alt="" coords="169,71,258,97"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRC__Channel__aux.html#a94bef65abca366d677d6d0a2c31af9c1" title="RC_Channel_aux::enable\l_aux_servos" alt="" coords="347,63,517,105"/>
-</map>

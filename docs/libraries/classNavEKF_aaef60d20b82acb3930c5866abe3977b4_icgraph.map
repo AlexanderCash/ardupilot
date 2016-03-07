@@ -1,8 +1,0 @@
-<map id="NavEKF::zeroRows" name="NavEKF::zeroRows">
-<area shape="rect" id="node2" href="$classNavEKF.html#a24a9b1e9c8504aa4821f2459c7ae6117" title="NavEKF::alignYawGPS" alt="" coords="205,5,366,32"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#a2ef01d55f65156c80bcd8ef8ef3ac909" title="NavEKF::resetGyroBias" alt="" coords="204,56,367,83"/>
-<area shape="rect" id="node7" href="$classNavEKF.html#a6d64ec17dcec8b8c486857bd4fb3b54c" title="NavEKF::setWindVelStates" alt="" coords="193,107,378,133"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a02ca7503660ded3d95abce7c81d2eebf" title="NavEKF::SetFlightAndFusion\lModes" alt="" coords="427,49,621,90"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="669,19,827,61"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="673,85,823,112"/>
-</map>

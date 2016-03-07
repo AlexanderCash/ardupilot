@@ -1,7 +1,0 @@
-<map id="AP_ADC_ADS7844::read" name="AP_ADC_ADS7844::read">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="239,5,393,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="243,70,389,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="227,135,405,177"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="227,201,405,228"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="243,253,389,294"/>
-</map>

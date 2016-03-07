@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor::_calibrate_accel" name="AP_InertialSensor::_calibrate_accel">
-<area shape="rect" id="node2" href="$classAP__InertialSensor.html#a8680fe601d99ff65be4999ac5ab30dd7" title="AP_InertialSensor::\l_calibrate_reset_matrices" alt="" coords="195,5,365,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor.html#a91c42c13582c2551d84761a9e6053c42" title="AP_InertialSensor::\l_calibrate_update_matrices" alt="" coords="189,70,371,111"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor.html#a7aea14bf95688461bd9c7e2a92fb5273" title="AP_InertialSensor::\l_calibrate_find_delta" alt="" coords="209,135,351,177"/>
-<area shape="rect" id="node6" href="$classVector3.html#a076ee3d40e645623b54650cca5ae6df7" title="Vector3::is_nan" alt="" coords="223,201,337,228"/>
-<area shape="rect" id="node5" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="419,143,483,169"/>
-</map>

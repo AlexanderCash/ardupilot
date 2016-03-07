@@ -1,5 +1,0 @@
-<map id="calc_throttle" name="calc_throttle">
-<area shape="rect" id="node2" href="$ArduPlane_8pde.html#ab3877ebcfdd6fb99ff7500ad24f2ebd1" title="handle_auto_mode" alt="" coords="172,5,303,32"/>
-<area shape="rect" id="node3" href="$ArduPlane_8pde.html#a1353a77e19a7028fda60ee8706f0879d" title="update_flight_mode" alt="" coords="377,56,511,83"/>
-<area shape="rect" id="node4" href="$navigation_8pde.html#a0b5c9dfeecbab7c8b57eb2b62cdda33c" title="update_fbwb_speed_height" alt="" coords="147,107,327,133"/>
-</map>

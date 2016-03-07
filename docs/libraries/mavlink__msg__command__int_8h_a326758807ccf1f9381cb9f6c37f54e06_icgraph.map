@@ -1,5 +1,0 @@
-<map id="mavlink_msg_command_int_decode" name="mavlink_msg_command_int_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2testsuite_8h.html#a80fcdb1b13086c33c5cc6b7785460215" title="mavlink_test_command_int" alt="" coords="216,12,397,39"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="446,12,599,39"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="649,12,765,39"/>
-</map>

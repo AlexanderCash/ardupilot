@@ -1,9 +1,0 @@
-<map id="VRBRAIN::VRBRAINUARTDriver::write" name="VRBRAIN::VRBRAINUARTDriver::write">
-<area shape="rect" id="node2" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#acc8033869efd9f2f6012ecda5373aa3b" title="VRBRAIN::VRBRAINUARTDriver\l::try_initialise" alt="" coords="277,102,501,143"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a5eb9be7ed92b52a7eadcfd82072f3bc6" title="AP_HAL::Scheduler::\lin_timerprocess" alt="" coords="316,167,463,209"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="316,233,463,274"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="588,5,735,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title="AP_HAL::Util::safety\l_switch_state" alt="" coords="589,70,734,111"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Util.html#a973ee89f8eee7af3a4d2a3eb700cbf3c" title="AP_HAL::Util::get_soft\l_armed" alt="" coords="583,135,739,177"/>
-<area shape="rect" id="node6" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a5c6f7ba7803604fd87cc077d2c2ff618" title="VRBRAIN::VRBRAINUARTDriver\l::begin" alt="" coords="549,201,773,242"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="SITL::convert_earth_frame" name="SITL::convert_earth_frame">
-<area shape="rect" id="node2" href="$classAircraft.html#a818eb42d9a3c324476f9940798183b17" title="Aircraft::fill_fdm" alt="" coords="192,12,307,39"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="355,5,506,46"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="555,5,706,46"/>
-<area shape="rect" id="node5" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="755,5,906,46"/>
-<area shape="rect" id="node6" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="955,5,1125,46"/>
-<area shape="rect" id="node7" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="1173,5,1344,46"/>
-</map>

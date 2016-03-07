@@ -1,9 +1,0 @@
-<map id="AP_Airspeed::calibrate" name="AP_Airspeed::calibrate">
-<area shape="rect" id="node2" href="$classAP__Airspeed.html#a2d265701a127bd336882e930cb996e86" title="AP_Airspeed::get_pressure" alt="" coords="208,44,389,71"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="225,95,372,137"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1UARTDriver.html#a29b84f87f40b331b6922da5d8b57d9f0" title="AP_HAL::UARTDriver\l::println_P" alt="" coords="222,161,375,202"/>
-<area shape="rect" id="node3" href="$classAP__Airspeed__PX4.html#ad85ff702141a4b835205d9aa1fb4b4f6" title="AP_Airspeed_PX4::get\l_differential_pressure" alt="" coords="446,5,602,46"/>
-<area shape="rect" id="node4" href="$classAP__Airspeed__Analog.html#a33da45ef81801b4971ed1afe3e2183fb" title="AP_Airspeed_Analog\l::get_differential_pressure" alt="" coords="438,70,610,111"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1AnalogSource.html#add563a28e58fdd4af48ed983bbbecec8" title="AP_HAL::AnalogSource\l::set_pin" alt="" coords="675,37,837,78"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1AnalogSource.html#a0704aad3bf08570c35299a562202ed97" title="AP_HAL::AnalogSource\l::voltage_average_ratiometric" alt="" coords="659,102,853,143"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="libraries/AP_HAL/utility/BetterStream.h" name="libraries/AP_HAL/utility/BetterStream.h">
-<area shape="rect" id="node3" href="$AP__HAL__Namespace_8h.html" title="../AP_HAL_Namespace.h" alt="" coords="51,245,224,272"/>
-<area shape="rect" id="node6" href="$Stream_8h.html" title="Stream.h" alt="" coords="149,96,223,123"/>
-<area shape="rect" id="node9" href="$AP__Progmem_8h.html" title="AP_Progmem.h" alt="" coords="293,96,408,123"/>
-<area shape="rect" id="node5" href="$FastDelegate_8h.html" title="utility/FastDelegate.h" alt="" coords="61,320,208,347"/>
-<area shape="rect" id="node7" href="$Print_8h.html" title="Print.h" alt="" coords="201,171,260,197"/>
-<area shape="rect" id="node10" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="285,171,416,197"/>
-<area shape="rect" id="node11" href="$AP__Progmem__Identity_8h.html" title="AP_Progmem_Identity.h" alt="" coords="441,171,604,197"/>
-</map>

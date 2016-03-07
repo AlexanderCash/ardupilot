@@ -1,5 +1,0 @@
-<map id="loop" name="loop">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogSource.html#a97f02eb815fd2f568df7b927d6f6b559" title="AP_HAL::AnalogSource\l::voltage_average" alt="" coords="101,5,264,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="106,70,259,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="109,135,256,177"/>
-</map>

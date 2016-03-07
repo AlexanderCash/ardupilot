@@ -1,6 +1,0 @@
-<map id="Aircraft" name="Aircraft">
-<area shape="rect" id="node2" href="$classMatrix3.html" title="Matrix3\&lt; float \&gt;" alt="" coords="94,141,209,168"/>
-<area shape="rect" id="node3" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="10,5,125,32"/>
-<area shape="rect" id="node4" href="$structLocation.html" title="Location" alt="" coords="234,141,304,168"/>
-<area shape="rect" id="node5" href="$structLocation__Option__Flags.html" title="Location_Option_Flags" alt="" coords="192,5,345,32"/>
-</map>

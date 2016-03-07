@@ -1,8 +1,0 @@
-<map id="AP_InertialSensor_Backend::get_sample_rate_hz" name="AP_InertialSensor_Backend::get_sample_rate_hz">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__PX4.html#a741122dbb9c2c53f63d42d0719424a65" title="AP_InertialSensor_PX4\l::_queue_depth" alt="" coords="241,5,399,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__PX4.html#a1151175435b1b3c211040058fe5462d9" title="AP_InertialSensor_PX4\l::_init_sensor" alt="" coords="449,5,607,46"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__PX4.html#a7e0a8d5f569f58343aa4d2c1c217a3bc" title="AP_InertialSensor_PX4\l::detect" alt="" coords="657,5,815,46"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor.html#abcf5d2923286a28097d2b3f8ca18e915" title="AP_InertialSensor::\l_detect_backends" alt="" coords="865,5,999,46"/>
-<area shape="rect" id="node6" href="$classAP__InertialSensor.html#ab0534f593e07f2d483ddd8c2b1bbf4d9" title="AP_InertialSensor::init" alt="" coords="1048,12,1200,39"/>
-<area shape="rect" id="node7" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="1249,12,1303,39"/>
-</map>

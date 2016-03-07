@@ -1,7 +1,0 @@
-<map id="AP_Limits::check_triggered" name="AP_Limits::check_triggered">
-<area shape="rect" id="node2" href="$classAP__Limit__Module.html#a0059b5f885dee679ea668b5f13ec2767" title="AP_Limit_Module::get\l_module_id" alt="" coords="254,5,405,46"/>
-<area shape="rect" id="node3" href="$classAP__Limit__Module.html#ade305aa33a4058ac5789f8dbfaaa617b" title="AP_Limit_Module::enabled" alt="" coords="241,71,418,97"/>
-<area shape="rect" id="node4" href="$classAP__Limit__Module.html#a478db2cc8efeb0b46a3efc6a965a2d64" title="AP_Limit_Module::required" alt="" coords="240,121,419,148"/>
-<area shape="rect" id="node5" href="$classAP__Limit__Module.html#a103fb239cb1b4d59e8a94d4682ccb440" title="AP_Limit_Module::triggered" alt="" coords="238,172,421,199"/>
-<area shape="rect" id="node6" href="$classAP__Limit__Module.html#aeaa7a2a3a2b0bace32bff31554f269b5" title="AP_Limit_Module::next" alt="" coords="251,223,408,249"/>
-</map>

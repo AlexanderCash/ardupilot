@@ -1,4 +1,0 @@
-<map id="NavEKF::calcEarthRateNED" name="NavEKF::calcEarthRateNED">
-<area shape="rect" id="node2" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="245,5,403,46"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="245,70,403,111"/>
-</map>

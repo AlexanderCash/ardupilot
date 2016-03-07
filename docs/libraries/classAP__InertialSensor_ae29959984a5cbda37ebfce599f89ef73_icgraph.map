@@ -1,7 +1,0 @@
-<map id="AP_InertialSensor::get_delta_velocity" name="AP_InertialSensor::get_delta_velocity">
-<area shape="rect" id="node2" href="$classNavEKF.html#ad3d371f0125528a6ca2f3a996e7a4ad6" title="NavEKF::readDeltaVelocity" alt="" coords="190,77,373,104"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a617e88f0e357eb16d2540f25981e9ee2" title="NavEKF::readIMUData" alt="" coords="422,77,581,104"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="629,5,787,46"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="629,70,787,111"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="633,136,783,163"/>
-</map>

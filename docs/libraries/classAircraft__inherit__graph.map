@@ -1,7 +1,0 @@
-<map id="Aircraft" name="Aircraft">
-<area shape="rect" id="node2" href="$classCRRCSim.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="5,80,91,107"/>
-<area shape="rect" id="node3" href="$classHelicopter.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="115,80,196,107"/>
-<area shape="rect" id="node4" href="$classJSBSim.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="221,80,291,107"/>
-<area shape="rect" id="node5" href="$classMultiCopter.html" title="MultiCopter" alt="" coords="315,80,404,107"/>
-<area shape="rect" id="node6" href="$classRover.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="429,80,485,107"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AP_HAL::I2CDriver::ignore_errors" name="AP_HAL::I2CDriver::ignore_errors">
-<area shape="rect" id="node2" href="$classToshibaLED__I2C.html#ab4c128ad9e8774de9a9a7714d5d15041" title="ToshibaLED_I2C::hw_init" alt="" coords="200,5,371,32"/>
-<area shape="rect" id="node3" href="$classNavioLED__I2C.html#ab5b4acc02c35ce1888079283bdc06393" title="NavioLED_I2C::hw_init" alt="" coords="206,56,365,83"/>
-</map>

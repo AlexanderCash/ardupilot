@@ -1,4 +1,0 @@
-<map id="mavlink_msg_log_request_end_decode" name="mavlink_msg_log_request_end_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__log__request__end_8h.html#a50db82f0dddb1868e4e4cdfa68106153" title="Send a log_request_end message. " alt="" coords="233,5,407,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__log__request__end_8h.html#a9a60f7d55a41077c0757d5122f98eda1" title="Get field target_component from log_request_end message. " alt="" coords="227,70,413,111"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="mavlink_msg_log_erase_encode" name="mavlink_msg_log_erase_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__log__erase_8h.html#aa50e518756b57e61b7c012c68d612125" title="Pack a log_erase message. " alt="" coords="216,12,413,39"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="462,12,637,39"/>
-</map>

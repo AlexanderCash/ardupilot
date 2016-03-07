@@ -1,8 +1,0 @@
-<map id="Linux::LinuxScheduler" name="Linux::LinuxScheduler">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html" title="AP_HAL::Scheduler" alt="" coords="616,5,755,32"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxSemaphore.html" title="Linux::LinuxSemaphore" alt="" coords="606,56,765,83"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="296,49,443,76"/>
-<area shape="rect" id="node5" href="$classfastdelegate_1_1FastDelegate0.html" title="fastdelegate::FastDelegate0\l\&lt; RetType \&gt;" alt="" coords="592,111,779,153"/>
-<area shape="rect" id="node6" href="$classfastdelegate_1_1detail_1_1ClosurePtr.html" title="fastdelegate::detail\l::ClosurePtr\&lt; GenericMemFn,\l StaticFunctionPtr, UnvoidStatic\lFunctionPtr \&gt;" alt="" coords="264,101,475,171"/>
-<area shape="rect" id="node7" href="$classfastdelegate_1_1DelegateMemento.html" title="fastdelegate::DelegateMemento" alt="" coords="6,123,213,149"/>
-</map>

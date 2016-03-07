@@ -1,9 +1,0 @@
-<map id="mavlink_msg_attitude_decode" name="mavlink_msg_attitude_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__attitude_8h.html#ac7afddda236cd7c6f482b4acbd5dc1d7" title="Send a attitude message. " alt="" coords="203,5,352,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__attitude_8h.html#ab9d96bdc5f30a33b19db31bd8adffcf0" title="Get field roll from attitude message. " alt="" coords="203,70,352,111"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__attitude_8h.html#ab1197a265a1461a1131a6a49947001f7" title="Get field pitch from attitude message. " alt="" coords="203,135,352,177"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__attitude_8h.html#a4143e517b4e03173f1614c4cd92857c6" title="Get field yaw from attitude message. " alt="" coords="203,201,352,242"/>
-<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__attitude_8h.html#a57a3466521b3a0adecc5c500a33db559" title="Get field rollspeed from attitude message. " alt="" coords="203,266,352,307"/>
-<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__attitude_8h.html#ab6acd8c67f884fb644d2a81635e7bec9" title="Get field pitchspeed from attitude message. " alt="" coords="203,331,352,373"/>
-<area shape="rect" id="node8" href="$v1_80_2common_2mavlink__msg__attitude_8h.html#a3d821889da959191467512ec589b34ad" title="Get field yawspeed from attitude message. " alt="" coords="203,397,352,438"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AP_Baro_BMP085::ReadTemp" name="AP_Baro_BMP085::ReadTemp">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="257,5,402,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDriver.html#a687bb56361cf0ee839b4df36cf756952" title="AP_HAL::I2CDriver::\lsetHighSpeed" alt="" coords="257,70,402,111"/>
-</map>

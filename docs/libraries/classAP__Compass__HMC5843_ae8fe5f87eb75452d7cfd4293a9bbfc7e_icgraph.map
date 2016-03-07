@@ -1,6 +1,0 @@
-<map id="AP_Compass_HMC5843::init" name="AP_Compass_HMC5843::init">
-<area shape="rect" id="node2" href="$classAP__Compass__HMC5843.html#a24c7d88a8f69532e40f96c5a0db25364" title="AP_Compass_HMC5843\l::detect" alt="" coords="225,5,394,46"/>
-<area shape="rect" id="node3" href="$classCompass.html#a1c48170d8c8966b22fb150b1634443ec" title="Compass::_detect_backends" alt="" coords="443,12,635,39"/>
-<area shape="rect" id="node4" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="683,12,786,39"/>
-<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="835,12,890,39"/>
-</map>

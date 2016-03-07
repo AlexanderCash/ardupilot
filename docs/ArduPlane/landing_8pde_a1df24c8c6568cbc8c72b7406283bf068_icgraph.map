@@ -1,5 +1,0 @@
-<map id="disarm_if_autoland_complete" name="disarm_if_autoland_complete">
-<area shape="rect" id="node2" href="$landing_8pde.html#a76d7ac00bf1a68b5db464de185d44847" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="184,12,269,39"/>
-<area shape="rect" id="node3" href="$commands__logic_8pde.html#a42358652e4033ff08d1056cc4d5bbab8" title="verify_command" alt="" coords="318,12,437,39"/>
-<area shape="rect" id="node4" href="$commands__logic_8pde.html#a072ff1b2f62a15fe354c2405089fd078" title="verify_command_callback" alt="" coords="485,12,659,39"/>
-</map>

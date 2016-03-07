@@ -1,9 +1,0 @@
-<map id="AP_InertialSensor_LSM9DS0::_register_read_xm" name="AP_InertialSensor_LSM9DS0::_register_read_xm">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__LSM9DS0.html#a585d82b5f469728d27649891607a7567" title="AP_InertialSensor_LSM9DS0\l::_dump_registers" alt="" coords="491,5,685,46"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__LSM9DS0.html#a1ab90ee9f6357f22f78ba8e69f4d2d5d" title="AP_InertialSensor_LSM9DS0\l::_hardware_init" alt="" coords="248,63,443,105"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor__LSM9DS0.html#a11f31791ff88875b6cd60d6e5d4dc4b0" title="AP_InertialSensor_LSM9DS0\l::_read_data_transaction_xm" alt="" coords="248,129,443,170"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM9DS0.html#a1047cd97a910ee344c829084b700e10b" title="AP_InertialSensor_LSM9DS0\l::_init_sensor" alt="" coords="733,86,928,127"/>
-<area shape="rect" id="node6" href="$classAP__InertialSensor__LSM9DS0.html#af12eeb465dbde589005102242e07842e" title="AP_InertialSensor_LSM9DS0\l::_poll_data" alt="" coords="491,173,685,214"/>
-<area shape="rect" id="node7" href="$classAP__InertialSensor__LSM9DS0.html#aefab8c7df803e3b55ec9acaf10098486" title="AP_InertialSensor_LSM9DS0\l::_sample_available" alt="" coords="733,173,928,214"/>
-<area shape="rect" id="node8" href="$classAP__InertialSensor__LSM9DS0.html#a755bf2fd7903364b1d5ffb00bc0429b0" title="AP_InertialSensor_LSM9DS0\l::wait_for_sample" alt="" coords="976,173,1171,214"/>
-</map>

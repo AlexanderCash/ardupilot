@@ -1,9 +1,0 @@
-<map id="NavEKF::CopyAndFixCovariances" name="NavEKF::CopyAndFixCovariances">
-<area shape="rect" id="node2" href="$classNavEKF.html#af11472d4d599c4c5d632d292a4ab29b1" title="NavEKF::CovariancePrediction" alt="" coords="281,115,485,141"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="782,115,933,141"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="534,39,733,65"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#abb693a00d56f98f4cd8d654605163d14" title="NavEKF::SelectMagFusion" alt="" coords="543,89,724,116"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#a0302b7bbb74998406a938c227367797e" title="NavEKF::SelectFlowFusion" alt="" coords="541,140,725,167"/>
-<area shape="rect" id="node7" href="$classNavEKF.html#a49295ac247658724f852cbec8be83398" title="NavEKF::SelectTasFusion" alt="" coords="544,191,723,217"/>
-<area shape="rect" id="node8" href="$classNavEKF.html#a8525e5774e083f7187a7c4ed8609fa38" title="NavEKF::SelectBetaFusion" alt="" coords="542,241,725,268"/>
-</map>

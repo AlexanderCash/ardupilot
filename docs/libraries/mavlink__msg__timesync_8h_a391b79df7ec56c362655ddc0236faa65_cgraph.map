@@ -1,4 +1,0 @@
-<map id="mavlink_msg_timesync_encode" name="mavlink_msg_timesync_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__timesync_8h.html#a56023ce3ccbdfeb5ee871a2e67a8f7ec" title="Pack a timesync message. " alt="" coords="213,12,408,39"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="457,12,631,39"/>
-</map>

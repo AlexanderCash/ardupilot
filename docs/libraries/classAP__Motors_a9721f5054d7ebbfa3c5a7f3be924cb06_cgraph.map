@@ -1,4 +1,0 @@
-<map id="AP_Motors::update_max_throttle" name="AP_Motors::update_max_throttle">
-<area shape="rect" id="node2" href="$classAP__Motors.html#ae0057a2290f5744cfa7b43f172bb8dbd" title="AP_Motors::current\l_limit_max_throttle" alt="" coords="222,5,357,46"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="405,12,512,39"/>
-</map>

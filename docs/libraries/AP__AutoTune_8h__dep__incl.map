@@ -1,9 +1,0 @@
-<map id="libraries/APM_Control/AP_AutoTune.h" name="libraries/APM_Control/AP_AutoTune.h">
-<area shape="rect" id="node2" href="$AP__AutoTune_8cpp.html" title="libraries/APM_Control\l/AP_AutoTune.cpp" alt="" coords="5,97,153,138"/>
-<area shape="rect" id="node3" href="$AP__PitchController_8h.html" title="libraries/APM_Control\l/AP_PitchController.h" alt="" coords="179,97,327,138"/>
-<area shape="rect" id="node7" href="$AP__RollController_8h.html" title="libraries/APM_Control\l/AP_RollController.h" alt="" coords="352,97,500,138"/>
-<area shape="rect" id="node4" href="$AP__PitchController_8cpp.html" title="libraries/APM_Control\l/AP_PitchController.cpp" alt="" coords="79,187,241,229"/>
-<area shape="rect" id="node5" href="$APM__Control_8h.html" title="libraries/APM_Control\l/APM_Control.h" alt="" coords="265,187,413,229"/>
-<area shape="rect" id="node6" href="$ArduPlaneLibs_8pde.html" title="libraries/AP_HAL_AVR\l/examples/ArduPlaneLibs\l/ArduPlaneLibs.pde" alt="" coords="255,277,425,333"/>
-<area shape="rect" id="node8" href="$AP__RollController_8cpp.html" title="libraries/APM_Control\l/AP_RollController.cpp" alt="" coords="439,187,592,229"/>
-</map>

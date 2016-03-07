@@ -1,6 +1,0 @@
-<map id="mavlink_msg_debug_vect_encode" name="mavlink_msg_debug_vect_encode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__debug__vect_8h.html#a4319d20b57cef3c2b6de74970af8691c" title="Pack a debug_vect message. " alt="" coords="227,56,435,83"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a1e87b7f293e127478ca611644a7810b6" title="_mav_put_char_array" alt="" coords="497,5,644,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="707,31,847,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="483,107,658,133"/>
-</map>

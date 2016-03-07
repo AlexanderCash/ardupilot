@@ -1,6 +1,0 @@
-<map id="mavlink_msg_mount_status_pack" name="mavlink_msg_mount_status_pack">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__status_8h.html#a4a423c81c3ac9d880b24f2eb5f624d3a" title="Encode a mount_status struct into a message. " alt="" coords="275,5,461,46"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a3cb1368d35275235f439848f48229389" title="mavlink_test_mount\l_status" alt="" coords="509,34,648,75"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="696,41,880,68"/>
-<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="929,41,1045,68"/>
-</map>

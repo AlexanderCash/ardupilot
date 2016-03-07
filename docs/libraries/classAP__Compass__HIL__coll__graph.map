@@ -1,8 +1,0 @@
-<map id="AP_Compass_HIL" name="AP_Compass_HIL">
-<area shape="rect" id="node2" href="$classAP__Compass__Backend.html" title="AP_Compass_Backend" alt="" coords="11,111,172,137"/>
-<area shape="rect" id="node3" href="$classCompass.html" title="Compass" alt="" coords="270,203,348,229"/>
-<area shape="rect" id="node4" href="$structAP__Param_1_1GroupInfo.html" title="AP_Param::GroupInfo" alt="" coords="197,111,347,137"/>
-<area shape="rect" id="node5" href="$classVector3.html" title="Vector3\&lt; float \&gt;" alt="" coords="429,5,544,32"/>
-<area shape="rect" id="node6" href="$structCompass_1_1mag__state.html" title="Compass::mag_state" alt="" coords="548,111,695,137"/>
-<area shape="rect" id="node7" href="$classVector3.html" title="Vector3\&lt; int16_t \&gt;" alt="" coords="572,5,701,32"/>
-</map>

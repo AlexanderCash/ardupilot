@@ -1,5 +1,0 @@
-<map id="RC_Channel_aux::set_radio_to_max" name="RC_Channel_aux::set_radio_to_max">
-<area shape="rect" id="node2" href="$classRC__Channel__aux.html#a423accc4de40960cf7ef2c4755e8a9d1" title="RC_Channel_aux::function\l_assigned" alt="" coords="205,5,384,46"/>
-<area shape="rect" id="node3" href="$classRC__Channel.html#aabaff8233192d5f2a20e2207914ca3e3" title="RC_Channel::output" alt="" coords="224,71,365,97"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="432,71,608,97"/>
-</map>

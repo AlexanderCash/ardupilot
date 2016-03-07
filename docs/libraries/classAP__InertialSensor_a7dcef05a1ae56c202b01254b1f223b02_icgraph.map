@@ -1,5 +1,0 @@
-<map id="AP_InertialSensor::get_accel_scale" name="AP_InertialSensor::get_accel_scale">
-<area shape="rect" id="node2" href="$INS__generic_8pde.html#a7ce25a66dfb0588303cff586275c40b4" title="display_offsets_and\l_scaling" alt="" coords="189,23,328,65"/>
-<area shape="rect" id="node3" href="$INS__generic_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="381,5,427,32"/>
-<area shape="rect" id="node4" href="$INS__generic_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="377,56,431,83"/>
-</map>

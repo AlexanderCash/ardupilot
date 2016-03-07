@@ -1,4 +1,0 @@
-<map id="mavlink_msg_gimbal_perform_factory_tests_decode" name="mavlink_msg_gimbal_perform_factory_tests_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__perform__factory__tests_8h.html#a5607a9dcba510041606962d180c341a1" title="Send a gimbal_perform_factory_tests message. " alt="" coords="213,5,369,61"/>
-<area shape="rect" id="node3" href="$mavlink__msg__gimbal__perform__factory__tests_8h.html#acc1d8592b2ae86051cbd293d8eae47ba" title="Get field target_component from gimbal_perform_factory_tests message. " alt="" coords="211,85,370,141"/>
-</map>

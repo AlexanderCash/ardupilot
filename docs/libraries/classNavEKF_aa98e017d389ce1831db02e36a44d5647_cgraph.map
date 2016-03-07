@@ -1,4 +1,0 @@
-<map id="NavEKF::getVehicleArmStatus" name="NavEKF::getVehicleArmStatus">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Util.html#a973ee89f8eee7af3a4d2a3eb700cbf3c" title="AP_HAL::Util::get_soft\l_armed" alt="" coords="258,5,414,46"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a45357ce4e0057215a0ade439e63daa79" title="AP_AHRS::get_correct\l_centrifugal" alt="" coords="257,70,415,111"/>
-</map>

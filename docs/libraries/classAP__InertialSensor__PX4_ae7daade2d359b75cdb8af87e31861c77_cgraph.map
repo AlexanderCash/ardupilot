@@ -1,4 +1,0 @@
-<map id="AP_InertialSensor_PX4::_set_accel_filter_frequency" name="AP_InertialSensor_PX4::_set_accel_filter_frequency">
-<area shape="rect" id="node2" href="$classLowPassFilter2p.html#a354e914d7d8979e54134c3077ee8359a" title="LowPassFilter2p::set\l_cutoff_frequency" alt="" coords="243,5,389,46"/>
-<area shape="rect" id="node3" href="$classDigitalBiquadFilter.html#a24c076203eb25a5744c867093da51d83" title="DigitalBiquadFilter\l::compute_params" alt="" coords="437,5,568,46"/>
-</map>

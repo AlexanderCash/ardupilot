@@ -1,7 +1,0 @@
-<map id="DataFlash_Class::Log_Write_Camera" name="DataFlash_Class::Log_Write_Camera">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#aea45b16e6469a3b392b8bf52fb864732" title="AP_AHRS::get_home" alt="" coords="227,5,378,32"/>
-<area shape="rect" id="node3" href="$sitl__gps_8cpp.html#a97c4c56ae21d368d04cc37ff7d97ac0e" title="gps_time" alt="" coords="265,56,340,83"/>
-<area shape="rect" id="node4" href="$classAP__GPS.html#a1a47dc3e414a9d83ff18fa849c538823" title="AP_GPS::time_week_ms" alt="" coords="217,107,388,133"/>
-<area shape="rect" id="node5" href="$classAP__GPS.html#a0f232d5ff5d2e54ad7dc7a52ab16f207" title="AP_GPS::time_week" alt="" coords="229,157,376,184"/>
-<area shape="rect" id="node6" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="205,208,400,235"/>
-</map>

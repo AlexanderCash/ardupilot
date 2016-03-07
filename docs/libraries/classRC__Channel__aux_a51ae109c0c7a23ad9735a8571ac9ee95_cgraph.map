@@ -1,5 +1,0 @@
-<map id="RC_Channel_aux::set_servo_limit" name="RC_Channel_aux::set_servo_limit">
-<area shape="rect" id="node2" href="$classRC__Channel__aux.html#a423accc4de40960cf7ef2c4755e8a9d1" title="RC_Channel_aux::function\l_assigned" alt="" coords="211,5,389,46"/>
-<area shape="rect" id="node3" href="$classRC__Channel.html#a16efdfd7628bf948c73a47f34dc9d7a2" title="RC_Channel::get_limit_pwm" alt="" coords="205,71,395,97"/>
-<area shape="rect" id="node4" href="$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="443,71,616,97"/>
-</map>

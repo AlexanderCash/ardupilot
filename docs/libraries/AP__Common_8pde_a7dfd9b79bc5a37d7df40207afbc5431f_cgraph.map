@@ -1,7 +1,0 @@
-<map id="setup" name="setup">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="110,5,261,32"/>
-<area shape="rect" id="node6" href="$AP__Common_8pde.html#ae18cf4b38593cd1912d6eefb508f51d5" title="test_high_low_byte" alt="" coords="118,56,253,83"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="509,5,651,32"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="310,31,461,57"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="699,5,843,32"/>
-</map>

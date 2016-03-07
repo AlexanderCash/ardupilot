@@ -1,7 +1,0 @@
-<map id="RC_Channel::pwm_to_range_dz" name="RC_Channel::pwm_to_range_dz">
-<area shape="rect" id="node2" href="$classRC__Channel.html#a10f764e7d9cb160b1da9ff286b8797fb" title="RC_Channel::pwm_to\l_range" alt="" coords="210,5,361,46"/>
-<area shape="rect" id="node6" href="$classRC__Channel.html#a6335f1eb053134fc11184f9c4d0a1f09" title="RC_Channel::set_pwm\l_no_deadzone" alt="" coords="206,70,365,111"/>
-<area shape="rect" id="node3" href="$classRC__Channel.html#a1e19754a0ea244150053da90f6f03c52" title="RC_Channel::set_pwm" alt="" coords="414,12,573,39"/>
-<area shape="rect" id="node4" href="$classRC__Channel.html#a097e513f2636b2eded75d63a281ace63" title="RC_Channel::set_pwm_all" alt="" coords="621,12,800,39"/>
-<area shape="rect" id="node5" href="$RC__Channel_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="849,12,895,39"/>
-</map>

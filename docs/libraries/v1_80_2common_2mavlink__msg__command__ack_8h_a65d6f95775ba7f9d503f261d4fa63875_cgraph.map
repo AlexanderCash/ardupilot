@@ -1,4 +1,0 @@
-<map id="mavlink_msg_command_ack_encode_chan" name="mavlink_msg_command_ack_encode_chan">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__command__ack_8h.html#a5931406886099775e537d6f02560c4af" title="Pack a command_ack message on a channel. " alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="427,12,637,39"/>
-</map>

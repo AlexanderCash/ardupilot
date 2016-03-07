@@ -1,5 +1,0 @@
-<map id="HALSITL::SITL_State::gps2_pipe" name="HALSITL::SITL_State::gps2_pipe">
-<area shape="rect" id="node2" href="$classHALSITL_1_1SITLScheduler.html#a2ccbecf98819cc56688e612e35ac88a3" title="HALSITL::SITLScheduler\l::millis" alt="" coords="212,5,383,46"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1SITLUARTDriver.html#a3fa6a0d092196114f352e2f376425169" title="HALSITL::SITLUARTDriver\l::_set_nonblocking" alt="" coords="205,70,389,111"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITLScheduler.html#a5c579b0b0bba800b723713fad5e66010" title="HALSITL::SITLScheduler\l::millis64" alt="" coords="437,5,608,46"/>
-</map>

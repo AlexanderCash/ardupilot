@@ -1,5 +1,0 @@
-<map id="mavlink_msg_data_stream_decode" name="mavlink_msg_data_stream_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__data__stream_8h.html#af810cccd5287ffdbf420cfb0baa5d6cb" title="Get field message_rate from data_stream message. " alt="" coords="232,5,411,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__data__stream_8h.html#a1f3ecfa0f0058ba65751bcd737418266" title="Send a data_stream message. " alt="" coords="232,70,411,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__data__stream_8h.html#ab896222ae033ab072a58c681b08974d5" title="Get field on_off from data_stream message. " alt="" coords="232,135,411,177"/>
-</map>

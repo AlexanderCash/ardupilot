@@ -1,5 +1,0 @@
-<map id="test_relay" name="test_relay">
-<area shape="rect" id="node2" href="$test_8pde.html#a618dc4c6523c81ea0e57cd8c7c14012b" title="print_hit_enter" alt="" coords="133,5,237,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Relay.html#a8f00e5559174917b795ef84472822e53" title="AP_Relay::on" alt="" coords="134,56,237,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Relay.html#aff679a24b3c6b73f066e1e62c86e0fae" title="AP_Relay::off" alt="" coords="133,107,237,133"/>
-</map>

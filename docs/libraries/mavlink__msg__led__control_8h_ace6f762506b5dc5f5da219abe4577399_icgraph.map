@@ -1,6 +1,0 @@
-<map id="mavlink_msg_led_control_decode" name="mavlink_msg_led_control_decode">
-<area shape="rect" id="node2" href="$classOreoLED__PX4.html#a8a9bbad92734cecc23ce5f97da42b09a" title="OreoLED_PX4::handle\l_led_control" alt="" coords="231,5,385,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a1b76c4ad4ddf4638c2b6d63418de024c" title="mavlink_test_led_control" alt="" coords="225,71,391,97"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="440,71,624,97"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="673,71,789,97"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gps_status_encode" name="mavlink_msg_gps_status_encode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__gps__status_8h.html#af06eb8afabaac8745416e6ac393b8dc0" title="Pack a gps_status message. " alt="" coords="224,56,429,83"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a64bb3513b0bb1439774f99bc2f27c38b" title="_mav_put_int8_t_array" alt="" coords="488,5,643,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="702,31,842,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="478,107,653,133"/>
-</map>

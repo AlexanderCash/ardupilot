@@ -1,8 +1,0 @@
-<map id="AP_InertialSensor_MPU9150::mpu_read_fifo" name="AP_InertialSensor_MPU9150::mpu_read_fifo">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a5826f44fd0ab5a87db1c14f5a3d55561" title="AP_HAL::I2CDriver::\lreadRegisters" alt="" coords="269,5,414,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1I2CDriver.html#a87848503b8dd40b1e371161f1137757b" title="AP_HAL::I2CDriver::\lreadRegister" alt="" coords="269,70,414,111"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__MPU9150.html#a18a44cafa785c4cd017f08cc5a6890b6" title="Reset FIFO read/write pointers. " alt="" coords="245,135,437,177"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="268,201,415,242"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="486,103,631,145"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="485,169,632,210"/>
-</map>

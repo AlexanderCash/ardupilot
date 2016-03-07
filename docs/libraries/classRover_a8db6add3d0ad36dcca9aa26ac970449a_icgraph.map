@@ -1,5 +1,0 @@
-<map id="Rover::turn_circle" name="Rover::turn_circle">
-<area shape="rect" id="node2" href="$classRover.html#ae5c72938cdd8038ef7a91efd29d858f7" title="Rover::calc_yaw_rate" alt="" coords="179,31,328,57"/>
-<area shape="rect" id="node3" href="$classRover.html#a84e5b33f462bf4510328d572245a41d0" title="Rover::calc_lat_accel" alt="" coords="377,5,525,32"/>
-<area shape="rect" id="node4" href="$classRover.html#a1b444db0b18db7f90dfb59e493ab5e29" title="Rover::update" alt="" coords="399,56,503,83"/>
-</map>

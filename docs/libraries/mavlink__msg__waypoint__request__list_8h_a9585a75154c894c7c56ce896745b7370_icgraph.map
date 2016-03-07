@@ -1,6 +1,0 @@
-<map id="mavlink_msg_waypoint_request_list_get_target_component" name="mavlink_msg_waypoint_request_list_get_target_component">
-<area shape="rect" id="node2" href="$mavlink__msg__waypoint__request__list_8h.html#acbcd4f3e595dc0e2cb754a000dea123b" title="Decode a waypoint_request_list message into a struct. " alt="" coords="217,11,375,53"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#a00153d481af616933f645d2fc9691b45" title="mavlink_test_waypoint\l_request_list" alt="" coords="424,11,579,53"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="627,19,781,45"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="830,19,946,45"/>
-</map>

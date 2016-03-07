@@ -1,6 +1,0 @@
-<map id="OreoLED_PX4::update" name="OreoLED_PX4::update">
-<area shape="rect" id="node2" href="$classOreoLED__PX4.html#ad6e87dbe026c0b2861938c9a8d4b6571" title="OreoLED_PX4::set_macro" alt="" coords="225,5,402,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#ab0ea67003249493b7efc0528410b9be6" title="AP_HAL::GPIO::usb_connected" alt="" coords="208,56,419,83"/>
-<area shape="rect" id="node4" href="$classOreoLED__PX4.html#ac79742b697403772ab712adeff362b23" title="OreoLED_PX4::set_rgb" alt="" coords="234,107,393,133"/>
-<area shape="rect" id="node5" href="$classOreoLED__PX4.html#ab6a4705d012289abbebb81baf1b4bee1" title="OreoLED_PX4::send_bytes" alt="" coords="222,157,405,184"/>
-</map>

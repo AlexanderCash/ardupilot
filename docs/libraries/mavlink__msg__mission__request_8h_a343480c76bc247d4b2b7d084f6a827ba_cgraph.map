@@ -1,5 +1,0 @@
-<map id="mavlink_msg_mission_request_decode" name="mavlink_msg_mission_request_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__request_8h.html#add90d0e11e0685f65180afc12a1fc5af" title="Get field seq from mission_request message. " alt="" coords="206,5,357,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__mission__request_8h.html#a073159e928d0401d9ece31d872c2be28" title="Send a mission_request message. " alt="" coords="206,69,357,125"/>
-<area shape="rect" id="node4" href="$mavlink__msg__mission__request_8h.html#aa9c7b0689129852adc745dc95d5294e1" title="Get field target_component from mission_request message. " alt="" coords="206,149,357,205"/>
-</map>

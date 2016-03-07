@@ -1,8 +1,0 @@
-<map id="Linux::LinuxRCOutput_Navio::set_freq" name="Linux::LinuxRCOutput_Navio::set_freq">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxRCOutput__Navio.html#a57cbc6f85845ff31dd4c3538bf9151bf" title="Linux::LinuxRCOutput\l_Navio::write" alt="" coords="221,70,371,111"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="435,136,613,163"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="206,187,386,213"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1I2CDriver.html#a8e28e01b86bd1cb03efb7162f340444e" title="AP_HAL::I2CDriver::\lwriteRegister" alt="" coords="223,238,369,279"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#a266e91db5eecb64d8b934d09f5e972cf" title="AP_HAL::Semaphore::\ltake_nonblocking" alt="" coords="447,5,601,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#a6b2ba493a18de0727817a54a2a2d0eba" title="AP_HAL::I2CDriver::\lwriteRegisters" alt="" coords="451,70,597,111"/>
-</map>

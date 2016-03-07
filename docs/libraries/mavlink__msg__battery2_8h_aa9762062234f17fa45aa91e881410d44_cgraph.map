@@ -1,4 +1,0 @@
-<map id="mavlink_msg_battery2_decode" name="mavlink_msg_battery2_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__battery2_8h.html#abb37336feaa0d57be8491133108fbabc" title="Send a battery2 message. " alt="" coords="209,5,362,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__battery2_8h.html#a00bc2ac4e876121633b9145b8a0599a0" title="Get field current_battery from battery2 message. " alt="" coords="209,70,362,111"/>
-</map>

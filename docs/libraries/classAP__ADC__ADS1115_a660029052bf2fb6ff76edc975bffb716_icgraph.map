@@ -1,5 +1,0 @@
-<map id="AP_ADC_ADS1115::_start_conversion" name="AP_ADC_ADS1115::_start_conversion">
-<area shape="rect" id="node2" href="$classAP__ADC__ADS1115.html#a1c523a000d6cb67770e04e3821cc54b3" title="AP_ADC_ADS1115::_update" alt="" coords="235,12,429,39"/>
-<area shape="rect" id="node3" href="$classAP__ADC__ADS1115.html#ab9dda3a5715a514b78effc0164e6a1c9" title="AP_ADC_ADS1115::init" alt="" coords="478,12,642,39"/>
-<area shape="rect" id="node4" href="$classNavioAnalogIn.html#a86419e9f2486bef44753fb15f5bb3ae9" title="NavioAnalogIn::init" alt="" coords="691,12,823,39"/>
-</map>

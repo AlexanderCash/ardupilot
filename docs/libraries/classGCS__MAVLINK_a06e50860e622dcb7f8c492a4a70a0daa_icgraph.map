@@ -1,4 +1,0 @@
-<map id="GCS_MAVLINK::send_text_P" name="GCS_MAVLINK::send_text_P">
-<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a143a91427102a9aea995d10bad67f435" title="GCS_MAVLINK::handle\l_mission_item" alt="" coords="260,5,423,46"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#add72083180081323352d4f701ae0d7d2" title="GCS_MAVLINK::handle\l_mission_write_partial_list" alt="" coords="254,70,429,111"/>
-</map>

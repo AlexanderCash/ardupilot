@@ -1,6 +1,0 @@
-<map id="AP_RangeFinder_MaxsonarI2CXL::start_reading" name="AP_RangeFinder_MaxsonarI2CXL::start_reading">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a373424b46be08ef36d53844f88b5398e" title="AP_HAL::I2CDriver::\lget_semaphore" alt="" coords="269,5,414,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html#abd3a0affad8bb211981a979f30386589" title="AP_HAL::Semaphore::take" alt="" coords="251,71,431,97"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1I2CDriver.html#a31721a0154b78760595785506d92f38e" title="AP_HAL::I2CDriver::\lwrite" alt="" coords="269,122,414,163"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Semaphore.html#afcdbf03d5bea9d83037acc93bfaea7ce" title="AP_HAL::Semaphore::give" alt="" coords="252,188,431,215"/>
-</map>

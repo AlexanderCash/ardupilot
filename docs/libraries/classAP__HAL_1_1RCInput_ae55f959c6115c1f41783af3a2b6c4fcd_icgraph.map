@@ -1,4 +1,0 @@
-<map id="AP_HAL::RCInput::num_channels" name="AP_HAL::RCInput::num_channels">
-<area shape="rect" id="node2" href="$examples_2RCInput_2RCInput_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="295,5,342,32"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a03e7084a4853eca1ecddded452fc3a14" title="GCS_MAVLINK::send_radio_in" alt="" coords="216,56,421,83"/>
-</map>

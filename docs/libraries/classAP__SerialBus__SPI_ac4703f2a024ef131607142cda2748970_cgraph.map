@@ -1,6 +1,0 @@
-<map id="AP_SerialBus_SPI::init" name="AP_SerialBus_SPI::init">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1SPIDeviceManager.html#ab26a3e8f8b43e59376ce98aafd288452" title="AP_HAL::SPIDeviceManager\l::device" alt="" coords="211,5,405,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="235,70,381,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html#a1c518b753148caee4d708c2311a9e548" title="AP_HAL::SPIDeviceDriver\l::get_semaphore" alt="" coords="219,135,397,177"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1SPIDeviceDriver.html#a74833881e863f858af102402f392cf61" title="AP_HAL::SPIDeviceDriver\l::set_bus_speed" alt="" coords="219,201,397,242"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="AP_PitchController::AP_PitchController" name="AP_PitchController::AP_PitchController">
-<area shape="rect" id="node2" href="$classAP__Param.html#a5f6dcfce1c0a79cf5bd81283e22f3201" title="AP_Param::setup_object\l_defaults" alt="" coords="195,27,362,69"/>
-<area shape="rect" id="node3" href="$classAP__Param.html#acd4b14f793c37f162e298761d2155ca6" title="AP_Param::set_value" alt="" coords="415,5,564,32"/>
-<area shape="rect" id="node4" href="$classAP__Param.html#a1f6efebd94bc8bfd16db8d73ad3018c6" title="AP_Param::get_default\l_value" alt="" coords="411,57,568,98"/>
-</map>

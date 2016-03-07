@@ -1,4 +1,0 @@
-<map id="AP_AHRS::groundspeed" name="AP_AHRS::groundspeed">
-<area shape="rect" id="node2" href="$classAP__GPS.html#a9093c8cf1d5a78ccd8677229bb314d37" title="Query GPS status. " alt="" coords="245,5,363,32"/>
-<area shape="rect" id="node3" href="$classAP__GPS.html#a426041563da447ec6e9cde1926a88fdb" title="AP_GPS::ground_speed" alt="" coords="222,56,386,83"/>
-</map>

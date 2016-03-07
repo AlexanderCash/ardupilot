@@ -1,4 +1,0 @@
-<map id="ToneAlarm_Linux" name="ToneAlarm_Linux">
-<area shape="rect" id="node2" href="$classNotifyDevice.html" title="NotifyDevice" alt="" coords="5,5,104,32"/>
-<area shape="rect" id="node3" href="$structToneAlarm__Linux_1_1tonealarm__type.html" title="tonealarm_type &#45; bitmask of states we track " alt="" coords="129,5,348,32"/>
-</map>

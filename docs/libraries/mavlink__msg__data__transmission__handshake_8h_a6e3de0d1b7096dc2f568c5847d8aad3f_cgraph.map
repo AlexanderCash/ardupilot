@@ -1,4 +1,0 @@
-<map id="mavlink_msg_data_transmission_handshake_encode_chan" name="mavlink_msg_data_transmission_handshake_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__data__transmission__handshake_8h.html#af1bbea77eadc16b1884ea33c46b020c1" title="Pack a data_transmission_handshake message on a channel. " alt="" coords="267,5,479,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="528,12,739,39"/>
-</map>

@@ -1,8 +1,0 @@
-digraph "Graphical Class Hierarchy"
-{
- // INTERACTIVE_SVG=YES
-  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
-  node [fontname="Helvetica",fontsize="10",shape=record];
-  rankdir="LR";
-  Node1 [label="fastdelegate::FastDelegate6\l\< Param1, Param2, Param3,\l Param4, Param5, Param6,\l RetType \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classfastdelegate_1_1FastDelegate6.html"];
-}

@@ -1,5 +1,0 @@
-<map id="auto_takeoff_check" name="auto_takeoff_check">
-<area shape="rect" id="node2" href="$Attitude_8pde.html#a23eeb398b893937db9d948d91d86ed76" title="suppress_throttle" alt="" coords="189,5,312,32"/>
-<area shape="rect" id="node3" href="$Attitude_8pde.html#a144a105a097c085410c04ed1443f53f9" title="set_servos" alt="" coords="361,5,447,32"/>
-<area shape="rect" id="node4" href="$test_8pde.html#a9fe59881a31f28f697c765b92d8de572" title="test_radio" alt="" coords="497,5,575,32"/>
-</map>

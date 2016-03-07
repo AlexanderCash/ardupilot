@@ -1,8 +1,0 @@
-<map id="GCS_MAVLINK::send_text_P" name="GCS_MAVLINK::send_text_P">
-<area shape="rect" id="node2" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="290,5,401,32"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a1cde0c4232c296db943613ab2e378427" title="GCS_MAVLINK::send_text" alt="" coords="254,56,437,83"/>
-<area shape="rect" id="node4" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="524,29,660,56"/>
-<area shape="rect" id="node6" href="$classGCS__MAVLINK.html#a4902306dab46ff02b2296f99eb1f1c9c" title="GCS_MAVLINK::send_message" alt="" coords="485,81,699,108"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="747,27,925,53"/>
-<area shape="rect" id="node7" href="$classGCS__MAVLINK.html#a30034cdbd89bcfb86392411f9b5935db" title="GCS_MAVLINK::try_send\l_message" alt="" coords="749,78,923,119"/>
-</map>

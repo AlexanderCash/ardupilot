@@ -1,9 +1,0 @@
-<map id="mavlink_msg_terrain_report_decode" name="mavlink_msg_terrain_report_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__terrain__report_8h.html#ae467703e85e57484f2dc3a40fcd33d77" title="Send a terrain_report message. " alt="" coords="198,5,341,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__terrain__report_8h.html#a58311601e158135f79ec7686fbb08373" title="Get field lon from terrain_report message. " alt="" coords="198,70,341,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__terrain__report_8h.html#a0404a29756e57adb40ddfee3e5400ffb" title="Get field terrain_height from terrain_report message. " alt="" coords="198,135,341,191"/>
-<area shape="rect" id="node5" href="$mavlink__msg__terrain__report_8h.html#a9722da090af46ec65b7954517e17d248" title="Get field current_height from terrain_report message. " alt="" coords="198,215,341,271"/>
-<area shape="rect" id="node6" href="$mavlink__msg__terrain__report_8h.html#a7567d25787c76a27e5f280595c495913" title="Get field spacing from terrain_report message. " alt="" coords="198,294,341,335"/>
-<area shape="rect" id="node7" href="$mavlink__msg__terrain__report_8h.html#ab9d7e3673d61f75b2879b971ef2c501e" title="Get field pending from terrain_report message. " alt="" coords="198,359,341,401"/>
-<area shape="rect" id="node8" href="$mavlink__msg__terrain__report_8h.html#aa4f955548a3e1fb4d227739b9b8c7b23" title="Get field loaded from terrain_report message. " alt="" coords="198,425,341,466"/>
-</map>

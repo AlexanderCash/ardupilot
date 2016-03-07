@@ -1,7 +1,0 @@
-<map id="PX4::PX4RCOutput::_timer_tick" name="PX4::PX4RCOutput::_timer_tick">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#add46d722bfb08a16f220e63591654e46" title="AP_HAL::Scheduler::\lmicros" alt="" coords="215,5,361,46"/>
-<area shape="rect" id="node3" href="$classPX4_1_1PX4RCOutput.html#adbf4c769f3c87a57bcacf878adebfa8c" title="PX4::PX4RCOutput::\l_arm_actuators" alt="" coords="424,86,571,127"/>
-<area shape="rect" id="node4" href="$classPX4_1_1PX4RCOutput.html#a9a3e15f4d9f603a7b53b9c29cc4ac74e" title="PX4::PX4RCOutput::write" alt="" coords="201,121,375,148"/>
-<area shape="rect" id="node5" href="$classPX4_1_1PX4RCOutput.html#a0de890ada8fb8f098ca020c3186131b0" title="PX4::PX4RCOutput::\l_publish_actuators" alt="" coords="215,173,361,214"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title="AP_HAL::Util::safety\l_switch_state" alt="" coords="425,173,570,214"/>
-</map>

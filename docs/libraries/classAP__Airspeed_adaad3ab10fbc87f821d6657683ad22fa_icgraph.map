@@ -1,5 +1,0 @@
-<map id="AP_Airspeed::last_update_ms" name="AP_Airspeed::last_update_ms">
-<area shape="rect" id="node2" href="$classNavEKF.html#a6d310b4b28cd5ab824db834feadc83ff" title="NavEKF::readAirSpdData" alt="" coords="254,5,426,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a49295ac247658724f852cbec8be83398" title="NavEKF::SelectTasFusion" alt="" coords="475,5,653,32"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="702,5,853,32"/>
-</map>

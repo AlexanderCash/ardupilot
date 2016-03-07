@@ -1,6 +1,0 @@
-<map id="mavlink_msg_compassmot_status_pack_chan" name="mavlink_msg_compassmot_status_pack_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__compassmot__status_8h.html#a2b75d41e95f770c3525fb6b7f669aa9c" title="Encode a compassmot_status struct on a channel. " alt="" coords="235,5,416,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab42f03faf0a850b85c09a527f0fdde00" title="mavlink_test_compassmot\l_status" alt="" coords="236,70,415,111"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="464,77,648,104"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="697,77,813,104"/>
-</map>

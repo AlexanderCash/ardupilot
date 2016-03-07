@@ -1,6 +1,0 @@
-<map id="AP_TECS::timeConstant" name="AP_TECS::timeConstant">
-<area shape="rect" id="node2" href="$classAP__TECS.html#a91aeb22f68e2957bfad6285ec41182cf" title="AP_TECS::_update_height\l_demand" alt="" coords="227,5,405,46"/>
-<area shape="rect" id="node3" href="$classAP__TECS.html#a6a4556c90f50ee613f1673b50fa71da5" title="AP_TECS::update_pitch\l_throttle" alt="" coords="456,89,621,130"/>
-<area shape="rect" id="node4" href="$classAP__TECS.html#a7854ecaf0d95d9da406568583f6e287f" title="AP_TECS::_update_pitch" alt="" coords="230,121,402,148"/>
-<area shape="rect" id="node5" href="$classAP__TECS.html#aba98848b3373edf4f8d46abafccd83f9" title="AP_TECS::_update_throttle" alt="" coords="224,172,408,199"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_set_mode_pack" name="mavlink_msg_set_mode_pack">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__set__mode_8h.html#a53a35e8c84c3e42fbebd7fa8039daf7e" title="Encode a set_mode struct into a message. " alt="" coords="253,5,416,46"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2testsuite_8h.html#ab12d026327d342155b2766f62a5e828b" title="mavlink_test_set_mode" alt="" coords="464,41,624,68"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="673,41,826,68"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="875,41,991,68"/>
-</map>

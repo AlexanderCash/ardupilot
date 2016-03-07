@@ -1,9 +1,0 @@
-<map id="AP_HAL::GPIO" name="AP_HAL::GPIO">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRGPIO.html" title="AP_HAL_AVR::AVRGPIO" alt="" coords="173,5,350,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEGPIO.html" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEGPIO" alt="" coords="174,57,349,98"/>
-<area shape="rect" id="node4" href="$classEmpty_1_1EmptyGPIO.html" title="Empty::EmptyGPIO" alt="" coords="192,123,331,149"/>
-<area shape="rect" id="node5" href="$classLinux_1_1LinuxGPIO__BBB.html" title="Linux::LinuxGPIO_BBB" alt="" coords="182,173,341,200"/>
-<area shape="rect" id="node6" href="$classLinux_1_1LinuxGPIO__RPI.html" title="Linux::LinuxGPIO_RPI" alt="" coords="184,224,339,251"/>
-<area shape="rect" id="node7" href="$classPX4_1_1PX4GPIO.html" title="PX4::PX4GPIO" alt="" coords="205,275,318,301"/>
-<area shape="rect" id="node8" href="$classVRBRAIN_1_1VRBRAINGPIO.html" title="VRBRAIN::VRBRAINGPIO" alt="" coords="169,325,354,352"/>
-</map>

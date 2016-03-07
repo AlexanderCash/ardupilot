@@ -1,6 +1,0 @@
-<map id="mavlink_msg_data_transmission_handshake_get_size" name="mavlink_msg_data_transmission_handshake_get_size">
-<area shape="rect" id="node2" href="$mavlink__msg__data__transmission__handshake_8h.html#a3b3a42537b25c54a9ce4bce4c92a965d" title="Decode a data_transmission_handshake message into a struct. " alt="" coords="267,5,479,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a3d22ba2d9ac79cb7e74d78c3bb40572d" title="mavlink_test_data_transmission\l_handshake" alt="" coords="529,5,738,46"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="787,12,941,39"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="990,12,1106,39"/>
-</map>

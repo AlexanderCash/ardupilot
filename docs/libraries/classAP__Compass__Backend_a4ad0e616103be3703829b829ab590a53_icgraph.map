@@ -1,9 +1,0 @@
-<map id="AP_Compass_Backend::read" name="AP_Compass_Backend::read">
-<area shape="rect" id="node2" href="$classCompass.html#a2593e947a6c8a4937dccd2d367158b74" title="Compass::read" alt="" coords="217,71,327,97"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#a101f2aaddcc7e97e690924d4e9d7a191" title="AP_AHRS_DCM::drift\l_correction_yaw" alt="" coords="377,5,530,46"/>
-<area shape="rect" id="node6" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="1001,44,1047,71"/>
-<area shape="rect" id="node7" href="$classCompass.html#a190aefc281aba88c7b16e4fc58035c5e" title="Compass::init" alt="" coords="402,121,505,148"/>
-<area shape="rect" id="node4" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="579,5,733,46"/>
-<area shape="rect" id="node5" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="781,16,952,43"/>
-<area shape="rect" id="node8" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="629,121,683,148"/>
-</map>

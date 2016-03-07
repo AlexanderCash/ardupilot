@@ -1,9 +1,0 @@
-<map id="mavlink_msg_hil_controls_decode" name="mavlink_msg_hil_controls_decode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a073805aa7a3d20f5b6897d632b1a3238" title="Send a hil_controls message. " alt="" coords="227,5,399,46"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#ab4f30c4a5679eb8c07e184f92e9c74bb" title="Get field roll_ailerons from hil_controls message. " alt="" coords="227,70,399,111"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a8ac7a4a54675fbe41c1fa087702f578a" title="Get field pitch_elevator from hil_controls message. " alt="" coords="227,135,399,177"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a6b7c378b2754f7464475c0a90674c6b3" title="Get field yaw_rudder from hil_controls message. " alt="" coords="227,201,399,242"/>
-<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a292f32b7a4eba1f9898bb7ba9ef3d04b" title="Get field throttle from hil_controls message. " alt="" coords="227,266,399,307"/>
-<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a525158c4613198d4b3a219a19eb9c1e1" title="Get field mode from hil_controls message. " alt="" coords="227,331,399,373"/>
-<area shape="rect" id="node8" href="$v0_89_2common_2mavlink__msg__hil__controls_8h.html#a5c825c88e7703d07b5e4c860a410b8c1" title="Get field nav_mode from hil_controls message. " alt="" coords="227,397,399,438"/>
-</map>

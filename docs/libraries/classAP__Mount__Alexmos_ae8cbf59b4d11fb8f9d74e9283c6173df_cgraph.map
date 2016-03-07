@@ -1,5 +1,0 @@
-<map id="AP_Mount_Alexmos::read_incoming" name="AP_Mount_Alexmos::read_incoming">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Stream.html#ae687e48f5689af94d66fb88822923e12" title="AP_HAL::Stream::available" alt="" coords="246,5,429,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Stream.html#ae42ff362cc2a7e527c22f92a3740c2ac" title="AP_HAL::Stream::read" alt="" coords="259,56,415,83"/>
-<area shape="rect" id="node4" href="$classAP__Mount__Alexmos.html#a86d97ef92dce997f93ad929d09d9ed52" title="AP_Mount_Alexmos::parse_body" alt="" coords="229,107,445,133"/>
-</map>

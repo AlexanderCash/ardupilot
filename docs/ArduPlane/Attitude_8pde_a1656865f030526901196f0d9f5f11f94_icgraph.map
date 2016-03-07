@@ -1,5 +1,0 @@
-<map id="calc_nav_roll" name="calc_nav_roll">
-<area shape="rect" id="node2" href="$ArduPlane_8pde.html#ab3877ebcfdd6fb99ff7500ad24f2ebd1" title="handle_auto_mode" alt="" coords="317,22,448,49"/>
-<area shape="rect" id="node3" href="$ArduPlane_8pde.html#a1353a77e19a7028fda60ee8706f0879d" title="update_flight_mode" alt="" coords="497,47,631,74"/>
-<area shape="rect" id="node4" href="$takeoff_8pde.html#a7cb17de63e596049a607d769db6b033d" title="takeoff_calc_roll" alt="" coords="152,22,269,49"/>
-</map>

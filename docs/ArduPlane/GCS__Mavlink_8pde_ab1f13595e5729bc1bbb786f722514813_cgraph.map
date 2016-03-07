@@ -1,5 +1,0 @@
-<map id="send_rangefinder" name="send_rangefinder">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRangeFinder.html#a53a15c9f1ba0bfa9cbcf8d381025eb0f" title="RangeFinder::has_data" alt="" coords="187,5,344,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRangeFinder.html#a451a7507d534024c72faa2d1b734cb3c" title="RangeFinder::distance_cm" alt="" coords="176,56,355,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classRangeFinder.html#a9ff4b63cbaf7e899f3f61488fdce8047" title="RangeFinder::voltage_mv" alt="" coords="180,107,351,133"/>
-</map>

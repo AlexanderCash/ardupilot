@@ -1,4 +1,0 @@
-<map id="AP_ADC_ADS7844::Ch6" name="AP_ADC_ADS7844::Ch6">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ae7d4952721abae16479fef1f0ca37145" title="AP_HAL::Scheduler::\lsuspend_timer_procs" alt="" coords="224,5,371,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a7c51e7d405211cac2090dbd456223ef7" title="AP_HAL::Scheduler::\lresume_timer_procs" alt="" coords="224,70,371,111"/>
-</map>

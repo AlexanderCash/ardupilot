@@ -1,8 +1,0 @@
-<map id="Linux::LinuxUtil::_toneAlarm_timer_tick" name="Linux::LinuxUtil::_toneAlarm_timer_tick">
-<area shape="rect" id="node2" href="$classLinux_1_1ToneAlarm.html#ac8ba9147d0178f6c7c4601f1022741e1" title="Linux::ToneAlarm::init_tune" alt="" coords="207,5,388,32"/>
-<area shape="rect" id="node3" href="$classLinux_1_1ToneAlarm.html#af3af5221ad8213856c457a0af62a055c" title="Linux::ToneAlarm::set_note" alt="" coords="206,56,389,83"/>
-<area shape="rect" id="node4" href="$classLinux_1_1ToneAlarm.html#a397b7e793fa1026d00205f539106d653" title="Linux::ToneAlarm::play" alt="" coords="219,107,375,133"/>
-<area shape="rect" id="node7" href="$classLinux_1_1ToneAlarm.html#acd1fa87718d7e340d5ed849a1133bcb4" title="Linux::ToneAlarm::is\l_tune_comp" alt="" coords="226,158,369,199"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="443,70,589,111"/>
-<area shape="rect" id="node6" href="$classLinux_1_1ToneAlarm.html#ab53fe81105dd427f3309e0e054e8002a" title="Linux::ToneAlarm::stop" alt="" coords="437,136,595,163"/>
-</map>

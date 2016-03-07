@@ -1,5 +1,0 @@
-<map id="AP_HAL_AVR::AVRAnalogIn::_register_channel" name="AP_HAL_AVR::AVRAnalogIn::_register_channel">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRAnalogIn.html#a1a756268e73bba38e464529383dbed80" title="AP_HAL_AVR::AVRAnalogIn\l::_create_channel" alt="" coords="248,5,443,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRAnalogIn.html#ad4424206d121b73373bf294c8595327e" title="AP_HAL_AVR::AVRAnalogIn\l::init" alt="" coords="248,70,443,111"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRAnalogIn.html#aeb5610ab026010e900d8018a0486579c" title="AP_HAL_AVR::AVRAnalogIn\l::channel" alt="" coords="491,5,685,46"/>
-</map>

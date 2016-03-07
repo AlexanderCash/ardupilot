@@ -1,5 +1,0 @@
-<map id="AP_GPS_SBP::inject_data" name="AP_GPS_SBP::inject_data">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="235,5,413,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="251,57,397,98"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="252,123,396,149"/>
-</map>

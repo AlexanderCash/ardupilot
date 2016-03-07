@@ -1,6 +1,0 @@
-<map id="mavlink_msg_limits_status_get_last_trigger" name="mavlink_msg_limits_status_get_last_trigger">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__limits__status_8h.html#a6880765445b737e8c5a5fea4929e67be" title="Decode a limits_status message into a struct. " alt="" coords="217,5,354,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#af8e065ebb3eb7303093eb836326ec2e9" title="mavlink_test_limits\l_status" alt="" coords="403,5,538,46"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="587,12,771,39"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="819,12,935,39"/>
-</map>

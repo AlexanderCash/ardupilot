@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gps_inject_data_encode_chan" name="mavlink_msg_gps_inject_data_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__gps__inject__data_8h.html#a4e0dc4b24be55d03d78ca5c1fe799ce5" title="Pack a gps_inject_data message on a channel. " alt="" coords="219,49,384,90"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a78cf8b010c1768f8be4b9caa34aba0dc" title="_mav_put_uint8_t_array" alt="" coords="457,5,618,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="691,31,831,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="432,107,643,133"/>
-</map>

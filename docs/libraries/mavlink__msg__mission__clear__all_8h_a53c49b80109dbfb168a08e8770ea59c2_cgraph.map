@@ -1,4 +1,0 @@
-<map id="mavlink_msg_mission_clear_all_encode_chan" name="mavlink_msg_mission_clear_all_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__clear__all_8h.html#a9751eb7c62c3bce83ede2ad6c2932711" title="Pack a mission_clear_all message on a channel. " alt="" coords="217,5,367,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="416,12,627,39"/>
-</map>

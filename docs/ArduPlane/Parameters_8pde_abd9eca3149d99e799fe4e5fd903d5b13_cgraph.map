@@ -1,8 +1,0 @@
-<map id="load_parameters" name="load_parameters">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Param.html#acae70ac477c05f1ce09ec8169ce9f9fe" title="AP_Param::check_var_info" alt="" coords="173,5,355,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Param.html#a4a86ea5356adc75cd1cf80ec01f0dfa8" title="AP_Param::erase_all" alt="" coords="191,56,337,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__HAL_1_1BetterStream.html#ae4b75a61c52e28221d8fb2b2d4c35ca3" title="AP_HAL::BetterStream\l::println_P" alt="" coords="185,107,343,149"/>
-<area shape="rect" id="node5" href="$compat_8pde.html#ae94e2fdcebe8f989346aa1e3a7b57e8d" title="micros" alt="" coords="233,173,295,200"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Param.html#a2d7d89225f6eb89b4ed5277726b7d983" title="AP_Param::load_all" alt="" coords="195,224,333,251"/>
-<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Param.html#a25fd45233974736c2ac8e4680882a235" title="AP_Param::convert_old\l_parameters" alt="" coords="184,275,344,317"/>
-</map>

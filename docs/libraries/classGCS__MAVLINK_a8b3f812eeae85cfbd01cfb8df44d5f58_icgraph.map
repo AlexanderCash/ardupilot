@@ -1,5 +1,0 @@
-<map id="GCS_MAVLINK::_count_parameters" name="GCS_MAVLINK::_count_parameters">
-<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a45f2a7f8ba45e6d161ba4d6971e3fd66" title="GCS_MAVLINK::handle\l_param_request_list" alt="" coords="219,5,381,46"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a5049292431ff6787cd0c4fe69e7fa494" title="GCS_MAVLINK::handle\l_param_request_read" alt="" coords="219,70,381,111"/>
-<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#ae8138868be824c9478307c705a0e6763" title="GCS_MAVLINK::handle\l_param_set" alt="" coords="219,135,381,177"/>
-</map>

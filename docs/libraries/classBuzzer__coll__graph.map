@@ -1,4 +1,0 @@
-<map id="Buzzer" name="Buzzer">
-<area shape="rect" id="node2" href="$classNotifyDevice.html" title="NotifyDevice" alt="" coords="5,5,104,32"/>
-<area shape="rect" id="node3" href="$structBuzzer_1_1buzzer__flag__type.html" title="buzzer_flag_type &#45; bitmask of current state and ap_notify states we track " alt="" coords="128,5,299,32"/>
-</map>

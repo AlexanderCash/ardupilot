@@ -1,8 +1,0 @@
-<map id="ExternalLED::update" name="ExternalLED::update">
-<area shape="rect" id="node2" href="$classExternalLED.html#a7c818fff1f058f49e270f1df69c7fc07" title="ExternalLED::armed_led" alt="" coords="201,5,365,32"/>
-<area shape="rect" id="node4" href="$classExternalLED.html#aa8be1ed06774218a107c6a2e90a1302b" title="ExternalLED::gps_led" alt="" coords="208,56,357,83"/>
-<area shape="rect" id="node5" href="$classExternalLED.html#a63fffcb5dffb7a8105f5a4d0d4e30010" title="ExternalLED::motor_led1" alt="" coords="199,107,367,133"/>
-<area shape="rect" id="node6" href="$classExternalLED.html#ae1bcb4e0eb1ecc285aeaf068e6205954" title="ExternalLED::motor_led2" alt="" coords="199,157,367,184"/>
-<area shape="rect" id="node7" href="$classExternalLED.html#a55535350a2826a18452e89ad77e38f4d" title="ExternalLED::set_pattern" alt="" coords="198,208,367,235"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#a2b0664bdab1876e3b0bbcd9064eec88e" title="AP_HAL::GPIO::write" alt="" coords="417,81,567,108"/>
-</map>

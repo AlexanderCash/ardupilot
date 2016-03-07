@@ -1,5 +1,0 @@
-<map id="AP_RangeFinder_PX4::update" name="AP_RangeFinder_PX4::update">
-<area shape="rect" id="node2" href="$classAP__RangeFinder__Backend.html#ac5b3771c47b58dfba89ebcf2a24541cd" title="AP_RangeFinder_Backend\l::set_status" alt="" coords="435,28,613,70"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#acfe178fdca7f8d9b22a939b3aac1a84f" title="AP_HAL::Scheduler::\lmicros64" alt="" coords="224,24,371,66"/>
-<area shape="rect" id="node4" href="$classAP__RangeFinder__Backend.html#a9e858f638e4c2d1138aa3f56d217a394" title="AP_RangeFinder_Backend\l::update_status" alt="" coords="208,90,387,131"/>
-</map>

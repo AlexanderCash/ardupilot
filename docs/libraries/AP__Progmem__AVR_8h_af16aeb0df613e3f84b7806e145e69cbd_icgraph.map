@@ -1,8 +1,0 @@
-<map id="pgm_read_pointer" name="pgm_read_pointer">
-<area shape="rect" id="node2" href="$classMenu.html#a17dd36a8c1c12a4fa1e99e1df29dac72" title="Menu::_call" alt="" coords="199,31,289,57"/>
-<area shape="rect" id="node6" href="$classAP__Scheduler.html#a8a9585f129e14a2ef363a0a0cc97174f" title="AP_Scheduler::run" alt="" coords="179,81,309,108"/>
-<area shape="rect" id="node3" href="$classMenu.html#a95896e17c24c512b0ffded9661204cc9" title="Menu::_run_command" alt="" coords="358,31,509,57"/>
-<area shape="rect" id="node4" href="$classMenu.html#a8424e0886499d6901c1d2406c568709c" title="menu runner " alt="" coords="584,5,664,32"/>
-<area shape="rect" id="node5" href="$classMenu.html#a5ee8a65cae6ca12d570d5f665e2c665c" title="Menu::check_input" alt="" coords="558,56,690,83"/>
-<area shape="rect" id="node7" href="$Scheduler__test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="410,81,457,108"/>
-</map>

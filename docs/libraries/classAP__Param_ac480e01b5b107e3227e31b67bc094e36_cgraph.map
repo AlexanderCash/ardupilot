@@ -1,9 +1,0 @@
-<map id="AP_Param::find_def_value_ptr" name="AP_Param::find_def_value_ptr">
-<area shape="rect" id="node2" href="$classAP__Param.html#a3e646a4ec73842265e47d9ccfe0ced9d" title="AP_Param::find" alt="" coords="219,93,333,120"/>
-<area shape="rect" id="node7" href="$classAP__Param.html#af188770eb57f6ad10a55543b0eb5e0fe" title="AP_Param::find_var_info" alt="" coords="193,173,359,200"/>
-<area shape="rect" id="node3" href="$AP__Progmem__Identity_8h.html#a7c38516a089d1799b00c59fbb0820841" title="strnlen_P" alt="" coords="625,5,703,32"/>
-<area shape="rect" id="node4" href="$AP__Progmem__Identity_8h.html#a975beca2ce546549dfcb4f51d56fe17b" title="strncmp_P" alt="" coords="621,81,707,108"/>
-<area shape="rect" id="node5" href="$classAP__Param.html#a6849f590567b7e1a475fdca7251d7581" title="AP_Param::find_group" alt="" coords="409,43,562,69"/>
-<area shape="rect" id="node6" href="$AP__Progmem__AVR_8h.html#aedeadee36d22b1e01f713f805d1037a1" title="strcasecmp_P" alt="" coords="611,144,717,171"/>
-<area shape="rect" id="node8" href="$classAP__Param.html#ac4f13ca0e958e391e915dc68c6e532f1" title="AP_Param::find_var\l_info_group" alt="" coords="416,195,555,237"/>
-</map>

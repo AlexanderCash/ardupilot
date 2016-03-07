@@ -1,6 +1,0 @@
-<map id="setup_turn_angle" name="setup_turn_angle">
-<area shape="rect" id="node2" href="$ArduPlane_8pde.html#a4ca9908869f03c8499bb30e8cae3ccc0" title="mission" alt="" coords="219,5,285,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#a338b12fad6aa74b9c8a34d65850f6b40" title="AP_Mission::get_next\l_ground_course_cd" alt="" coords="177,57,327,98"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a224e7b94333df3a15a18499026474ac9" title="get_bearing_cd" alt="" coords="197,123,307,149"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8h.html#a35821002985a8e3e526c8ccad9bb9934" title="wrap_180_cd" alt="" coords="203,173,301,200"/>
-</map>

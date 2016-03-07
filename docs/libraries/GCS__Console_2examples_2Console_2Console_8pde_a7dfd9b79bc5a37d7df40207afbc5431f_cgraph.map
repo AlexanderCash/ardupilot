@@ -1,6 +1,0 @@
-<map id="setup" name="setup">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1UARTDriver.html#a2a83124757f6f8f6eb4d25b11c9cb97e" title="AP_HAL::UARTDriver\l::begin" alt="" coords="110,5,263,46"/>
-<area shape="rect" id="node3" href="$simplegcs_8cpp.html#ab0b28a573b02c581205a6ca0d9dbcb37" title="try_send_statustext" alt="" coords="118,71,255,97"/>
-<area shape="rect" id="node4" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="312,71,448,97"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="497,71,674,97"/>
-</map>

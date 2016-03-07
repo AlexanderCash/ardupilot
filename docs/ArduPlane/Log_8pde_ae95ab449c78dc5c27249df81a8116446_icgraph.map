@@ -1,9 +1,0 @@
-<map id="Log_Arm_Disarm" name="Log_Arm_Disarm">
-<area shape="rect" id="node2" href="$system_8pde.html#ae6adb3489b27719ee07eb86717460281" title="change_arm_state" alt="" coords="177,31,306,57"/>
-<area shape="rect" id="node3" href="$system_8pde.html#a907e60860c7242b1b074557071267ca7" title="arm_motors" alt="" coords="364,5,455,32"/>
-<area shape="rect" id="node4" href="$system_8pde.html#a685b5c02e09ee2ded2177289d3a90c19" title="disarm_motors" alt="" coords="355,56,463,83"/>
-<area shape="rect" id="node5" href="$landing_8pde.html#a1df24c8c6568cbc8c72b7406283bf068" title="disarm_if_autoland\l_complete" alt="" coords="512,49,643,90"/>
-<area shape="rect" id="node6" href="$landing_8pde.html#a76d7ac00bf1a68b5db464de185d44847" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="691,56,776,83"/>
-<area shape="rect" id="node7" href="$commands__logic_8pde.html#a42358652e4033ff08d1056cc4d5bbab8" title="verify_command" alt="" coords="825,56,943,83"/>
-<area shape="rect" id="node8" href="$commands__logic_8pde.html#a072ff1b2f62a15fe354c2405089fd078" title="verify_command_callback" alt="" coords="992,56,1165,83"/>
-</map>

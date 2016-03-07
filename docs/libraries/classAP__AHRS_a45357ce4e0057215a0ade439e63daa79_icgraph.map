@@ -1,5 +1,0 @@
-<map id="AP_AHRS::get_correct_centrifugal" name="AP_AHRS::get_correct_centrifugal">
-<area shape="rect" id="node2" href="$classNavEKF.html#aa98e017d389ce1831db02e36a44d5647" title="NavEKF::getVehicleArmStatus" alt="" coords="213,12,416,39"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="723,12,874,39"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a9eb8c77b7f824e2ebbf378f1d269290b" title="NavEKF::performArmingChecks" alt="" coords="464,37,675,64"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="PX4::PX4AnalogIn" name="PX4::PX4AnalogIn">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1AnalogIn.html" title="AP_HAL::AnalogIn" alt="" coords="5,83,136,109"/>
-<area shape="rect" id="node3" href="$classPX4_1_1PX4AnalogSource.html" title="PX4::PX4AnalogSource" alt="" coords="161,83,321,109"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1AnalogSource.html" title="AP_HAL::AnalogSource" alt="" coords="160,5,323,32"/>
-</map>

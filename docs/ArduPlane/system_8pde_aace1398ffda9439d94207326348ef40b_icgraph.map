@@ -1,5 +1,0 @@
-<map id="throttle_percentage" name="throttle_percentage">
-<area shape="rect" id="node2" href="$Attitude_8pde.html#a7e46b074d5f0d7cde3c78e60979a67a0" title="adjust_nav_pitch_throttle" alt="" coords="187,5,354,32"/>
-<area shape="rect" id="node4" href="$GCS__Mavlink_8pde.html#a97c962e44bb08412ab6242bcd20e9a88" title="send_vfr_hud" alt="" coords="221,56,321,83"/>
-<area shape="rect" id="node3" href="$ArduPlane_8pde.html#a1353a77e19a7028fda60ee8706f0879d" title="update_flight_mode" alt="" coords="403,5,538,32"/>
-</map>

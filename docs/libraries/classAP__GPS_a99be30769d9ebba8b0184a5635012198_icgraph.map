@@ -1,7 +1,0 @@
-<map id="AP_GPS::last_message_time_ms" name="AP_GPS::last_message_time_ms">
-<area shape="rect" id="node2" href="$classAP__GPS.html#a266ef4a39f7a303fc1905bf7f9e4ed09" title="AP_GPS::send_mavlink\l_gps_raw" alt="" coords="227,5,389,46"/>
-<area shape="rect" id="node4" href="$classAP__GPS.html#a83302e8b52e5d01ae67375b3542eb460" title="AP_GPS::update_instance" alt="" coords="219,71,397,97"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#aa6f7ccdb5ed30bcce6499dcbf9e6d4ad" title="GCS_MAVLINK::send_gps_raw" alt="" coords="446,12,655,39"/>
-<area shape="rect" id="node5" href="$classAP__GPS.html#afe04427a47ab5e630cb979815abd911e" title="AP_GPS::update" alt="" coords="489,71,612,97"/>
-<area shape="rect" id="node6" href="$GPS__AUTO__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="705,71,751,97"/>
-</map>

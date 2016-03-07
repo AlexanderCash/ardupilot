@@ -1,7 +1,0 @@
-<map id="mavlink_msg_set_actuator_control_target_decode" name="mavlink_msg_set_actuator_control_target_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__set__actuator__control__target_8h.html#a0580be8ded5018b2176a1f97eec9cd10" title="Send a set_actuator_control_target message. " alt="" coords="244,5,444,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__set__actuator__control__target_8h.html#aef5c8dd7037e383cdec75dd9d11c39b2" title="Get field controls from set_actuator_control_target message. " alt="" coords="251,70,437,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__set__actuator__control__target_8h.html#ac4eb7776607c21e389f7c7d54523e0b0" title="Get field group_mlx from set_actuator_control_target message. " alt="" coords="244,135,444,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__set__actuator__control__target_8h.html#af1cc24939f8e8cc956ef03c891bc42d8" title="Get field target_system from set_actuator_control_target message. " alt="" coords="233,201,455,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__set__actuator__control__target_8h.html#ade0b16d30e0457cf90d7be64b47564b8" title="Get field target_component from set_actuator_control_target message. " alt="" coords="255,265,433,321"/>
-</map>

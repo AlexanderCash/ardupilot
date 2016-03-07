@@ -1,9 +1,0 @@
-<map id="report_ins" name="report_ins">
-<area shape="rect" id="node2" href="$setup_8pde.html#a1fb1d3a7a299b220df395431b4241406" title="print_divider" alt="" coords="154,5,246,32"/>
-<area shape="rect" id="node3" href="$setup_8pde.html#a73ed1825f8510fd8ac4dc0eecd6b1dd4" title="print_gyro_offsets" alt="" coords="137,56,263,83"/>
-<area shape="rect" id="node5" href="$setup_8pde.html#aef969cb1beb1bcf8c8cfd2965d48a7bd" title="print_accel_offsets\l_and_scaling" alt="" coords="134,107,266,149"/>
-<area shape="rect" id="node8" href="$setup_8pde.html#a6e743a637a45663d659643a181a7290c" title="print_blanks" alt="" coords="154,173,246,200"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a5b17cd4d4b6156fc012976bb5617aa9a" title="AP_InertialSensor::\lget_gyro_offsets" alt="" coords="315,42,450,83"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a676ecc5140643be71813993fa62bf6f0" title="AP_InertialSensor::\lget_accel_offsets" alt="" coords="315,107,450,149"/>
-<area shape="rect" id="node7" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__InertialSensor.html#a7dcef05a1ae56c202b01254b1f223b02" title="AP_InertialSensor::\lget_accel_scale" alt="" coords="315,173,450,214"/>
-</map>

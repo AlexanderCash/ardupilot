@@ -1,9 +1,0 @@
-<map id="mavlink_msg_serial_control_decode" name="mavlink_msg_serial_control_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__serial__control_8h.html#aad0f99c51ba957bad4200ccc6641b2a3" title="Get field baudrate from serial_control message. " alt="" coords="193,5,343,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__serial__control_8h.html#abf5257865848724a112eff03586d4234" title="Get field timeout from serial_control message. " alt="" coords="197,70,339,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__serial__control_8h.html#ac3508529418ab6739af2a9675b43db5e" title="Send a serial_control message. " alt="" coords="199,135,337,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__serial__control_8h.html#a379f795b38ebf8b6bbbc93e82e0b334d" title="Get field flags from serial_control message. " alt="" coords="199,201,337,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__serial__control_8h.html#a91c6115a48c05bfd223b22604c0361bd" title="Get field count from serial_control message. " alt="" coords="199,266,337,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__serial__control_8h.html#ad83b77ea25badc05281e80af21d5efc6" title="Get field data from serial_control message. " alt="" coords="199,331,337,373"/>
-<area shape="rect" id="node8" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="392,331,560,373"/>
-</map>

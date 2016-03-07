@@ -1,4 +1,0 @@
-<map id="AP_Compass_HMC5843::read_register" name="AP_Compass_HMC5843::read_register">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a87848503b8dd40b1e371161f1137757b" title="AP_HAL::I2CDriver::\lreadRegister" alt="" coords="225,5,370,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="224,70,371,111"/>
-</map>

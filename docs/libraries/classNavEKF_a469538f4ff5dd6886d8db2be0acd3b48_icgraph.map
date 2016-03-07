@@ -1,7 +1,0 @@
-<map id="NavEKF::ResetHeight" name="NavEKF::ResetHeight">
-<area shape="rect" id="node2" href="$classNavEKF.html#a74882eb98d3c69065b640829154a500c" title="NavEKF::FuseVelPosNED" alt="" coords="209,5,389,32"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="686,31,837,57"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#a290932b02347c5247f036fbc3c7af9d8" title="NavEKF::InitialiseFilter\lBootstrap" alt="" coords="220,107,377,149"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="220,173,377,214"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="438,5,637,32"/>
-</map>

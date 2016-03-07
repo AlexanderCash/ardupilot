@@ -1,8 +1,0 @@
-<map id="AP_HAL_FLYMAPLE_NS::FLYMAPLEAnalogIn::channel" name="AP_HAL_FLYMAPLE_NS::FLYMAPLEAnalogIn::channel">
-<area shape="rect" id="node2" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogIn.html#aeb59ca848fa480afa4de9877378789f8" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogIn::\l_create_channel" alt="" coords="230,49,405,105"/>
-<area shape="rect" id="node3" href="$classAP__HAL__FLYMAPLE__NS_1_1FLYMAPLEAnalogIn.html#a464a230e09b4da2b1833c78272298dc2" title="AP_HAL_FLYMAPLE_NS\l::FLYMAPLEAnalogIn::\l_register_channel" alt="" coords="454,49,629,105"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html#aa33346e163179b28fafff415054383b8" title="AP_HAL::UARTDriver\l::print_P" alt="" coords="678,23,831,65"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="681,89,828,130"/>
-<area shape="rect" id="node5" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="897,5,1007,32"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="880,56,1024,83"/>
-</map>

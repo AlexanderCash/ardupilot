@@ -1,7 +1,0 @@
-<map id="RC_Channel_aux::copy_radio_in_out" name="RC_Channel_aux::copy_radio_in_out">
-<area shape="rect" id="node2" href="$classRC__Channel__aux.html#a423accc4de40960cf7ef2c4755e8a9d1" title="RC_Channel_aux::function\l_assigned" alt="" coords="216,5,395,46"/>
-<area shape="rect" id="node3" href="$classRC__Channel.html#ae3fdc00cc4a913a006bd48679cc7b83a" title="RC_Channel::input" alt="" coords="239,71,372,97"/>
-<area shape="rect" id="node5" href="$classRC__Channel.html#aabaff8233192d5f2a20e2207914ca3e3" title="RC_Channel::output" alt="" coords="235,121,376,148"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="449,71,612,97"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="443,121,619,148"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="NavEKF::CovariancePrediction" name="NavEKF::CovariancePrediction">
-<area shape="rect" id="node2" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="533,7,640,34"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="567,83,606,110"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#afaa81e08a98db599f139657cabd99fa7" title="NavEKF::CopyAndFixCovariances" alt="" coords="259,83,485,110"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#abfa9617589db799ff0a405e34550f0dd" title="NavEKF::ConstrainVariances" alt="" coords="275,33,469,59"/>
-<area shape="rect" id="node6" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="322,185,422,211"/>
-</map>

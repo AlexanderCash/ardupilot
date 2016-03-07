@@ -1,7 +1,0 @@
-<map id="AP_AHRS_DCM::matrix_update" name="AP_AHRS_DCM::matrix_update">
-<area shape="rect" id="node2" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="239,5,339,32"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor.html#aef7fac4fe6ae817ed325f9e35735e94d" title="AP_InertialSensor::\lget_gyro_count" alt="" coords="222,57,357,98"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor.html#abc8c1aea2c3bc58a05d8d9832a9d1194" title="AP_InertialSensor::\lget_gyro_health" alt="" coords="222,122,357,163"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor.html#a6df2d8ad956d4f375bdee541102f16af" title="AP_InertialSensor::\lget_gyro" alt="" coords="222,187,357,229"/>
-<area shape="rect" id="node6" href="$classMatrix3.html#a6f044e8d64f6f10e054af962487399b9" title="Matrix3::rotate" alt="" coords="236,253,343,280"/>
-</map>

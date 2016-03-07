@@ -1,9 +1,0 @@
-<map id="setup" name="setup">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="113,5,260,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="110,70,263,111"/>
-<area shape="rect" id="node4" href="$AP__HAL__AVR_2examples_2Storage_2Storage_8pde.html#a8de269f8ce270f47a470b83995bafee0" title="test_readback" alt="" coords="135,136,239,163"/>
-<area shape="rect" id="node6" href="$AP__HAL__FLYMAPLE_2examples_2Storage_2Storage_8pde.html#a3ddda918f1a30c3374704d5a1e9e7b8c" title="test_erase" alt="" coords="145,187,228,213"/>
-<area shape="rect" id="node7" href="$AP__HAL__AVR_2examples_2Storage_2Storage_8pde.html#a29da9175b91a9b8fbadf2499e84c11e3" title="test_write" alt="" coords="147,237,226,264"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title="AP_HAL::Storage::read\l_block" alt="" coords="314,129,473,170"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1Storage.html#a9de79ab93ea4374bd3d1583e28620d2e" title="AP_HAL::Storage::write\l_block" alt="" coords="312,230,475,271"/>
-</map>

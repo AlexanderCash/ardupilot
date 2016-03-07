@@ -1,6 +1,0 @@
-<map id="stream_loopback" name="stream_loopback">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="195,5,341,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Stream.html#ae687e48f5689af94d66fb88822923e12" title="AP_HAL::Stream::available" alt="" coords="177,71,359,97"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Stream.html#ae42ff362cc2a7e527c22f92a3740c2ac" title="AP_HAL::Stream::read" alt="" coords="190,121,346,148"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="196,172,340,199"/>
-</map>

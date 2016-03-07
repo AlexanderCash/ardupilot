@@ -1,6 +1,0 @@
-<map id="AP_HAL::AnalogSource::voltage_average" name="AP_HAL::AnalogSource::voltage_average">
-<area shape="rect" id="node2" href="$examples_2AnalogIn_2AnalogIn_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="277,5,323,32"/>
-<area shape="rect" id="node3" href="$classAP__BattMonitor__Analog.html#aea3c22d36fc78bf8d9b8a86a193f3eae" title="Read the battery voltage and current. Should be called at 10hz. " alt="" coords="219,57,381,98"/>
-<area shape="rect" id="node4" href="$classAP__RangeFinder__analog.html#a79298166e180b5de2cf9f7c9dbcf56ea" title="AP_RangeFinder_analog\l::update_voltage" alt="" coords="217,122,383,163"/>
-<area shape="rect" id="node5" href="$classAP__RangeFinder__analog.html#ad997f109f592a3c9f875655af6ad6de0" title="AP_RangeFinder_analog\l::update" alt="" coords="433,122,599,163"/>
-</map>

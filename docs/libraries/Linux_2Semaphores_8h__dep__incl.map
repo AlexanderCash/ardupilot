@@ -1,9 +1,0 @@
-<map id="libraries/AP_HAL_Linux/Semaphores.h" name="libraries/AP_HAL_Linux/Semaphores.h">
-<area shape="rect" id="node2" href="$Linux_2SPIDriver_8h.html" title="libraries/AP_HAL_Linux\l/SPIDriver.h" alt="" coords="80,97,239,138"/>
-<area shape="rect" id="node3" href="$AP__HAL__Linux__Private_8h.html" title="libraries/AP_HAL_Linux\l/AP_HAL_Linux_Private.h" alt="" coords="190,187,364,229"/>
-<area shape="rect" id="node6" href="$Linux_2Scheduler_8h.html" title="libraries/AP_HAL_Linux\l/Scheduler.h" alt="" coords="315,97,473,138"/>
-<area shape="rect" id="node8" href="$AP__HAL__Linux_2Semaphores_8cpp.html" title="libraries/AP_HAL_Linux\l/Semaphores.cpp" alt="" coords="499,97,657,138"/>
-<area shape="rect" id="node5" href="$AP__HAL__Linux_2SPIDriver_8cpp.html" title="libraries/AP_HAL_Linux\l/SPIDriver.cpp" alt="" coords="5,187,164,229"/>
-<area shape="rect" id="node4" href="$HAL__Linux__Class_8cpp.html" title="libraries/AP_HAL_Linux\l/HAL_Linux_Class.cpp" alt="" coords="197,278,356,319"/>
-<area shape="rect" id="node7" href="$AP__HAL__Linux_2Scheduler_8cpp.html" title="libraries/AP_HAL_Linux\l/Scheduler.cpp" alt="" coords="389,187,548,229"/>
-</map>

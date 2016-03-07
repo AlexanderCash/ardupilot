@@ -1,7 +1,0 @@
-<map id="Linux::LinuxUARTDriver::write" name="Linux::LinuxUARTDriver::write">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxUARTDriver.html#a0473e135769e0e46a828f89d21e14f6e" title="Linux::LinuxUARTDriver\l::_write_fd" alt="" coords="219,37,383,78"/>
-<area shape="rect" id="node6" href="$classLinux_1_1LinuxUARTDriver.html#a1da83ab27e08e60c6e21fbcf542a5402" title="Linux::LinuxUARTDriver\l::write" alt="" coords="219,102,383,143"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxUARTDriver.html#a896f2b66a62f705e5e953e025cc24636" title="Linux::LinuxUARTDriver\l::_timer_tick" alt="" coords="443,5,607,46"/>
-<area shape="rect" id="node5" href="$classLinux_1_1LinuxSPIUARTDriver.html#a1dd9c38761af28bdf82691702c9426ea" title="Linux::LinuxSPIUARTDriver\l::_write_fd" alt="" coords="432,70,619,111"/>
-<area shape="rect" id="node4" href="$classLinux_1_1LinuxSPIUARTDriver.html#ac4b32e65b3c492c093b3b3dae1997bcd" title="Linux::LinuxSPIUARTDriver\l::_timer_tick" alt="" coords="667,5,853,46"/>
-</map>

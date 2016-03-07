@@ -1,7 +1,0 @@
-<map id="mavlink_msg_request_data_stream_decode" name="mavlink_msg_request_data_stream_decode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__request__data__stream_8h.html#ab8d7d85386505484c7842677d67bf024" title="Send a request_data_stream message. " alt="" coords="218,5,385,61"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__request__data__stream_8h.html#a5bb35db644a769c6a6a872fff2659985" title="Get field target_component from request_data_stream message. " alt="" coords="218,85,385,141"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__request__data__stream_8h.html#ad8082fdb8fb08553c3202db0c5328ad2" title="Get field req_stream_id from request_data_stream message. " alt="" coords="226,165,377,221"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__request__data__stream_8h.html#a978248fa5cf7bc1c087b7cbb568b697c" title="Get field req_message_rate from request_data_stream message. " alt="" coords="226,245,377,301"/>
-<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__request__data__stream_8h.html#aad188d44d26186a8f766e29682dca819" title="Get field start_stop from request_data_stream message. " alt="" coords="206,325,397,366"/>
-</map>

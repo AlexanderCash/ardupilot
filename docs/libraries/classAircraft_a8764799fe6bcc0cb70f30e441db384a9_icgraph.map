@@ -1,5 +1,0 @@
-<map id="Aircraft::rand_normal" name="Aircraft::rand_normal">
-<area shape="rect" id="node2" href="$classAircraft.html#a820ad172d2c05372f6e4eb3910d0b6cf" title="Aircraft::add_noise" alt="" coords="197,31,328,57"/>
-<area shape="rect" id="node3" href="$classHelicopter.html#a679e4dbbeca418ad17aa98aafdc99385" title="Helicopter::update" alt="" coords="380,5,508,32"/>
-<area shape="rect" id="node4" href="$classMultiCopter.html#ad4df8bcd20625ce425cc9d73f9aa6a20" title="MultiCopter::update" alt="" coords="376,56,512,83"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AC_AttitudeControl::max_rate_step_bf_roll" name="AC_AttitudeControl::max_rate_step_bf_roll">
-<area shape="rect" id="node2" href="$classAC__PID.html#ac12ffbd4fd053c6152d403b69e07b8e1" title="AC_PID::get_filt_alpha" alt="" coords="214,5,370,32"/>
-<area shape="rect" id="node4" href="$classAC__PID.html#a071b5199b1b8d526dde58c4ea4609e14" title="AC_PID::kD" alt="" coords="244,56,340,83"/>
-<area shape="rect" id="node5" href="$classAC__PID.html#a98526d0e4aa40c016ba339b41654c5f5" title="AC_PID::kP" alt="" coords="245,107,339,133"/>
-<area shape="rect" id="node3" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="419,5,483,32"/>
-</map>

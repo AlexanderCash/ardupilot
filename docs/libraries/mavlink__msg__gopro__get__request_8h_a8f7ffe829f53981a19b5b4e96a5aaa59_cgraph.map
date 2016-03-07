@@ -1,5 +1,0 @@
-<map id="mavlink_msg_gopro_get_request_decode" name="mavlink_msg_gopro_get_request_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__gopro__get__request_8h.html#ac45010322ab5e76f0b2356b41c980e89" title="Send a gopro_get_request message. " alt="" coords="227,5,413,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__gopro__get__request_8h.html#ac998b477e43060dd67f8e953dba55025" title="Get field target_component from gopro_get_request message. " alt="" coords="216,70,424,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__gopro__get__request_8h.html#ad49e924941645ad4b09732a32e18dc8f" title="Get field cmd_id from gopro_get_request message. " alt="" coords="239,135,401,177"/>
-</map>

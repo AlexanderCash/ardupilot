@@ -1,6 +1,0 @@
-<map id="AP_Airspeed::get_pressure" name="AP_Airspeed::get_pressure">
-<area shape="rect" id="node2" href="$classAP__Airspeed.html#afb7c91590b3efc00ee2d72cc6bcc856f" title="AP_Airspeed::calibrate" alt="" coords="235,5,389,32"/>
-<area shape="rect" id="node4" href="$classAP__Airspeed.html#af713d23fce3c9a5e78e043d4e3b2d012" title="AP_Airspeed::read" alt="" coords="247,56,377,83"/>
-<area shape="rect" id="node3" href="$Airspeed_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="438,5,493,32"/>
-<area shape="rect" id="node5" href="$Airspeed_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="442,56,489,83"/>
-</map>

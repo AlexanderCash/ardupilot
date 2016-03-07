@@ -1,4 +1,0 @@
-<map id="NavEKF::FuseSideslip" name="NavEKF::FuseSideslip">
-<area shape="rect" id="node2" href="$classNavEKF.html#a8525e5774e083f7187a7c4ed8609fa38" title="NavEKF::SelectBetaFusion" alt="" coords="209,5,391,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="441,5,591,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="mavlink_msg_debug_vect_decode" name="mavlink_msg_debug_vect_decode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__debug__vect_8h.html#a4430cd2623ca64d7c3c5876665a7a52f" title="Send a debug_vect message. " alt="" coords="227,5,400,46"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__debug__vect_8h.html#ab09b3a339358d161d7514988b382493a" title="Get field usec from debug_vect message. " alt="" coords="227,70,400,111"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__debug__vect_8h.html#aabe73afc904f130b361aa081cea2c5d6" title="Get field x from debug_vect message. " alt="" coords="227,135,400,177"/>
-<area shape="rect" id="node6" href="$v0_89_2common_2mavlink__msg__debug__vect_8h.html#ad1c64062c0e45855319446bae77c4e04" title="Get field y from debug_vect message. " alt="" coords="227,201,400,242"/>
-<area shape="rect" id="node7" href="$v0_89_2common_2mavlink__msg__debug__vect_8h.html#ac572d01aa1ea90ee8a0362529118e90f" title="Get field z from debug_vect message. " alt="" coords="227,266,400,307"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a12ebb16564718cc14d12b46458bbb290" title="_MAV_RETURN_char_array" alt="" coords="449,12,639,39"/>
-</map>

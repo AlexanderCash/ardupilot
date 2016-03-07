@@ -1,7 +1,0 @@
-<map id="GCS_MAVLINK::send_scaled_pressure" name="GCS_MAVLINK::send_scaled_pressure">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="268,5,415,46"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#aafa0e900262503f0ba84d4cadcf888d7" title="AP_Baro::get_pressure" alt="" coords="263,95,420,121"/>
-<area shape="rect" id="node4" href="$classAP__Baro.html#ae8816e9f9ee273e419287ee6a6499ec7" title="AP_Baro::get_ground\l_pressure" alt="" coords="268,170,415,211"/>
-<area shape="rect" id="node5" href="$classAP__Baro.html#a08986d0a15b5b74601f505c9ffb258c2" title="AP_Baro::get_temperature" alt="" coords="253,260,429,287"/>
-<area shape="rect" id="node6" href="$classAP__Baro.html#a1f7196f34a53cd91adbf7f905c7f7244" title="AP_Baro::num_instances" alt="" coords="256,311,427,337"/>
-</map>

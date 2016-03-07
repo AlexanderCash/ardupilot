@@ -1,7 +1,0 @@
-<map id="libraries/AP_HAL/Util.h" name="libraries/AP_HAL/Util.h">
-<area shape="rect" id="node3" href="$AP__HAL__Namespace_8h.html" title="AP_HAL_Namespace.h" alt="" coords="99,80,260,107"/>
-<area shape="rect" id="node6" href="$AP__Progmem_8h.html" title="AP_Progmem.h" alt="" coords="287,80,401,107"/>
-<area shape="rect" id="node5" href="$FastDelegate_8h.html" title="utility/FastDelegate.h" alt="" coords="107,155,253,181"/>
-<area shape="rect" id="node7" href="$AP__HAL__Boards_8h.html" title="AP_HAL_Boards.h" alt="" coords="278,155,409,181"/>
-<area shape="rect" id="node8" href="$AP__Progmem__Identity_8h.html" title="AP_Progmem_Identity.h" alt="" coords="434,155,597,181"/>
-</map>

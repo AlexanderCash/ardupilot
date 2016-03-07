@@ -1,7 +1,0 @@
-<map id="Aircraft::update" name="Aircraft::update">
-<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#a141fe78b0702ab2f2ac4cafc221fdb97" title="HALSITL::SITL_State\l::_fdm_input_local" alt="" coords="166,5,317,46"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#ae31c93a26ca780bb508dded2498e2e93" title="HALSITL::SITL_State\l::_fdm_input_step" alt="" coords="366,5,517,46"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a3eeaf330efded46259bbf64fc53e6b9f" title="HALSITL::SITL_State\l::wait_clock" alt="" coords="566,5,717,46"/>
-<area shape="rect" id="node5" href="$classHALSITL_1_1SITLScheduler.html#a4128e7f01b3e88fcb890ed98d91e9b10" title="HALSITL::SITLScheduler\l::delay_microseconds" alt="" coords="765,5,936,46"/>
-<area shape="rect" id="node6" href="$classHALSITL_1_1SITLScheduler.html#af7f89d00311bc23d39e38d1a0861cc42" title="HALSITL::SITLScheduler\l::delay" alt="" coords="984,5,1155,46"/>
-</map>

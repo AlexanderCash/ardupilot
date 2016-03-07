@@ -1,4 +1,0 @@
-<map id="NavEKF::FuseOptFlow" name="NavEKF::FuseOptFlow">
-<area shape="rect" id="node2" href="$classNavEKF.html#a0302b7bbb74998406a938c227367797e" title="NavEKF::SelectFlowFusion" alt="" coords="213,5,397,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="446,5,597,32"/>
-</map>

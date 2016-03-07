@@ -1,4 +1,0 @@
-<map id="mavlink_msg_gimbal_report_factory_tests_progress_encode_chan" name="mavlink_msg_gimbal_report_factory_tests_progress_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__report__factory__tests__progress_8h.html#af64280d0567bdee04098ef4e6c3848b9" title="Pack a gimbal_report_factory_tests_progress message on a channel. " alt="" coords="216,4,365,60"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="413,19,624,45"/>
-</map>

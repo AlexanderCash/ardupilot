@@ -1,7 +1,0 @@
-<map id="mavlink_msg_set_mag_offsets_decode" name="mavlink_msg_set_mag_offsets_decode">
-<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2mavlink__msg__set__mag__offsets_8h.html#a42eec2bcd1fd15442f00b652af42ed27" title="Get field mag_ofs_x from set_mag_offsets message. " alt="" coords="211,5,376,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2mavlink__msg__set__mag__offsets_8h.html#a767d8a0f6be8350368d536c9f86b5eb4" title="Get field mag_ofs_y from set_mag_offsets message. " alt="" coords="211,70,376,111"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2mavlink__msg__set__mag__offsets_8h.html#a8c805a90c59c980b2144496c7290bbf2" title="Get field mag_ofs_z from set_mag_offsets message. " alt="" coords="211,135,376,177"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2mavlink__msg__set__mag__offsets_8h.html#a91a71a3c880b57c0d8718744954749c2" title="Send a set_mag_offsets message. " alt="" coords="215,200,371,256"/>
-<area shape="rect" id="node6" href="$v1_80_2ardupilotmega_2mavlink__msg__set__mag__offsets_8h.html#a18167f142e670b000f7b991b4e9cf9cb" title="Get field target_component from set_mag_offsets message. " alt="" coords="215,280,371,336"/>
-</map>

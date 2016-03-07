@@ -1,9 +1,0 @@
-<map id="AP_Baro::get_air_density_ratio" name="AP_Baro::get_air_density_ratio">
-<area shape="rect" id="node2" href="$classAP__Baro.html#a0115c37618652051c1f6efd072fcc74b" title="AP_Baro::get_EAS2TAS" alt="" coords="225,163,391,189"/>
-<area shape="rect" id="node8" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="289,213,327,240"/>
-<area shape="rect" id="node3" href="$classAP__Baro.html#a984b4dbc11e276e832467253590da933" title="AP_Baro::get_altitude" alt="" coords="449,29,599,56"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="492,80,556,107"/>
-<area shape="rect" id="node5" href="$classAP__Baro.html#afe5e571018e7ded5c5cbc68e1f0a85c2" title="AP_Baro::get_calibration\l_temperature" alt="" coords="441,155,607,197"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a7b812b7e8008b90ab24bcd9c3b0e8e3b" title="safe_sqrt" alt="" coords="486,221,562,248"/>
-<area shape="rect" id="node7" href="$classAP__Baro.html#aafa0e900262503f0ba84d4cadcf888d7" title="AP_Baro::get_pressure" alt="" coords="445,296,603,323"/>
-</map>

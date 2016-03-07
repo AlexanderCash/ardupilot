@@ -1,9 +1,0 @@
-<map id="mavlink_msg_attitude_target_decode" name="mavlink_msg_attitude_target_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__attitude__target_8h.html#a2dccac06e077e0091c201245c3c14e51" title="Send a attitude_target message. " alt="" coords="208,5,384,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__attitude__target_8h.html#a0a2573b7b25c1bf79b56d26e6ca6b11d" title="Get field q from attitude_target message. " alt="" coords="221,70,371,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__attitude__target_8h.html#a1a520e52f7e642883ff32eb1d4e74aff" title="Get field body_roll_rate from attitude_target message. " alt="" coords="209,135,383,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__attitude__target_8h.html#a6d1d81605db75e891d77d59f4d5d1388" title="Get field body_pitch_rate from attitude_target message. " alt="" coords="203,201,389,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__attitude__target_8h.html#a5e4b3f2cb54fc9ebbf7001ed3c74b29e" title="Get field body_yaw_rate from attitude_target message. " alt="" coords="205,266,387,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__attitude__target_8h.html#ac81d99e6d8cdf7c2967b81a505942acd" title="Get field thrust from attitude_target message. " alt="" coords="221,331,371,373"/>
-<area shape="rect" id="node8" href="$mavlink__msg__attitude__target_8h.html#a31452b5b7c5c6dbe913e64fbe290a09b" title="Get field type_mask from attitude_target message. " alt="" coords="217,397,375,438"/>
-</map>

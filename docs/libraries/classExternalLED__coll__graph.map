@@ -1,4 +1,0 @@
-<map id="ExternalLED" name="ExternalLED">
-<area shape="rect" id="node2" href="$classNotifyDevice.html" title="NotifyDevice" alt="" coords="5,13,104,40"/>
-<area shape="rect" id="node3" href="$structExternalLED_1_1copterleds__flag__type.html" title="buzzer_flag_type &#45; bitmask of current state and ap_notify states we track " alt="" coords="129,6,292,47"/>
-</map>

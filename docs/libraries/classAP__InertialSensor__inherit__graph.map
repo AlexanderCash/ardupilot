@@ -1,5 +1,0 @@
-<map id="AP_InertialSensor" name="AP_InertialSensor">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__L3GD20.html" title="AP_InertialSensor_L3GD20" alt="" coords="5,80,187,107"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__LSM303D.html" title="AP_InertialSensor_LSM303D" alt="" coords="212,80,404,107"/>
-<area shape="rect" id="node4" href="$classAP__InertialSensor__LSM9DS0.html" title="AP_InertialSensor_LSM9DS0" alt="" coords="428,80,623,107"/>
-</map>

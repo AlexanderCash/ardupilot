@@ -1,4 +1,0 @@
-<map id="mavlink_msg_waypoint_set_current_encode" name="mavlink_msg_waypoint_set_current_encode">
-<area shape="rect" id="node2" href="$mavlink__msg__waypoint__set__current_8h.html#a816115f851f77949a8b4e204a9b769ce" title="Pack a waypoint_set_current message. " alt="" coords="214,5,373,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="422,12,597,39"/>
-</map>

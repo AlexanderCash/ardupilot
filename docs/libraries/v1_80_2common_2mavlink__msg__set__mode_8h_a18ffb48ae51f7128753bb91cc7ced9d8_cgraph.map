@@ -1,5 +1,0 @@
-<map id="mavlink_msg_set_mode_decode" name="mavlink_msg_set_mode_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__set__mode_8h.html#a85ba55d9647280a436b75e850d0aec13" title="Get field custom_mode from set_mode message. " alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__set__mode_8h.html#a7d367c4cd9fadb093d9919c5bd0e7af7" title="Send a set_mode message. " alt="" coords="216,70,379,111"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__set__mode_8h.html#a52e9176db9c1895da52d5877baa4f1da" title="Get field base_mode from set_mode message. " alt="" coords="216,135,379,177"/>
-</map>

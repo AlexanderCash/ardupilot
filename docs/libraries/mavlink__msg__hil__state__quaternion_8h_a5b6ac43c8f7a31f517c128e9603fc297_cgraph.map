@@ -1,5 +1,0 @@
-<map id="mavlink_msg_hil_state_quaternion_encode_chan" name="mavlink_msg_hil_state_quaternion_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__hil__state__quaternion_8h.html#a62fb58aa753f69e5f41acbeb1011b0ac" title="Pack a hil_state_quaternion message on a channel. " alt="" coords="227,23,386,65"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="470,5,610,32"/>
-<area shape="rect" id="node4" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="435,56,645,83"/>
-</map>

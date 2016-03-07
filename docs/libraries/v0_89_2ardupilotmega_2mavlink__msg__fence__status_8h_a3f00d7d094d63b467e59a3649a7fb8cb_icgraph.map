@@ -1,5 +1,0 @@
-<map id="mavlink_msg_fence_status_decode" name="mavlink_msg_fence_status_decode">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ac23d28cc1ca2f6a95edbb3220147c67e" title="mavlink_test_fence\l_status" alt="" coords="235,5,370,46"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="419,12,603,39"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="651,12,767,39"/>
-</map>

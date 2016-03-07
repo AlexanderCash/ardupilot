@@ -1,6 +1,0 @@
-<map id="AP_PitchController::autotune_start" name="AP_PitchController::autotune_start">
-<area shape="rect" id="node2" href="$classAP__AutoTune.html#a110fe2abe9d166b62092a16d0fa2c70a" title="AP_AutoTune::start" alt="" coords="187,71,325,97"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="373,5,520,46"/>
-<area shape="rect" id="node4" href="$AP__Progmem__Identity_8h.html#a90f10dd78145eef44fb2092a65a6d5db" title="pgm_read_float" alt="" coords="391,71,502,97"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="393,121,500,148"/>
-</map>

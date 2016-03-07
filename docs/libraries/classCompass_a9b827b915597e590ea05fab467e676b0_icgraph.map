@@ -1,6 +1,0 @@
-<map id="Compass::set_board_orientation" name="Compass::set_board_orientation">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a14804b801de65ce6d904c804b4795657" title="AP_AHRS::set_orientation" alt="" coords="197,31,376,57"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a1c1615be1a6d7e70eba56724b52f917a" title="AP_AHRS::init" alt="" coords="454,5,565,32"/>
-<area shape="rect" id="node5" href="$classAP__AHRS.html#a6902570304ec8a9d38c57e5b053e6d0a" title="AP_AHRS::set_compass" alt="" coords="424,56,595,83"/>
-<area shape="rect" id="node4" href="$AHRS__Test_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="643,31,698,57"/>
-</map>

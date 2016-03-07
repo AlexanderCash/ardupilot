@@ -1,6 +1,0 @@
-<map id="mavlink_msg_vision_speed_estimate_decode" name="mavlink_msg_vision_speed_estimate_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__vision__speed__estimate_8h.html#a11d9a9d3fb9aaf0acb4bf595dda7bd33" title="Send a vision_speed_estimate message. " alt="" coords="224,5,405,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__vision__speed__estimate_8h.html#ab86b66249629d9c54de947b8337c42ae" title="Get field x from vision_speed_estimate message. " alt="" coords="235,70,395,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__vision__speed__estimate_8h.html#a7452e62cfcc75b5cc791de5b07c7f1dd" title="Get field y from vision_speed_estimate message. " alt="" coords="235,135,395,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__vision__speed__estimate_8h.html#aa7be484f6206c95f1d43e686e4e51967" title="Get field z from vision_speed_estimate message. " alt="" coords="235,201,395,242"/>
-</map>

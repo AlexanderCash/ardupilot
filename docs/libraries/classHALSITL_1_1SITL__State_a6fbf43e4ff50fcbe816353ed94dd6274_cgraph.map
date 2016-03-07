@@ -1,7 +1,0 @@
-<map id="HALSITL::SITL_State::_update_gps_nmea" name="HALSITL::SITL_State::_update_gps_nmea">
-<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#ad29648c657450527a406dbb960b8e99e" title="HALSITL::SITL_State\l::_gps_nmea_printf" alt="" coords="206,70,357,111"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="231,136,331,163"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a267deca7c08a085770083d3d3ca853f7" title="HALSITL::SITL_State\l::_gps_nmea_checksum" alt="" coords="406,5,570,46"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a1bee6f813ada1dfe024b25a27077e861" title="HALSITL::SITL_State\l::_gps_write" alt="" coords="413,70,563,111"/>
-<area shape="rect" id="node6" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="469,136,507,163"/>
-</map>

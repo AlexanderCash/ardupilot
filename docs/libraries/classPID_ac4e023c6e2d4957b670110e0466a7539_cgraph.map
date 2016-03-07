@@ -1,6 +1,0 @@
-<map id="PID::get_pid_4500" name="PID::get_pid_4500">
-<area shape="rect" id="node2" href="$classPID.html#a28e600e906e006863e9018e66422bde6" title="PID::get_pid" alt="" coords="190,41,285,68"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="184,92,291,119"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="339,5,485,46"/>
-<area shape="rect" id="node4" href="$classPID.html#ab5b56004fca57d7bd2a580a743775b74" title="PID::reset_I" alt="" coords="365,71,459,97"/>
-</map>

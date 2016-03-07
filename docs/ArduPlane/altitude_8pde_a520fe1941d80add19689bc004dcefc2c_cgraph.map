@@ -1,7 +1,0 @@
-<map id="lookahead_adjustment" name="lookahead_adjustment">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#a49641d53f16e6b2c4474f86faaa63c46" title="AP_Navigation::reached\l_loiter_target" alt="" coords="208,5,371,46"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Navigation.html#acdb9c5a037fe8707d45ae91138de43eb" title="AP_Navigation::target\l_bearing_cd" alt="" coords="214,70,365,111"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$AP__Math_8cpp.html#a08eedb329d8162ddbd344d4f6c8cde20" title="constrain_float" alt="" coords="236,136,343,163"/>
-<area shape="rect" id="node5" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS.html#a4fe7afbe3deb970c4708f4821b029842" title="AP_AHRS::groundspeed" alt="" coords="206,187,373,213"/>
-<area shape="rect" id="node6" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#a49c7bfd4a089b707c32fd174190c349a" title="AP_SpdHgtControl::get\l_max_climbrate" alt="" coords="210,238,369,279"/>
-</map>

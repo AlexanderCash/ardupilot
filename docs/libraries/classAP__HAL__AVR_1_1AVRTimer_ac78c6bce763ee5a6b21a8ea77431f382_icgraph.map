@@ -1,5 +1,0 @@
-<map id="AP_HAL_AVR::AVRTimer::micros" name="AP_HAL_AVR::AVRTimer::micros">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1AVRScheduler.html#a93c9dd0fd677d065b41122c419666f86" title="AP_HAL_AVR::AVRScheduler\l::delay" alt="" coords="232,5,435,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL__AVR_1_1AVRScheduler.html#ad8d0adfba5bebd008309cfede379e8ef" title="AP_HAL_AVR::AVRScheduler\l::micros" alt="" coords="232,70,435,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL__AVR_1_1AVRScheduler.html#aa7e80e94c6318c3af004d177d5cb0703" title="AP_HAL_AVR::AVRScheduler\l::micros64" alt="" coords="483,70,685,111"/>
-</map>

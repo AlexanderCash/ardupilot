@@ -1,8 +1,0 @@
-<map id="NavEKF::CovariancePrediction" name="NavEKF::CovariancePrediction">
-<area shape="rect" id="node2" href="$classNavEKF.html#a8525e5774e083f7187a7c4ed8609fa38" title="NavEKF::SelectBetaFusion" alt="" coords="267,5,450,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="507,132,658,159"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a0302b7bbb74998406a938c227367797e" title="NavEKF::SelectFlowFusion" alt="" coords="267,107,451,133"/>
-<area shape="rect" id="node5" href="$classNavEKF.html#abb693a00d56f98f4cd8d654605163d14" title="NavEKF::SelectMagFusion" alt="" coords="268,157,449,184"/>
-<area shape="rect" id="node6" href="$classNavEKF.html#a49295ac247658724f852cbec8be83398" title="NavEKF::SelectTasFusion" alt="" coords="269,208,448,235"/>
-<area shape="rect" id="node7" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="259,259,458,285"/>
-</map>

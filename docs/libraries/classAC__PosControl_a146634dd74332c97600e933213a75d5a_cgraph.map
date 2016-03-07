@@ -1,8 +1,0 @@
-<map id="AC_PosControl::lean_angles_to_accel" name="AC_PosControl::lean_angles_to_accel">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a1aaffcffc239930cb651fad539362fa0" title="AP_AHRS::cos_yaw" alt="" coords="202,5,347,32"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#ad38cca127a814e11e607f072bfdf03b0" title="AP_AHRS::sin_pitch" alt="" coords="202,56,347,83"/>
-<area shape="rect" id="node4" href="$classAP__AHRS.html#aae50efebd31d79c279e6155298433493" title="AP_AHRS::cos_pitch" alt="" coords="200,107,349,133"/>
-<area shape="rect" id="node5" href="$classAP__AHRS.html#ae559b9d6fdd1e8ed3001258f58c98c39" title="AP_AHRS::sin_yaw" alt="" coords="204,157,345,184"/>
-<area shape="rect" id="node6" href="$classAP__AHRS.html#ae6e0ea7f015a055ac5f9a191b36397b2" title="AP_AHRS::sin_roll" alt="" coords="207,208,342,235"/>
-<area shape="rect" id="node7" href="$classAP__AHRS.html#a68ea4fdaf53cf5d7068927f5f20393ab" title="AP_AHRS::cos_roll" alt="" coords="205,259,344,285"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="mavlink_msg_mission_item_int_encode_chan" name="mavlink_msg_mission_item_int_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__item__int_8h.html#a43f5e1b76e2853974048c4c44357c2e0" title="Pack a mission_item_int message on a channel. " alt="" coords="214,5,365,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="413,12,624,39"/>
-</map>

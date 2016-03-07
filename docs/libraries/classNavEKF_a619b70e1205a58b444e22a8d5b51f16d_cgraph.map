@@ -1,6 +1,0 @@
-<map id="NavEKF::InitialiseVariables" name="NavEKF::InitialiseVariables">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="237,5,384,46"/>
-<area shape="rect" id="node3" href="$classVector3.html#adf1769d5ee5df2f8585df2f540fa5efe" title="Vector3::zero" alt="" coords="261,71,361,97"/>
-<area shape="rect" id="node4" href="$structVector2.html#a6b537328ae913e3e7267b539e7a4af92" title="Vector2::zero" alt="" coords="261,121,361,148"/>
-<area shape="rect" id="node5" href="$classMatrix3.html#a90cfd0bec53253429603b5600dcdce81" title="Matrix3::zero" alt="" coords="261,172,360,199"/>
-</map>

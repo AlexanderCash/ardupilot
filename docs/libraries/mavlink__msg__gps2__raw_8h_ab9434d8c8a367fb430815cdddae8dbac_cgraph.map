@@ -1,4 +1,0 @@
-<map id="mavlink_msg_gps2_raw_encode_chan" name="mavlink_msg_gps2_raw_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__gps2__raw_8h.html#a88b178eb996a9dfe1e6d767bc567c24b" title="Pack a gps2_raw message on a channel. " alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="427,12,637,39"/>
-</map>

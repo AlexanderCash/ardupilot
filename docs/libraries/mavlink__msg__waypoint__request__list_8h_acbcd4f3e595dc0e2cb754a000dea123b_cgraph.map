@@ -1,4 +1,0 @@
-<map id="mavlink_msg_waypoint_request_list_decode" name="mavlink_msg_waypoint_request_list_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__waypoint__request__list_8h.html#a33363937409389fd49e6c296eb6d4a90" title="Send a waypoint_request_list message. " alt="" coords="214,5,375,61"/>
-<area shape="rect" id="node3" href="$mavlink__msg__waypoint__request__list_8h.html#a9585a75154c894c7c56ce896745b7370" title="Get field target_component from waypoint_request_list message. " alt="" coords="214,85,375,141"/>
-</map>

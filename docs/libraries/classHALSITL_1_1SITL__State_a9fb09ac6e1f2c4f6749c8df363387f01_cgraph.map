@@ -1,7 +1,0 @@
-<map id="HALSITL::SITL_State::_update_gps_mtk" name="HALSITL::SITL_State::_update_gps_mtk">
-<area shape="rect" id="node2" href="$AP__Math_8cpp.html#afd3767d48a7b20f6d5220a4f8007af00" title="pythagorous2" alt="" coords="231,5,331,32"/>
-<area shape="rect" id="node4" href="$sitl__gps_8cpp.html#a9bab30a3eb567cc28487d25408b4d8d4" title="swap_uint32" alt="" coords="234,56,329,83"/>
-<area shape="rect" id="node5" href="$sitl__gps_8cpp.html#aa28300cfdd56545ca5c8c64cb024c03a" title="mtk_checksum" alt="" coords="226,107,337,133"/>
-<area shape="rect" id="node6" href="$classHALSITL_1_1SITL__State.html#a1bee6f813ada1dfe024b25a27077e861" title="HALSITL::SITL_State\l::_gps_write" alt="" coords="206,158,357,199"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#a996fdbe87607543eef5dcb234f6bc017" title="sq" alt="" coords="406,5,445,32"/>
-</map>

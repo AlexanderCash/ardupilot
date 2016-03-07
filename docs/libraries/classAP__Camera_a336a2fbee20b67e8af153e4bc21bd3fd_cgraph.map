@@ -1,7 +1,0 @@
-<map id="AP_Camera::servo_pic" name="AP_Camera::servo_pic">
-<area shape="rect" id="node2" href="$classRC__Channel__aux.html#a8fed980206f9aad4c5435c5193690be7" title="RC_Channel_aux::set\l_radio" alt="" coords="211,61,362,102"/>
-<area shape="rect" id="node4" href="$AP__Math_8cpp.html#ac5d9502aca91c97f523fd9b35590215f" title="constrain_int16" alt="" coords="445,125,555,152"/>
-<area shape="rect" id="node3" href="$classRC__Channel__aux.html#a423accc4de40960cf7ef2c4755e8a9d1" title="RC_Channel_aux::function\l_assigned" alt="" coords="411,5,589,46"/>
-<area shape="rect" id="node5" href="$classRC__Channel.html#aabaff8233192d5f2a20e2207914ca3e3" title="RC_Channel::output" alt="" coords="429,71,571,97"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1RCOutput.html#ade509cf82dfb1f6fab3eba0c026c5d60" title="AP_HAL::RCOutput::write" alt="" coords="637,71,813,97"/>
-</map>

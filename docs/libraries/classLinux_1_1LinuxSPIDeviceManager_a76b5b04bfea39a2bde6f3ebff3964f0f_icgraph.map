@@ -1,6 +1,0 @@
-<map id="Linux::LinuxSPIDeviceManager::cs_release" name="Linux::LinuxSPIDeviceManager::cs_release">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxSPIDeviceDriver.html#af388c420030e6158ae11cf2b722e7a96" title="Linux::LinuxSPIDeviceDriver\l::cs_release" alt="" coords="266,5,457,46"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxSPIDeviceManager.html#affbdb3be9bca74c25a0ee3ff75881542" title="Linux::LinuxSPIDeviceManager\l::transaction" alt="" coords="259,70,464,111"/>
-<area shape="rect" id="node4" href="$classLinux_1_1LinuxSPIDeviceDriver.html#a965f99c3d97f3020993967b5f6b9d21a" title="Linux::LinuxSPIDeviceDriver\l::transaction" alt="" coords="513,70,703,111"/>
-<area shape="rect" id="node5" href="$classLinux_1_1LinuxSPIDeviceDriver.html#ad9b6ff548d1a58fc5688383e64fa46b0" title="Linux::LinuxSPIDeviceDriver\l::transfer" alt="" coords="753,70,943,111"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_Mount::get_mode" name="AP_Mount::get_mode">
-<area shape="rect" id="node2" href="$classAP__Mount__Backend.html#ae975fe1daaa9722be740772fcb20e0ff" title="AP_Mount_Backend::control_msg" alt="" coords="203,19,423,45"/>
-<area shape="rect" id="node4" href="$classAP__Mount__Backend.html#a5b180d2237a8e70d512762f651291f49" title="AP_Mount_Backend::get_mode" alt="" coords="210,95,417,121"/>
-<area shape="rect" id="node3" href="$classAP__Mount.html#a88ddd07ac8d62ca4b93f06667ecb1fdc" title="AP_Mount::control_msg" alt="" coords="489,5,652,32"/>
-<area shape="rect" id="node5" href="$classAP__Mount__Alexmos.html#ad6fa0fd652a1401e0c9d791ad9399b67" title="AP_Mount_Alexmos::update" alt="" coords="477,56,665,83"/>
-<area shape="rect" id="node6" href="$classAP__Mount__Servo.html#a8f4caa1ed68b0062d25e60c42b333995" title="AP_Mount_Servo::update" alt="" coords="485,107,656,133"/>
-<area shape="rect" id="node7" href="$classAP__Mount__SToRM32.html#ace0a2b82782d8c587ed2ae17fc123e99" title="AP_Mount_SToRM32::update" alt="" coords="473,157,669,184"/>
-</map>

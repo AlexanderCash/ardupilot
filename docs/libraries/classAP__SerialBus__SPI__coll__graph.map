@@ -1,5 +1,0 @@
-<map id="AP_SerialBus_SPI" name="AP_SerialBus_SPI">
-<area shape="rect" id="node2" href="$classAP__SerialBus.html" title="AP_SerialBus" alt="" coords="5,5,107,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Semaphore.html" title="AP_HAL::Semaphore" alt="" coords="132,5,279,32"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1SPIDeviceDriver.html" title="AP_HAL::SPIDeviceDriver" alt="" coords="303,5,481,32"/>
-</map>

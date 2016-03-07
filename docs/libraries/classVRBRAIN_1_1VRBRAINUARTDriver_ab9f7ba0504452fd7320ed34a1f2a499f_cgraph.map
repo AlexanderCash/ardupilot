@@ -1,7 +1,0 @@
-<map id="VRBRAIN::VRBRAINUARTDriver::read" name="VRBRAIN::VRBRAINUARTDriver::read">
-<area shape="rect" id="node2" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#acc8033869efd9f2f6012ecda5373aa3b" title="VRBRAIN::VRBRAINUARTDriver\l::try_initialise" alt="" coords="277,103,501,145"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="588,5,735,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Util.html#a9cd8bcd13d4c3c74c665b0702f86451b" title="AP_HAL::Util::safety\l_switch_state" alt="" coords="589,70,734,111"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Util.html#a973ee89f8eee7af3a4d2a3eb700cbf3c" title="AP_HAL::Util::get_soft\l_armed" alt="" coords="583,135,739,177"/>
-<area shape="rect" id="node6" href="$classVRBRAIN_1_1VRBRAINUARTDriver.html#a5c6f7ba7803604fd87cc077d2c2ff618" title="VRBRAIN::VRBRAINUARTDriver\l::begin" alt="" coords="549,201,773,242"/>
-</map>

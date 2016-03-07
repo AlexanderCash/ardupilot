@@ -1,4 +1,0 @@
-<map id="mavlink_msg_log_request_data_encode_chan" name="mavlink_msg_log_request_data_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__log__request__data_8h.html#af3eb80d02b1a525fc6f26e3f60f36f3d" title="Pack a log_request_data message on a channel. " alt="" coords="227,5,400,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="448,12,659,39"/>
-</map>

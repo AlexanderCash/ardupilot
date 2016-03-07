@@ -1,7 +1,0 @@
-<map id="mavlink_msg_raw_pressure_decode" name="mavlink_msg_raw_pressure_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__raw__pressure_8h.html#ac4f2503d7494dc5b9a3c559f7f1102c4" title="Send a raw_pressure message. " alt="" coords="237,5,421,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__raw__pressure_8h.html#a4702d76634c4b4f7c3a3f19f82445994" title="Get field press_abs from raw_pressure message. " alt="" coords="237,70,421,111"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__raw__pressure_8h.html#ab75ac2df588367748e77ca38da87ec26" title="Get field press_diff1 from raw_pressure message. " alt="" coords="237,135,421,177"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__raw__pressure_8h.html#a25dea6b772fc20627df74b90666e87b9" title="Get field press_diff2 from raw_pressure message. " alt="" coords="237,201,421,242"/>
-<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__raw__pressure_8h.html#a81467b8d6792b755dd8b68969776b2c9" title="Get field temperature from raw_pressure message. " alt="" coords="237,266,421,307"/>
-</map>

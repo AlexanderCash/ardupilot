@@ -1,5 +1,0 @@
-<map id="AP_GPS_UBLOX::_configure_message_rate" name="AP_GPS_UBLOX::_configure_message_rate">
-<area shape="rect" id="node2" href="$classAP__GPS__UBLOX.html#a3e73204e71c7302d8a054bb479d003f1" title="AP_GPS_UBLOX::_send\l_message" alt="" coords="248,34,419,75"/>
-<area shape="rect" id="node3" href="$classAP__GPS__UBLOX.html#aa9e7578f241ffd59f632d9b5104bed75" title="AP_GPS_UBLOX::_update\l_checksum" alt="" coords="467,5,648,46"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="485,71,629,97"/>
-</map>

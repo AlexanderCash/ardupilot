@@ -1,7 +1,0 @@
-<map id="AP_Airspeed_PX4::get_differential_pressure" name="AP_Airspeed_PX4::get_differential_pressure">
-<area shape="rect" id="node2" href="$classAP__Airspeed.html#a2d265701a127bd336882e930cb996e86" title="AP_Airspeed::get_pressure" alt="" coords="211,31,392,57"/>
-<area shape="rect" id="node3" href="$classAP__Airspeed.html#afb7c91590b3efc00ee2d72cc6bcc856f" title="AP_Airspeed::calibrate" alt="" coords="440,5,595,32"/>
-<area shape="rect" id="node5" href="$classAP__Airspeed.html#af713d23fce3c9a5e78e043d4e3b2d012" title="AP_Airspeed::read" alt="" coords="452,56,583,83"/>
-<area shape="rect" id="node4" href="$Airspeed_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="643,5,698,32"/>
-<area shape="rect" id="node6" href="$Airspeed_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="647,56,694,83"/>
-</map>

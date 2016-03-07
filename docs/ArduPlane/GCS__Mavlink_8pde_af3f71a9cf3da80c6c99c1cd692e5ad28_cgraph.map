@@ -1,4 +1,0 @@
-<map id="send_current_waypoint" name="send_current_waypoint">
-<area shape="rect" id="node2" href="$ArduPlane_8pde.html#a4ca9908869f03c8499bb30e8cae3ccc0" title="mission" alt="" coords="260,5,327,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Mission.html#a9961af5da3cb696b3c533d504794de49" title="AP_Mission::get_current\l_nav_index" alt="" coords="211,57,376,98"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gps_inject_data_pack" name="mavlink_msg_gps_inject_data_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__gps__inject__data_8h.html#aaa37002ab8e65143c23bbf807c384526" title="Encode a gps_inject_data struct. " alt="" coords="219,5,384,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a502489a60adb8b18e3500d9368a5ff7e" title="mavlink_test_gps_inject_data" alt="" coords="432,41,627,68"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="675,41,829,68"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="878,41,994,68"/>
-</map>

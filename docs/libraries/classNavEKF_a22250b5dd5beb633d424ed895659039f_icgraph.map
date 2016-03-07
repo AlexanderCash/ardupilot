@@ -1,5 +1,0 @@
-<map id="NavEKF::getTouchdownExpected" name="NavEKF::getTouchdownExpected">
-<area shape="rect" id="node2" href="$classNavEKF.html#a74882eb98d3c69065b640829154a500c" title="NavEKF::FuseVelPosNED" alt="" coords="275,5,455,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58fc44f797a61b7f760baa4961f43342" title="NavEKF::SelectVelPosFusion" alt="" coords="505,5,703,32"/>
-<area shape="rect" id="node4" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="753,5,903,32"/>
-</map>

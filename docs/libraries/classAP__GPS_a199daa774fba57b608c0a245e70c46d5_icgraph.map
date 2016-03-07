@@ -1,4 +1,0 @@
-<map id="AP_GPS::time_epoch_usec" name="AP_GPS::time_epoch_usec">
-<area shape="rect" id="node2" href="$classAP__Camera.html#ada4a3f88906024b90555c5e0805752df" title="AP_Camera::send_feedback" alt="" coords="263,5,452,32"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#acd96cf28f3dcc21e316f119b2573516f" title="GCS_MAVLINK::send_system_time" alt="" coords="240,56,475,83"/>
-</map>

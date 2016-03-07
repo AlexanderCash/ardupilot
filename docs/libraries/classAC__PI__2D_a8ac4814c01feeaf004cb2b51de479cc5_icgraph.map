@@ -1,8 +1,0 @@
-<map id="AC_PI_2D::set_integrator" name="AC_PI_2D::set_integrator">
-<area shape="rect" id="node2" href="$classAC__PosControl.html#ae2897de0075f8f8aaa94eb7e8cad100b" title="xyz velocity controller " alt="" coords="227,25,365,66"/>
-<area shape="rect" id="node3" href="$classAC__PosControl.html#ae1676c283b03793693b7c94cecdcd0b2" title="AC_PosControl::init\l_xy_controller" alt="" coords="227,90,365,131"/>
-<area shape="rect" id="node4" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title="AC_Circle::init" alt="" coords="467,5,573,32"/>
-<area shape="rect" id="node5" href="$classAC__WPNav.html#a3bd3abac616805d338d31255d76e978e" title="init_loiter_target in cm from home " alt="" coords="443,57,597,98"/>
-<area shape="rect" id="node6" href="$classAC__WPNav.html#a2ed86e41fc51c2ea822711ea95d055f0" title="init_brake_target &#45; initializes stop position from current position and velocity " alt="" coords="441,122,599,163"/>
-<area shape="rect" id="node7" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title="AC_WPNav::wp_and_spline_init" alt="" coords="414,188,626,215"/>
-</map>

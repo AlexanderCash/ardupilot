@@ -1,6 +1,0 @@
-<map id="Vector3::is_zero" name="Vector3::is_zero">
-<area shape="rect" id="node2" href="$classAP__AHRS__DCM.html#a7bc37bdad09338db918fbda9261f2c66" title="AP_AHRS_DCM::ra_delayed" alt="" coords="171,12,365,39"/>
-<area shape="rect" id="node3" href="$classAP__AHRS__DCM.html#a8c3304b59bc6a27f24c686985c100549" title="AP_AHRS_DCM::drift\l_correction" alt="" coords="414,5,567,46"/>
-<area shape="rect" id="node4" href="$classAP__AHRS__DCM.html#a6bf59b99999767fdbf4dfd363bc51bfd" title="AP_AHRS_DCM::update" alt="" coords="616,12,787,39"/>
-<area shape="rect" id="node5" href="$AHRS__Test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="835,12,882,39"/>
-</map>

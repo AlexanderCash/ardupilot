@@ -1,7 +1,0 @@
-<map id="AP_Compass_Backend" name="AP_Compass_Backend">
-<area shape="rect" id="node2" href="$classAP__Compass__AK8963.html" title="AP_Compass_AK8963" alt="" coords="38,80,193,107"/>
-<area shape="rect" id="node4" href="$classAP__Compass__HIL.html" title="AP_Compass_HIL" alt="" coords="219,80,348,107"/>
-<area shape="rect" id="node5" href="$classAP__Compass__HMC5843.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="374,80,543,107"/>
-<area shape="rect" id="node6" href="$classAP__Compass__PX4.html" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="567,80,701,107"/>
-<area shape="rect" id="node3" href="$classAP__Compass__AK8963__MPU9250.html" title="AP_Compass_AK8963_MPU9250" alt="" coords="5,155,227,181"/>
-</map>

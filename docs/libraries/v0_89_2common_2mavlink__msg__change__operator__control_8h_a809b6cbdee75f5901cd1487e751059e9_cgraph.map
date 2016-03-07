@@ -1,7 +1,0 @@
-<map id="mavlink_msg_change_operator_control_decode" name="mavlink_msg_change_operator_control_decode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__change__operator__control_8h.html#aaba98e48f6aacbc8cf923df0d35a326d" title="Send a change_operator_control message. " alt="" coords="225,5,373,61"/>
-<area shape="rect" id="node3" href="$v0_89_2common_2mavlink__msg__change__operator__control_8h.html#a27a9fec74eb04b8dab461337ea95dde1" title="Get field control_request from change_operator_control message. " alt="" coords="225,85,373,141"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__change__operator__control_8h.html#a465ce4fa52915ed0a67b76821020257a" title="Get field version from change_operator_control message. " alt="" coords="225,165,373,221"/>
-<area shape="rect" id="node5" href="$v0_89_2common_2mavlink__msg__change__operator__control_8h.html#aad8de6e8111b15971998c3ca91fd091c" title="Get field passkey from change_operator_control message. " alt="" coords="225,245,373,301"/>
-<area shape="rect" id="node6" href="$v0_89_2protocol_8h.html#a12ebb16564718cc14d12b46458bbb290" title="_MAV_RETURN_char_array" alt="" coords="422,260,613,287"/>
-</map>

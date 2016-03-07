@@ -1,5 +1,0 @@
-<map id="mavlink_msg_gimbal_erase_firmware_and_config_encode" name="mavlink_msg_gimbal_erase_firmware_and_config_encode">
-<area shape="rect" id="node2" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab03bfa150b63c20c80fa78530aafd5eb" title="mavlink_test_gimbal\l_erase_firmware_and\l_config" alt="" coords="200,4,347,60"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="395,19,579,45"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="627,19,743,45"/>
-</map>

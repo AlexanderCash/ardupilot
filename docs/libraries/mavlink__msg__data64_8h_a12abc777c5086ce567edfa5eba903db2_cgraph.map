@@ -1,6 +1,0 @@
-<map id="mavlink_msg_data64_decode" name="mavlink_msg_data64_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__data64_8h.html#ad027b21f20701d111618931ced2f5ed5" title="Send a data64 message. " alt="" coords="201,5,346,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__data64_8h.html#a1a34c5a60cdbc4f3600622326295a6dd" title="Get field len from data64 message. " alt="" coords="201,70,346,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__data64_8h.html#a2c4eb11e2a4c11b86be021d317338e4b" title="Get field data from data64 message. " alt="" coords="201,135,346,177"/>
-<area shape="rect" id="node5" href="$v0_89_2protocol_8h.html#a0577ed5da38b4eed5472e27dc94026c3" title="_MAV_RETURN_uint8_t\l_array" alt="" coords="395,135,563,177"/>
-</map>

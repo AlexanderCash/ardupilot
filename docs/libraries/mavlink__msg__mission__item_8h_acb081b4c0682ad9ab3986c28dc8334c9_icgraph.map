@@ -1,6 +1,0 @@
-<map id="mavlink_msg_mission_item_pack" name="mavlink_msg_mission_item_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__item_8h.html#acf601732c093842f808a94640a237048" title="Encode a mission_item struct. " alt="" coords="206,5,357,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a64cfa0f673c06b3deaa27bbb736aeed4" title="mavlink_test_mission_item" alt="" coords="406,41,586,68"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="635,41,789,68"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="838,41,954,68"/>
-</map>

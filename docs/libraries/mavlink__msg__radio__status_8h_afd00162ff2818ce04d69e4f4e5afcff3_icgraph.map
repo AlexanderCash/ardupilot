@@ -1,6 +1,0 @@
-<map id="mavlink_msg_radio_status_get_rxerrors" name="mavlink_msg_radio_status_get_rxerrors">
-<area shape="rect" id="node2" href="$mavlink__msg__radio__status_8h.html#a807646c9822f39b78b4c0f1df3063633" title="Decode a radio_status message into a struct. " alt="" coords="233,5,410,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a156e7002c60273e6c45a288a7c629c96" title="mavlink_test_radio\l_status" alt="" coords="459,5,589,46"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="638,12,791,39"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="841,12,957,39"/>
-</map>

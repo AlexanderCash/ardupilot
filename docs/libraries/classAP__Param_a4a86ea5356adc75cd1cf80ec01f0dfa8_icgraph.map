@@ -1,7 +1,0 @@
-<map id="AP_Param::erase_all" name="AP_Param::erase_all">
-<area shape="rect" id="node2" href="$classHALSITL_1_1SITL__State.html#a5211ba971055052489d9817c3388c4c2" title="HALSITL::SITL_State\l::_parse_command_line" alt="" coords="200,7,360,49"/>
-<area shape="rect" id="node5" href="$classAP__Param.html#acc939142d878b2e6153487e2837d9ea9" title="AP_Param::setup" alt="" coords="217,75,343,101"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="418,5,569,46"/>
-<area shape="rect" id="node4" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="627,12,735,39"/>
-<area shape="rect" id="node6" href="$classAP__Param.html#a2f705bc582632a571fe8d587709fe3fe" title="AP_Param::setup_sketch\l_defaults" alt="" coords="408,70,579,111"/>
-</map>

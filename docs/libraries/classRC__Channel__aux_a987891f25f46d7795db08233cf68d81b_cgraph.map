@@ -1,7 +1,0 @@
-<map id="RC_Channel_aux::set_servo_failsafe" name="RC_Channel_aux::set_servo_failsafe">
-<area shape="rect" id="node2" href="$classRC__Channel__aux.html#a423accc4de40960cf7ef2c4755e8a9d1" title="RC_Channel_aux::function\l_assigned" alt="" coords="211,5,389,46"/>
-<area shape="rect" id="node3" href="$classRC__Channel.html#a16efdfd7628bf948c73a47f34dc9d7a2" title="RC_Channel::get_limit_pwm" alt="" coords="205,71,395,97"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1RCOutput.html#abdfe5bfe23f5f9287677a708a2a7788f" title="AP_HAL::RCOutput::set\l_failsafe_pwm" alt="" coords="217,122,383,163"/>
-<area shape="rect" id="node6" href="$classRC__Channel.html#a54a219c6e8b7d47968fed35093430d54" title="RC_Channel::get_ch_out" alt="" coords="215,188,385,215"/>
-<area shape="rect" id="node4" href="$classRC__Channel.html#a34a93842b1cf847373104b682fa28cd5" title="RC_Channel::get_reverse" alt="" coords="443,71,616,97"/>
-</map>

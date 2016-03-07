@@ -1,7 +1,0 @@
-<map id="GCS_MAVLINK::send_radio_in" name="GCS_MAVLINK::send_radio_in">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="267,5,413,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1RCInput.html#a078fd7e6d2e6a899009ec674a8e03498" title="AP_HAL::RCInput::read" alt="" coords="259,71,421,97"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1RCInput.html#ae55f959c6115c1f41783af3a2b6c4fcd" title="AP_HAL::RCInput::num\l_channels" alt="" coords="259,122,421,163"/>
-<area shape="rect" id="node5" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="272,188,408,215"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="470,188,647,215"/>
-</map>

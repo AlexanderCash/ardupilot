@@ -1,8 +1,0 @@
-<map id="mavlink_msg_mount_configure_get_stab_roll" name="mavlink_msg_mount_configure_get_stab_roll">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__configure_8h.html#a992893f3a51c09cc18ae364db137ddde" title="Decode a mount_configure message into a struct. " alt="" coords="256,27,459,69"/>
-<area shape="rect" id="node3" href="$classAP__Mount__Backend.html#ace2c005e9272fd4fc12444d24e301024" title="AP_Mount_Backend::configure_msg" alt="" coords="507,5,741,32"/>
-<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a04f2da52f0d43b784ea011c2c30e4ca0" title="mavlink_test_mount\l_configure" alt="" coords="555,57,693,98"/>
-<area shape="rect" id="node4" href="$classAP__Mount.html#a0c7c98d0174036d323749f8ddbefa621" title="AP_Mount::configure_msg" alt="" coords="793,5,969,32"/>
-<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="789,64,973,91"/>
-<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="1022,64,1138,91"/>
-</map>

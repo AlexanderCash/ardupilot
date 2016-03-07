@@ -1,5 +1,0 @@
-<map id="AP_SerialManager::AP_SerialManager" name="AP_SerialManager::AP_SerialManager">
-<area shape="rect" id="node2" href="$classAP__Param.html#a5f6dcfce1c0a79cf5bd81283e22f3201" title="AP_Param::setup_object\l_defaults" alt="" coords="211,27,378,69"/>
-<area shape="rect" id="node3" href="$classAP__Param.html#acd4b14f793c37f162e298761d2155ca6" title="AP_Param::set_value" alt="" coords="431,5,580,32"/>
-<area shape="rect" id="node4" href="$classAP__Param.html#a1f6efebd94bc8bfd16db8d73ad3018c6" title="AP_Param::get_default\l_value" alt="" coords="427,57,584,98"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="AP_Curve::dump_curve" name="AP_Curve::dump_curve">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1BetterStream.html#ae4b75a61c52e28221d8fb2b2d4c35ca3" title="AP_HAL::BetterStream\l::println_P" alt="" coords="217,5,375,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1BetterStream.html#a5b0d9d566418c7baa2ae7437fe1eae01" title="AP_HAL::BetterStream\l::print_P" alt="" coords="217,70,375,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Print.html#acfe80773011eb17dfb52c2fba517a093" title="AP_HAL::Print::print" alt="" coords="624,187,765,213"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Print.html#ad337ce3f7977411b7d34d47a51e5737e" title="AP_HAL::Print::println" alt="" coords="221,187,371,213"/>
-<area shape="rect" id="node5" href="$classAP__HAL_1_1Print.html#acc65391952a43334f8f5c9bef341f501" title="AP_HAL::Print::write" alt="" coords="813,187,957,213"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Print.html#a169b128f9e22f0c15883768f580541a2" title="AP_HAL::Print::println" alt="" coords="425,237,575,264"/>
-</map>

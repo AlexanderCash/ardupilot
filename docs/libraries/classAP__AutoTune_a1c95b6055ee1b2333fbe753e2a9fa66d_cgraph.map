@@ -1,6 +1,0 @@
-<map id="AP_AutoTune::log_param_change" name="AP_AutoTune::log_param_change">
-<area shape="rect" id="node2" href="$classDataFlash__Class.html#ad15905fd635a59cc510a7781a9c4f3d9" title="DataFlash_Class::logging\l_started" alt="" coords="225,5,397,46"/>
-<area shape="rect" id="node3" href="$AP__Progmem__AVR_8h.html#a00eef44be35a92b1ef4067ea49bea7a3" title="strncpy_P" alt="" coords="270,71,351,97"/>
-<area shape="rect" id="node4" href="$classDataFlash__Class.html#a488ee9ba241f827fcb979dbccfdab76d" title="DataFlash_Class::Log\l_Write_Parameter" alt="" coords="235,122,387,163"/>
-<area shape="rect" id="node5" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="445,129,640,156"/>
-</map>

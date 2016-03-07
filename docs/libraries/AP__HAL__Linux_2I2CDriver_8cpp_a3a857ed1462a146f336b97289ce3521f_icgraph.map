@@ -1,4 +1,0 @@
-<map id="_i2c_smbus_access" name="_i2c_smbus_access">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxI2CDriver.html#aedd574f2895015fdf6385862f438f1cb" title="Linux::LinuxI2CDriver\l::readRegister" alt="" coords="195,5,343,46"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxI2CDriver.html#ae72eff15ea613b9b27de68309277f8a2" title="Linux::LinuxI2CDriver\l::writeRegister" alt="" coords="195,70,343,111"/>
-</map>

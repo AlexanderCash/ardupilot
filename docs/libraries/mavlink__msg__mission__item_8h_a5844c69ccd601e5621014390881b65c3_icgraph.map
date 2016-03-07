@@ -1,6 +1,0 @@
-<map id="mavlink_msg_mission_item_decode" name="mavlink_msg_mission_item_decode">
-<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a143a91427102a9aea995d10bad67f435" title="GCS_MAVLINK::handle\l_mission_item" alt="" coords="215,5,377,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#a64cfa0f673c06b3deaa27bbb736aeed4" title="mavlink_test_mission_item" alt="" coords="206,71,386,97"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="435,71,589,97"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="638,71,754,97"/>
-</map>

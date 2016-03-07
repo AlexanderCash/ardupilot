@@ -1,4 +1,0 @@
-<map id="mavlink_msg_sys_status_encode" name="mavlink_msg_sys_status_encode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__sys__status_8h.html#ad8c1635d14a8dad78a9bcf60627a2b13" title="Pack a sys_status message. " alt="" coords="224,12,429,39"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#af3bea083c5ec83f5b6570b2bd4a817d0" title="Finalize a MAVLink message with MAVLINK_COMM_0 as default channel. " alt="" coords="478,12,653,39"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AP_InertialSensor_L3GD20::healthy" name="AP_InertialSensor_L3GD20::healthy">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__L3GD20.html#addde508ba3435d62b0db115b991a5c5a" title="AP_InertialSensor_L3GD20\l::get_accel_health" alt="" coords="238,5,421,46"/>
-<area shape="rect" id="node3" href="$classAP__InertialSensor__L3GD20.html#a8a8a81f49ddfba49a8a9635ff878e8ca" title="AP_InertialSensor_L3GD20\l::get_gyro_health" alt="" coords="238,70,421,111"/>
-</map>

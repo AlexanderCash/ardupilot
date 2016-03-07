@@ -1,6 +1,0 @@
-<map id="VRBRAIN::VRBRAINStorage::_storage_open" name="VRBRAIN::VRBRAINStorage::_storage_open">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1Scheduler.html#a65f0d4e404d3e6fda4d8b0b101c9780f" title="AP_HAL::Scheduler::\lpanic" alt="" coords="496,65,643,107"/>
-<area shape="rect" id="node3" href="$classVRBRAIN_1_1VRBRAINStorage.html#aaccbdf62aae457c36359ad169fa45697" title="VRBRAIN::VRBRAINStorage\l::_mtd_signature" alt="" coords="251,32,448,73"/>
-<area shape="rect" id="node4" href="$classVRBRAIN_1_1VRBRAINStorage.html#a649123a2f76269f7cf7eeda0d03aa097" title="VRBRAIN::VRBRAINStorage\l::_upgrade_to_mtd" alt="" coords="251,97,448,139"/>
-<area shape="rect" id="node5" href="$classVRBRAIN_1_1VRBRAINStorage.html#a52bfd09952ba4b350b995201b61440a3" title="VRBRAIN::VRBRAINStorage\l::_mtd_write_signature" alt="" coords="251,163,448,204"/>
-</map>

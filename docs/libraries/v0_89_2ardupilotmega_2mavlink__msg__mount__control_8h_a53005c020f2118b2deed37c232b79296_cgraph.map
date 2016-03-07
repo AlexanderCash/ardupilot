@@ -1,8 +1,0 @@
-<map id="mavlink_msg_mount_control_decode" name="mavlink_msg_mount_control_decode">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__control_8h.html#afb792cb768907895646055da0e24d896" title="Send a mount_control message. " alt="" coords="243,5,431,46"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__control_8h.html#aa22df514cf73c03c10200f239738d6dc" title="Get field target_component from mount_control message. " alt="" coords="243,70,431,111"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__control_8h.html#a166a6ab225a399c276e255147c7790c5" title="Get field input_a from mount_control message. " alt="" coords="243,135,431,177"/>
-<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__control_8h.html#aeac3ea77a2515ab079839f35ccfe81d7" title="Get field input_b from mount_control message. " alt="" coords="243,201,431,242"/>
-<area shape="rect" id="node6" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__control_8h.html#aa7ad40e774b8df07779002abe45c2b4a" title="Get field input_c from mount_control message. " alt="" coords="243,266,431,307"/>
-<area shape="rect" id="node7" href="$v0_89_2ardupilotmega_2mavlink__msg__mount__control_8h.html#a30e895d45ba11ce8426d5d749859ce3d" title="Get field save_position from mount_control message. " alt="" coords="243,331,431,373"/>
-</map>

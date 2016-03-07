@@ -1,4 +1,0 @@
-<map id="mavlink_msg_command_ack_decode" name="mavlink_msg_command_ack_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__command__ack_8h.html#ae6d4ddbc1c079c8fdd0921aac2f8ae97" title="Send a command_ack message. " alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__command__ack_8h.html#aa63f3cfc962406b27a9a2944e1fa8c1b" title="Get field result from command_ack message. " alt="" coords="216,70,379,111"/>
-</map>

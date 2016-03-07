@@ -1,4 +1,0 @@
-<map id="AP_AHRS::get_yaw_rate_earth" name="AP_AHRS::get_yaw_rate_earth">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#a73669ea2a3cea5b5348915f7a333f840" title="AP_AHRS::get_gyro" alt="" coords="246,5,389,32"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#a208790b5f85df72d0f5a1d94b7225beb" title="AP_AHRS::get_dcm_matrix" alt="" coords="224,56,411,83"/>
-</map>

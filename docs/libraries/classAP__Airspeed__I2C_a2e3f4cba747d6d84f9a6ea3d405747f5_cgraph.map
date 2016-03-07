@@ -1,4 +1,0 @@
-<map id="AP_Airspeed_I2C::_collect" name="AP_Airspeed_I2C::_collect">
-<area shape="rect" id="node2" href="$classAP__HAL_1_1I2CDriver.html#a223decf0fed4d81b10e740411026e2f3" title="AP_HAL::I2CDriver::read" alt="" coords="232,5,403,32"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="244,57,391,98"/>
-</map>

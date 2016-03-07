@@ -1,4 +1,0 @@
-<map id="AP_HAL_AVR::APM1RCInput::init" name="AP_HAL_AVR::APM1RCInput::init">
-<area shape="rect" id="node2" href="$classAP__HAL__AVR_1_1ISRRegistry.html#a77c06b5fc4e7974bc454523b14eaca50" title="AP_HAL_AVR::ISRRegistry\l::register_signal" alt="" coords="257,5,445,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1GPIO.html#a3dfc60214bd1aa4936d51ca72c045b95" title="AP_HAL::GPIO::pinMode" alt="" coords="265,71,436,97"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="mavlink_msg_data64_get_data" name="mavlink_msg_data64_get_data">
-<area shape="rect" id="node2" href="$mavlink__msg__data64_8h.html#a12abc777c5086ce567edfa5eba903db2" title="Decode a data64 message into a struct. " alt="" coords="201,5,346,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a6e3b3df5aa1d1f06ad3116dfcd03d43c" title="mavlink_test_data64" alt="" coords="395,12,538,39"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="587,12,771,39"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="819,12,935,39"/>
-</map>

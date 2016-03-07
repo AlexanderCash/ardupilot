@@ -1,8 +1,0 @@
-<map id="mavlink_msg_vfr_hud_decode" name="mavlink_msg_vfr_hud_decode">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__vfr__hud_8h.html#adc6275c072ec7bb03829f34b8ab45533" title="Send a vfr_hud message. " alt="" coords="203,5,352,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2mavlink__msg__vfr__hud_8h.html#a24ef9215c3430b5d676b015e18efa5cf" title="Get field groundspeed from vfr_hud message. " alt="" coords="203,70,352,111"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2mavlink__msg__vfr__hud_8h.html#a93ed18afeb83998ed6a3c2255e12bd6d" title="Get field alt from vfr_hud message. " alt="" coords="203,135,352,177"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2mavlink__msg__vfr__hud_8h.html#ad7cb7b4488bd085c1af3240105ff82db" title="Get field climb from vfr_hud message. " alt="" coords="203,201,352,242"/>
-<area shape="rect" id="node6" href="$v1_80_2common_2mavlink__msg__vfr__hud_8h.html#a64ac78683b755c2499526335290d51d0" title="Get field heading from vfr_hud message. " alt="" coords="203,266,352,307"/>
-<area shape="rect" id="node7" href="$v1_80_2common_2mavlink__msg__vfr__hud_8h.html#a50891d80616e40209972a7a5f51e6440" title="Get field throttle from vfr_hud message. " alt="" coords="203,331,352,373"/>
-</map>

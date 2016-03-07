@@ -1,8 +1,0 @@
-<map id="DataFlash_Block::ReadBlock" name="DataFlash_Block::ReadBlock">
-<area shape="rect" id="node2" href="$classDataFlash__Block.html#a65523cd5dbc8578a6296319da88360f0" title="DataFlash_Block::get\l_log_data_raw" alt="" coords="271,5,419,46"/>
-<area shape="rect" id="node4" href="$classDataFlash__Block.html#a8b52881f78d27ccf9cf143889bdd7dae" title="DataFlash_Block::LogRead\lProcess" alt="" coords="254,70,437,111"/>
-<area shape="rect" id="node6" href="$classDataFlash__Block.html#aaa5ab749b4efb155c6e3f145b987421b" title="DataFlash_Block::NeedErase" alt="" coords="248,136,443,163"/>
-<area shape="rect" id="node3" href="$classDataFlash__Block.html#ad959087b563ba578079ca31141c2a492" title="DataFlash_Block::get\l_log_data" alt="" coords="491,5,639,46"/>
-<area shape="rect" id="node5" href="$DataFlash__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="542,77,589,104"/>
-<area shape="rect" id="node7" href="$DataFlash__test_8pde.html#a4fc01d736fe50cf5b977f755b675f11d" title="setup" alt="" coords="538,136,593,163"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="AP_InertialSensor_MPU6000::_set_filter_register" name="AP_InertialSensor_MPU6000::_set_filter_register">
-<area shape="rect" id="node2" href="$classAP__InertialSensor__MPU6000.html#a0262e2e60afd5701c43e848d38fcb80e" title="AP_InertialSensor_MPU6000\l::_register_write" alt="" coords="245,5,437,46"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1SPIDeviceDriver.html#a3ff2614355f59ee6712d345792f12cb9" title="AP_HAL::SPIDeviceDriver\l::transaction" alt="" coords="485,5,664,46"/>
-</map>

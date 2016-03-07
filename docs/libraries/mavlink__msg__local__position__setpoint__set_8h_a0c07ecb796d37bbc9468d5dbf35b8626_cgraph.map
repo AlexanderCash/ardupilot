@@ -1,8 +1,0 @@
-<map id="mavlink_msg_local_position_setpoint_set_decode" name="mavlink_msg_local_position_setpoint_set_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__local__position__setpoint__set_8h.html#a1c6f30b53455065938df9c0d7a8fd8f6" title="Send a local_position_setpoint_set message. " alt="" coords="241,5,455,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__local__position__setpoint__set_8h.html#a080233966439df255bd613c27584cf61" title="Get field target_component from local_position_setpoint_set message. " alt="" coords="255,69,441,125"/>
-<area shape="rect" id="node4" href="$mavlink__msg__local__position__setpoint__set_8h.html#a5bf8d19233fa515bcd757f1b1761c9a6" title="Get field x from local_position_setpoint_set message. " alt="" coords="255,149,441,190"/>
-<area shape="rect" id="node5" href="$mavlink__msg__local__position__setpoint__set_8h.html#aa005e2fa9ead0f80bd59d90af3e6e559" title="Get field y from local_position_setpoint_set message. " alt="" coords="255,214,441,255"/>
-<area shape="rect" id="node6" href="$mavlink__msg__local__position__setpoint__set_8h.html#a06b171513241cbf9840be0daa4c6d766" title="Get field z from local_position_setpoint_set message. " alt="" coords="255,279,441,321"/>
-<area shape="rect" id="node7" href="$mavlink__msg__local__position__setpoint__set_8h.html#a4c6159b056d9f792a267860608fb45b5" title="Get field yaw from local_position_setpoint_set message. " alt="" coords="255,345,441,386"/>
-</map>

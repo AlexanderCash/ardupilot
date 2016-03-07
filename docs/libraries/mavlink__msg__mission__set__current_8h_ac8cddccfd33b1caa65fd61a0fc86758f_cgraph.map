@@ -1,5 +1,0 @@
-<map id="mavlink_msg_mission_set_current_decode" name="mavlink_msg_mission_set_current_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__mission__set__current_8h.html#a1fbbd84397bb4488e992cc4aab02f4e4" title="Get field seq from mission_set_current message. " alt="" coords="210,5,361,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__mission__set__current_8h.html#a8f8267540cc78d6a887bc7ac91a9a908" title="Send a mission_set_current message. " alt="" coords="206,69,365,125"/>
-<area shape="rect" id="node4" href="$mavlink__msg__mission__set__current_8h.html#a4e6f75dab7034b548ad8b744d4771a1d" title="Get field target_component from mission_set_current message. " alt="" coords="206,149,365,205"/>
-</map>

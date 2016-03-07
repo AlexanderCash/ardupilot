@@ -1,4 +1,0 @@
-<map id="mavlink_msg_scaled_imu2_encode_chan" name="mavlink_msg_scaled_imu2_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__scaled__imu2_8h.html#af119d00ecd3703c1ced77e3037500a8b" title="Pack a scaled_imu2 message on a channel. " alt="" coords="197,5,341,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="389,12,600,39"/>
-</map>

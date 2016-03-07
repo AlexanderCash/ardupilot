@@ -1,7 +1,0 @@
-<map id="Aircraft::setup_frame_time" name="Aircraft::setup_frame_time">
-<area shape="rect" id="node2" href="$classAircraft.html#a85f55e83de0fd7927c5de0cdfa217ed1" title="Aircraft::set_speedup" alt="" coords="229,41,376,68"/>
-<area shape="rect" id="node3" href="$classHALSITL_1_1SITL__State.html#a5211ba971055052489d9817c3388c4c2" title="HALSITL::SITL_State\l::_parse_command_line" alt="" coords="424,5,584,46"/>
-<area shape="rect" id="node6" href="$classAircraft.html#aa74b15169c28c26a3c30d43e61751517" title="&#45;*&#45; tab&#45;width: 4; Mode: C++; c&#45;basic&#45;offset: 4; indent&#45;tabs&#45;mode: nil &#45;*&#45; " alt="" coords="447,71,561,97"/>
-<area shape="rect" id="node4" href="$classHALSITL_1_1SITL__State.html#a7059cb4e279007aae9b06757a68c15af" title="HALSITL::SITL_State\l::init" alt="" coords="633,5,783,46"/>
-<area shape="rect" id="node5" href="$classHAL__SITL.html#aaee5180f1c92899c19422d24a3ec42d3" title="HAL_SITL::init" alt="" coords="833,12,941,39"/>
-</map>

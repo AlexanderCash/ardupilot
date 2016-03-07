@@ -1,9 +1,0 @@
-<map id="print_blanks" name="print_blanks">
-<area shape="rect" id="node2" href="$setup_8pde.html#afa7955d7bdbfeebe4e27bc388a2281b8" title="report_compass" alt="" coords="147,56,261,83"/>
-<area shape="rect" id="node5" href="$setup_8pde.html#a8ab04b308707332fe838099238ef003e" title="report_ins" alt="" coords="165,107,243,133"/>
-<area shape="rect" id="node7" href="$setup_8pde.html#a83b9b58203609bfef9631a9a6f8a8550" title="report_radio" alt="" coords="159,157,249,184"/>
-<area shape="rect" id="node3" href="$setup_8pde.html#a7afcc5db23b9bda4f2b5f16190435e9a" title="setup_compass" alt="" coords="317,5,432,32"/>
-<area shape="rect" id="node4" href="$test_8pde.html#a5df620ce026d35d76972a50904d129ac" title="test_mag" alt="" coords="337,56,413,83"/>
-<area shape="rect" id="node6" href="$setup_8pde.html#a40e71bdd3cbd0d9cbfa15e392d10f87c" title="setup_accel_scale" alt="" coords="309,107,440,133"/>
-<area shape="rect" id="node8" href="$setup_8pde.html#ad54cec370c92deb89a727012fa605734" title="setup_radio" alt="" coords="330,157,419,184"/>
-</map>

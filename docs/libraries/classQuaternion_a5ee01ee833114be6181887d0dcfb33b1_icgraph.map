@@ -1,6 +1,0 @@
-<map id="Quaternion::from_rotation_matrix" name="Quaternion::from_rotation_matrix">
-<area shape="rect" id="node2" href="$classQuaternion.html#aeef32cfe233988d2b1b2f09e33263875" title="Quaternion::from_vector312" alt="" coords="225,5,407,32"/>
-<area shape="rect" id="node3" href="$eulers_8pde.html#a288b88e3267221134f72a170d9895cef" title="test_quaternion" alt="" coords="261,56,371,83"/>
-<area shape="rect" id="node4" href="$eulers_8pde.html#a1e4ca41feae51e8f6dc923cde8d1ad39" title="test_quaternion_eulers" alt="" coords="457,56,610,83"/>
-<area shape="rect" id="node5" href="$eulers_8pde.html#a7dfd9b79bc5a37d7df40207afbc5431f" title="setup" alt="" coords="659,56,714,83"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="log_picture" name="log_picture">
-<area shape="rect" id="node2" href="$commands__logic_8pde.html#a9c5fed4fc6981cf681de922890ebfc68" title="do_digicam_control" alt="" coords="139,31,274,57"/>
-<area shape="rect" id="node6" href="$commands__logic_8pde.html#aa92ee606c75aebd9849592383d739186" title="do_take_picture" alt="" coords="149,81,264,108"/>
-<area shape="rect" id="node3" href="$commands__logic_8pde.html#a1a8c657acb9efa7a54b0b2a74025ec11" title="start_command" alt="" coords="335,31,447,57"/>
-<area shape="rect" id="node4" href="$commands__logic_8pde.html#a0430a022cdb46cf93cef509c17cd6b1f" title="start_command_callback" alt="" coords="507,5,674,32"/>
-<area shape="rect" id="node5" href="$commands__logic_8pde.html#a8cc2b5f231ed49f1dd33e7500f0351c0" title="exit_mission_callback" alt="" coords="515,56,666,83"/>
-<area shape="rect" id="node7" href="$ArduPlane_8pde.html#a952c65073f8556020619eca374f08067" title="update_GPS_10Hz" alt="" coords="323,81,458,108"/>
-</map>

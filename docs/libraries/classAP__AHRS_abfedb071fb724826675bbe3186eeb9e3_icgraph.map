@@ -1,5 +1,0 @@
-<map id="AP_AHRS::get_error_rp" name="AP_AHRS::get_error_rp">
-<area shape="rect" id="node2" href="$classNavEKF.html#a12500a621febd8f914f6e16db4c28759" title="NavEKF::InitialiseFilter\lDynamic" alt="" coords="231,5,388,46"/>
-<area shape="rect" id="node3" href="$classDataFlash__Class.html#a100c0458780b38dd0ccc4a7381827b3c" title="DataFlash_Class::Log\l_Write_Attitude" alt="" coords="233,70,385,111"/>
-<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#a12aeb6f84b94ff3f234c9b97a7936fbd" title="GCS_MAVLINK::send_ahrs" alt="" coords="217,136,402,163"/>
-</map>

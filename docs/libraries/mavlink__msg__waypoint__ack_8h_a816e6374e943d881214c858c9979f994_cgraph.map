@@ -1,5 +1,0 @@
-<map id="mavlink_msg_waypoint_ack_decode" name="mavlink_msg_waypoint_ack_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__waypoint__ack_8h.html#a2450b0b617b78a785010b0bc5f76ab8d" title="Send a waypoint_ack message. " alt="" coords="224,5,389,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__waypoint__ack_8h.html#a992abe9f991018f4081bedad1e0a3591" title="Get field target_component from waypoint_ack message. " alt="" coords="213,70,400,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__waypoint__ack_8h.html#af29041bfa2cebbc5d335b733710f5ab8" title="Get field type from waypoint_ack message. " alt="" coords="227,135,386,177"/>
-</map>

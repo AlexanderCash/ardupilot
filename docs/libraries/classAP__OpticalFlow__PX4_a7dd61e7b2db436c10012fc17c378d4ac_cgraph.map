@@ -1,8 +1,0 @@
-<map id="AP_OpticalFlow_PX4::update" name="AP_OpticalFlow_PX4::update">
-<area shape="rect" id="node2" href="$classOpticalFlow__backend.html#aeb033c2756b47b381946e3903d6f0fa2" title="OpticalFlow_backend\l::_yawAngleRad" alt="" coords="203,5,349,46"/>
-<area shape="rect" id="node4" href="$classOpticalFlow__backend.html#a776277e95e08944a409f17c6100c5bc3" title="OpticalFlow_backend\l::_flowScaler" alt="" coords="203,70,349,111"/>
-<area shape="rect" id="node5" href="$structVector2.html#a6b537328ae913e3e7267b539e7a4af92" title="Vector2::zero" alt="" coords="226,136,326,163"/>
-<area shape="rect" id="node6" href="$classOpticalFlow__backend.html#ab72ed837eb3db59b87bf26c3bc5cc6b8" title="OpticalFlow_backend\l::_update_frontend" alt="" coords="203,187,349,229"/>
-<area shape="rect" id="node3" href="$AP__Math_8cpp.html#aa3adb05231060d239e5b91940e001f85" title="radians" alt="" coords="439,12,503,39"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="397,187,544,229"/>
-</map>

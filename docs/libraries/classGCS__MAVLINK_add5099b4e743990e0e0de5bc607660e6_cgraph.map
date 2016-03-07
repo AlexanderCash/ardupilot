@@ -1,6 +1,0 @@
-<map id="GCS_MAVLINK::handle_log_send_listing" name="GCS_MAVLINK::handle_log_send_listing">
-<area shape="rect" id="node2" href="$GCS__MAVLink_8cpp.html#a2a0fd455fd37f642e9eb67373a14b7d9" title="comm_get_txspace" alt="" coords="223,5,359,32"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="217,57,364,98"/>
-<area shape="rect" id="node5" href="$classDataFlash__Class.html#ab6f46ba4dc11aaabaa562938aa772d3c" title="DataFlash_Class::get\l_log_info" alt="" coords="216,122,365,163"/>
-<area shape="rect" id="node3" href="$classAP__HAL_1_1Stream.html#a7028834212873394e906bcaf7f4a06b3" title="AP_HAL::Stream::txspace" alt="" coords="414,5,591,32"/>
-</map>

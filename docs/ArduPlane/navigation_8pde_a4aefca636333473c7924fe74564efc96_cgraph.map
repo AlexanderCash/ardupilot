@@ -1,4 +1,0 @@
-<map id="calc_airspeed_errors" name="calc_airspeed_errors">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Airspeed.html#ae89e3a7968da5650b306eafaf2d48706" title="AP_Airspeed::get_airspeed_cm" alt="" coords="197,5,403,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__SpdHgtControl.html#aef400289c2cdf6c24d39f3c93b82df37" title="AP_SpdHgtControl::get\l_target_airspeed" alt="" coords="221,57,379,98"/>
-</map>

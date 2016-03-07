@@ -1,6 +1,0 @@
-<map id="AP_ADC_ADS7844::Ch6" name="AP_ADC_ADS7844::Ch6">
-<area shape="rect" id="node2" href="$AP__ADC__test_8pde.html#a73638d4c6b6727029345856e93e2ff3e" title="show_data" alt="" coords="267,5,352,32"/>
-<area shape="rect" id="node4" href="$AP__ADC__test_8pde.html#ab7608ee8404f6bcef359aa32473829d8" title="show_timing" alt="" coords="262,56,357,83"/>
-<area shape="rect" id="node5" href="$classAP__InertialSensor__Oilpan.html#a9ba8adc462a45a52f31c8698d48dfc93" title="AP_InertialSensor_Oilpan\l::update" alt="" coords="224,107,395,149"/>
-<area shape="rect" id="node3" href="$AP__ADC__test_8pde.html#afe461d27b9c48d5921c00d521181f12f" title="loop" alt="" coords="443,31,490,57"/>
-</map>

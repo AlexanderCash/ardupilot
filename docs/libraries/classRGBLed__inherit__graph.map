@@ -1,9 +1,0 @@
-<map id="RGBLed" name="RGBLed">
-<area shape="rect" id="node3" href="$classNavioLED.html" title="NavioLED" alt="" coords="32,155,113,181"/>
-<area shape="rect" id="node5" href="$classToshibaLED.html" title="ToshibaLED" alt="" coords="154,155,248,181"/>
-<area shape="rect" id="node8" href="$classVRBoard__LED.html" title="VRBoard_LED" alt="" coords="273,155,380,181"/>
-<area shape="rect" id="node2" href="$classNotifyDevice.html" title="NotifyDevice" alt="" coords="152,5,251,32"/>
-<area shape="rect" id="node4" href="$classNavioLED__I2C.html" title="NavioLED_I2C" alt="" coords="5,229,115,256"/>
-<area shape="rect" id="node6" href="$classToshibaLED__I2C.html" title="ToshibaLED_I2C" alt="" coords="140,229,263,256"/>
-<area shape="rect" id="node7" href="$classToshibaLED__PX4.html" title="ToshibaLED_PX4" alt="" coords="287,229,413,256"/>
-</map>

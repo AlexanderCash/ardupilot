@@ -1,6 +1,0 @@
-<map id="mavlink_msg_named_value_float_encode_chan" name="mavlink_msg_named_value_float_encode_chan">
-<area shape="rect" id="node2" href="$v1_80_2common_2mavlink__msg__named__value__float_8h.html#aed428e924329b70cdd7dfa871b43cdf7" title="Pack a named_value_float message on a channel. " alt="" coords="238,49,421,90"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a1e87b7f293e127478ca611644a7810b6" title="_mav_put_char_array" alt="" coords="501,5,648,32"/>
-<area shape="rect" id="node4" href="$v0_89_2protocol_8h.html#a4486c3d5854cac1cb6a0fb1cc5ba570c" title="mav_array_memcpy" alt="" coords="729,31,869,57"/>
-<area shape="rect" id="node5" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="469,107,680,133"/>
-</map>

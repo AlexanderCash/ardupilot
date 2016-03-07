@@ -1,5 +1,0 @@
-<map id="StorageAccess::read_block" name="StorageAccess::read_block">
-<area shape="rect" id="node2" href="$AP__Progmem__Identity_8h.html#a9fc333349fa71fdc21a2d5152c5e23a2" title="pgm_read_word" alt="" coords="220,5,335,32"/>
-<area shape="rect" id="node3" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="222,56,333,83"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Storage.html#a1c3b1e80b0bec7d4bacd3ecbefb3b3f3" title="AP_HAL::Storage::read\l_block" alt="" coords="198,107,357,149"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="AC_PosControl::calc_leash_length_z" name="AC_PosControl::calc_leash_length_z">
-<area shape="rect" id="node2" href="$classAC__PosControl.html#ad7ef264f7da50fe3f0e035604fdcfea4" title="set_accel_z &#45; set vertical acceleration in cm/s/s " alt="" coords="211,5,349,46"/>
-<area shape="rect" id="node3" href="$classAC__WPNav.html#a47964df8ebcc78bb101f328a23187e65" title="AC_WPNav::wp_and_spline_init" alt="" coords="409,71,621,97"/>
-<area shape="rect" id="node4" href="$classAC__PosControl.html#a4d39e0c0d33f5f6ca20461ad64982e8f" title="AC_PosControl::set\l_speed_z" alt="" coords="211,122,349,163"/>
-<area shape="rect" id="node5" href="$classAC__PosControl.html#a51caffd56dd27f42595df30f63cd1eaa" title="set_target_to_stopping_point_z &#45; sets altitude target to reasonable stopping altitude in cm above hom..." alt="" coords="211,187,349,243"/>
-<area shape="rect" id="node7" href="$classAC__PosControl.html#af9c555a3b07ea1420ea28e7333379941" title="update_z_controller &#45; fly to altitude in cm above home " alt="" coords="200,266,360,307"/>
-<area shape="rect" id="node6" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title="AC_Circle::init" alt="" coords="461,201,568,228"/>
-<area shape="rect" id="node8" href="$classAC__PosControl.html#ad89eec74ef77005f3f5c449da98ad12c" title="AC_PosControl::update\l_vel_controller_xyz" alt="" coords="435,266,595,307"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="_mav_finalize_message_chan_send" name="_mav_finalize_message_chan_send">
-<area shape="rect" id="node2" href="$classGCS__MAVLINK.html#a85823a47df8b14becd807722f9f90b80" title="GCS_MAVLINK::handle\l_log_send_data" alt="" coords="216,5,379,46"/>
-<area shape="rect" id="node6" href="$classGCS__MAVLINK.html#a3904d7894979bcbdc58083f39b1aa8da" title="GCS_MAVLINK::handle\l_mission_request" alt="" coords="216,70,379,111"/>
-<area shape="rect" id="node7" href="$classGCS__MAVLINK.html#adecc982b9dd27229f29b0756733ed137" title="GCS_MAVLINK::handle\l_serial_control" alt="" coords="216,135,379,177"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#af4f36c08fe81ee49ab53b1626d8da8ec" title="GCS_MAVLINK::handle\l_log_send" alt="" coords="427,5,589,46"/>
-<area shape="rect" id="node4" href="$classGCS__MAVLINK.html#a9685f685665e932079522a281086b581" title="GCS_MAVLINK::handle\l_log_request_data" alt="" coords="637,5,800,46"/>
-<area shape="rect" id="node5" href="$classGCS__MAVLINK.html#add8326241719712dc068a07845bf476c" title="GCS_MAVLINK::handle\l_log_message" alt="" coords="848,5,1011,46"/>
-</map>

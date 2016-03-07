@@ -1,7 +1,0 @@
-<map id="Linux::LinuxUARTDriver::begin" name="Linux::LinuxUARTDriver::begin">
-<area shape="rect" id="node2" href="$classLinux_1_1LinuxUARTDriver.html#a5a67e59ba0001c04115aa1592b30d1b2" title="Linux::LinuxUARTDriver\l::_parseDevicePath" alt="" coords="219,5,383,46"/>
-<area shape="rect" id="node3" href="$classLinux_1_1LinuxUARTDriver.html#ae82a66eea48c311171505360dc75661d" title="Linux::LinuxUARTDriver\l::_tcp_start_connection" alt="" coords="219,70,383,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1UARTDriver.html#a4b1ae6fcec3dfe651d08faf589f4ad6d" title="AP_HAL::UARTDriver\l::printf" alt="" coords="433,129,586,170"/>
-<area shape="rect" id="node5" href="$classLinux_1_1LinuxUARTDriver.html#aefa6ee6dd9efa00eb031649bc121e17c" title="Linux::LinuxUARTDriver\l::_udp_start_connection" alt="" coords="219,187,383,229"/>
-<area shape="rect" id="node6" href="$classAP__HAL_1_1Scheduler.html#ab3175e2e6223ccfe82f957e41cc12b26" title="AP_HAL::Scheduler::\ldelay" alt="" coords="228,253,375,294"/>
-</map>

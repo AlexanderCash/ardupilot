@@ -1,9 +1,0 @@
-<map id="AP_Rally::set_rally_point_with_index" name="AP_Rally::set_rally_point_with_index">
-<area shape="rect" id="node2" href="$classAP__Rally.html#a9db74353c18234a7cede605c47840e9f" title="AP_Rally::get_rally_max" alt="" coords="190,27,357,53"/>
-<area shape="rect" id="node4" href="$classStorageAccess.html#aa527b50188a7138b173defe07b9b7bf6" title="StorageAccess::write\l_block" alt="" coords="200,89,347,130"/>
-<area shape="rect" id="node8" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="200,154,347,195"/>
-<area shape="rect" id="node3" href="$classStorageAccess.html#a82088aa568b13d18acc9e41a01fd1f19" title="StorageAccess::size" alt="" coords="415,5,558,32"/>
-<area shape="rect" id="node5" href="$AP__Progmem__Identity_8h.html#a9fc333349fa71fdc21a2d5152c5e23a2" title="pgm_read_word" alt="" coords="429,56,544,83"/>
-<area shape="rect" id="node6" href="$AP__Progmem__Identity_8h.html#a1514e0408e036062b4af844baaf567da" title="pgm_read_byte" alt="" coords="431,107,542,133"/>
-<area shape="rect" id="node7" href="$classAP__HAL_1_1Storage.html#a9de79ab93ea4374bd3d1583e28620d2e" title="AP_HAL::Storage::write\l_block" alt="" coords="405,158,568,199"/>
-</map>

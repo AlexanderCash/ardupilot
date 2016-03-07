@@ -1,5 +1,0 @@
-<map id="AP_BattMonitor::capacity_remaining_pct" name="AP_BattMonitor::capacity_remaining_pct">
-<area shape="rect" id="node2" href="$classAP__Frsky__Telem.html#a7d331916f7a4be5c58d0cafb43efd3cb" title="AP_Frsky_Telem::calc\l_battery" alt="" coords="224,5,379,46"/>
-<area shape="rect" id="node3" href="$classAP__Frsky__Telem.html#a9c09b9a14c083f48e845d81484de9c0e" title="AP_Frsky_Telem::send\l_frames" alt="" coords="635,5,794,46"/>
-<area shape="rect" id="node4" href="$classAP__Frsky__Telem.html#ae386d05deadb794547df5a4e22edcc8a" title="AP_Frsky_Telem::send\l_hub_frame" alt="" coords="427,34,586,75"/>
-</map>

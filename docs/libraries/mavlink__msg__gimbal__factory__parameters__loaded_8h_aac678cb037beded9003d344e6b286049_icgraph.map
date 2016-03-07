@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gimbal_factory_parameters_loaded_pack" name="mavlink_msg_gimbal_factory_parameters_loaded_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__factory__parameters__loaded_8h.html#a78140cba751f47768c7b38dea9b85c76" title="Encode a gimbal_factory_parameters_loaded struct. " alt="" coords="197,5,341,61"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a00014339129e2eefbf250c7c4df7debe" title="mavlink_test_gimbal\l_factory_parameters\l_loaded" alt="" coords="389,39,531,95"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="579,53,763,80"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="811,53,927,80"/>
-</map>

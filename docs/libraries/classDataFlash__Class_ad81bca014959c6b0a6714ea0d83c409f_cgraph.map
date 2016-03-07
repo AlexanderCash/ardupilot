@@ -1,8 +1,0 @@
-<map id="DataFlash_Class::Log_Write_AHRS2" name="DataFlash_Class::Log_Write_AHRS2">
-<area shape="rect" id="node2" href="$classAP__AHRS.html#ab58e7d00d7e434949abca436144b58e4" title="AP_AHRS::get_secondary\l_attitude" alt="" coords="213,5,392,46"/>
-<area shape="rect" id="node3" href="$classAP__AHRS.html#aec9ab602135d16cd05aa0376842d2779" title="AP_AHRS::get_secondary\l_position" alt="" coords="213,70,392,111"/>
-<area shape="rect" id="node4" href="$classAP__HAL_1_1Scheduler.html#a26b68339fc68a562d8d3a1238d0ec8c1" title="AP_HAL::Scheduler::\lmillis" alt="" coords="229,135,376,177"/>
-<area shape="rect" id="node5" href="$AP__Math_8cpp.html#a08666a85f465dfe5701cc8c878e4b2c5" title="degrees" alt="" coords="269,201,337,228"/>
-<area shape="rect" id="node6" href="$AP__Math_8h.html#aec935e3ce7fb13099565b27693547d09" title="wrap_360_cd" alt="" coords="253,252,352,279"/>
-<area shape="rect" id="node7" href="$classDataFlash__Class.html#af5e6aefb8f2136e9104be836dac88625" title="DataFlash_Class::WriteBlock" alt="" coords="205,303,400,329"/>
-</map>

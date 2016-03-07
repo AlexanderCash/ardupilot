@@ -1,6 +1,0 @@
-<map id="mavlink_msg_fence_point_pack" name="mavlink_msg_fence_point_pack">
-<area shape="rect" id="node2" href="$v0_89_2ardupilotmega_2mavlink__msg__fence__point_8h.html#a45ec8565bb89bffedc024736bce14386" title="Encode a fence_point struct into a message. " alt="" coords="261,5,435,46"/>
-<area shape="rect" id="node3" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a1e04fa24c3c53136b9954b8ecca16ad2" title="mavlink_test_fence\l_point" alt="" coords="483,34,618,75"/>
-<area shape="rect" id="node4" href="$v0_89_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="667,41,851,68"/>
-<area shape="rect" id="node5" href="$v0_89_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="899,41,1015,68"/>
-</map>

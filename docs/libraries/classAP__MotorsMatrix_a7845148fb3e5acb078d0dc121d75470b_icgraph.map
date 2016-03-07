@@ -1,5 +1,0 @@
-<map id="AP_MotorsMatrix::add_motor_raw" name="AP_MotorsMatrix::add_motor_raw">
-<area shape="rect" id="node2" href="$classAP__MotorsMatrix.html#acee5f69304786deff28075ae14eb6a46" title="AP_MotorsMatrix::add\l_motor" alt="" coords="207,5,359,46"/>
-<area shape="rect" id="node3" href="$classAP__MotorsOcta.html#aa267beaa15465ccef1e0e7f5acd66f89" title="AP_MotorsOcta::setup\l_motors" alt="" coords="205,70,360,111"/>
-<area shape="rect" id="node4" href="$classAP__MotorsY6.html#a37e573aceb14ac281b878bd005f5b559" title="AP_MotorsY6::setup\l_motors" alt="" coords="211,135,354,177"/>
-</map>

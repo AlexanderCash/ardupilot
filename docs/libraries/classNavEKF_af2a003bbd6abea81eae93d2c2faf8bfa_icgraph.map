@@ -1,4 +1,0 @@
-<map id="NavEKF::FuseMagnetometer" name="NavEKF::FuseMagnetometer">
-<area shape="rect" id="node2" href="$classNavEKF.html#abb693a00d56f98f4cd8d654605163d14" title="NavEKF::SelectMagFusion" alt="" coords="245,5,427,32"/>
-<area shape="rect" id="node3" href="$classNavEKF.html#a58d3c9694abab421e8eadd78e72ac67c" title="NavEKF::UpdateFilter" alt="" coords="475,5,626,32"/>
-</map>

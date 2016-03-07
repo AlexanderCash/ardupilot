@@ -1,9 +1,0 @@
-<map id="AC_PosControl::get_stopping_point_xy" name="AC_PosControl::get_stopping_point_xy">
-<area shape="rect" id="node2" href="$classAC__WPNav.html#a2b0f45cd553e217e5ee44dfef68a674c" title="get_stopping_point &#45; returns vector to stopping point based on a horizontal position and velocity ..." alt="" coords="223,5,377,46"/>
-<area shape="rect" id="node3" href="$classAC__WPNav.html#a180fb06a829a1e4168ceb24ca0c41e1f" title="get_wp_stopping_point_xy &#45; returns vector to stopping point based on a horizontal position and veloci..." alt="" coords="200,70,400,111"/>
-<area shape="rect" id="node4" href="$classAC__WPNav.html#a2ed86e41fc51c2ea822711ea95d055f0" title="init_brake_target &#45; initializes stop position from current position and velocity " alt="" coords="221,135,379,177"/>
-<area shape="rect" id="node5" href="$classAC__WPNav.html#a2b69b65d22efd7793a6f081678f9b8a1" title="AC_WPNav::set_spline\l_destination" alt="" coords="219,201,381,242"/>
-<area shape="rect" id="node6" href="$classAC__PosControl.html#a1f4f9aac832250d36fe36a6be1ccbb84" title="set_target_to_stopping_point_xy &#45; sets horizontal target to reasonable stopping position in cm from h..." alt="" coords="231,265,369,321"/>
-<area shape="rect" id="node8" href="$classAC__WPNav.html#aac204111a3f01e04d5b8165f03db223e" title="set_wp_destination waypoint using position vector (distance from home in cm) " alt="" coords="193,345,407,372"/>
-<area shape="rect" id="node7" href="$classAC__Circle.html#aeecf8efd6d546820ee831e749935df8b" title="AC_Circle::init" alt="" coords="456,280,563,307"/>
-</map>

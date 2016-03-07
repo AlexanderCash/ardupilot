@@ -1,6 +1,0 @@
-<map id="mavlink_msg_gimbal_axis_calibration_progress_get_calibration_progress" name="mavlink_msg_gimbal_axis_calibration_progress_get_calibration_progress">
-<area shape="rect" id="node2" href="$mavlink__msg__gimbal__axis__calibration__progress_8h.html#a75a4dd997c692f97a6eefbfce99ef7f4" title="Decode a gimbal_axis_calibration_progress message into a struct. " alt="" coords="229,4,405,60"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a87c466aa51ce0cad33de773699138f6f" title="mavlink_test_gimbal\l_axis_calibration_progress" alt="" coords="453,11,629,53"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="677,19,861,45"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="910,19,1026,45"/>
-</map>

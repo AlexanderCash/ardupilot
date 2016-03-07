@@ -1,9 +1,0 @@
-<map id="mavlink_msg_radio_status_decode" name="mavlink_msg_radio_status_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__radio__status_8h.html#afd00162ff2818ce04d69e4f4e5afcff3" title="Get field rxerrors from radio_status message. " alt="" coords="233,5,410,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__radio__status_8h.html#a63a23b873f7d345778cffd5c3c6639dd" title="Get field fixed from radio_status message. " alt="" coords="233,70,410,111"/>
-<area shape="rect" id="node4" href="$mavlink__msg__radio__status_8h.html#abeaffebbc89cbd1445c5a141c833b5be" title="Send a radio_status message. " alt="" coords="233,135,410,177"/>
-<area shape="rect" id="node5" href="$mavlink__msg__radio__status_8h.html#adf040d5c81bae9265eda71200d864080" title="Get field remrssi from radio_status message. " alt="" coords="233,201,410,242"/>
-<area shape="rect" id="node6" href="$mavlink__msg__radio__status_8h.html#abc4c7ece3b481318c3559401b912571f" title="Get field txbuf from radio_status message. " alt="" coords="233,266,410,307"/>
-<area shape="rect" id="node7" href="$mavlink__msg__radio__status_8h.html#ab578809eb68793e9448857ffb50cad59" title="Get field noise from radio_status message. " alt="" coords="233,331,410,373"/>
-<area shape="rect" id="node8" href="$mavlink__msg__radio__status_8h.html#afc53fb249908c05b0283fcea9430ad55" title="Get field remnoise from radio_status message. " alt="" coords="233,397,410,438"/>
-</map>

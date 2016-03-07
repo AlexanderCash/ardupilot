@@ -1,6 +1,0 @@
-<map id="mavlink_msg_battery2_pack_chan" name="mavlink_msg_battery2_pack_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__battery2_8h.html#a0450e58650742b329e4af66fd2aaaa83" title="Encode a battery2 struct on a channel. " alt="" coords="209,5,362,46"/>
-<area shape="rect" id="node3" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a30675a3b77ea38361f47ea4d0b87bb6a" title="mavlink_test_battery2" alt="" coords="210,71,361,97"/>
-<area shape="rect" id="node4" href="$v1_80_2ardupilotmega_2testsuite_8h.html#ab264d471ac2f46584f2bb580704b5e9d" title="mavlink_test_ardupilotmega" alt="" coords="411,71,595,97"/>
-<area shape="rect" id="node5" href="$v1_80_2ardupilotmega_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="643,71,759,97"/>
-</map>

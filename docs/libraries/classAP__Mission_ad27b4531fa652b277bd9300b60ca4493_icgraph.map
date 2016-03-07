@@ -1,8 +1,0 @@
-<map id="AP_Mission::update" name="AP_Mission::update">
-<area shape="rect" id="node2" href="$AP__Mission__test_8pde.html#a52918e058fa06c68b87cc74205dda142" title="run_mission_test" alt="" coords="218,5,339,32"/>
-<area shape="rect" id="node4" href="$AP__Mission__test_8pde.html#a6f9b146691fc508edb7ff3c6be2c3dfc" title="run_replace_cmd_test" alt="" coords="203,56,354,83"/>
-<area shape="rect" id="node5" href="$AP__Mission__test_8pde.html#a13b076b46de100742c7bab1a8f5c0661" title="run_resume_test" alt="" coords="219,107,338,133"/>
-<area shape="rect" id="node6" href="$AP__Mission__test_8pde.html#a184ed3ddbf16eecc3c9176074098c125" title="run_set_current_cmd_test" alt="" coords="192,157,365,184"/>
-<area shape="rect" id="node7" href="$AP__Mission__test_8pde.html#a940853f9fdd2bd926e8521828b2ee749" title="run_set_current_cmd\l_while_stopped_test" alt="" coords="207,209,351,250"/>
-<area shape="rect" id="node3" href="$AP__Mission__test_8pde.html#a0b33edabd7f1c4e4a0bf32c67269be2f" title="loop" alt="" coords="414,5,461,32"/>
-</map>

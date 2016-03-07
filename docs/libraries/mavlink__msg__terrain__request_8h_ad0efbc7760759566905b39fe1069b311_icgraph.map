@@ -1,6 +1,0 @@
-<map id="mavlink_msg_terrain_request_pack" name="mavlink_msg_terrain_request_pack">
-<area shape="rect" id="node2" href="$mavlink__msg__terrain__request_8h.html#a62e440f7f7bea0aea2d1982d7a36528e" title="Encode a terrain_request struct. " alt="" coords="198,5,341,46"/>
-<area shape="rect" id="node3" href="$v1_80_2common_2testsuite_8h.html#ab1e6f933e7edbce862b88625f651cfb1" title="mavlink_test_terrain\l_request" alt="" coords="389,34,528,75"/>
-<area shape="rect" id="node4" href="$v1_80_2common_2testsuite_8h.html#af349432601ac003d2c80a69c100c70a4" title="mavlink_test_common" alt="" coords="577,41,730,68"/>
-<area shape="rect" id="node5" href="$v1_80_2common_2testsuite_8h.html#a4cc77b6c343679298da5d3c2b4e48759" title="mavlink_test_all" alt="" coords="779,41,895,68"/>
-</map>

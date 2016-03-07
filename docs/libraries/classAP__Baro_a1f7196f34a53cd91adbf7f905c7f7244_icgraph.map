@@ -1,4 +1,0 @@
-<map id="AP_Baro::num_instances" name="AP_Baro::num_instances">
-<area shape="rect" id="node2" href="$classDataFlash__Class.html#a2f676bab8be41d66e21fd820454d73c1" title="DataFlash_Class::Log\l_Write_Baro" alt="" coords="248,5,400,46"/>
-<area shape="rect" id="node3" href="$classGCS__MAVLINK.html#a3804af6dbb30a886e02e2a3a86f199de" title="GCS_MAVLINK::send_scaled\l_pressure" alt="" coords="225,70,423,111"/>
-</map>

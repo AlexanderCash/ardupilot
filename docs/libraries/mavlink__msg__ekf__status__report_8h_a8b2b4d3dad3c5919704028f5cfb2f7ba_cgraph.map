@@ -1,8 +1,0 @@
-<map id="mavlink_msg_ekf_status_report_decode" name="mavlink_msg_ekf_status_report_decode">
-<area shape="rect" id="node2" href="$mavlink__msg__ekf__status__report_8h.html#a4b1ab8dc6dfbf7efae2e8a8b9cbe53cf" title="Get field velocity_variance from ekf_status_report message. " alt="" coords="225,5,420,46"/>
-<area shape="rect" id="node3" href="$mavlink__msg__ekf__status__report_8h.html#a043bcb71a1b128117ccd70f81e9b3482" title="Get field pos_horiz_variance from ekf_status_report message. " alt="" coords="239,69,406,125"/>
-<area shape="rect" id="node4" href="$mavlink__msg__ekf__status__report_8h.html#a2e641ffc987ec90138a807c7a32ed598" title="Get field pos_vert_variance from ekf_status_report message. " alt="" coords="223,149,423,190"/>
-<area shape="rect" id="node5" href="$mavlink__msg__ekf__status__report_8h.html#af11976364778fa1297d089ac47c0742e" title="Get field compass_variance from ekf_status_report message. " alt="" coords="221,214,424,255"/>
-<area shape="rect" id="node6" href="$mavlink__msg__ekf__status__report_8h.html#ad2bb3d2d303365386bcef0075153efd0" title="Get field terrain_alt_variance from ekf_status_report message. " alt="" coords="239,279,406,335"/>
-<area shape="rect" id="node7" href="$mavlink__msg__ekf__status__report_8h.html#a6466225f4b1762a2afe1efd4b9a621f2" title="Send a ekf_status_report message. " alt="" coords="239,358,406,399"/>
-</map>

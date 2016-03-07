@@ -1,5 +1,0 @@
-<map id="mavlink_msg_named_value_float_decode" name="mavlink_msg_named_value_float_decode">
-<area shape="rect" id="node2" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#abfe1e22a055cacc05c6c17076a55b847" title="Send a named_value_float message. " alt="" coords="238,5,421,46"/>
-<area shape="rect" id="node4" href="$v0_89_2common_2mavlink__msg__named__value__float_8h.html#a9f0e14d12796766d4cf5a6675824ab22" title="Get field value from named_value_float message. " alt="" coords="238,70,421,111"/>
-<area shape="rect" id="node3" href="$v0_89_2protocol_8h.html#a12ebb16564718cc14d12b46458bbb290" title="_MAV_RETURN_char_array" alt="" coords="470,12,661,39"/>
-</map>

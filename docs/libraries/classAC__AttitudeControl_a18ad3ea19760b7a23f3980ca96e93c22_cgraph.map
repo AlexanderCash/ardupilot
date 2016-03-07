@@ -1,8 +1,0 @@
-<map id="AC_AttitudeControl::max_angle_step_bf_pitch" name="AC_AttitudeControl::max_angle_step_bf_pitch">
-<area shape="rect" id="node2" href="$classAC__AttitudeControl.html#a874d7c2f98a3ad251d9f91cc936694e2" title="AC_AttitudeControl\l::max_rate_step_bf_pitch" alt="" coords="233,49,402,90"/>
-<area shape="rect" id="node7" href="$classAC__P.html#a9378b33d8cfb4bf2417880c038f1b7a2" title="AC_P::kP" alt="" coords="277,115,358,141"/>
-<area shape="rect" id="node3" href="$classAC__PID.html#ac12ffbd4fd053c6152d403b69e07b8e1" title="AC_PID::get_filt_alpha" alt="" coords="451,5,607,32"/>
-<area shape="rect" id="node5" href="$classAC__PID.html#a071b5199b1b8d526dde58c4ea4609e14" title="AC_PID::kD" alt="" coords="481,56,577,83"/>
-<area shape="rect" id="node6" href="$classAC__PID.html#a98526d0e4aa40c016ba339b41654c5f5" title="AC_PID::kP" alt="" coords="482,107,577,133"/>
-<area shape="rect" id="node4" href="$AP__Math_8h.html#a108b79eeb35c5d58f324458ec9e1e9f2" title="is_zero" alt="" coords="656,5,720,32"/>
-</map>

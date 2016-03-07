@@ -1,5 +1,0 @@
-<map id="update_home" name="update_home">
-<area shape="rect" id="node2" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__AHRS__DCM.html#acb955ea558472340188270b620f85904" title="AP_AHRS_DCM::set_home" alt="" coords="155,5,343,32"/>
-<area shape="rect" id="node3" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__GPS.html#a2ca8a9bad47faad1baeb09e124979022" title="AP_GPS::location" alt="" coords="185,56,313,83"/>
-<area shape="rect" id="node4" href="/home/ac1054/Documents/JSBSim/ardupilot/docs/tags/libraries$classAP__Baro.html#a67fd690b15ef9f0f23b3304831ca913a" title="AP_Baro::update_calibration" alt="" coords="156,107,343,133"/>
-</map>

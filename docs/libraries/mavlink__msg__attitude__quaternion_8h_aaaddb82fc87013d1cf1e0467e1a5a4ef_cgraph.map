@@ -1,4 +1,0 @@
-<map id="mavlink_msg_attitude_quaternion_encode_chan" name="mavlink_msg_attitude_quaternion_encode_chan">
-<area shape="rect" id="node2" href="$mavlink__msg__attitude__quaternion_8h.html#acae4243f569b92829bf2523dccc4d6c4" title="Pack a attitude_quaternion message on a channel. " alt="" coords="227,5,386,46"/>
-<area shape="rect" id="node3" href="$v0_89_2mavlink__helpers_8h.html#aa66131138fc02101dcc73b4b556ab422" title="Finalize a MAVLink message with channel assignment. " alt="" coords="435,12,645,39"/>
-</map>
