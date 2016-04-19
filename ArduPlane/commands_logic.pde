@@ -23,6 +23,17 @@ static void do_digicam_control(const AP_Mission::Mission_Command& cmd);
 //static bool verify_align_path ();
 static void do_align_path(const AP_Mission::Mission_Command& cmd);  
 
+// AlexCash
+static void do_dubin_left(const AP_Mission::Mission_Command& cmd);
+static void do_dubin_right(const AP_Mission::Mission_Command& cmd);
+static void do_dubin_straight(const AP_Mission::Mission_Command& cmd);
+
+static bool verify_dubin_left();
+static bool verify_dubin_right();
+static bool verify_dubin_straight();
+
+
+
 /********************************************************************************/
 // Command Event Handlers
 /********************************************************************************/
@@ -96,6 +107,18 @@ start_command(const AP_Mission::Mission_Command& cmd)
 
     case MAV_CMD_NAV_ALIGN_PATH:    // Align with the imaging path, new command
         do_align_path(cmd);
+        break;
+
+    case MAV_CMD_NAV_DUBIN_LEFT:    // perform the left turn segment of a dubins path turn  
+        do_dubin_left(cmd);         // AlexCash
+        break;
+
+    case MAV_CMD_NAV_DUBIN_RIGHT:   // perform the right turn segment of a dubins path turn  
+        do_dubin_right(cmd);        // AlexCash
+        break;
+
+    case MAV_CMD_NAV_DUBIN_STRAIGHT:    // perform the straight segment of a dubins path turn  
+        do_dubin_straight(cmd);         // AlexCash
         break;
 
     // Conditional commands
@@ -253,6 +276,15 @@ static bool verify_command(const AP_Mission::Mission_Command& cmd)        // Ret
     case MAV_CMD_NAV_ALIGN_PATH:
         return verify_align_path();      // Verify that aligned with path
 
+    case MAV_CMD_NAV_DUBIN_LEFT:         // Verify turn segment complete 
+        return verify_dubin_left();     // AlexCash
+
+    case MAV_CMD_NAV_DUBIN_RIGHT:        // Verify turn segment complete 
+        return verify_dubin_right();    // AlexCash
+
+    case MAV_CMD_NAV_DUBIN_STRAIGHT:     // Verify turn segment complete 
+        return verify_dubin_straight(); // AlexCash
+
     // Conditional commands
 
     case MAV_CMD_CONDITION_DELAY:
@@ -394,6 +426,21 @@ static void do_continue_and_change_alt(const AP_Mission::Mission_Command& cmd)
 static void do_align_path(const AP_Mission::Mission_Command& cmd)
 {
     //TODO Align with path
+}
+
+static void do_dubin_left(const AP_Mission::Mission_Command& cmd)       // AlexCash
+{
+    //TODO left turn
+}
+
+static void do_dubin_right(const AP_Mission::Mission_Command& cmd)      // AlexCash
+{
+    //TODO right turn
+}
+
+static void do_dubin_straight(const AP_Mission::Mission_Command& cmd)   // AlexCash
+{
+    //TODO straight turn
 }
 
 static void do_loiter_to_alt(const AP_Mission::Mission_Command& cmd) 
@@ -667,6 +714,24 @@ static bool verify_align_path ()
 {
 
     //TODO Complete verification
+    return false;
+}
+
+static bool verify_dubin_left ()        // AlexCash
+{
+    // TODO
+    return false;
+}
+
+static bool verify_dubin_right ()        // AlexCash
+{
+    // TODO
+    return false;
+}
+
+static bool verify_dubin_straight ()        // AlexCash
+{
+    // TODO
     return false;
 }
 

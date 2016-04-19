@@ -62,6 +62,7 @@ enum FlightMode {
     LOITER        = 12,
     GUIDED        = 15,
     INITIALISING  = 16
+    //DUBINS        = 17      // AlexCash adding new flight mode for dubins 
 };
 
 // type of stick mixing enabled

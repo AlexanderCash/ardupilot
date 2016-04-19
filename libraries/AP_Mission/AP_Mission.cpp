@@ -539,6 +539,18 @@ bool AP_Mission::mavlink_to_mission_cmd(const mavlink_mission_item_t& packet, AP
         cmd.p1 = packet.param1;                         // delay at waypoint in seconds
         break;
 
+    case MAV_CMD_NAV_DUBIN_LEFT:                        // MAV ID: 85 //AlexCash 
+        cmd.content.dubins.seconds = packet.param1;     // Duration of the turn again
+        break;
+
+    case MAV_CMD_NAV_DUBIN_RIGHT:                       // MAV ID: 86 //AlexCash 
+        cmd.content.dubins.seconds = packet.param1;     // Duration of the turn again
+        break;
+
+    case MAV_CMD_NAV_DUBIN_STRAIGHT:                    // MAV ID: 87 //AlexCash 
+        cmd.content.dubins.seconds = packet.param1;                     // Duration of the turn again
+        break;
+
     case MAV_CMD_NAV_GUIDED_ENABLE:                     // MAV ID: 92
         cmd.p1 = packet.param1;                         // on/off. >0.5 means "on", hand-over control to external controller
         break;
@@ -840,6 +852,18 @@ bool AP_Mission::mission_cmd_to_mavlink(const AP_Mission::Mission_Command& cmd, 
     case MAV_CMD_NAV_SPLINE_WAYPOINT:                   // MAV ID: 82
         copy_location = true;
         packet.param1 = cmd.p1;                         // delay at waypoint in seconds
+        break;
+
+    case MAV_CMD_NAV_DUBIN_LEFT:                        // MAV ID 85 //AlexCash
+        packet.param1 = cmd.content.dubins.seconds;     // The duration to be turning for
+        break;
+
+    case MAV_CMD_NAV_DUBIN_RIGHT:                       // MAV ID 86 //AlexCash
+        packet.param1 = cmd.content.dubins.seconds;     // The duration to be turning for
+        break;
+
+    case MAV_CMD_NAV_DUBIN_STRAIGHT:                    // MAV ID 87 //AlexCash
+        packet.param1 = cmd.content.dubins.seconds;     // The duration to be turning for
         break;
 
     case MAV_CMD_NAV_GUIDED_ENABLE:                     // MAV ID: 92

@@ -43,6 +43,36 @@
               <param index="6">Longitude</param>
               <param index="7">Altitude</param>
             </entry>
+            <entry name="MAV_CMD_NAV_DUBIN_LEFT" value="85"> <!-- //AlexCash added 3 segments for dubins path -->
+              <description>Perform a LEFT turn segment of a dubins path turn</description>
+              <param index="1">Duration of time to fly this segment</param>
+              <param index="2">Empty</param>
+              <param index="3">Empty</param>
+              <param index="4">Empty</param>
+              <param index="5">Empty</param>
+              <param index="6">Empty</param>
+              <param index="7">Empty</param>
+            </entry>
+            <entry name="MAV_CMD_NAV_DUBIN_RIGHT" value="86">
+              <description>Perform a RIGHT turn segment of a dubins path turn</description>
+              <param index="1">Duration of time to fly this segment</param>
+              <param index="2">Empty</param>
+              <param index="3">Empty</param>
+              <param index="4">Empty</param>
+              <param index="5">Empty</param>
+              <param index="6">Empty</param>
+              <param index="7">Empty</param>
+            </entry>
+            <entry name="MAV_CMD_NAV_DUBIN_STRAIGHT" value="87">
+              <description>Perform a STRAIGHT segment of a dubins path turn</description>
+              <param index="1">Duration of time to fly this segment</param>
+              <param index="2">Empty</param>
+              <param index="3">Empty</param>
+              <param index="4">Empty</param>
+              <param index="5">Empty</param>
+              <param index="6">Empty</param>
+              <param index="7">Empty</param>
+            </entry>
           </enum>
 	  
 	  	<!--  AP_Limits Enums -->

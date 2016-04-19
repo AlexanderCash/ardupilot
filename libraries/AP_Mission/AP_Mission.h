@@ -153,6 +153,11 @@ public:
         float horiz_max;        // max horizontal distance the vehicle can move before the command will be aborted.  0 for no horizontal limit
     };
 
+    // store the duration for which completing the dubins segment
+    struct PACKED Dubins_Duration_Command { //AlexCash
+        float seconds; // time to be turning left, for example
+    };
+
     union PACKED Content {
         // jump structure
         Jump_Command jump;
@@ -201,6 +206,9 @@ public:
 
         // location
         Location location;      // Waypoint location
+
+        //Dubins duration //AlexCash
+        Dubins_Duration_Command dubins;
 
         // raw bytes, for reading/writing to eeprom
         uint8_t bytes[12];
