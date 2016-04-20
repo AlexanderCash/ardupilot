@@ -121,6 +121,10 @@ start_command(const AP_Mission::Mission_Command& cmd)
         do_dubin_straight(cmd);         // AlexCash
         break;
 
+    case MAV_CMD_NAV_DUMMY_WP:      // DUMMY FUNCTION //AlexCash
+        do_nav_wp(cmd);
+        break;
+
     // Conditional commands
 
     case MAV_CMD_CONDITION_DELAY:
@@ -284,6 +288,9 @@ static bool verify_command(const AP_Mission::Mission_Command& cmd)        // Ret
 
     case MAV_CMD_NAV_DUBIN_STRAIGHT:     // Verify turn segment complete 
         return verify_dubin_straight(); // AlexCash
+
+    case MAV_CMD_NAV_DUMMY_WP:
+        return verify_nav_wp(cmd);
 
     // Conditional commands
 

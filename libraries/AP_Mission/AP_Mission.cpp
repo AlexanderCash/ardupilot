@@ -551,6 +551,22 @@ bool AP_Mission::mavlink_to_mission_cmd(const mavlink_mission_item_t& packet, AP
         cmd.content.dubins.seconds = packet.param1;                     // Duration of the turn again
         break;
 
+    case MAV_CMD_NAV_DUMMY_WP:                          // MAV ID: 84 //AlexCash
+        copy_location = true;
+        /*
+          the 15 byte limit means we can't fit both delay and radius
+          in the cmd structure. When we expand the mission structure
+          we can do this properly
+         */
+#if APM_BUILD_TYPE(APM_BUILD_ArduPlane)
+        // acceptance radius in meters
+        cmd.p1 = packet.param2;
+#else
+        // delay at waypoint in seconds
+        cmd.p1 = packet.param1;                         
+#endif
+        break;
+
     case MAV_CMD_NAV_GUIDED_ENABLE:                     // MAV ID: 92
         cmd.p1 = packet.param1;                         // on/off. >0.5 means "on", hand-over control to external controller
         break;
@@ -860,6 +876,17 @@ bool AP_Mission::mission_cmd_to_mavlink(const AP_Mission::Mission_Command& cmd, 
 
     case MAV_CMD_NAV_DUBIN_RIGHT:                       // MAV ID 86 //AlexCash
         packet.param1 = cmd.content.dubins.seconds;     // The duration to be turning for
+        break;
+
+    case MAV_CMD_NAV_DUMMY_WP:                          // MAV ID: 84 //AlexCash
+        copy_location = true;
+#if APM_BUILD_TYPE(APM_BUILD_ArduPlane)
+        // acceptance radius in meters
+        packet.param2 = cmd.p1;
+#else
+        // delay at waypoint in seconds
+        packet.param1 = cmd.p1;
+#endif
         break;
 
     case MAV_CMD_NAV_DUBIN_STRAIGHT:                    // MAV ID 87 //AlexCash
